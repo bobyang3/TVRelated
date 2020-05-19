@@ -1,4 +1,4 @@
------台灣新聞------,#genre# 
+$c_start台灣新聞$c_end 
 非凡新聞,p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
 非凡新聞,P2p://fccsovh.pvbox.live:18912/5c2dd766000ecf4a4c509c7319a08a29.ts
 非凡新聞,P2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts
@@ -76,7 +76,12 @@ TVBS新聞,http://ddbb.228888888.xyz:8081/live/tw108.m3u8
 TVBS新聞,http://ddbb.228888888.xyz:8081/live/tw104.m3u8
 TVBS新聞,http://198.16.106.58:8278/tvbs/playlist.m3u8?tid=MEFE7824840078248400&ct=18392&tsum =d87f71825e2a134527e0395f265932b0
 TVBS新聞,http://198.16.106.58:8278/tvbs_n/playlist.m3u8?tid=MEFE9769352797693527&ct=18392&tsum=22cb94c46749c8399ae5de55bf9b3f53
-台灣影視,#genre# 
+
+$c_start最愛$c_end 
+HGTV,tvbus://3HhnAf8J84D1qoX8T2HiKGUKFSeLwhdyVQW4ectpKBCBaZEhKm
+NETWORKP7p,p8p://0198.02686.cc:16871/5d1a697c000f143811bd055d7544615f.ts
+
+$c_start台灣影視$c_end 
 HBO原創電影,vjms://58.215.133.185:8500:3502/live/cid=436 
 HBO原創電影,vjms://23.237.33.155:8500:3502/live/cid=436 
 HBO家庭,vjms://58.215.133.185:8500:3502/live/cid=181 
