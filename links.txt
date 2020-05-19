@@ -1,5 +1,16 @@
 Channels.txt = https://git.io/Jfz3l
 
+
+格式说明
+节目名,地址1#地址2,epg-id(比如CCTV1它的ID是cntv-cctv1)
+即在原来的播放列表的每一个项后面加上EPG-ID，举个例子：
+
+CCTV-1HD,http://stream.guihet.com/hd/ccav1.m3u8,cntv-cctv1
+CCTV-1HD,http://stream.guihet.com/hd/ccav1.m3u8,tvming-CCTV1HD
+河北卫视HD,http://stream.guihet.com/hd/ccav1.m3u8,tvming-HeBeiHD
+
+
+
 https://homenet6.github.io/nj.txt
 
 https://www.gegdo.com/archives/category/tvchannel
@@ -15,3 +26,12 @@ https://gitee.com/sharerw/tv/tree/master
 
 
 tools https://hensoft.tv/resources/software
+
+WIndows software
+https://zhuanlan.zhihu.com/p/128671619
+1.黑鸟播放器
+2.超级看
+
+
+telelist直播源转换工具 v2.4.1绿色免费版 (great!)
+http://www.ddooo.com/softdown/161542.htm
