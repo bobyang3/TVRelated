@@ -1,10 +1,10 @@
+非凡新聞,http://ddbb.228888888.xyz:8081/live/tw110.m3u8
+非凡新聞,http://198.16.106.58:8278/niandainews_twn/playlist.m3u8?tid=MA9A4585574045855740&ct=18392&tsum=8e00d9bbb1694fd06709283decbca63b
 非凡新聞,p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
 非凡新聞,P2p://fccsovh.pvbox.live:18912/5c2dd766000ecf4a4c509c7319a08a29.ts
 非凡新聞,P2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts
 非凡新聞,p2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts
 非凡新聞,mitv://fccsovh.pvbox.live:18912/5b14092c0001a04c99a9499df71f0144.ts
-非凡新聞,http://ddbb.228888888.xyz:8081/live/tw110.m3u8
-非凡新聞,http://198.16.106.58:8278/niandainews_twn/playlist.m3u8?tid=MA9A4585574045855740&ct=18392&tsum=8e00d9bbb1694fd06709283decbca63b
 華視新聞,http://ddbb.228888888.xyz:8081/live/tw103.m3u8
 民視新聞,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
 民視新聞,P2p://fccsovh.pvbox.live:18912/5b1409690004f7332b4526da408e8da2.ts
@@ -68,11 +68,11 @@
 三立新聞,http://ddbb.228888888.xyz:8081/live/tw117.m3u8
 三立新聞,http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
 三立新聞,http://198.16.106.58:8278/sanlinews/playlist.m3u8?tid=ME3E5821493458214934&ct=18392&tsum=5f17a08bd8808ba519dc51afd614ea06
-TVBS新聞,rtmp://xiaoyu.speedws.com/sat/tv551
-TVBS新聞,P2p://fccsovh.pvbox.live:18912/5c2dd76300095ef45a439012b24135d7.ts
-TVBS新聞,P2p://fccsovh.pvbox.live: 18912/5b1409600008c73b1a05b1b720582889.ts
-TVBS新聞,p2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts
 TVBS新聞,http://ddbb.228888888.xyz:8081/live/tw108.m3u8
 TVBS新聞,http://ddbb.228888888.xyz:8081/live/tw104.m3u8
 TVBS新聞,http://198.16.106.58:8278/tvbs/playlist.m3u8?tid=MEFE7824840078248400&ct=18392&tsum =d87f71825e2a134527e0395f265932b0
 TVBS新聞,http://198.16.106.58:8278/tvbs_n/playlist.m3u8?tid=MEFE9769352797693527&ct=18392&tsum=22cb94c46749c8399ae5de55bf9b3f53
+TVBS新聞,rtmp://xiaoyu.speedws.com/sat/tv551
+TVBS新聞,P2p://fccsovh.pvbox.live:18912/5c2dd76300095ef45a439012b24135d7.ts
+TVBS新聞,P2p://fccsovh.pvbox.live: 18912/5b1409600008c73b1a05b1b720582889.ts
+TVBS新聞,p2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts
