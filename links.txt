@@ -17,6 +17,8 @@ CCTV-1综合HD,http://39.135.34.150:8080/000000001000/1000000001000021973/1.m3u8
 
 
 直播源:
+央视卫视港台海外源：
+https://gitee.com/sharerw/tv/raw/master/zb.txt
 https://gitee.com/kinghunki/ZBTV/raw/master/zb.txt
 https://htcui.com/28904.html
 https://homenet6.github.io/nj.txt (bad? format for 發燒友TV)
