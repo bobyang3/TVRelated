@@ -15,7 +15,8 @@ CCTV-1HD,http://stream.guihet.com/hd/ccav1.m3u8,tvming-CCTV1HD
 
 
 ----
-## Other Source
+## Other link Source
 https://beatsingdrama.blogspot.com/p/xt-playlist-txt.html?m=1
 
-
+## txt m3u 轉換工具
+https://guihet.com/tvlistconvert.html
