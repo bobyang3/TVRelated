@@ -101,3 +101,157 @@ FOX动作电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 FXHD,http://bddb.228888888.xyz:8081/live/ws108.m3u8
 MTV音乐,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 MTV音乐,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+iHOT爱悬疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3831420200227223529070370
+iHOT爱喜剧,http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3912220200227223216058126
+iHOT爱喜剧1,http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3912220200227075037057636
+iHOT爱世界,http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3833420200227075721071782
+iHOT爱世界1,http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3925820200227080557055908
+iHOT爱世界,http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱军武,http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱历史,http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱喜剧,http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱喜剧,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/index.m3u8?fmt=ts2hls
+iHOT爱喜剧,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/01.m3u8?fmt=ts2hls
+iHOT爱奇谈,http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱幼教,http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱影院,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱悬疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱时尚,http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱江湖,http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱浪漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/01.m3u8?fmt=ts2hls
+iHOT爱浪漫,http://101.71.255.229:6610/zjhs/2/10115/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱浪漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
+iHOT爱玩具,http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱电竞,http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱科幻,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/01.m3u8?fmt=ts2hls
+iHOT爱科幻,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/index.m3u8?fmt=ts2hls
+iHOT爱科幻,http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱经典,http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱美食,http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱解密,http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱都市,http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV国际,http://forum8848.000webhostapp.com/youtube.php?id=vCDDYb_M2B4&hd=5
+Olympic Channel 2,https://iocchannel-
+SkyNews,http://forum8848.000webhostapp.com/youtube.php?id=9Auq9mYxFEE&hd=5
+RussiaTodayNews,http://forum8848.000webhostapp.com/youtube.php?id=NvCSr7qzAAM&hd=5
+DWNews,http://forum8848.000webhostapp.com/youtube.php?id=NvqKZHpKs-g&hd=5
+AljaZeera,http://forum8848.000webhostapp.com/youtube.php?id=2EppLNonncc&hd=5
+NBC2,http://forum8848.000webhostapp.com/youtube.php?id=tPeUHECNLKs&hd=5
+净空法师,http://forum8848.000webhostapp.com/youtube.php?id=QgoZbeJ6Wi4&hd=3
+NASA+live,http://forum8848.000webhostapp.com/youtube.php?id=EEIk7gwjgIM&hd=5
+NASA+TV,http://forum8848.000webhostapp.com/youtube.php?id=21X5lGlDOfg&hd=5
+NASA+Media,http://forum8848.000webhostapp.com/youtube.php?id=nA9UZF-SZoQ&hd=5
+Voice of America (PST),http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8?fluxustv.m3u8
+Wixlar,http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+Остросюжетное HD,http://188.35.9.26:14050/udp/238.0.14.3:69000
+Рен ТВ HD,http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+Рен ТВ International,http://sc.id-tv.kz/RenTV_36_37.m3u8
+СТРК HD,http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+加拿大BBC Toronto印第安频道,http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+加拿大Space,http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
+加拿大The Shopping Channel,http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+加拿大WOWTV中文电视,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+美国  狗狗宠物,http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+美国Cheddar电视,https://live.chdrstatic.com/cheddar/primary/4.m3u8
+美国CSBN,https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
+美国Denver 8 TV,http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+美国l 中国环球 (美国),http://live.cgtn.com/1000/prog_index.m3u8
+美国l 美国中央台,http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
+美国l 美国之音,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
+美国宇航局频道,http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
+美国购物QVC Beauty TV HD UK,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/3/prog_index.m3u8
+美国购物QVC TV HD UK,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
+联合国频道,https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
+以色列1,https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/master.m3u8
+以色列2,https://dvr.ch20-cdnwiz.com/mobilehls/dvr.m3u8
+以色列3,https://ihoplive-f.akamaihd.net/i/yeshuachai_tv@124973/index_2_av-p.m3u8
+以色列4,http://rtb-channel.glue.live/smil:rtb1/playlist_sleng.m3u8
+佛山综合,http://dslive.grtn.cn/fszh/sd/live.m3u8
+俄罗斯IGITV蓝光,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+俄罗斯l RU 音乐频道,http://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
+俄罗斯ТВTV蓝光,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
+俄罗斯时尚台,http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v1a1/index.m3u8
+全美電視,https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+World Fashion International,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v3a1/index.m3u8
+World Fashion Россия,http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v3a1/index.m3u8
+World Fashion Россия,http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
+Ytv,http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/chunklist.m3u8
+7web cooking,https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
+24 Box TV,http://51.158.190.97/hls/stream.m3u8
+24/7 Retro TV,http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
+ABC NEWS,https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
+ABC NEWS LIVE,https://gma2.blab.email/espn2.m3u8
+Abu Dhabi Sports 4,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+Al Kass Sports,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+Al Kass Sports 2,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+Al Kass Sports 3,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+Al Kass Sports 4,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+Al Kass Sports 5,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+B4U Movies,http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
+B4U Movies,http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
+BeIN Sports Extra,https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/1920x1080_5640800/index.m3u8
+BLOOMBERG 1,http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+BO CLASIC,http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+BO TV,http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+Boston tv,http://unisportslive1-lh.akamaihd.net:80/i/boston_042114_1@39543/index_2000_av-b.m3u8
+C+频道,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
+CBN News,http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+CBS News,http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+Celestial Movies,http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+CGTN Documentary,http://livedoc.cgtn.com/1000d/prog_index.m3u8
+CGTN Francias,https://live.cgtn.com/1000f/prog_index.m3u8
+CGTN6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
+Ch 8,http://live.pjmcdn.info/live/CH8.stream/playlist.m3u8
+Classics Marathi,https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarcla.stream_all/playlist.m3u8
+Classics
+CNN Live Indonesia,https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+Comedy Telugu,https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcom.stream_all/playlist.m3u8
+DD News India,https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/index_1_av-p.m3u8?
+Dubai One,http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+Edge Sports,https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+English Movie,https://59d39900ebfb8.streamlock.net/horrifiedtv/horrifiedtv/chunklist_w67985971.m3u8
+English Movie 1,https://gma2.blab.email/espnews.m3u8
+Eurosport 1,http://5.135.92.133:52841/out/u/511_1.m3u8
+FASHION PARIS,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/media.m3u8
+Fashion TV,http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
+Food Channel,http://5.135.92.133:52841/out/u/502_1.m3u8
+Foreign channel,https://54627d4fc5996.streamlock.net:443/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+Fox Business,https://gma2.blab.email/espnu.m3u8
+France-24,http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
+GEM Drama,http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
+GEM Onyx,https://d2e40kvaojifd6.cloudfront.net/stream/onyx/chunklist_w1197922140.m3u8
+Groovy,http://bit.ly/2p6JqSo
+Happy tv,https://edge1a.v2h-cdn.com/appt3/Happy.stream_360p/chunklist.m3u8
+Hot1,http://v2.14mp4.com/av-hls/20160713/m1/index.m3u8
+iFILM Arabic,https://live2.presstv.com/ifilmlive/smil:ifilmar.smil/index.m3u8
+iFILM English,http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8
+iFILM English,https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
+iFILM Persian 1,https://live2.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
+iFILM Persian 2,http://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/index.m3u8
+Indonesia movie,https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
+Japan,http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+Joker Movie HD 2019,http://dl13.ftk.pw/film/Jo.ker.2019.720p.hd.rp.Film2Movie_li.mkv
+Korean TV,http://222.252.27.201:88/hls/relay/MuMf3uy/index.m3u8
+Kuriakos Cine,http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8
+Law and crime network,https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+Movie Kingdom,https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+Netmax,http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+New18,http://live.pjmcdn.info/live/New-TV.stream/playlist.m3u8
+NEW-ZEALAND-Wairarapa-TV,http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
+ONE CHANNEL SPORT ARAB,http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
+One Golf,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+One HD,http://live.pjmcdn.info/live/ONE-HD.stream/playlist.m3u8
+Outside TV,https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
+Persiana 2 CINEMA,http://51.15.193.156/hls/stream.m3u8
+Redbull tv,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+Rthk,https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/THKCCT2019M04701828.smil/index_1000000_av.m3u8??!
+RTSH Film,http://79.106.48.2/live/rtsh_film_ott_p3/playlist.m3u8
+SEC Car Racing Network,https://gma2.blab.email/sec.m3u8
+Sky News Extra1,http://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+Sky News Extra2,http://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master960x540.m3u8
+Sky-NEWS1,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+Sky-NEWS1,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+Soccer Tv,https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in_360p/index.m3u8
+Sportskool TV,https://a.jsrdn.com/broadcast/22697/+0000/c.m3u8
+Sur Sagar TV,http://sursagar24.dyndns.tv:8080/sstv/720p/index.m3u8
+Suria tv,https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
