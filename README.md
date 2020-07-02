@@ -2,6 +2,8 @@
 
 
 Channels.txt = https://git.io/Jfz3l
+Channels.m3u = https://git.io/JJUnS
+
 
 -----
 
