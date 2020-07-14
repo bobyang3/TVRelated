@@ -1,3 +1,14 @@
+#EXTM3U
+#EXTINF:-1 group-title="## https://git.io/JJsG1",1
+https://zk.sd-dykj.com/2020/06/14/EoDlUCKcjAbNMAEj/playlist.m3u8
+#EXTINF:-1 group-title="## https://git.io/JJsG1",2
+https://zk.sd-dykj.com/2020/06/14/YfUJePfihj0uomwx/playlist.m3u8
+#EXTINF:-1 group-title="## https://git.io/JJsG1",3
+https://cdn-2.kkp2p.com/hls/2020/06/14/gjTQVEN5/playlist.m3u8
+#EXTINF:-1 group-title="## https://git.io/JJsG1",4
+https://cdn-2.kkp2p.com/hls/2020/06/14/pUETiCxv/playlist.m3u8
+
+
 ## https://dramasq.com/tw200606/1.html#7
 ## https://git.io/JJsG1
 1,https://zk.sd-dykj.com/2020/06/14/EoDlUCKcjAbNMAEj/playlist.m3u8
