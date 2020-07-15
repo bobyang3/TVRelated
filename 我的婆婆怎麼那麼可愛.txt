@@ -1,19 +1,5 @@
 ## https://dramasq.com/tw200606/1.html#7
 ## https://git.io/JJsG1
-1,https://zk.sd-dykj.com/2020/06/14/EoDlUCKcjAbNMAEj/playlist.m3u8
-2,https://zk.sd-dykj.com/2020/06/14/YfUJePfihj0uomwx/playlist.m3u8
-3,https://cdn-2.kkp2p.com/hls/2020/06/14/gjTQVEN5/playlist.m3u8
-4,https://cdn-2.kkp2p.com/hls/2020/06/14/pUETiCxv/playlist.m3u8
-5,https://zk.sd-dykj.com/2020/06/21/ncVergOoifLsNfic/playlist.m3u8
-6,https://cdn-2.kkp2p.com/hls/2020/06/21/6MAFUUeF/playlist.m3u8
-7,https://cdn-2.kkp2p.com/hls/2020/06/28/Q2xONCSt/playlist.m3u8
-8,https://d.mahua-kb.com/20200627/p5EZvPQI/index.m3u8
-9,https://d.mahua-kb.com/20200704/P4lmhuol/index.m3u8
-10,
-11,
-12,
-13,
-
 
 #EXTM3U
 #EXTINF:-1,1
@@ -35,3 +21,16 @@ https://d.mahua-kb.com/20200627/p5EZvPQI/index.m3u8
 #EXTINF:-1,9
 https://d.mahua-kb.com/20200704/P4lmhuol/index.m3u8
 
+1,https://zk.sd-dykj.com/2020/06/14/EoDlUCKcjAbNMAEj/playlist.m3u8
+2,https://zk.sd-dykj.com/2020/06/14/YfUJePfihj0uomwx/playlist.m3u8
+3,https://cdn-2.kkp2p.com/hls/2020/06/14/gjTQVEN5/playlist.m3u8
+4,https://cdn-2.kkp2p.com/hls/2020/06/14/pUETiCxv/playlist.m3u8
+5,https://zk.sd-dykj.com/2020/06/21/ncVergOoifLsNfic/playlist.m3u8
+6,https://cdn-2.kkp2p.com/hls/2020/06/21/6MAFUUeF/playlist.m3u8
+7,https://cdn-2.kkp2p.com/hls/2020/06/28/Q2xONCSt/playlist.m3u8
+8,https://d.mahua-kb.com/20200627/p5EZvPQI/index.m3u8
+9,https://d.mahua-kb.com/20200704/P4lmhuol/index.m3u8
+10,
+11,
+12,
+13,
