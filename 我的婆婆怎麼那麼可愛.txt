@@ -1,6 +1,3 @@
-## https://dramasq.com/tw200606/1.html#7
-## https://git.io/JJsG1
-
 #EXTM3U
 #EXTINF:-1,1
 https://zk.sd-dykj.com/2020/06/14/EoDlUCKcjAbNMAEj/playlist.m3u8
@@ -22,6 +19,8 @@ https://d.mahua-kb.com/20200627/p5EZvPQI/index.m3u8
 https://d.mahua-kb.com/20200704/P4lmhuol/index.m3u8
 
 
+## https://dramasq.com/tw200606/1.html#7
+## https://git.io/JJsG1
 ##############IPTV txt format###############
 1,https://zk.sd-dykj.com/2020/06/14/EoDlUCKcjAbNMAEj/playlist.m3u8
 2,https://zk.sd-dykj.com/2020/06/14/YfUJePfihj0uomwx/playlist.m3u8
