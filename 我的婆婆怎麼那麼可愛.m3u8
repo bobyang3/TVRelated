@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1,1
-https://zk.sd-dykj.com/2020/06/14/EoDlUCKcjAbNMAEj/playlist.m3u8
-#EXTINF:-1,2
-https://v.wedubo.com/20200608/P2IiwKMa/index.m3u8
-#EXTINF:-1,3
-https://v.wedubo.com/20200614/7MROqDND/index.m3u8
-#EXTINF:-1,4
-hhttps://v.wedubo.com/20200614/qSXzQCeb/index.m3u8
-#EXTINF:-1,5
-https://v.wedubo.com/20200621/q2T9OxBo/index.m3u8
-#EXTINF:-1,6
-https://v.wedubo.com/20200621/FzcMbIz1/index.m3u8
-#EXTINF:-1,7
-https://v.wedubo.com/20200627/Rt0gZWF6/index.m3u8
-#EXTINF:-1,8
-https://v.wedubo.com/20200627/K3hYsW0i/index.m3u8
-#EXTINF:-1,9
-https://v.wedubo.com/20200704/tLtCGcLF/index.m3u8
-#EXTINF:-1,10
-https://v.wedubo.com/20200704/bTRAAAlE/index.m3u8
-#EXTINF:-1,11
-https://v.wedubo.com/20200711/FH9USv1N/index.m3u8
-#EXTINF:-1,12
-https://v.wedubo.com/20200711/2vXiIJDb/index.m3u8
-#EXTINF:-1,Original
+#EXTINF:-1 group-title="未分组",Original
 https://dramasq.com/tw200606/1.html#7;;;;;;https://www.duboku.co/vodplay/1436-1-1.html
-#EXTINF:-1,ShortCut
+#EXTINF:-1 group-title="未分组",ShortCut
 https://git.io/JJsG1;;;;;;https://git.io/JJZk6
+#EXTINF:-1 group-title="未分组",1
+https://zk.sd-dykj.com/2020/06/14/EoDlUCKcjAbNMAEj/playlist.m3u8
+#EXTINF:-1 group-title="未分组",2
+https://v.wedubo.com/20200608/P2IiwKMa/index.m3u8
+#EXTINF:-1 group-title="未分组",3
+https://v.wedubo.com/20200614/7MROqDND/index.m3u8
+#EXTINF:-1 group-title="未分组",4
+hhttps://v.wedubo.com/20200614/qSXzQCeb/index.m3u8
+#EXTINF:-1 group-title="未分组",5
+https://v.wedubo.com/20200621/q2T9OxBo/index.m3u8
+#EXTINF:-1 group-title="未分组",6
+https://v.wedubo.com/20200621/FzcMbIz1/index.m3u8
+#EXTINF:-1 group-title="未分组",7
+https://v.wedubo.com/20200627/Rt0gZWF6/index.m3u8
+#EXTINF:-1 group-title="未分组",8
+https://v.wedubo.com/20200627/K3hYsW0i/index.m3u8
+#EXTINF:-1 group-title="未分组",9
+https://v.wedubo.com/20200704/tLtCGcLF/index.m3u8
+#EXTINF:-1 group-title="未分组",10
+https://v.wedubo.com/20200704/bTRAAAlE/index.m3u8
+#EXTINF:-1 group-title="未分组",11
+https://v.wedubo.com/20200711/FH9USv1N/index.m3u8
+#EXTINF:-1 group-title="未分组",12
+https://v.wedubo.com/20200711/2vXiIJDb/index.m3u8
