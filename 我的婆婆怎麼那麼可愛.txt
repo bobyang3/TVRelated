@@ -3,7 +3,7 @@ ShortCut,https://git.io/JJsG1;;;;;;https://git.io/JJZk6
 1,https://zk.sd-dykj.com/2020/06/14/EoDlUCKcjAbNMAEj/playlist.m3u8
 2,https://v.wedubo.com/20200608/P2IiwKMa/index.m3u8
 3,https://v.wedubo.com/20200614/7MROqDND/index.m3u8
-4,hhttps://v.wedubo.com/20200614/qSXzQCeb/index.m3u8
+4,https://v.wedubo.com/20200614/qSXzQCeb/index.m3u8
 5,https://v.wedubo.com/20200621/q2T9OxBo/index.m3u8
 6,https://v.wedubo.com/20200621/FzcMbIz1/index.m3u8
 7,https://v.wedubo.com/20200627/Rt0gZWF6/index.m3u8
