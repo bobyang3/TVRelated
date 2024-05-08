@@ -1,3 +1,37 @@
+# TVBoxOSC
+
+
+TVBox常見版本: <br>
+https://github.com/dlgt7/TVbox-interface/blob/main/tvbox%E5%B8%B8%E8%A7%81%E7%89%88%E6%9C%AC.md
+
+Recommanded:
+
+1. takagen99：https://github.com/takagen99/TVBoxOSC 
+
+
+
+接口：
+
+1. https://tianyastudio.blogspot.com/search/label/TVBOX
+2. https://github.com/li5bo5/TVBox
+3. https://github.com/li5bo5/TVBox?tab=readme-ov-file
+3. http://home.jundie.top:81/top98.json
+
+
+
+如何為影視倉設定內建來源介面？
+
+1. https://tianyastudio.blogspot.com/search/label/TVBOX
+2. https://www.youtube.com/watch?v=WI9dwvzNBkY
+
+-----
+
+
+
+
+
+--------------------------------------------------------------------
+
 # IptvSource
 
 
