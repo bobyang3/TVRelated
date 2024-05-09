@@ -6,7 +6,7 @@ https://github.com/dlgt7/TVbox-interface/blob/main/tvbox%E5%B8%B8%E8%A7%81%E7%89
 
 Recommended:
 
-1. FongMi OK影視 (有英文，繁中，簡中選項，速度快等) https://github.com/FongMi/TV
+1. FongMi OK影視 (有英文，繁中，簡中選項，支援直播多線、自動換源、直播倍速，手機投影螢幕等) https://github.com/FongMi/TV
 2. takagen99：https://github.com/takagen99/TVBoxOSC 
 
 
@@ -14,12 +14,13 @@ Recommended:
 接口：
 
 1. https://raw.githubusercontent.com/iswhat/tvboxcon/master/0821.json
-2. https://github.com/gaotianliuyun/gao/tree/master
-3. https://tianyastudio.blogspot.com/search/label/TVBOX
-4. https://github.com/qist/tvbox
-5. https://github.com/li5bo5/TVBox?tab=readme-ov-file
-6. http://home.jundie.top:81/top98.json
-7. https://github.com/jake3737/tvbox?tab=readme-ov-file
+2. https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json
+3. https://github.com/gaotianliuyun/gao/tree/master
+4. https://tianyastudio.blogspot.com/search/label/TVBOX
+5. https://github.com/qist/tvbox
+6. https://github.com/li5bo5/TVBox?tab=readme-ov-file
+7. http://home.jundie.top:81/top98.json
+8. https://github.com/jake3737/tvbox?tab=readme-ov-file
 
 
 
