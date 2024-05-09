@@ -4,20 +4,22 @@
 TVBox常見版本: <br>
 https://github.com/dlgt7/TVbox-interface/blob/main/tvbox%E5%B8%B8%E8%A7%81%E7%89%88%E6%9C%AC.md
 
-Recommanded:
+Recommended:
 
-1. takagen99：https://github.com/takagen99/TVBoxOSC 
+1. FongMi OK影視 (有英文，繁中，簡中選項，速度快等) https://github.com/FongMi/TV
+2. takagen99：https://github.com/takagen99/TVBoxOSC 
 
 
 
 接口：
 
-1. https://github.com/gaotianliuyun/gao/tree/master
-2. https://tianyastudio.blogspot.com/search/label/TVBOX
-3. https://github.com/qist/tvbox
-4. https://github.com/li5bo5/TVBox?tab=readme-ov-file
-5. http://home.jundie.top:81/top98.json
-6. https://github.com/jake3737/tvbox?tab=readme-ov-file
+1. https://raw.githubusercontent.com/iswhat/tvboxcon/master/0821.json
+2. https://github.com/gaotianliuyun/gao/tree/master
+3. https://tianyastudio.blogspot.com/search/label/TVBOX
+4. https://github.com/qist/tvbox
+5. https://github.com/li5bo5/TVBox?tab=readme-ov-file
+6. http://home.jundie.top:81/top98.json
+7. https://github.com/jake3737/tvbox?tab=readme-ov-file
 
 
 
@@ -28,6 +30,10 @@ Recommanded:
 
 -----
 
+TVbox Info:
+1. https://www.xn--sss604efuw.top/
+2. https://github.com/FongMi/TV
+3. 
 
 
 
