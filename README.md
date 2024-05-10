@@ -6,8 +6,8 @@ https://github.com/dlgt7/TVbox-interface/blob/main/tvbox%E5%B8%B8%E8%A7%81%E7%89
 
 Recommended:
 
-1. FongMi OK影視 (有英文，繁中，簡中選項，支援直播多線、自動換源、直播倍速，手機投影螢幕等) https://github.com/FongMi/Release or https://github.com/FongMi/TV
-2. takagen99：https://github.com/takagen99/TVBoxOSC 
+1. FongMi OK影視 (有英文，繁中，簡中選項，支援直播多線、自動換源、直播倍速，手機投影螢幕等) https://xhdwc.tk/ or https://github.com/FongMi/Release or https://github.com/FongMi/TV
+2. https://www.wmdz.com/tvboxFM.html (List of many apps)
 
 
 
@@ -21,7 +21,8 @@ Recommended:
 6. https://github.com/li5bo5/TVBox?tab=readme-ov-file
 7. http://home.jundie.top:81/top98.json
 8. https://github.com/jake3737/tvbox?tab=readme-ov-file
-
+9. 4GTV live: https://api2.4gtv.tv/Channel/GetChannelBySetId/1/pc/L
+    
 
 
 如何為影視倉設定內建來源介面？
