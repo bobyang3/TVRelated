@@ -6,7 +6,7 @@ https://github.com/dlgt7/TVbox-interface/blob/main/tvbox%E5%B8%B8%E8%A7%81%E7%89
 
 Recommended:
 
-1. FongMi OK影視 (有英文，繁中，簡中選項，支援直播多線、自動換源、直播倍速，手機投影螢幕等) https://github.com/FongMi/TV
+1. FongMi OK影視 (有英文，繁中，簡中選項，支援直播多線、自動換源、直播倍速，手機投影螢幕等) https://github.com/FongMi/Release or https://github.com/FongMi/TV
 2. takagen99：https://github.com/takagen99/TVBoxOSC 
 
 
