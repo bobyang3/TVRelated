@@ -13,15 +13,17 @@ Recommended:
 
 接口：
 
-1. https://raw.githubusercontent.com/iswhat/tvboxcon/master/0821.json
-2. https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json
-3. https://github.com/gaotianliuyun/gao/tree/master
-4. https://tianyastudio.blogspot.com/search/label/TVBOX
-5. https://github.com/qist/tvbox
-6. https://github.com/li5bo5/TVBox?tab=readme-ov-file
-7. http://home.jundie.top:81/top98.json
-8. https://github.com/jake3737/tvbox?tab=readme-ov-file
-9. 4GTV live: https://api2.4gtv.tv/Channel/GetChannelBySetId/1/pc/L
+1. 寶盒　https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json
+2. https://raw.githubusercontent.com/iswhat/tvboxcon/master/0821.json
+3. https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json
+4. https://github.com/gaotianliuyun/gao/tree/master
+5. https://tianyastudio.blogspot.com/search/label/TVBOX
+6. https://github.com/qist/tvbox
+7. https://github.com/li5bo5/TVBox?tab=readme-ov-file
+8. http://home.jundie.top:81/top98.json
+9.  https://github.com/jake3737/tvbox?tab=readme-ov-file
+10. 4GTV live: https://api2.4gtv.tv/Channel/GetChannelBySetId/1/pc/L
+11. 海外 https://github.com/LinWei0718/iptvtw/blob/main/mao.json 
     
 
 
@@ -35,7 +37,7 @@ Recommended:
 TVbox Info:
 1. https://www.xn--sss604efuw.top/
 2. https://github.com/FongMi/TV
-3. 
+3. https://github.com/qist/tvbox
 
 
 
@@ -69,3 +71,5 @@ https://beatsingdrama.blogspot.com/p/xt-playlist-txt.html?m=1
 
 ## txt m3u 轉換工具
 https://guihet.com/tvlistconvert.html
+
+
