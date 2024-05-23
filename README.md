@@ -16,8 +16,8 @@ Recommended:
 1. 泥巴,独播库,小宝,欧乐,腐剧　https://raw.githubusercontent.com/qist/tvbox/master/jsm.json (https://github.com/qist/tvbox)
 2. 寶盒=欧乐,巴　https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json
 3. https://raw.githubusercontent.com/iswhat/tvboxcon/master/0821.json
-4. https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json　（https://github.com/gaotianliuyun/gao/tree/master） 
-5. https://tianyastudio.blogspot.com/search/label/TVBOX6. 
+4. https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json （https://github.com/gaotianliuyun/gao/tree/master） 
+5. https://tianyastudio.blogspot.com/search/label/TV 
 7. https://github.com/li5bo5/TVBox?tab=readme-ov-file
 8. http://home.jundie.top:81/top98.json
 9.  https://github.com/jake3737/tvbox?tab=readme-ov-file
