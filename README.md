@@ -27,8 +27,9 @@ Recommended:
     
 
 直播接口： 
-1.　4GTV live: https://api2.4gtv.tv/Channel/GetChannelBySetId/1/pc/L
-2. 
+1.　Rob Y.: https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTV.json
+2.  4GTV live: https://api2.4gtv.tv/Channel/GetChannelBySetId/1/pc/L
+   
 
 
 如何為影視倉設定內建來源介面？
