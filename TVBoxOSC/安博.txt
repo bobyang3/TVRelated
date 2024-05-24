@@ -1,5 +1,6 @@
 YouTube,#genre#
 公視直播,https://www.youtube.com/watch?v=4Uc00FPs27M
+公視台語,https://www.youtube.com/watch?v=6KlRR_DGhmI&ab_channel=%E5%85%AC%E8%A6%96%E5%8F%B0%E8%AA%9E%E5%8F%B0
 三立live,https://www.youtube.com/watch?v=FoBfXvlOR6I
 三立inews,https://www.youtube.com/watch?v=CKjSm5ZeehE
 三立NEWS+,https://www.youtube.com/watch?v=oZdzzvxTfUY
@@ -14,6 +15,12 @@ YouTube,#genre#
 中天新聞2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 TVBS NEWS LIVE,https://www.youtube.com/watch?v=m_dhMSvUCIc
+大愛一台,https://www.youtube.com/watch?v=MIqUplvSRWA&ab_channel=%E5%A4%A7%E6%84%9B%E9%9B%BB%E8%A6%96TzuChiDaAiVideo 
+大愛二台台灣,https://www.youtube.com/watch?v=OKvWtVoDR8I&ab_channel=%E5%A4%A7%E6%84%9B%E9%9B%BB%E8%A6%96TzuChiDaAiVideo 
+大愛二台全球,https://www.youtube.com/watch?v=DTNkEm6jaqQ&ab_channel=%E5%A4%A7%E6%84%9B%E9%9B%BB%E8%A6%96TzuChiDaAiVideo
+正德電視台,https://www.youtube.com/watch?v=AfcVHGIRbP8&ab_channel=%E6%AD%A3%E5%BE%B7%E9%9B%BB%E8%A6%96%E5%8F%B0 
+愛爾達影劇,https://www.youtube.com/watch?v=be6L9zpVqw4&ab_channel=%E6%84%9B%E7%88%BE%E9%81%94%E5%BD%B1%E5%8A%87%E5%8F%B0
+華藏,https://www.youtube.com/watch?v=ypmrwYeLAaQ&ab_channel=HZTV%E8%8F%AF%E8%97%8F%E8%A1%9B%E8%A6%96%E7%9B%B4%E6%92%AD2%E5%8F%B0
 鳳凰衛視資訊,https://www.youtube.com/watch?v=HFib76ySpbU
 CCTV中文國際,https://www.youtube.com/watch?v=bEZYrBMYNNg
 NHK WORLD,https://www.youtube.com/watch?v=f0lYkdA-Gtw
@@ -29,6 +36,9 @@ Fox new,https://www.youtube.com/watch?v=YDfiTGGPYCk
 KOMPASTV,https://www.youtube.com/watch?v=4rmf-lk3ito
 東京新宿,https://www.youtube.com/watch?v=DjdUEyjx8GM
 Nat geo wild,https://www.youtube.com/watch?v=BJ3Yv572V1A
+
+
+
 台灣頻道,#genre#
 民視,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
 民視,https://z88.ubtvfans.com/live/rx1/336/a355146f49dc8ec7fb97ab46e4c9857d/index.m3u8
