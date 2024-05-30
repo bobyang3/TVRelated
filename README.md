@@ -28,8 +28,9 @@ Recommended:
 
 
 直播接口： 
-1.　Rob Y.: https://mirror.ghproxy.com/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTV.json
-2.  4GTV live: https://api2.4gtv.tv/Channel/GetChannelBySetId/1/pc/L
+
+1.　Rob Y.: https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTV.json<br>
+2.  4GTV live: https://api2.4gtv.tv/Channel/GetChannelBySetId/1/pc/L<br>
 
 
 
@@ -47,6 +48,7 @@ Recommended:
 -----
 
 TVbox Info:
+
 1. https://www.xn--sss604efuw.top/
 2. https://github.com/FongMi/TV
 3. https://github.com/qist/tvbox
