@@ -1,25 +1,24 @@
 YouTube,#genre#
-公視直播,https://www.youtube.com/watch?v=4Uc00FPs27M
-公視台語,https://www.youtube.com/watch?v=6KlRR_DGhmI&ab_channel=%E5%85%AC%E8%A6%96%E5%8F%B0%E8%AA%9E%E5%8F%B0
-三立live,https://www.youtube.com/watch?v=FoBfXvlOR6I
+三立海外,https://www.youtube.com/watch?v=FoBfXvlOR6I
 三立inews,https://www.youtube.com/watch?v=CKjSm5ZeehE
 三立NEWS+,https://www.youtube.com/watch?v=oZdzzvxTfUY
-東森財經股市,https://www.youtube.com/watch?v=LbS-xQ67fos
-新唐人,https://www.youtube.com/watch?v=WIhgU_mc05A
+公視直播,https://www.youtube.com/watch?v=4Uc00FPs27M
+公視台語,https://www.youtube.com/watch?v=6KlRR_DGhmI&ab_channel=%E5%85%AC%E8%A6%96%E5%8F%B0%E8%AA%9E%E5%8F%B0
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
-中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
+東森財經股市,https://www.youtube.com/watch?v=LbS-xQ67fos
+新唐人,https://www.youtube.com/watch?v=WIhgU_mc05A
 中天新聞1台,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新聞2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
-TVBS NEWS LIVE,https://www.youtube.com/watch?v=m_dhMSvUCIc
+TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 大愛一台,https://www.youtube.com/watch?v=MIqUplvSRWA&ab_channel=%E5%A4%A7%E6%84%9B%E9%9B%BB%E8%A6%96TzuChiDaAiVideo 
 大愛二台台灣,https://www.youtube.com/watch?v=OKvWtVoDR8I&ab_channel=%E5%A4%A7%E6%84%9B%E9%9B%BB%E8%A6%96TzuChiDaAiVideo 
 大愛二台全球,https://www.youtube.com/watch?v=DTNkEm6jaqQ&ab_channel=%E5%A4%A7%E6%84%9B%E9%9B%BB%E8%A6%96TzuChiDaAiVideo
 正德電視台,https://www.youtube.com/watch?v=AfcVHGIRbP8&ab_channel=%E6%AD%A3%E5%BE%B7%E9%9B%BB%E8%A6%96%E5%8F%B0 
-愛爾達影劇,https://www.youtube.com/watch?v=be6L9zpVqw4&ab_channel=%E6%84%9B%E7%88%BE%E9%81%94%E5%BD%B1%E5%8A%87%E5%8F%B0
 華藏,https://www.youtube.com/watch?v=ypmrwYeLAaQ&ab_channel=HZTV%E8%8F%AF%E8%97%8F%E8%A1%9B%E8%A6%96%E7%9B%B4%E6%92%AD2%E5%8F%B0
 鳳凰衛視資訊,https://www.youtube.com/watch?v=HFib76ySpbU
 CCTV中文國際,https://www.youtube.com/watch?v=bEZYrBMYNNg
@@ -36,7 +35,6 @@ Fox new,https://www.youtube.com/watch?v=YDfiTGGPYCk
 KOMPASTV,https://www.youtube.com/watch?v=4rmf-lk3ito
 東京新宿,https://www.youtube.com/watch?v=DjdUEyjx8GM
 Nat geo wild,https://www.youtube.com/watch?v=BJ3Yv572V1A
-
 
 
 台灣頻道,#genre#
@@ -303,12 +301,12 @@ HOY资讯台,https://z88.ubtvfans.com/live/rx1/395/2afff7b9574d72ee839084fcdde78
 HKIBC,https://z88.ubtvfans.com/live/rx1/354/e2ebb99d1a004b25246d5311e7a0c278/index.m3u8
 三立新聞,https://z88.ubtvfans.com/live/rx2/43/a2a42f6d385474b87e182c306a9c370d/index.m3u8
 三立新聞,https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
-三立新聞,https://z88.ubtvfans.com/live/rx6/2392//index.m3u8
+三立新聞,https://z88.ubtvfans.com/live/rx6/2392/index.m3u8
 三立新聞+,https://z88.ubtvfans.com/live/rx6/320/fe69b133c10d8cf53971acc52a35ddff/index.m3u8
 東森新聞,https://z88.ubtvfans.com/live/rx5/1025/8849e4836a47ae92c7dbaddbd374badd/index.m3u8
 東森新聞4,https://z88.ubtvfans.com/live/rx1/2766/11a206130aa9aeef32670d759dca953d/index.m3u8
 東森新聞,https://z88.ubtvfans.com/live/rx2/1358/7eb08c8701281a6117ea7b14e3e55ffc/index.m3u8
-東森新聞,https://z88.ubtvfans.com/live/rx6/2393//index.m3u8
+東森新聞,https://z88.ubtvfans.com/live/rx6/2393/index.m3u8
 東森亞洲,https://z88.ubtvfans.com/live/rx1/3/0e6d203e74c6b1e9402855ab8065e43c/index.m3u8
 中天新聞,https://z88.ubtvfans.com/live/rx6/2394//index.m3u8
 中天新聞2台,https://z88.ubtvfans.com/live/rx6/152/2d8b2279a71a577a7a4817ccf6e8ead0/index.m3u8

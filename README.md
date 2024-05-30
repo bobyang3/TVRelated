@@ -26,10 +26,17 @@ Recommended:
 12. https://gitlab.com/-/snippets/2343779/raw/main/snippetfile1.txt
     
 
+
 直播接口： 
-1.　Rob Y.: https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTV.json
+1.　Rob Y.: https://mirror.ghproxy.com/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTV.json
 2.  4GTV live: https://api2.4gtv.tv/Channel/GetChannelBySetId/1/pc/L
-   
+
+
+
+接口List：
+1. https://www.upx8.com/4021
+
+
 
 
 如何為影視倉設定內建來源介面？
