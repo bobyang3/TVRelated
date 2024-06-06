@@ -249,9 +249,6 @@ CN卡通,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/
 大愛一臺,https://z88.ubtvfans.com/live/rx6/11/79c9c9e7e7068753ca822e3598e19eec/index.m3u8
 
 
-
-
-
 港澳頻道,#genre#
 TVB翡翠,https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
 TVB翡翠,https://z88.ubtvfans.com/live/rx1/30/5e6d82f65cc2bfa60d62dbbe57dedd86/index.m3u8
@@ -296,6 +293,8 @@ TVBE,https://z88.ubtvfans.com/live/rx3/1245/f5b6ce19b6aaa9c28323d9f2839a8985/ind
 城市電視,https://z88.ubtvfans.com/live/rx4/1289/6d27646c74e37586febfa8be982bf1be/index.m3u8
 TVB星河,https://z88.ubtvfans.com/live/rx4/1079/9371abf6b38ee5057462d8573a71736d/index.m3u8
 TVB經典,https://z88.ubtvfans.com/live/rx4/1083/067958a5c51d052f7bcc3f3bd1a3a8ff/index.m3u8
+
+
 新聞頻道,#genre#
 HOY资讯台,https://z88.ubtvfans.com/live/rx1/395/2afff7b9574d72ee839084fcdde78ff7/index.m3u8
 HKIBC,https://z88.ubtvfans.com/live/rx1/354/e2ebb99d1a004b25246d5311e7a0c278/index.m3u8
@@ -303,11 +302,16 @@ HKIBC,https://z88.ubtvfans.com/live/rx1/354/e2ebb99d1a004b25246d5311e7a0c278/ind
 三立新聞,https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
 三立新聞,https://z88.ubtvfans.com/live/rx6/2392/index.m3u8
 三立新聞+,https://z88.ubtvfans.com/live/rx6/320/fe69b133c10d8cf53971acc52a35ddff/index.m3u8
+三立iNEWS,https://z88.ubtvfans.com/live/rx6/2398//index.m3u8
+三立iNEWS,https://z88.ubtvfans.com/live/rx5/6/6e5572a27a0339a2f1a977c82c1206fd/index.m3u8
+三立国際,https://z88.ubtvfans.com/live/rx3/2285/6a8add031ee3407648e3eb8731932206/index.m3u8
 東森新聞,https://z88.ubtvfans.com/live/rx5/1025/8849e4836a47ae92c7dbaddbd374badd/index.m3u8
 東森新聞4,https://z88.ubtvfans.com/live/rx1/2766/11a206130aa9aeef32670d759dca953d/index.m3u8
 東森新聞,https://z88.ubtvfans.com/live/rx2/1358/7eb08c8701281a6117ea7b14e3e55ffc/index.m3u8
 東森新聞,https://z88.ubtvfans.com/live/rx6/2393/index.m3u8
 東森亞洲,https://z88.ubtvfans.com/live/rx1/3/0e6d203e74c6b1e9402855ab8065e43c/index.m3u8
+東森財經,https://z88.ubtvfans.com/live/rx6/2397//index.m3u8
+東森財經,https://z88.ubtvfans.com/live/rx2/12/79e2953f288da7484cd18641c899c9d6/index.m3u8
 中天新聞,https://z88.ubtvfans.com/live/rx6/2394//index.m3u8
 中天新聞2台,https://z88.ubtvfans.com/live/rx6/152/2d8b2279a71a577a7a4817ccf6e8ead0/index.m3u8
 中天新聞,https://z88.ubtvfans.com/live/rx6/2420/82fd118bff7d1de735a8e9bce8756b8d/index.m3u8
@@ -316,12 +320,8 @@ HKIBC,https://z88.ubtvfans.com/live/rx1/354/e2ebb99d1a004b25246d5311e7a0c278/ind
 TVBS新聞,https://z88.ubtvfans.com/live/rx5/2736/be2d52910873cb20d510f4f1ef0804ba/index.m3u8
 TVBS新聞,https://z88.ubtvfans.com/live/rx2/2/04c1c443d4f9f5983c9e9a491ba05f05/index.m3u8
 TVBS新聞,https://z88.ubtvfans.com/live/rx6/2396//index.m3u8
-東森財經,https://z88.ubtvfans.com/live/rx6/2397//index.m3u8
-東森財經,https://z88.ubtvfans.com/live/rx2/12/79e2953f288da7484cd18641c899c9d6/index.m3u8
 華視新聞,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
 華視新聞,https://z88.ubtvfans.com/live/rx6/1171/058ed1ce3a191d38f0e5918d5f655e3a/index.m3u8
-三立iNEWS,https://z88.ubtvfans.com/live/rx6/2398//index.m3u8
-三立iNEWS,https://z88.ubtvfans.com/live/rx5/6/6e5572a27a0339a2f1a977c82c1206fd/index.m3u8
 台視新聞,https://z88.ubtvfans.com/live/rx6/2399//index.m3u8
 台視新聞,https://z88.ubtvfans.com/live/rx6/1/f2689f3bc90c3782bc56427e5463bcf8/index.m3u8
 中視新聞,https://z88.ubtvfans.com/live/rx6/2400//index.m3u8
@@ -341,7 +341,6 @@ TVBS新聞,https://z88.ubtvfans.com/live/rx6/2396//index.m3u8
 SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983f7fcbd4/index.m3u8
 鏡新聞mnews,https://z88.ubtvfans.com/live/rx6/463/afaae728b5cba11234acb1b96059aedf/index.m3u8
 鳳凰秀,https://z88.ubtvfans.com/live/rx6/1293/481ece003369e60f702ca20418a050ea/index.m3u8
-三立国際,https://z88.ubtvfans.com/live/rx3/2285/6a8add031ee3407648e3eb8731932206/index.m3u8
 GB News,https://z88.ubtvfans.com/live/rx6/77/3fa5a68553a8d34e7d619f50a550f725/index.m3u8
 DW德國之聲,https://z88.ubtvfans.com/live/rx6/1059/8dcea67b1a0da6697f506a44df3dd186/index.m3u8
 FRANCE 24 English,https://z88.ubtvfans.com/live/rx6/2231/840634d63a9267e2213de90e49597d8a/index.m3u8
@@ -364,6 +363,8 @@ Channels,https://z88.ubtvfans.com/live/rx6/1495/02f7540135a7934d578929d8620aec83
 ABC News Australia,https://z88.ubtvfans.com/live/rx6/2769/bc0dcfc3979f4ea45c8c897a07ce51e0/index.m3u8
 FRANCE 24,https://z88.ubtvfans.com/live/rx6/1042/431c36701047742d2dbc22cb72272da1/index.m3u8
 CNN Indonesia,https://z88.ubtvfans.com/live/rx5/1145/46a22817c4f7afa657f2fdde79d86a01/index.m3u8
+
+
 中華電信MOD,#genre#
 amc電影台,http://61.224.69.212:9088/udp/224.1.4.43:11111
 amc電影台,http://61.224.69.212:9088/udp/230.1.2.157:11111
@@ -746,69 +747,23 @@ KLT-靖天國際台,http://61.224.69.212:9088/udp/224.1.4.220:11111
 鏡電視新聞台,http://61.224.69.212:9088/udp/230.1.2.138:11111
 JStar極限台電影頻道,http://61.224.69.212:9088/udp/230.1.2.152:11111
 JStar極限台電影頻道,http://61.224.69.212:9088/udp/230.1.2.32:11111
+
+
 影視頻道,#genre#
-龍華日韓,https://z88.ubtvfans.com/live/rx1/382/897ab118ac4987dd9fb8743cdef65216/index.m3u8
-東森戲劇,https://z88.ubtvfans.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
-東森戲劇,https://z88.ubtvfans.com/live/rx1/321/12c06b14bb78a7a24864a9716e0ace8e/index.m3u8
-八大戲劇,https://z88.ubtvfans.com/live/rx1/81/724862d1a0b9c0b5154368d271f4789e/index.m3u8
-緯來戲劇,https://z88.ubtvfans.com/live/rx1/2727/3adcd21480695db794231933e060b6d8/index.m3u8
-緯來戲劇,https://z88.ubtvfans.com/live/rx3/339/85339de3283d33f46d4735db2f4cac1a/index.m3u8
-東森電影,https://z88.ubtvfans.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u8
-東森電影,https://z88.ubtvfans.com/live/rx1/2720/76950085d6b17b40e1038a69438ba180/index.m3u8
-緯來電影,https://z88.ubtvfans.com/live/rx1/2728/4a67b3bc50b0d12c49c3b29faaacacb2/index.m3u8
-HBO HD,https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
-HBO HD,https://z88.ubtvfans.com/live/rx3/2823/264829c48cc59d03c9174fe85b6e3ff9/index.m3u8
-東森洋片,https://z88.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
-壹電影,https://z88.ubtvfans.com/live/rx1/2284/79d59ad50a6ff1e27f57853a0e5666aa/index.m3u8
-好萊塢電影,https://z88.ubtvfans.com/live/rx1/37/994b3b9fcc2b4f3ee856d7d12b5356ca/index.m3u8
-愛爾達影劇,https://z88.ubtvfans.com/live/rx1/500/5f8bfd4a17c22bcd9d1840894929112c/index.m3u8
-CineMAX,https://z88.ubtvfans.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8
-靖天映畫,https://z88.ubtvfans.com/live/rx1/349/9db2ee2694bb4a6d4135c0c5e0f2762d/index.m3u8
-靖洋戲劇,https://z88.ubtvfans.com/live/rx1/319/34284625aac41ea82c5e051aee972bdb/index.m3u8
-緯來精彩,https://z88.ubtvfans.com/live/rx1/2280/17f9da1e268588dea07c1369bbf9b09c/index.m3u8
-EYE戲劇,https://z88.ubtvfans.com/live/rx1/191/468d0a45a2ddd69800d6065ec19082b1/index.m3u8
-三立戲劇,https://z88.ubtvfans.com/live/rx1/64/e95e58936986f55826db6aaeea93eec6/index.m3u8
-三立戲劇,https://z88.ubtvfans.com/live/rx1/2819/bdd3f93feceb62d903b34ac62a1f2b16/index.m3u8
-龍華偶像,https://z88.ubtvfans.com/live/rx1/385/6b9f9db94ecf4a1fa93ceda0b35a01da/index.m3u8
-霹靂臺灣,https://z88.ubtvfans.com/live/rx1/1339/dc0e1c8cbd8e6a408cff222ea4bd4750/index.m3u8
-靖天電影,https://z88.ubtvfans.com/live/rx1/110/9f1bd22a531aa9ee1549daf10b3f4f72/index.m3u8
-美亞電影,https://z88.ubtvfans.com/live/rx1/375/52fc7016f1457b85d795a61bbe7921f8/index.m3u8
-民視影劇,https://z88.ubtvfans.com/live/rx1/1023/950cf40ce6700c1bf2c2d8b1636576da/index.m3u8
 AMC,https://z88.ubtvfans.com/live/rx3/84/acac731ceec85d9eb9c848e304432841/index.m3u8
-HBOSignature,https://z88.ubtvfans.com/live/rx1/329/4f7c91a6de5f2142dc69dcfb3f377d09/index.m3u8
-HBOSignature,https://z88.ubtvfans.com/live/rx3/2824/7c499709e04993dcdb601df47291e152/index.m3u8
-HBO Hits,https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
-采昌影劇,https://z88.ubtvfans.com/live/rx1/62/2a544522f0580be374f34e1823b7b4e5/index.m3u8
-采昌影劇,https://z88.ubtvfans.com/live/rx1/2804/4919d2cc2740110f045fe9c49dfce484/index.m3u8
-影迷數位電影,https://z88.ubtvfans.com/live/rx2/497/47e377774e7d0a3ce07f99ff309032a4/index.m3u8
-影迷數位電影,https://z88.ubtvfans.com/live/rx1/2800/ef6238cba73f29e9ef691633c1eaf4d2/index.m3u8
-龍華戲劇,https://z88.ubtvfans.com/live/rx3/365/a16a27244b8440091f776004d7b3b0fe/index.m3u8
-龍華戲劇,https://z88.ubtvfans.com/live/rx1/2796/984f753d16f195e08fb13cd5554aed4f/index.m3u8
-龍華經典,https://z88.ubtvfans.com/live/rx1/100/a199b21da53bc0e33feffca890752109/index.m3u8
-龍翔時代,https://z88.ubtvfans.com/live/rx1/373/bfdc688427aa691d1baeae1fc2d1384f/index.m3u8
-AXN臺灣,https://z88.ubtvfans.com/live/rx1/2816/234280df0cd47c152708748c0ec2363e/index.m3u8
-天映經典,https://z88.ubtvfans.com/live/rx3/2289/2976c22827abb434e323d7c73ca72ba0/index.m3u8
-公視戲劇,https://z88.ubtvfans.com/live/rx1/69/ecb55b32f14005528db930c685772f14/index.m3u8
-AXN亞洲,https://z88.ubtvfans.com/live/rx1/1066/917914fbe52d479116c9ab03e3045dca/index.m3u8
-Trill恐怖電影,https://z88.ubtvfans.com/live/rx1/18/023f73a5f5902a44495cc710ffacc938/index.m3u8
-龍華電影,https://z88.ubtvfans.com/live/rx1/311/1c999026db4aa94fc7b3eab2a9428b59/index.m3u8
-華納電影,https://z88.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
 甄嬛传,https://z88.ubtvfans.com/live/rx6/1060/da2c75df7d56e9098417d1d5e0364928/index.m3u8
-靖天戲劇,https://z88.ubtvfans.com/live/rx1/109/a849bd2093c1a6633490ced0f66c0451/index.m3u8
 CATCHPLAY,https://z88.ubtvfans.com/live/rx1/362/b09cd35263712bc1e82bca78f002e4b8/index.m3u8
-TVB亞洲劇,https://z88.ubtvfans.com/live/rx1/1048/1fca2f643298a4e188bbe00ad6d7b60e/index.m3u8
-TVB粵語片,https://z88.ubtvfans.com/live/rx1/1589/f69ec211e7b1001aba0bab74ae0b038f/index.m3u8
 CHC高清電影,https://z88.ubtvfans.com/live/rx1/1345/381bfc5429616f237137778fae54258b/index.m3u8
 CHC動作電影,https://z88.ubtvfans.com/live/rx1/1346/f578d5f871a5d248d63ca725752055aa/index.m3u8
 CHC家庭影院,https://z88.ubtvfans.com/live/rx1/1347/a0d16273ab1b09b7a6b6c2f70ae82533/index.m3u8
 CBN歡笑劇場4K,https://z88.ubtvfans.com/live/rx1/1348/5563a8ce2d5e0bb3ba0917e1b3ab3979/index.m3u8
 SETONE,https://z88.ubtvfans.com/live/rx1/1349/bb4be8537e5a75bd44c28fa46381ec09/index.m3u8
 GEM,https://z88.ubtvfans.com/live/rx1/1350/1545469886b5c92a959dabe4caeb1f61/index.m3u8
-龍華洋片,https://z88.ubtvfans.com/live/rx1/341/ba4a92c916b01d9be06aa1cfe28cea36/index.m3u8
-TVB功夫台,https://z88.ubtvfans.com/live/rx1/168/83b003eeef5ee14257bc64c8a32eb617/index.m3u8
 新兵日記,https://z88.ubtvfans.com/live/rx6/264/23083b43bd840220fdc5af900585eb00/index.m3u8
 藍色水玲瓏,https://z88.ubtvfans.com/live/rx6/1690/793a99d8f84e154a445914e41bc1c209/index.m3u8
 新玫瑰瞳鈴眼,https://z88.ubtvfans.com/live/rx6/2555/d16f0dd1c094d04fdee3d491c1f098c2/index.m3u8
+
+
 4GTV豪華套餐,#genre#
 4民視第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
 5民視台灣台,https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2
@@ -936,33 +891,16 @@ TVB功夫台,https://z88.ubtvfans.com/live/rx1/168/83b003eeef5ee14257bc64c8a32eb
 208電影免費看 2台,https://www.4gtv.tv/channel/4gtv-live005?set=1&ch=245
 209超人力霸王整套看,https://www.4gtv.tv/channel/4gtv-live015?set=1&ch=278
 210花系列 經典劇場,https://www.4gtv.tv/channel/4gtv-live016?set=1&ch=279
+
+
 體育頻道,#genre#
-緯來體育,https://z88.ubtvfans.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
-緯來體育,https://z88.ubtvfans.com/live/rx3/2732/afc9e5d491c22c48ea99acb467665268/index.m3u8
 NBA(TW),https://z88.ubtvfans.com/live/rx1/71/e9bcba1bedb0d3bbf4b81a17360a59ab/index.m3u8
 FOX Sport 1,https://z88.ubtvfans.com/live/rx1/2791/a66f918db6515734fab6fdb5e81695a6/index.m3u8
 FOX Sport 2,https://z88.ubtvfans.com/live/rx1/1132/ffe1a7ac53bf2881c31d1e646d2e0ca4/index.m3u8
-Eleven Sport 1,https://z88.ubtvfans.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
-Eleven Sport 2,https://z88.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
-ELTA體育1,https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
-ELTA體育1,https://z88.ubtvfans.com/live/rx1/2729/e2631f44cff1829011b8335af4665421/index.m3u8
-ELTA體育2,https://z88.ubtvfans.com/live/rx1/193/f01050f0321a89cddc7767ff7a972d75/index.m3u8
-ELTA體育2,https://z88.ubtvfans.com/live/rx1/2730/180165762b644b5ad48213edfb066683/index.m3u8
-ELTA體育3,https://z88.ubtvfans.com/live/rx1/194/749cd52700d298fec937024cc818e97e/index.m3u8
-ELTA體育3,https://z88.ubtvfans.com/live/rx1/2731/fbad33ee89c6f0f1428f0662a94d25be/index.m3u8
-ELTA體育3台,https://z88.ubtvfans.com/live/rx3/2722/b0560adafc9ad3997724565a440243db/index.m3u8
-ELTA體育4,https://z88.ubtvfans.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726ebfc/index.m3u8
-Z頻道,https://z88.ubtvfans.com/live/rx1/1130/7b09abb359d262a0d47b9c0a204cfc09/index.m3u8
-博斯無限,https://z88.ubtvfans.com/live/rx3/381/d1324a06285110c0739ef2e6e205fbca/index.m3u8
-博斯無限,https://z88.ubtvfans.com/live/rx1/2797/ec16777a438d2d0a2072dc4ff7bd1638/index.m3u8
-博斯無限2,https://z88.ubtvfans.com/live/rx3/426/3c369cddf1fcfc0c1fd8f490a39fef5e/index.m3u8
-博斯無限2,https://z88.ubtvfans.com/live/rx1/2798/1b06c0513d0d72e53a2b6af61fe447f6/index.m3u8
 博斯網球,https://z88.ubtvfans.com/live/rx1/498/ee7c08a854a5febc4a84dacbd0c23332/index.m3u8
 博斯高球1,https://z88.ubtvfans.com/live/rx1/377/c8f27fc82a4d290ca635d9099b5d5dd2/index.m3u8
 博斯高球2,https://z88.ubtvfans.com/live/rx1/378/564c0bf55fc935c184f5cec7fb475584/index.m3u8
 博斯魅力,https://z88.ubtvfans.com/live/rx1/175/bb35c070bb8ce8d1742b24d6f727eac7/index.m3u8
-博斯運動1,https://z88.ubtvfans.com/live/rx1/379/3a3694d44eeb8fb3a641b7a7e1d1d010/index.m3u8
-博斯運動2,https://z88.ubtvfans.com/live/rx1/380/c15a49fee0fae3e5678657de0f0b56fc/index.m3u8
 TRACE Sport Stars,https://z88.ubtvfans.com/live/rx1/1037/560865204284fe14b7a60084e342b5eb/index.m3u8
 歐洲體育,https://z88.ubtvfans.com/live/rx1/1342/d8fbb3572f00e9fc78e17ae331a15070/index.m3u8
 魅力足球,https://z88.ubtvfans.com/live/rx1/464/b220950d6a761830e9bb11712b0c136e/index.m3u8
@@ -1047,33 +985,18 @@ Astro Sp5,https://z88.ubtvfans.com/live/rx3/2432/c408bb9ddb2042813bf949dac9cf681
 Sport TV 1,https://z88.ubtvfans.com/live/rx1/1779/af3c2582a145776f0d35d1e96229c627/index.m3u8
 Sport TV 2,https://z88.ubtvfans.com/live/rx1/1785/6422dd842ca3f805e2fa14b4767278f7/index.m3u8
 Sport TV 3,https://z88.ubtvfans.com/live/rx1/2135/ef2e9ca7d4307a5cc6bdf6e17098a0a7/index.m3u8
+
+
 紀實頻道,#genre#
-亞洲旅遊,https://z88.ubtvfans.com/live/rx1/2299/58692859330d6fa6bbb2011e53779f57/index.m3u8
-探索頻道,https://z88.ubtvfans.com/live/rx1/2817/3c1ec0ba462c6dd57356127d915de800/index.m3u8
-探索頻道,https://z88.ubtvfans.com/live/rx1/1035/0081cba3900d45c5a31c20b53ef72e28/index.m3u8
-大陸尋奇,https://z88.ubtvfans.com/live/rx6/102/9e5a9c0636f4f9fbc9888e487df2058b/index.m3u8
 TLC,https://z88.ubtvfans.com/live/rx4/2275/22130ea36c4bbf42b91e6ff6c0ab32d3/index.m3u8
-動物星球,https://z88.ubtvfans.com/live/rx1/367/ec2a5cc942ff9cd56dfea2aa478c5f35/index.m3u8
 Fashion One,https://z88.ubtvfans.com/live/rx1/113/eb82e45f5b12858e1ec1d219fabfb779/index.m3u8
-民視旅遊,https://z88.ubtvfans.com/live/rx2/78/b74e51bdd2f933ad4272e33628754a67/index.m3u8
-探索亞洲,https://z88.ubtvfans.com/live/rx1/306/a17e3a975f7614f8cc365f8591ca87a0/index.m3u8
-探索科學,https://z88.ubtvfans.com/live/rx1/343/1c96e35ab1e56f9d6c5ba0a2ff98e47e/index.m3u8
 Nat Geo WILD,https://z88.ubtvfans.com/live/rx6/388/fa128c38d0d9255eaaec931313ca4ab1/index.m3u8
-國家野生（英）,https://z88.ubtvfans.com/live/rx1/1038/55dfbe9cfe3273fdec5554cb3430eee1/index.m3u8
 HGTV,https://z88.ubtvfans.com/live/rx6/1159/172ecd42c7b2bd9e666affbd2ec3cd34/index.m3u8
 CI罪案偵查,https://z88.ubtvfans.com/live/rx3/2303/5527d77ff702d784640fd822facf8cd5/index.m3u8
-探索EVE,https://z88.ubtvfans.com/live/rx3/1036/05e8b60c96fd3d3c8a88389976a9612b/index.m3u8
-TaiwanPlus,https://z88.ubtvfans.com/live/rx6/327/ebb005678777b3ac5065158017054331/index.m3u8
 BBC Lifestyle,https://z88.ubtvfans.com/live/rx1/424/efbc520fede3c2465a725c7544821bda/index.m3u8
-視納華仁紀實,https://z88.ubtvfans.com/live/rx1/91/fbf3ac800330583a2479794ad81148c5/index.m3u8
-美食星球,https://z88.ubtvfans.com/live/rx1/3073/a164ae4bc15e27b3e0ee7f221c908fd3/index.m3u8
-美食星球,https://z88.ubtvfans.com/live/rx1/1360/87ea76a8fc524eb8b7d3bd41b531f834/index.m3u8
-EYE旅遊,https://z88.ubtvfans.com/live/rx1/1494/12d6a963435f08d46af4b54fac42dea9/index.m3u8
 Travel Channel,https://z88.ubtvfans.com/live/rx6/63/0a571738d28fe4e2961c65ded61e2290/index.m3u8
 BBC EARTH,https://z88.ubtvfans.com/live/rx1/97/5eb4dbe359d9f54e5c3679edaa13ec99/index.m3u8
-探索動力DMAX,https://z88.ubtvfans.com/live/rx1/335/d37c0712b079bb3a90d73d96777ce688/index.m3u8
 Pet Club,https://z88.ubtvfans.com/live/rx1/368/f25c20fcbe794a27958fddb774f065b5/index.m3u8
-Globetrotter 環遊旅行家,https://z88.ubtvfans.com/live/rx1/114/3cd789f76d80cfa1ce9f5a570516261f/index.m3u8
 NASA TV,https://z88.ubtvfans.com/live/rx6/25/2cf362960fc3fc1a3a549c3ee55ced5f/index.m3u8
 NASA Live,https://z88.ubtvfans.com/live/rx6/196/02b3ad0e522854b59940ce9340484537/index.m3u8
 TV5MONDE STYLE,https://z88.ubtvfans.com/live/rx1/389/9e350a9c37c460a8fc1f3fe527b678d9/index.m3u8
@@ -1086,26 +1009,20 @@ TLC Canada,https://z88.ubtvfans.com/live/rx4/1262/925e258ef2859084e3c47c8a6e1cd1
 Food Network Canada,https://z88.ubtvfans.com/live/rx4/1265/e656e7b11f7a2e5c63b663cab6b144c1/index.m3u8
 History,https://z88.ubtvfans.com/live/rx3/1413/381cc3f81c47399a643a5b5ad0ce30a7/index.m3u8
 Food Network 英,https://z88.ubtvfans.com/live/rx3/1421/3fd81712bc2e8557bf439b21561ea4e9/index.m3u8
+
+
 少兒頻道,#genre#
 Leigha Marina,https://z88.ubtvfans.com/live/rx6/313/4396273dc2b1fbb9f3e4ef07af3b773c/index.m3u8
-MOMO親子,https://z88.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2c/index.m3u8
-MOMO親子,https://z88.ubtvfans.com/live/rx3/1126/e784303c7c9eed38bde81d3a18ea6a7b/index.m3u8
-東森幼幼（備）,https://z88.ubtvfans.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
-東森幼幼,https://z88.ubtvfans.com/live/rx1/371/0fd95cba4794f8bed187c2bcfa9c47d1/index.m3u8
-東森亞洲呦呦,https://z88.ubtvfans.com/live/rx1/293/25103d9c3ad2b7e2fffb4765fce2b7fb/index.m3u8
 CN Asia,https://z88.ubtvfans.com/live/rx6/2768/a9a814d76242121e4f2cbe66a0ec41b5/index.m3u8
 Nick Jr.,https://z88.ubtvfans.com/live/rx3/50/d99c73beac78ca613cac573ae7650726/index.m3u8
 PAW Patrol,https://z88.ubtvfans.com/live/rx6/2226/84a753c3a559092b39949999414893aa/index.m3u8
 Spidey,https://z88.ubtvfans.com/live/rx6/2270/624cb5cf1dae808a7ba07e188c5dbd2c/index.m3u8
 Dreamworks,https://z88.ubtvfans.com/live/rx1/48/5c5c9aa7907a8da4fe48f9933cf8089d/index.m3u8
-CN卡通,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/index.m3u8
 Curious George,https://z88.ubtvfans.com/live/rx6/173/da2b0d9c158691e834593898f1970126/index.m3u8
 Gabby Dollhouse,https://z88.ubtvfans.com/live/rx6/1344/ff71c8464149758a6fc628ce4c87c479/index.m3u8
 Animax,https://z88.ubtvfans.com/live/rx1/59/cb49382c9457a5f3586f9e0635594838/index.m3u8
 Bluey,https://z88.ubtvfans.com/live/rx6/143/8ff64aedd8f3248ca51b69a7c52feab0/index.m3u8
-靖洋卡通,https://z88.ubtvfans.com/live/rx1/348/f46f118edd38e34cf5f65affac4835dd/index.m3u8
 YOYO TV,https://z88.ubtvfans.com/live/rx6/340/02ccfece6444b964f8996cbe56ee28a5/index.m3u8
-靖天卡通,https://z88.ubtvfans.com/live/rx1/344/f577021ae68af926ae8d3a80049e4541/index.m3u8
 i-Fun動漫,https://z88.ubtvfans.com/live/rx2/1127/fb9c792790b1ed7dd6ccccbd5895b458/index.m3u8
 i-Fun動漫,https://z88.ubtvfans.com/live/rx1/2802/ea90ad21d35b54b28198d9fac02fba8a/index.m3u8
 達文西,https://z88.ubtvfans.com/live/rx3/68/362719c5d92bd192ea01bf1248e4a7fc/index.m3u8
@@ -1128,9 +1045,9 @@ Beep Beep,https://z88.ubtvfans.com/live/rx6/3015/f270d739f6e0bc11bb2095230e4563d
 Super Heroes,https://z88.ubtvfans.com/live/rx6/2978/ce1f4fa827249995f5753e058545d453/index.m3u8
 Winnie,https://z88.ubtvfans.com/live/rx6/3018/19d17c2b1a13b95b49abefe2cb0e1726/index.m3u8
 Bebefinn,https://z88.ubtvfans.com/live/rx6/489/61e04f306677de01b1b719e8a56e7352/index.m3u8
+
+
 音樂宗教,#genre#
-好消息,https://z88.ubtvfans.com/live/rx1/104/ee07571be25fcadb0ba2b662aef072db/index.m3u8
-好消息2,https://z88.ubtvfans.com/live/rx1/363/4f45e054be8b9d43aef8e866812fd1dd/index.m3u8
 輕柔音樂,https://z88.ubtvfans.com/live/rx6/393/263500d6c93cbcf2bf751cd085acbfd0/index.m3u8
 Water Sounds,https://z88.ubtvfans.com/live/rx6/496/709bc467cf8a0cc6bb0fe36a886cf7d5/index.m3u8
 Hits Radio,https://z88.ubtvfans.com/live/rx6/4/51324029bec78bf0503e147a2116bf7b/index.m3u8
@@ -1148,7 +1065,6 @@ Eight FM,https://z88.ubtvfans.com/live/rx6/1021/61d35c061c716d67cd7302aa875dbdf5
 Coffee Jazz,https://z88.ubtvfans.com/live/rx6/1019/8d5427dfe678b8cf87a050fdbc78208b/index.m3u8
 Space Ambient,https://z88.ubtvfans.com/live/rx6/1005/2a6e9bbe0d3010cd16f46b5e04927a58/index.m3u8
 Rolling Cam Venice,https://z88.ubtvfans.com/live/rx6/1007/3ecb1930e55701f32e4e0cee39d91ced/index.m3u8
-大愛一臺,https://z88.ubtvfans.com/live/rx6/11/79c9c9e7e7068753ca822e3598e19eec/index.m3u8
 大愛二臺,https://z88.ubtvfans.com/live/rx6/197/903a28d4e38b90dd8b75f5402dbb1fb4/index.m3u8
 Baroque Live Music,https://z88.ubtvfans.com/live/rx6/1027/c211f3d6fe293e4d7152ac2cee5a8e2b/index.m3u8
 唯心電視,https://z88.ubtvfans.com/live/rx1/1150/0021ffaf534756bb58442f068eff051a/index.m3u8
@@ -1169,12 +1085,265 @@ SupremeMasterTV,https://z88.ubtvfans.com/live/rx6/323/d5baa4b1937a9f8e30f811482c
 鳥鳴音樂,https://z88.ubtvfans.com/live/rx6/1407/894306f2b41aa85e2cdb6fd0e1e367d0/index.m3u8
 GRASS COTTON,https://z88.ubtvfans.com/live/rx6/3221//index.m3u8
 Heavenly Harp Music,https://z88.ubtvfans.com/live/rx6/2540/6b27c84e9d8b03571ed8e0638c190d0f/index.m3u8
+
+
+新馬頻道,#genre#
+CNA 24,https://z88.ubtvfans.com/live/rx6/15/8fa4bc37b13aef429e32aec04a2b7a5b/index.m3u8
+AEC,https://z88.ubtvfans.com/live/rx3/433/2d19cd6ecf75dc80b839369e166a9d8f/index.m3u8
+AEC,https://z88.ubtvfans.com/live/rx3/2745/9e39f15f04e377d91b58e759bca6be30/index.m3u8
+TV2,https://z88.ubtvfans.com/live/rx3/436/8bf44d9315583e5fa7290b319230ec00/index.m3u8
+TV3,https://z88.ubtvfans.com/live/rx3/437/5419036fb97b8a043fa20875ff4f7293/index.m3u8
+TV8,https://z88.ubtvfans.com/live/rx3/442/87b78cbcd3a3385f2866c3838342f4ca/index.m3u8
+Arena,https://z88.ubtvfans.com/live/rx3/1172/4215632da030da54fcfc87b822cf0bec/index.m3u8
+小太陽,https://z88.ubtvfans.com/live/rx3/443/3fc11abdee8173f3f612787147a99e8d/index.m3u8
+Channel8,https://z88.ubtvfans.com/live/rx3/142/499c272f7079d3eda2a6b28a30a5709d/index.m3u8
+天映頻道,https://z88.ubtvfans.com/live/rx3/441/4b02ebfe67b0d934aaae5b94f25d1b95/index.m3u8
+KIX,https://z88.ubtvfans.com/live/rx3/430/99f42c64a73fe68c9f265d8eebd3db23/index.m3u8
+全佳,https://z88.ubtvfans.com/live/rx3/427/0f7330dfa5e5c9489e056561b2a4122c/index.m3u8
+歡喜,https://z88.ubtvfans.com/live/rx3/432/fdaa767379839410dd2b934cddf323b1/index.m3u8
+TVN,https://z88.ubtvfans.com/live/rx3/1170/8bd67d195c48b766ff7899ee309e25dd/index.m3u8
+CRICKET,https://z88.ubtvfans.com/live/rx3/1173/b9032b89cc136d03888b97ebd36f03aa/index.m3u8
+華麗,https://z88.ubtvfans.com/live/rx3/429/0dde9804e5414c5bb68e1c4e99e82e2c/index.m3u8
+Astro AWANI,https://z88.ubtvfans.com/live/rx6/2741/4d44e82ab85b5336ed5f69e0566480b7/index.m3u8
+Astro Awani,https://z88.ubtvfans.com/live/rx3/440/64d347731b3e31ee397bf94ec5fc2f49/index.m3u8
+TV9,https://z88.ubtvfans.com/live/rx3/438/490f6668a0ffe54cf9ed88524e832efd/index.m3u8
+NTV7,https://z88.ubtvfans.com/live/rx3/439/6b72e5cc931e378d31f285f8e8ee2231/index.m3u8
+AOD,https://z88.ubtvfans.com/live/rx3/428/cb5370756c4b55b25c1bc5ac92ff661b/index.m3u8
+TV1,https://z88.ubtvfans.com/live/rx3/435/868c2ec24783b45c303f033f99a48763/index.m3u8
+ASSP3_HD,https://z88.ubtvfans.com/live/rx3/1072/c67b9eaba4040f95114b5ab2e813b322/index.m3u8
+BOO,https://z88.ubtvfans.com/live/rx3/1437/c54aa058469a41d222db93856df8fd1f/index.m3u8
+CCM,https://z88.ubtvfans.com/live/rx3/1438/3614bb0fc967e939fd949c912841148a/index.m3u8
+KIX,https://z88.ubtvfans.com/live/rx3/1446/c494431bafc147be554159e71fc3ca27/index.m3u8
+PRIMA,https://z88.ubtvfans.com/live/rx3/1448/3fbb28a48359635ac46f4cbcbbede14b/index.m3u8
+sony_one,https://z88.ubtvfans.com/live/rx3/1451/454b89745f10e4ce8f4305eb8a3f23a8/index.m3u8
+TV8,https://z88.ubtvfans.com/live/rx3/1455/cd09b5c601e58ee0aed650c4ad64bc3e/index.m3u8
+Channel5,https://z88.ubtvfans.com/live/rx3/141/f985c0a7f6dd77294710deea414bc2b8/index.m3u8
+AFN,https://z88.ubtvfans.com/live/rx3/195/16eaeeae098e49d4182e9e5b5dead592/index.m3u8
+Channel U,https://z88.ubtvfans.com/live/rx3/1077/1a3f653f1fd254976baa6003ca9abf27/index.m3u8
+Vasantham,https://z88.ubtvfans.com/live/rx3/1078/d3542e993c33c551e61ce8bb67f547f5/index.m3u8
+Suria,https://z88.ubtvfans.com/live/rx4/1076/14daefa2383cb23fb2f439f52ee1e1d5/index.m3u8
+OKEY,https://z88.ubtvfans.com/live/rx3/1075/8e3de68ea08ff1957cda7b44479179ab/index.m3u8
+AXN,https://z88.ubtvfans.com/live/rx3/1044/40b9b1e709c0b85254f3fd3198f55b30/index.m3u8
+BNC,https://z88.ubtvfans.com/live/rx3/1045/b3a0b442b617cb21d536709c9945ec0b/index.m3u8
+
+
+美國頻道,#genre#
+Sinovision,https://z88.ubtvfans.com/live/rx3/1101/be621502c23b0b5c0302a2f5e1233ccc/index.m3u8
+TLC,https://z88.ubtvfans.com/live/rx3/1206/296aead782b0784427bcaa08367a05ef/index.m3u8
+FOX,https://z88.ubtvfans.com/live/rx3/1218/474f36b8c7bfc435538b3fd5a80611c2/index.m3u8
+FOX NOW,https://z88.ubtvfans.com/live/rx6/1506/cfc626264f38682597270cc7fc6b1c35/index.m3u8
+CNN USA,https://z88.ubtvfans.com/live/rx3/1102/71291fe5a093ef71b4bb80f27a10ab42/index.m3u8
+CNN,https://z88.ubtvfans.com/live/rx3/1507/0ce0a477c69bc94407002f9c1ad707da/index.m3u8
+Msnbc,https://z88.ubtvfans.com/live/rx3/1541/7fa163e4ac7d32f013df11d17120a539/index.m3u8
+MSNBC,https://z88.ubtvfans.com/live/rx3/1104/87964c069aeefbb10e56d81f7ec4a613/index.m3u8
+Newsmax2,https://z88.ubtvfans.com/live/rx6/156/b217192271210ee2c709425b78bf06ac/index.m3u8
+Yahoo Finance,https://z88.ubtvfans.com/live/rx6/2541/58efb09539281d33bbbfb87b50f8285d/index.m3u8
+ABC News,https://z88.ubtvfans.com/live/rx6/1508/40b8e4b1c8ce649518578c86f7b790e0/index.m3u8
+NBC,https://z88.ubtvfans.com/live/rx3/1217/e2b794e82d6edcdaea6cccf090351bcb/index.m3u8
+NBC,https://z88.ubtvfans.com/live/rx3/1509/56b3a722617bc11e384eb7d8bf89bd0d/index.m3u8
+Fox Business,https://z88.ubtvfans.com/live/rx3/1511/2f738fe19d976b91234028b3c4b6fd56/index.m3u8
+Fox Business,https://z88.ubtvfans.com/live/rx3/1108/612fcfde7230d4cc3763e1069080b06c/index.m3u8
+FOX Weather,https://z88.ubtvfans.com/live/rx6/2742/c302981d3fad43db2ba9313b473de2f4/index.m3u8
+E!,https://z88.ubtvfans.com/live/rx3/1222/aaf614e97ddb63e36439bd8195e7e26f/index.m3u8
+E,https://z88.ubtvfans.com/live/rx3/1536/543ce5d0cac372943572c1f783e7d480/index.m3u8
+Hbo East,https://z88.ubtvfans.com/live/rx3/1513/b553a9c51e6773994e87df8261d424dd/index.m3u8
+HBO Family,https://z88.ubtvfans.com/live/rx3/1113/3f35d526fe83d1dddcf0dd0109c037f4/index.m3u8
+HBO Comedy,https://z88.ubtvfans.com/live/rx3/1109/a7ee4ad584c9dd93582010d589f29d17/index.m3u8
+Hbo Family,https://z88.ubtvfans.com/live/rx3/1512/bab55237da5fa9a49669523e5f1f5ef3/index.m3u8
+HBO Signature,https://z88.ubtvfans.com/live/rx3/1112/8bcf659207ab72c3bfab564b71fb04d6/index.m3u8
+HBO 2 US,https://z88.ubtvfans.com/live/rx3/1111/e3d7e08d78ab650a8ac78da6bbdbcea9/index.m3u8
+Hbo One,https://z88.ubtvfans.com/live/rx3/1514/bfc945fb3a8fd44aa4007cdc8c01eaee/index.m3u8
+HBO 1 US,https://z88.ubtvfans.com/live/rx3/1110/efd6bef200c51e825bd421bbbe4085ad/index.m3u8
+Tennis chan,https://z88.ubtvfans.com/live/rx3/1519/6e76f06bb25deed49d124b64a0dee940/index.m3u8
+law and crime,https://z88.ubtvfans.com/live/rx3/1540/c0a0e45e8426dadb0d57236cf7fb4387/index.m3u8
+Goltv,https://z88.ubtvfans.com/live/rx3/1542/791c8f185811aa05f0947ae5d45a6eec/index.m3u8
+TBS,https://z88.ubtvfans.com/live/rx3/1545/4a974af1f875ba585d54abec48b28984/index.m3u8
+MTV,https://z88.ubtvfans.com/live/rx3/1546/117cc0ab1399a2e259ca99f2b92d751e/index.m3u8
+FX,https://z88.ubtvfans.com/live/rx3/1551/d71455e5768399d85c9e3ac59256443b/index.m3u8
+CNBC,https://z88.ubtvfans.com/live/rx3/1555/f5bc3f7b2b2c9a848d20a5b9bceddcd0/index.m3u8
+CNBC,https://z88.ubtvfans.com/live/rx3/1106/509f91de6dd869be1a2a1d7964fea7ac/index.m3u8
+CW,https://z88.ubtvfans.com/live/rx3/1557/b4fbe2c39d6ea01f72bdf65804010d4e/index.m3u8
+CW,https://z88.ubtvfans.com/live/rx3/1220/a3711d8cc61bc7b91558346c2fe4c521/index.m3u8
+Animal,https://z88.ubtvfans.com/live/rx3/1558/ba48e76a4097d7072b29ef0769a80b3f/index.m3u8
+Animal Planet,https://z88.ubtvfans.com/live/rx3/1203/33d1306fcabb2d652981fccce7f85d77/index.m3u8
+Freeform,https://z88.ubtvfans.com/live/rx3/1560/543a309a2326c7e07ca639bfe1c014ce/index.m3u8
+Investigation Discovery,https://z88.ubtvfans.com/live/rx3/1564/d4a2cb0a6c5710200e5ebdd5f7cfa5cc/index.m3u8
+Lifetime Movie Network,https://z88.ubtvfans.com/live/rx3/1565/4e862d5ae1450b232ee58feb76961292/index.m3u8
+Showtime,https://z88.ubtvfans.com/live/rx3/1568/4649c6e38d91e8d97d8b2809b37f2891/index.m3u8
+StarZ,https://z88.ubtvfans.com/live/rx3/1569/a43929d0298716a031c1d36f81139071/index.m3u8
+USA Network,https://z88.ubtvfans.com/live/rx3/1571/a4d3f2979f02a98ad9b9afd9442aa4d9/index.m3u8
+Right Now,https://z88.ubtvfans.com/live/rx6/144/3285172f6e8c7c79e730dac7af3ee9c7/index.m3u8
+30A TV,https://z88.ubtvfans.com/live/rx3/1052/66876bae2ec59cbe45cffbfa9cb81b45/index.m3u8
+Atlanta,https://z88.ubtvfans.com/live/rx3/1055/68e9a784c01e0ef53bbbcff73b430e81/index.m3u8
+Panama City,https://z88.ubtvfans.com/live/rx3/1056/4a241756d0bc86ff5cc7dc710c24e0b9/index.m3u8
+Pawleys Island,https://z88.ubtvfans.com/live/rx3/1057/b88ee7d4f9b2dfa1c977389136e59304/index.m3u8
+HGTV,https://z88.ubtvfans.com/live/rx3/2311/72e3628071a1ae8c37350862b0f39336/index.m3u8
+National Geographic,https://z88.ubtvfans.com/live/rx3/2312/a603a15093119ee950d1be46dbf3d2f1/index.m3u8
+Nat Geo Wild,https://z88.ubtvfans.com/live/rx3/1521/e464f2b539300f62409aaf17807dd31c/index.m3u8
+Nat Geo Wild,https://z88.ubtvfans.com/live/rx3/2313/dc4d880705e4db5b333c728c560bdd11/index.m3u8
+Cinemax,https://z88.ubtvfans.com/live/rx3/2314/b08bf4f6f8bf5bdf15c2d9f61078146a/index.m3u8
+IFC,https://z88.ubtvfans.com/live/rx3/1362/f7735ba9b896da1b73ffd3f71f87f41c/index.m3u8
+ESPN NEWS,https://z88.ubtvfans.com/live/rx3/1363/919eb12b22e57fac1ab0422663de3ded/index.m3u8
+CBS Sport,https://z88.ubtvfans.com/live/rx3/1364/58be65fd98ee8646883ef9daede8c351/index.m3u8
+Fight Box,https://z88.ubtvfans.com/live/rx3/1365/3f4042b7ba79816dc900be17728fce06/index.m3u8
+Outdoor,https://z88.ubtvfans.com/live/rx3/1368/689ba562d9cdb0ea436b45d70047a645/index.m3u8
+SEC Network,https://z88.ubtvfans.com/live/rx3/1369/461747063ee48fce947c98a8b049085e/index.m3u8
+PBS Kids,https://z88.ubtvfans.com/live/rx3/1370/d9670ed66e6d99619867a0036fad6e39/index.m3u8
+WGN,https://z88.ubtvfans.com/live/rx3/1372/068ab17541c5e36c907513bde7959e42/index.m3u8
+FX,https://z88.ubtvfans.com/live/rx3/1373/5fcfc63b37d8547b5c70b11b8f07ccf9/index.m3u8
+Fuse,https://z88.ubtvfans.com/live/rx3/1376/b8e02acb82cdde6cd833e90c01b7edfb/index.m3u8
+FX Movie,https://z88.ubtvfans.com/live/rx3/1380/8859a8ea8bd8877ac6b41c259281c757/index.m3u8
+Comet,https://z88.ubtvfans.com/live/rx3/1381/916949eec546a308265e17db9a8d2264/index.m3u8
+5 Star Max,https://z88.ubtvfans.com/live/rx3/1174/a9680f70e816ddfb5b763b54de04ea68/index.m3u8
+Action Max,https://z88.ubtvfans.com/live/rx3/1175/8b27c0902fda6e1ff2f2ca6077e50b4e/index.m3u8
+MoreMax,https://z88.ubtvfans.com/live/rx3/1176/1c6d72b168a7dc659aec46ced48d1fa8/index.m3u8
+Hallmark Movie,https://z88.ubtvfans.com/live/rx3/1179/b34f1011fc3e13a7a3a35cd7f8b55574/index.m3u8
+TCM,https://z88.ubtvfans.com/live/rx3/1180/99d4371654cef668910352444ab6aeb6/index.m3u8
+Starz in Black,https://z88.ubtvfans.com/live/rx3/1181/0d51b6eefd15d1ba3e1479e438f26969/index.m3u8
+Fight network,https://z88.ubtvfans.com/live/rx3/1527/88c36fd9d3dcffb0628ef0b5b551c5d3/index.m3u8
+NFL Network,https://z88.ubtvfans.com/live/rx3/1189/b50d0a887fedf6de9109c3b9bcc385d9/index.m3u8
+Food network 美,https://z88.ubtvfans.com/live/rx3/1526/1c301859a671de95d113103695467255/index.m3u8
+Cartoon Network US,https://z88.ubtvfans.com/live/rx3/1211/28866767ab5bb79ac1105c3918b957d2/index.m3u8
+USA Network,https://z88.ubtvfans.com/live/rx3/1230/5356c1d4f2cbde9d7c158b2948e1052d/index.m3u8
+Diy network,https://z88.ubtvfans.com/live/rx3/1528/88f786f1c7140d95c0e1c21122d0c813/index.m3u8
+Golf,https://z88.ubtvfans.com/live/rx3/1190/5e5c6022b4e31599b5ca055ace634077/index.m3u8
+WWE,https://z88.ubtvfans.com/live/rx3/1191/ba4c8fb5cc6cd69a3496bc3317edd557/index.m3u8
+UFC PASS,https://z88.ubtvfans.com/live/rx3/1192/7b1dd998989c9d23bef768744a2bf6fb/index.m3u8
+Bein Sports USA,https://z88.ubtvfans.com/live/rx3/1195/ab3dcefe39410b8196ea05703c3e58be/index.m3u8
+ESPN U,https://z88.ubtvfans.com/live/rx3/1196/f9ddd771abfb1dcb846c024130816b45/index.m3u8
+Discovery Channel,https://z88.ubtvfans.com/live/rx3/1198/827760256c87c111526f82946864c350/index.m3u8
+National Geographic,https://z88.ubtvfans.com/live/rx3/1200/79d38cfcfc64b16fe5e19385b94694ee/index.m3u8
+History,https://z88.ubtvfans.com/live/rx3/1204/8dbeb2b77caf7f96a141072f7507e5d2/index.m3u8
+SMITHSONIAN,https://z88.ubtvfans.com/live/rx3/1205/b962df0263170c293bac19cadcd3388d/index.m3u8
+Disney,https://z88.ubtvfans.com/live/rx3/1208/6db66813ac171f1c1f02c6c71d7e55b9/index.m3u8
+Disney XD,https://z88.ubtvfans.com/live/rx3/1209/8bcd5d8f8e8839e42d58ccf787600338/index.m3u8
+Disney Junior,https://z88.ubtvfans.com/live/rx3/1210/f58216dd55e6469ef0f91f20c245596f/index.m3u8
+Nick Junior,https://z88.ubtvfans.com/live/rx3/1213/671518e7dece6b4f2fb959b3f35335f2/index.m3u8
+Boomerang,https://z88.ubtvfans.com/live/rx3/1214/daaa9313f5db1c24a78505ae4dc9ac84/index.m3u8
+Universal Kids,https://z88.ubtvfans.com/live/rx3/1215/434967b138bcea29085ae897edf9beb5/index.m3u8
+KCBS（原CBS）,https://z88.ubtvfans.com/live/rx3/1219/d58a1e1943b3390d8f31077c78c8e7e4/index.m3u8
+LifeTime US,https://z88.ubtvfans.com/live/rx3/1226/a98360bc8276ed5a26208eb9ad28ef0e/index.m3u8
+Arts and Entertainment,https://z88.ubtvfans.com/live/rx3/1227/fabce4f165c2eacc6cb0ca309e422672/index.m3u8
+Hallmark,https://z88.ubtvfans.com/live/rx3/1535/e95656690b01873e456d2a48fc8e9230/index.m3u8
+WE TV,https://z88.ubtvfans.com/live/rx3/1229/8c01bbad0de4a9cfe6047b4129b2fc2a/index.m3u8
+VH-1,https://z88.ubtvfans.com/live/rx3/1233/44c30bc56f282c4fdd1e524a8bf1f200/index.m3u8
+OWN US,https://z88.ubtvfans.com/live/rx3/1235/b5dfd9cde3ac4ab4086f4868286a7bb0/index.m3u8
+GSN,https://z88.ubtvfans.com/live/rx3/1236/9d81ca913b5ee34b1ec16eb8fafd4bb1/index.m3u8
+TVG,https://z88.ubtvfans.com/live/rx3/1543/ac68bb750837cb84c24433b66b0bb5db/index.m3u8
+Cooking Channel,https://z88.ubtvfans.com/live/rx3/1238/0d11c9b1fb295e52df6ae63bf2b2ce15/index.m3u8
+Mlb net,https://z88.ubtvfans.com/live/rx3/1523/87bc702247b5420d9043411eb8378056/index.m3u8
+FYI,https://z88.ubtvfans.com/live/rx3/1240/36932c5e9077764d39abd138e58a08e5/index.m3u8
+BabyTV,https://z88.ubtvfans.com/live/rx3/1241/fbf1293eb2e91b7b314b997b21d8685a/index.m3u8
+ABC News,https://z88.ubtvfans.com/live/rx3/1516/185ae60d94e0e0a7f3c5112ee05adadb/index.m3u8
+The Weather Nation,https://z88.ubtvfans.com/live/rx3/1105/30dedd5a19a01d0c4368e3ca7ef013eb/index.m3u8
+Cinemax,https://z88.ubtvfans.com/live/rx3/1518/782d29517c7946020aa8d6052cee6357/index.m3u8
+History,https://z88.ubtvfans.com/live/rx3/1530/708516ed35f109f60fb178dc0c2570b0/index.m3u8
+Bloomberg,https://z88.ubtvfans.com/live/rx3/1107/30f860369332cd7e87b4ea254ffbd260/index.m3u8
+Fox News,https://z88.ubtvfans.com/live/rx3/1510/13be6543db63763492804252f6c401ac/index.m3u8
+Travel chan,https://z88.ubtvfans.com/live/rx3/1515/9fda5d202219d4ba50bd7cc570cb0707/index.m3u8
+Discovery,https://z88.ubtvfans.com/live/rx3/1529/881b8da03aeb0aace98b994aaddffb02/index.m3u8
+ShowTime 1,https://z88.ubtvfans.com/live/rx3/1114/e623df3ea6406d61b9eb015d1d8a486d/index.m3u8
+NHL net,https://z88.ubtvfans.com/live/rx3/1534/2ab9bfaccbaf66c8ff88b0b9e0944268/index.m3u8
+ShowTime 2,https://z88.ubtvfans.com/live/rx3/1115/d18d15c503b3cb1d740c8a8056300372/index.m3u8
+ShowCase US,https://z88.ubtvfans.com/live/rx3/1116/64bc20318cdc5917cc0f1ff7a332644d/index.m3u8
+Starz Comedy,https://z88.ubtvfans.com/live/rx3/1118/447a71029feb5c50e4638cff92627143/index.m3u8
+HGTV,https://z88.ubtvfans.com/live/rx3/1538/ded5bfd722fc798d47ea4f2793c4b7bf/index.m3u8
+Starz Edge,https://z88.ubtvfans.com/live/rx3/1119/e1d35f46d82afe6688b560a7289199ed/index.m3u8
+Starz Kids Family,https://z88.ubtvfans.com/live/rx3/1120/03a6f7b8a8a5cefe610e804115f62c0d/index.m3u8
+World Fishing net,https://z88.ubtvfans.com/live/rx3/1531/cdb6c8412e671fb5e5afdc0e319b2d6f/index.m3u8
+Starz Encore,https://z88.ubtvfans.com/live/rx3/1121/0a8fa6bdfc3ebf3e119b72049ec47d70/index.m3u8
+Starz Encore Westerns,https://z88.ubtvfans.com/live/rx3/1122/25d557b6b8139d36c925474798e3b9f3/index.m3u8
+Bravo,https://z88.ubtvfans.com/live/rx3/1525/7eb9274e00d3c42c03ce6f22f5f74571/index.m3u8
+Babytv,https://z88.ubtvfans.com/live/rx3/1522/9d198dc883553f6e24abc9bec6f499ac/index.m3u8
+Nat Geo,https://z88.ubtvfans.com/live/rx3/1520/132c6df39a2be6b7a34c8f61b86c873c/index.m3u8
+WFLD-DT Fox 32.1,https://z88.ubtvfans.com/live/rx3/2431/90b1b3bba75518bb4de8be6b4c90f626/index.m3u8
+CBS2-WBBM-TV,https://z88.ubtvfans.com/live/rx3/2822/2ce8b030a6f32d7ca3030778cb28f318/index.m3u8
+ken5,https://z88.ubtvfans.com/live/rx3/2429/ec85150b38396d3ad9b8a086d432c2ed/index.m3u8
+VH1,https://z88.ubtvfans.com/live/rx3/1532/29e1b856f07b95e18bc79cce37548f64/index.m3u8
+woai,https://z88.ubtvfans.com/live/rx3/2430/93178e8f0a20fe3f39b34a4e36868fc3/index.m3u8
+TNT,https://z88.ubtvfans.com/live/rx3/1524/c4ac4270be08a04afaeb129bbf098a98/index.m3u8
+ksat12,https://z88.ubtvfans.com/live/rx3/2428/e0902011d15c1642ee6d00f75ebfee8d/index.m3u8
+Syfy,https://z88.ubtvfans.com/live/rx3/1537/091885eb490ed1db9379931e26297e6b/index.m3u8
+
+
+加拿大,#genre#
+The Weather Network,https://z88.ubtvfans.com/live/rx3/1251/1f4185e77e8b5f5fa1b8d6b3d0078891/index.m3u8
+CP 24 Canada,https://z88.ubtvfans.com/live/rx3/1247/1ee88c8bc1c3e39842c2a3ceaa160ded/index.m3u8
+CBC,https://z88.ubtvfans.com/live/rx4/1252/3ddd565e46374991d0dd3581e090e175/index.m3u8
+CTV,https://z88.ubtvfans.com/live/rx3/1253/0250d97a890ffad686a524f3be9cede4/index.m3u8
+CHCH,https://z88.ubtvfans.com/live/rx3/1256/d8c895996a56cb852f50ae4cd4fe8f98/index.m3u8
+CTV 2,https://z88.ubtvfans.com/live/rx3/1257/7cd75b2af7e124f3f10b72776491f6a4/index.m3u8
+OMNI 1,https://z88.ubtvfans.com/live/rx4/1258/be9df7245ed38aa9dc460487162a1ffa/index.m3u8
+OMNI 2,https://z88.ubtvfans.com/live/rx3/1259/35f103615bee5974cd9202f5e54f0196/index.m3u8
+TVO,https://z88.ubtvfans.com/live/rx4/1260/f4a50dc97bb6161d3d0dc822fd6b41d2/index.m3u8
+Discovery Canada,https://z88.ubtvfans.com/live/rx4/1261/f90c78efbdf871dce899cb1567145fc7/index.m3u8
+Love Nature,https://z88.ubtvfans.com/live/rx3/1263/2ee2a85a701bcd8faa3df3bf5d2180b8/index.m3u8
+Cooking Channel Canada,https://z88.ubtvfans.com/live/rx3/1266/b9d5a360c02c7100d2e18db15fb48280/index.m3u8
+CTV Comedy,https://z88.ubtvfans.com/live/rx3/1267/347206b61c65768e3ed6755015ab5a1e/index.m3u8
+CTV Sci-Fi,https://z88.ubtvfans.com/live/rx4/1268/98fc64581bcb6041658ba1954f858c66/index.m3u8
+Crave 1,https://z88.ubtvfans.com/live/rx3/1269/62b9c6dba40cdd16faa6239999a46d82/index.m3u8
+Crave 2,https://z88.ubtvfans.com/live/rx4/1270/b4b723ecd16a8c840fc0ae1b0e07f8c8/index.m3u8
+Crave 3,https://z88.ubtvfans.com/live/rx4/1271/6986491f1e025a0df1d6a774e0bca73a/index.m3u8
+TreeHouse,https://z88.ubtvfans.com/live/rx3/1283/5f3ee4fa96896906b1370a344eb6505f/index.m3u8
+Teletoon,https://z88.ubtvfans.com/live/rx4/1284/ba60d7e9b3e3647da71036aadeb317e7/index.m3u8
+YTV,https://z88.ubtvfans.com/live/rx3/1285/6a471ce047aaff86981fef89ee8ca359/index.m3u8
+Sportsnet P,https://z88.ubtvfans.com/live/rx4/3074/573515e4a549e51d092e7a9b76105c33/index.m3u8
+Global,https://z88.ubtvfans.com/live/rx3/1254/86a28f7403fe993281392c82164037ce/index.m3u8
+City,https://z88.ubtvfans.com/live/rx4/1255/e6577422a910e4afb2c1abfa6a9665e0/index.m3u8
+HGTV Canada,https://z88.ubtvfans.com/live/rx4/1264/1ff0f01feedbd14201755472caf7c518/index.m3u8
+Business Network News,https://z88.ubtvfans.com/live/rx4/1250/e2ce3217a9632ab63c1742e192bd94e7/index.m3u8
+CTV News,https://z88.ubtvfans.com/live/rx4/1249/53e336806040332d201775d186a96f90/index.m3u8
+CBC News,https://z88.ubtvfans.com/live/rx4/1248/05a4509c5daf39f946dc2a3796f9aab1/index.m3u8
+Crave 4,https://z88.ubtvfans.com/live/rx4/1272/7b8eb211a915b519355836f176b8e543/index.m3u8
+
+
+英國頻道,#genre#
+TalkTV,https://z88.ubtvfans.com/live/rx6/309/3aa5f4723a63fcbaaf52711a6a3bc5a2/index.m3u8
+BBC one,https://z88.ubtvfans.com/live/rx3/1382/d68c20b4e9ce94a17ff5487a4bd075dd/index.m3u8
+BBC four cbeebies,https://z88.ubtvfans.com/live/rx3/1383/ba749a5d061144fa51250d116cd10759/index.m3u8
+BBC three cbbc,https://z88.ubtvfans.com/live/rx3/1384/b3ac7d0fbe79bd1ccfc4e13d75c6588a/index.m3u8
+BBC two,https://z88.ubtvfans.com/live/rx3/1385/683373c0227fd2a7d132b5c477ea3c74/index.m3u8
+True entertainment,https://z88.ubtvfans.com/live/rx3/1386/62b5c207db8a3a2903a6e6004b39b82a/index.m3u8
+Discovery turbo,https://z88.ubtvfans.com/live/rx3/1387/ab030cea9e1a9a16087b5a2c3b15b508/index.m3u8
+sky_docu_hd,https://z88.ubtvfans.com/live/rx3/1388/0fb1564dc345c1a4de41b79cd44f484e/index.m3u8
+BBC red button,https://z88.ubtvfans.com/live/rx3/1393/9b698fe9349a384947d141351a0c598c/index.m3u8
+E4,https://z88.ubtvfans.com/live/rx3/1397/1e32127042dc75e1f54fb1a772bbc64f/index.m3u8
+Alibi,https://z88.ubtvfans.com/live/rx3/1398/f1392a98c897ded1d86c05f346db296a/index.m3u8
+5 star,https://z88.ubtvfans.com/live/rx3/1400/adb1316a2329578ea5bc65327bb98926/index.m3u8
+Itv 1,https://z88.ubtvfans.com/live/rx3/1401/1b97d02553c4f1efa27ccd8bf7026b43/index.m3u8
+Itv 2,https://z88.ubtvfans.com/live/rx3/1402/e7cf50edefdf8c739538773eec6f639e/index.m3u8
+Itv 3,https://z88.ubtvfans.com/live/rx3/1403/fabc2ba273d362386938751ca29108cb/index.m3u8
+Itv 4,https://z88.ubtvfans.com/live/rx3/1404/5a41397eb3bd38c781cefe8114f129f3/index.m3u8
+discovery channel,https://z88.ubtvfans.com/live/rx3/1406/506aa496d28042e578657d9b2e956e15/index.m3u8
+Comedy Central,https://z88.ubtvfans.com/live/rx3/1408/91d1ae51ed8d1c10b5e8df470a767d1c/index.m3u8
+Rte1,https://z88.ubtvfans.com/live/rx3/1409/4445cdecacecebcdbcb3cfc4f1036c3d/index.m3u8
+Rte2,https://z88.ubtvfans.com/live/rx3/1410/4511dd28564229da742a828f3e8ced36/index.m3u8
+Premiersp,https://z88.ubtvfans.com/live/rx3/1411/aca7d7d8103bcc720d7dad6a7071f73b/index.m3u8
+CNBC,https://z88.ubtvfans.com/live/rx3/1414/02e8be704b6fea1a0b884dc17d982500/index.m3u8
+Aljazeera,https://z88.ubtvfans.com/live/rx3/1415/314c2afb786ef1b13bfe8328ee7634ef/index.m3u8
+Tv3 virgin,https://z88.ubtvfans.com/live/rx3/1416/096107e3e253b180c6c3b0a9ac8e5b3f/index.m3u8
+Home,https://z88.ubtvfans.com/live/rx3/1417/a8b3169db1b2ad2351cf8a9952baf9f2/index.m3u8
+Dave,https://z88.ubtvfans.com/live/rx3/1418/369106a6cf7cac797e3f3944a249d418/index.m3u8
+Film 4,https://z88.ubtvfans.com/live/rx3/1419/ffba19b4485ead15310abf5fe555cac3/index.m3u8
+More 4,https://z88.ubtvfans.com/live/rx3/1420/f35b2e93c3f60f2863ccc116d081abc5/index.m3u8
+Gold,https://z88.ubtvfans.com/live/rx3/1422/32d66b69b8ce94bbda49c157a42a0396/index.m3u8
+Syfy,https://z88.ubtvfans.com/live/rx3/1423/cc817c3d5f47f67ceccc9fce2aeab894/index.m3u8
+discovery science,https://z88.ubtvfans.com/live/rx3/1424/ed4fc5ede5f9d7693a832a0392b92212/index.m3u8
+Discovery investigation,https://z88.ubtvfans.com/live/rx3/1426/04caeb27bcf09f1b965655a2e3262d79/index.m3u8
+Tg4,https://z88.ubtvfans.com/live/rx3/1427/53f2fda530b223e5b4c8aa6ec3fa57c0/index.m3u8
+Real live,https://z88.ubtvfans.com/live/rx3/1428/4e2e6d502affe3f23b2ecc7b1192bcaa/index.m3u8
+Cartoonito,https://z88.ubtvfans.com/live/rx3/1429/d22385a2396f7d856f0b21f5b29c096a/index.m3u8
+Watch,https://z88.ubtvfans.com/live/rx3/1430/a5a324f6340ba9dba799fbd0b7621c46/index.m3u8
+Challenge,https://z88.ubtvfans.com/live/rx3/1431/03226d0c3b0ce99767cc1ef83a90e1ec/index.m3u8
+Pick,https://z88.ubtvfans.com/live/rx3/1433/ca48b4b2decf2a53e1e019023602eeb7/index.m3u8
+Nat Geo Wild,https://z88.ubtvfans.com/live/rx3/1434/452c1e8c9fb2c0430a2e3b5f2cd46e2d/index.m3u8
+Nick jr,https://z88.ubtvfans.com/live/rx3/1435/7d39746c14b23e05c5b69a35f8a56666/index.m3u8
+Quest,https://z88.ubtvfans.com/live/rx3/1436/81e05b8ce3d5ed9ea625f2b36627b372/index.m3u8
+Sky News,https://z88.ubtvfans.com/live/rx3/169/4d4d53008ce2068c3c1b4c23ab1299a0/index.m3u8
+BBC News,https://z88.ubtvfans.com/live/rx3/164/d8531a2273468437c00eae75216f3431/index.m3u8
+
+
 大陸頻道,#genre#
-CGTN English,https://z88.ubtvfans.com/live/rx3/2362//index.m3u8
-CGTN Documentary,https://z88.ubtvfans.com/live/rx3/2363//index.m3u8
-CGTN Français,https://z88.ubtvfans.com/live/rx3/2364//index.m3u8
-CGTN Español,https://z88.ubtvfans.com/live/rx3/317/10f741e021f81e94e5d99407b893f2b1/index.m3u8
-CGTN العربية,https://z88.ubtvfans.com/live/rx3/1004/cae4495a5bf3d512dfdc22aaa2988dc8/index.m3u8
 CCTV1,https://z88.ubtvfans.com/live/rx1/200/e5159301cd4aaf84a7f39915d463a106/index.m3u8
 CCTV1,https://z88.ubtvfans.com/live/rx1/2305/33545cc7858137acae827ca84a574951/index.m3u8
 CCTV2,https://z88.ubtvfans.com/live/rx1/201/72c3320633f511d538db55c14a9fb809/index.m3u8
@@ -1229,6 +1398,8 @@ CCTV16,https://z88.ubtvfans.com/live/rx1/2821/e00bc8abdb50b2a016e41028e1dffee2/i
 天津衛視,https://z88.ubtvfans.com/live/rx1/1093/adeb7b360467105c8d33e687502e109b/index.m3u8
 江西衛視,https://z88.ubtvfans.com/live/rx1/1097/6e9413a31431921c54782277b6fb20bd/index.m3u8
 新疆衛視,https://z88.ubtvfans.com/live/rx1/1026/f132bd0fa604fc62e3dac4fee0c20ec2/index.m3u8
+
+
 にっぽん,#genre#
 JapaNews24,https://z88.ubtvfans.com/live/rx6/425/2068e40104b77f2e3a1e14c002c9f2a3/index.m3u8
 スカイA,https://z88.ubtvfans.com/live/rx3/2433/adb519b8f66daf5107d7e36c2af94718/index.m3u8
@@ -1262,10 +1433,6 @@ TOKYO MX 2,https://z88.ubtvfans.com/live/rx3/2205/7442c992ccd7ca6019c4c5bba72f89
 朝日放送テレビ,https://z88.ubtvfans.com/live/rx3/237/33d83117a4e9a0e3fb07a60118b2c3a7/index.m3u8
 時代劇専門チャンネル,https://z88.ubtvfans.com/live/rx3/287/af68cb94cc1a29abadfa8923685a212a/index.m3u8
 TV Tokyo,https://z88.ubtvfans.com/live/rx3/123/dbf27fec71b4b51b680e976852d5844b/index.m3u8
-J SPORTS 1,https://z88.ubtvfans.com/live/rx3/129/55ea62ab23fbf0da09edfc1d7397d8a5/index.m3u8
-J SPORTS 2,https://z88.ubtvfans.com/live/rx3/130/e8bbacde39d30fabeff292d8833a077e/index.m3u8
-J SPORTS 3,https://z88.ubtvfans.com/live/rx3/131/7ecc01571c6da60d6258d9acd447d003/index.m3u8
-J SPORTS 4,https://z88.ubtvfans.com/live/rx3/132/81e51b9ff9eaec81dd7648f80dbd7b81/index.m3u8
 ABC朝日,https://z88.ubtvfans.com/live/rx3/127/eecdb9f217fa7245ca09786eb2cdf5b7/index.m3u8
 FU JI,https://z88.ubtvfans.com/live/rx3/122/f4737ef31e5ce7dd9c4c310d7c8b3277/index.m3u8
 テレビ東京,https://z88.ubtvfans.com/live/rx3/2202/2e9aecf47da32e12f83ba3d43c1b5dff/index.m3u8
@@ -1297,12 +1464,13 @@ Disney チャンネル,https://z88.ubtvfans.com/live/rx3/290/87ba9a05c08b10b414e
 衛星劇場,https://z88.ubtvfans.com/live/rx3/2345/35579bf9a6e28c16c606bda562bd77dd/index.m3u8
 日テレG＋,https://z88.ubtvfans.com/live/rx3/2434/3cc1a8075697dce56630f6cea53d2674/index.m3u8
 兵庫県の最新,https://z88.ubtvfans.com/live/rx6/1142/eb0ac00063ec44ee66912bffe57afc32/index.m3u8
+
+
 한국,#genre#
 KBS드라마1,https://z88.ubtvfans.com/live/rx3/2348/a94fdbc2122e280faea173cf161ea96f/index.m3u8
 MBC드라마넷,https://z88.ubtvfans.com/live/rx3/2349/821ef5f05ed85ce69a10cac68030f84d/index.m3u8
 I.NET,https://z88.ubtvfans.com/live/rx3/2351/1c624ea0f0cf3e9c779763fd14f66fc7/index.m3u8
 SkySports,https://z88.ubtvfans.com/live/rx3/2352/1a6ae4e7b96137c0a9d2e24751b8df82/index.m3u8
-KBSN Sports,https://z88.ubtvfans.com/live/rx3/2353/80b526df9819b4212d76597de20d848b/index.m3u8
 SBS Sports,https://z88.ubtvfans.com/live/rx3/2354/e3d3a73ed3662ed3a2d1f9c1a6a90c1d/index.m3u8
 FTV,https://z88.ubtvfans.com/live/rx3/2355/e04ac6129990f0fcf1f44e10da8ee8bf/index.m3u8
 바둑TV,https://z88.ubtvfans.com/live/rx3/2356/a85971d3cb4d1f6a6317a1e7bd33ecf0/index.m3u8
@@ -1328,8 +1496,6 @@ JTBC,https://z88.ubtvfans.com/live/rx3/253/fbeb76d5f12b6b9ef42dea2e92c64eae/inde
 OCN,https://z88.ubtvfans.com/live/rx3/488/d2ba6b51c64d912d078c4f3944a3487a/index.m3u8
 iNet,https://z88.ubtvfans.com/live/rx3/490/2c41f0e5dbc0ffee04ded79b4f4d1791/index.m3u8
 CTS,https://z88.ubtvfans.com/live/rx3/491/cb78b269c975c53d2ad3fa8b562c16fe/index.m3u8
-Spotv,https://z88.ubtvfans.com/live/rx3/266/8ae8a498bd520e74e5bbf3f8bfe8d284/index.m3u8
-Spotv2,https://z88.ubtvfans.com/live/rx3/267/3c043641f93dff1d2d11ad8e8b613056/index.m3u8
 THE K-POP,https://z88.ubtvfans.com/live/rx6/493/aeabec346de2eed4fbef1117fbe13144/index.m3u8
 SBS골프,https://z88.ubtvfans.com/live/rx3/486/a707ed3db7566869b974ee500d4c4d53/index.m3u8
 한국경제,https://z88.ubtvfans.com/live/rx6/1064/629c5a78f139d3bd2841c4f408a90b75/index.m3u8
@@ -1339,7 +1505,6 @@ YTN 사이언스,https://z88.ubtvfans.com/live/rx6/1605/db58b43115a9020011822262
 Arirang TV,https://z88.ubtvfans.com/live/rx6/256/68e7a04a2763159ce88c8df1572e34ae/index.m3u8
 OCNMOVIES,https://z88.ubtvfans.com/live/rx3/1020/32f8393da4ff58fbee7f4e2020cee01e/index.m3u8
 TV CHOSUN,https://z88.ubtvfans.com/live/rx3/2333/34ddb3b3bea0b2a68aa45cc072fa294d/index.m3u8
-SBS Sports,https://z88.ubtvfans.com/live/rx3/487/8cb994733ee12ff966d5c29941668a61/index.m3u8
 Mnet,https://z88.ubtvfans.com/live/rx3/1136/9688742df1202d78ef22de086e123901/index.m3u8
 MBCevery1,https://z88.ubtvfans.com/live/rx3/476/da5a50a94220fbb94511a5d782026b96/index.m3u8
 Tconvers,https://z88.ubtvfans.com/live/rx3/1134/bfb44c6b9c9c05921017c608b4bfe38b/index.m3u8
@@ -1354,279 +1519,14 @@ EBS KIDS,https://z88.ubtvfans.com/live/rx6/3007/024ca279704d26c4911d890bf1e4c287
 EBS PLUS1,https://z88.ubtvfans.com/live/rx6/3008/48ef33bf0d3170d8e148bd3bf270c8ac/index.m3u8
 EBS PLUS2,https://z88.ubtvfans.com/live/rx6/3009/c8a9fe2a630d5cf87c471fca8d0fc4c9/index.m3u8
 EBSe,https://z88.ubtvfans.com/live/rx6/3010/34ad6c4f9831b9e6912278a6226aa5a5/index.m3u8
-美國頻道,#genre#
-Sinovision,https://z88.ubtvfans.com/live/rx3/1101/be621502c23b0b5c0302a2f5e1233ccc/index.m3u8
-TLC,https://z88.ubtvfans.com/live/rx3/1206/296aead782b0784427bcaa08367a05ef/index.m3u8
-FOX,https://z88.ubtvfans.com/live/rx3/1218/474f36b8c7bfc435538b3fd5a80611c2/index.m3u8
-FOX NOW,https://z88.ubtvfans.com/live/rx6/1506/cfc626264f38682597270cc7fc6b1c35/index.m3u8
-CNN USA,https://z88.ubtvfans.com/live/rx3/1102/71291fe5a093ef71b4bb80f27a10ab42/index.m3u8
-CNN,https://z88.ubtvfans.com/live/rx3/1507/0ce0a477c69bc94407002f9c1ad707da/index.m3u8
-Msnbc,https://z88.ubtvfans.com/live/rx3/1541/7fa163e4ac7d32f013df11d17120a539/index.m3u8
-MSNBC,https://z88.ubtvfans.com/live/rx3/1104/87964c069aeefbb10e56d81f7ec4a613/index.m3u8
-Newsmax2,https://z88.ubtvfans.com/live/rx6/156/b217192271210ee2c709425b78bf06ac/index.m3u8
-Yahoo Finance,https://z88.ubtvfans.com/live/rx6/2541/58efb09539281d33bbbfb87b50f8285d/index.m3u8
-ABC News,https://z88.ubtvfans.com/live/rx6/1508/40b8e4b1c8ce649518578c86f7b790e0/index.m3u8
-NBC,https://z88.ubtvfans.com/live/rx3/1217/e2b794e82d6edcdaea6cccf090351bcb/index.m3u8
-NBC,https://z88.ubtvfans.com/live/rx3/1509/56b3a722617bc11e384eb7d8bf89bd0d/index.m3u8
-Fox Business,https://z88.ubtvfans.com/live/rx3/1511/2f738fe19d976b91234028b3c4b6fd56/index.m3u8
-Fox Business,https://z88.ubtvfans.com/live/rx3/1108/612fcfde7230d4cc3763e1069080b06c/index.m3u8
-FOX Weather,https://z88.ubtvfans.com/live/rx6/2742/c302981d3fad43db2ba9313b473de2f4/index.m3u8
-E!,https://z88.ubtvfans.com/live/rx3/1222/aaf614e97ddb63e36439bd8195e7e26f/index.m3u8
-E,https://z88.ubtvfans.com/live/rx3/1536/543ce5d0cac372943572c1f783e7d480/index.m3u8
-Hbo East,https://z88.ubtvfans.com/live/rx3/1513/b553a9c51e6773994e87df8261d424dd/index.m3u8
-HBO Family,https://z88.ubtvfans.com/live/rx3/1113/3f35d526fe83d1dddcf0dd0109c037f4/index.m3u8
-HBO Comedy,https://z88.ubtvfans.com/live/rx3/1109/a7ee4ad584c9dd93582010d589f29d17/index.m3u8
-Hbo Family,https://z88.ubtvfans.com/live/rx3/1512/bab55237da5fa9a49669523e5f1f5ef3/index.m3u8
-HBO Signature,https://z88.ubtvfans.com/live/rx3/1112/8bcf659207ab72c3bfab564b71fb04d6/index.m3u8
-HBO 2 US,https://z88.ubtvfans.com/live/rx3/1111/e3d7e08d78ab650a8ac78da6bbdbcea9/index.m3u8
-Hbo One,https://z88.ubtvfans.com/live/rx3/1514/bfc945fb3a8fd44aa4007cdc8c01eaee/index.m3u8
-HBO 1 US,https://z88.ubtvfans.com/live/rx3/1110/efd6bef200c51e825bd421bbbe4085ad/index.m3u8
-亞美卫视,https://z88.ubtvfans.com/live/rx3/8/8ed229cc95262c1c1b7c2fe89267f910/index.m3u8
-Tennis chan,https://z88.ubtvfans.com/live/rx3/1519/6e76f06bb25deed49d124b64a0dee940/index.m3u8
-law and crime,https://z88.ubtvfans.com/live/rx3/1540/c0a0e45e8426dadb0d57236cf7fb4387/index.m3u8
-Goltv,https://z88.ubtvfans.com/live/rx3/1542/791c8f185811aa05f0947ae5d45a6eec/index.m3u8
-TBS,https://z88.ubtvfans.com/live/rx3/1545/4a974af1f875ba585d54abec48b28984/index.m3u8
-MTV,https://z88.ubtvfans.com/live/rx3/1546/117cc0ab1399a2e259ca99f2b92d751e/index.m3u8
-FX,https://z88.ubtvfans.com/live/rx3/1551/d71455e5768399d85c9e3ac59256443b/index.m3u8
-CNBC,https://z88.ubtvfans.com/live/rx3/1555/f5bc3f7b2b2c9a848d20a5b9bceddcd0/index.m3u8
-CNBC,https://z88.ubtvfans.com/live/rx3/1106/509f91de6dd869be1a2a1d7964fea7ac/index.m3u8
-CW,https://z88.ubtvfans.com/live/rx3/1557/b4fbe2c39d6ea01f72bdf65804010d4e/index.m3u8
-CW,https://z88.ubtvfans.com/live/rx3/1220/a3711d8cc61bc7b91558346c2fe4c521/index.m3u8
-Animal,https://z88.ubtvfans.com/live/rx3/1558/ba48e76a4097d7072b29ef0769a80b3f/index.m3u8
-Animal Planet,https://z88.ubtvfans.com/live/rx3/1203/33d1306fcabb2d652981fccce7f85d77/index.m3u8
-Freeform,https://z88.ubtvfans.com/live/rx3/1560/543a309a2326c7e07ca639bfe1c014ce/index.m3u8
-Investigation Discovery,https://z88.ubtvfans.com/live/rx3/1564/d4a2cb0a6c5710200e5ebdd5f7cfa5cc/index.m3u8
-Lifetime Movie Network,https://z88.ubtvfans.com/live/rx3/1565/4e862d5ae1450b232ee58feb76961292/index.m3u8
-Showtime,https://z88.ubtvfans.com/live/rx3/1568/4649c6e38d91e8d97d8b2809b37f2891/index.m3u8
-StarZ,https://z88.ubtvfans.com/live/rx3/1569/a43929d0298716a031c1d36f81139071/index.m3u8
-USA Network,https://z88.ubtvfans.com/live/rx3/1571/a4d3f2979f02a98ad9b9afd9442aa4d9/index.m3u8
-Right Now,https://z88.ubtvfans.com/live/rx6/144/3285172f6e8c7c79e730dac7af3ee9c7/index.m3u8
-30A TV,https://z88.ubtvfans.com/live/rx3/1052/66876bae2ec59cbe45cffbfa9cb81b45/index.m3u8
-Atlanta,https://z88.ubtvfans.com/live/rx3/1055/68e9a784c01e0ef53bbbcff73b430e81/index.m3u8
-Panama City,https://z88.ubtvfans.com/live/rx3/1056/4a241756d0bc86ff5cc7dc710c24e0b9/index.m3u8
-Pawleys Island,https://z88.ubtvfans.com/live/rx3/1057/b88ee7d4f9b2dfa1c977389136e59304/index.m3u8
-HGTV,https://z88.ubtvfans.com/live/rx3/2311/72e3628071a1ae8c37350862b0f39336/index.m3u8
-National Geographic,https://z88.ubtvfans.com/live/rx3/2312/a603a15093119ee950d1be46dbf3d2f1/index.m3u8
-Nat Geo Wild,https://z88.ubtvfans.com/live/rx3/1521/e464f2b539300f62409aaf17807dd31c/index.m3u8
-Nat Geo Wild,https://z88.ubtvfans.com/live/rx3/2313/dc4d880705e4db5b333c728c560bdd11/index.m3u8
-Cinemax,https://z88.ubtvfans.com/live/rx3/2314/b08bf4f6f8bf5bdf15c2d9f61078146a/index.m3u8
-IFC,https://z88.ubtvfans.com/live/rx3/1362/f7735ba9b896da1b73ffd3f71f87f41c/index.m3u8
-ESPN NEWS,https://z88.ubtvfans.com/live/rx3/1363/919eb12b22e57fac1ab0422663de3ded/index.m3u8
-CBS Sport,https://z88.ubtvfans.com/live/rx3/1364/58be65fd98ee8646883ef9daede8c351/index.m3u8
-Fight Box,https://z88.ubtvfans.com/live/rx3/1365/3f4042b7ba79816dc900be17728fce06/index.m3u8
-Outdoor,https://z88.ubtvfans.com/live/rx3/1368/689ba562d9cdb0ea436b45d70047a645/index.m3u8
-SEC Network,https://z88.ubtvfans.com/live/rx3/1369/461747063ee48fce947c98a8b049085e/index.m3u8
-PBS Kids,https://z88.ubtvfans.com/live/rx3/1370/d9670ed66e6d99619867a0036fad6e39/index.m3u8
-WGN,https://z88.ubtvfans.com/live/rx3/1372/068ab17541c5e36c907513bde7959e42/index.m3u8
-FX,https://z88.ubtvfans.com/live/rx3/1373/5fcfc63b37d8547b5c70b11b8f07ccf9/index.m3u8
-Fuse,https://z88.ubtvfans.com/live/rx3/1376/b8e02acb82cdde6cd833e90c01b7edfb/index.m3u8
-FX Movie,https://z88.ubtvfans.com/live/rx3/1380/8859a8ea8bd8877ac6b41c259281c757/index.m3u8
-Comet,https://z88.ubtvfans.com/live/rx3/1381/916949eec546a308265e17db9a8d2264/index.m3u8
-5 Star Max,https://z88.ubtvfans.com/live/rx3/1174/a9680f70e816ddfb5b763b54de04ea68/index.m3u8
-Action Max,https://z88.ubtvfans.com/live/rx3/1175/8b27c0902fda6e1ff2f2ca6077e50b4e/index.m3u8
-MoreMax,https://z88.ubtvfans.com/live/rx3/1176/1c6d72b168a7dc659aec46ced48d1fa8/index.m3u8
-Hallmark Movie,https://z88.ubtvfans.com/live/rx3/1179/b34f1011fc3e13a7a3a35cd7f8b55574/index.m3u8
-TCM,https://z88.ubtvfans.com/live/rx3/1180/99d4371654cef668910352444ab6aeb6/index.m3u8
-Starz in Black,https://z88.ubtvfans.com/live/rx3/1181/0d51b6eefd15d1ba3e1479e438f26969/index.m3u8
-ESPN 1,https://z88.ubtvfans.com/live/rx3/1182/984c3ecef3210c1a2b6dc3d0270b28c9/index.m3u8
-ESPN 2,https://z88.ubtvfans.com/live/rx3/1183/d6ad5847e90fce45266b7f211b35ff37/index.m3u8
-ESPN 2,https://z88.ubtvfans.com/live/rx3/2789/1935804dee7061e47eeeb005743f1eed/index.m3u8
-NBA,https://z88.ubtvfans.com/live/rx3/2792/a45b6a248c85cb7a40047d98949197fd/index.m3u8
-NBA TV US,https://z88.ubtvfans.com/live/rx3/1185/867e66c99dec577fd0ec2fc9bd610748/index.m3u8
-Fox Sport 1,https://z88.ubtvfans.com/live/rx3/1186/302e1e2696167d721dbbcc25a83b96c8/index.m3u8
-Fight network,https://z88.ubtvfans.com/live/rx3/1527/88c36fd9d3dcffb0628ef0b5b551c5d3/index.m3u8
-Fox Sport 2,https://z88.ubtvfans.com/live/rx3/1187/ed3c0d073128e70635bb4b9ba5830e97/index.m3u8
-NFL Network,https://z88.ubtvfans.com/live/rx3/1189/b50d0a887fedf6de9109c3b9bcc385d9/index.m3u8
-Food network 美,https://z88.ubtvfans.com/live/rx3/1526/1c301859a671de95d113103695467255/index.m3u8
-Cartoon Network US,https://z88.ubtvfans.com/live/rx3/1211/28866767ab5bb79ac1105c3918b957d2/index.m3u8
-USA Network,https://z88.ubtvfans.com/live/rx3/1230/5356c1d4f2cbde9d7c158b2948e1052d/index.m3u8
-Diy network,https://z88.ubtvfans.com/live/rx3/1528/88f786f1c7140d95c0e1c21122d0c813/index.m3u8
-Golf,https://z88.ubtvfans.com/live/rx3/1190/5e5c6022b4e31599b5ca055ace634077/index.m3u8
-WWE,https://z88.ubtvfans.com/live/rx3/1191/ba4c8fb5cc6cd69a3496bc3317edd557/index.m3u8
-UFC PASS,https://z88.ubtvfans.com/live/rx3/1192/7b1dd998989c9d23bef768744a2bf6fb/index.m3u8
-Bein Sports USA,https://z88.ubtvfans.com/live/rx3/1195/ab3dcefe39410b8196ea05703c3e58be/index.m3u8
-ESPN U,https://z88.ubtvfans.com/live/rx3/1196/f9ddd771abfb1dcb846c024130816b45/index.m3u8
-Discovery Channel,https://z88.ubtvfans.com/live/rx3/1198/827760256c87c111526f82946864c350/index.m3u8
-National Geographic,https://z88.ubtvfans.com/live/rx3/1200/79d38cfcfc64b16fe5e19385b94694ee/index.m3u8
-History,https://z88.ubtvfans.com/live/rx3/1204/8dbeb2b77caf7f96a141072f7507e5d2/index.m3u8
-SMITHSONIAN,https://z88.ubtvfans.com/live/rx3/1205/b962df0263170c293bac19cadcd3388d/index.m3u8
-Disney,https://z88.ubtvfans.com/live/rx3/1208/6db66813ac171f1c1f02c6c71d7e55b9/index.m3u8
-Disney XD,https://z88.ubtvfans.com/live/rx3/1209/8bcd5d8f8e8839e42d58ccf787600338/index.m3u8
-Disney Junior,https://z88.ubtvfans.com/live/rx3/1210/f58216dd55e6469ef0f91f20c245596f/index.m3u8
-Nick Junior,https://z88.ubtvfans.com/live/rx3/1213/671518e7dece6b4f2fb959b3f35335f2/index.m3u8
-Boomerang,https://z88.ubtvfans.com/live/rx3/1214/daaa9313f5db1c24a78505ae4dc9ac84/index.m3u8
-Universal Kids,https://z88.ubtvfans.com/live/rx3/1215/434967b138bcea29085ae897edf9beb5/index.m3u8
-KCBS（原CBS）,https://z88.ubtvfans.com/live/rx3/1219/d58a1e1943b3390d8f31077c78c8e7e4/index.m3u8
-LifeTime US,https://z88.ubtvfans.com/live/rx3/1226/a98360bc8276ed5a26208eb9ad28ef0e/index.m3u8
-Arts and Entertainment,https://z88.ubtvfans.com/live/rx3/1227/fabce4f165c2eacc6cb0ca309e422672/index.m3u8
-Hallmark,https://z88.ubtvfans.com/live/rx3/1535/e95656690b01873e456d2a48fc8e9230/index.m3u8
-WE TV,https://z88.ubtvfans.com/live/rx3/1229/8c01bbad0de4a9cfe6047b4129b2fc2a/index.m3u8
-VH-1,https://z88.ubtvfans.com/live/rx3/1233/44c30bc56f282c4fdd1e524a8bf1f200/index.m3u8
-OWN US,https://z88.ubtvfans.com/live/rx3/1235/b5dfd9cde3ac4ab4086f4868286a7bb0/index.m3u8
-GSN,https://z88.ubtvfans.com/live/rx3/1236/9d81ca913b5ee34b1ec16eb8fafd4bb1/index.m3u8
-TVG,https://z88.ubtvfans.com/live/rx3/1543/ac68bb750837cb84c24433b66b0bb5db/index.m3u8
-Cooking Channel,https://z88.ubtvfans.com/live/rx3/1238/0d11c9b1fb295e52df6ae63bf2b2ce15/index.m3u8
-Mlb net,https://z88.ubtvfans.com/live/rx3/1523/87bc702247b5420d9043411eb8378056/index.m3u8
-FYI,https://z88.ubtvfans.com/live/rx3/1240/36932c5e9077764d39abd138e58a08e5/index.m3u8
-BabyTV,https://z88.ubtvfans.com/live/rx3/1241/fbf1293eb2e91b7b314b997b21d8685a/index.m3u8
-TVB1,https://z88.ubtvfans.com/live/rx3/1242/fb44abcbd725826c898827a13d54aae5/index.m3u8
-TVB DRAMA,https://z88.ubtvfans.com/live/rx3/1243/5e98788089087fb462ba17e122fd194f/index.m3u8
-ABC News,https://z88.ubtvfans.com/live/rx3/1516/185ae60d94e0e0a7f3c5112ee05adadb/index.m3u8
-TVBJ1,https://z88.ubtvfans.com/live/rx3/1244/7833a84444269dd5dd0a7531ccef9d9c/index.m3u8
-TVBE,https://z88.ubtvfans.com/live/rx3/1245/f5b6ce19b6aaa9c28323d9f2839a8985/index.m3u8
-The Weather Nation,https://z88.ubtvfans.com/live/rx3/1105/30dedd5a19a01d0c4368e3ca7ef013eb/index.m3u8
-Cinemax,https://z88.ubtvfans.com/live/rx3/1518/782d29517c7946020aa8d6052cee6357/index.m3u8
-History,https://z88.ubtvfans.com/live/rx3/1530/708516ed35f109f60fb178dc0c2570b0/index.m3u8
-Bloomberg,https://z88.ubtvfans.com/live/rx3/1107/30f860369332cd7e87b4ea254ffbd260/index.m3u8
-Fox News,https://z88.ubtvfans.com/live/rx3/1510/13be6543db63763492804252f6c401ac/index.m3u8
-Travel chan,https://z88.ubtvfans.com/live/rx3/1515/9fda5d202219d4ba50bd7cc570cb0707/index.m3u8
-Discovery,https://z88.ubtvfans.com/live/rx3/1529/881b8da03aeb0aace98b994aaddffb02/index.m3u8
-ShowTime 1,https://z88.ubtvfans.com/live/rx3/1114/e623df3ea6406d61b9eb015d1d8a486d/index.m3u8
-NHL net,https://z88.ubtvfans.com/live/rx3/1534/2ab9bfaccbaf66c8ff88b0b9e0944268/index.m3u8
-ShowTime 2,https://z88.ubtvfans.com/live/rx3/1115/d18d15c503b3cb1d740c8a8056300372/index.m3u8
-ShowCase US,https://z88.ubtvfans.com/live/rx3/1116/64bc20318cdc5917cc0f1ff7a332644d/index.m3u8
-Starz Comedy,https://z88.ubtvfans.com/live/rx3/1118/447a71029feb5c50e4638cff92627143/index.m3u8
-HGTV,https://z88.ubtvfans.com/live/rx3/1538/ded5bfd722fc798d47ea4f2793c4b7bf/index.m3u8
-Starz Edge,https://z88.ubtvfans.com/live/rx3/1119/e1d35f46d82afe6688b560a7289199ed/index.m3u8
-Starz Kids Family,https://z88.ubtvfans.com/live/rx3/1120/03a6f7b8a8a5cefe610e804115f62c0d/index.m3u8
-World Fishing net,https://z88.ubtvfans.com/live/rx3/1531/cdb6c8412e671fb5e5afdc0e319b2d6f/index.m3u8
-Starz Encore,https://z88.ubtvfans.com/live/rx3/1121/0a8fa6bdfc3ebf3e119b72049ec47d70/index.m3u8
-Starz Encore Westerns,https://z88.ubtvfans.com/live/rx3/1122/25d557b6b8139d36c925474798e3b9f3/index.m3u8
-Bravo,https://z88.ubtvfans.com/live/rx3/1525/7eb9274e00d3c42c03ce6f22f5f74571/index.m3u8
-Babytv,https://z88.ubtvfans.com/live/rx3/1522/9d198dc883553f6e24abc9bec6f499ac/index.m3u8
-Nat Geo,https://z88.ubtvfans.com/live/rx3/1520/132c6df39a2be6b7a34c8f61b86c873c/index.m3u8
-WFLD-DT Fox 32.1,https://z88.ubtvfans.com/live/rx3/2431/90b1b3bba75518bb4de8be6b4c90f626/index.m3u8
-CBS2-WBBM-TV,https://z88.ubtvfans.com/live/rx3/2822/2ce8b030a6f32d7ca3030778cb28f318/index.m3u8
-ken5,https://z88.ubtvfans.com/live/rx3/2429/ec85150b38396d3ad9b8a086d432c2ed/index.m3u8
-VH1,https://z88.ubtvfans.com/live/rx3/1532/29e1b856f07b95e18bc79cce37548f64/index.m3u8
-woai,https://z88.ubtvfans.com/live/rx3/2430/93178e8f0a20fe3f39b34a4e36868fc3/index.m3u8
-TLC,https://z88.ubtvfans.com/live/rx3/1533/0d5bb456c3b4f599546db0c8a5f607d3/index.m3u8
-TNT,https://z88.ubtvfans.com/live/rx3/1524/c4ac4270be08a04afaeb129bbf098a98/index.m3u8
-ksat12,https://z88.ubtvfans.com/live/rx3/2428/e0902011d15c1642ee6d00f75ebfee8d/index.m3u8
-National Geographic,https://z88.ubtvfans.com/live/rx6/294/7868630ad0bc70634068f8d708b87f21/index.m3u8
-Syfy,https://z88.ubtvfans.com/live/rx3/1537/091885eb490ed1db9379931e26297e6b/index.m3u8
-加拿大,#genre#
-The Weather Network,https://z88.ubtvfans.com/live/rx3/1251/1f4185e77e8b5f5fa1b8d6b3d0078891/index.m3u8
-CP 24 Canada,https://z88.ubtvfans.com/live/rx3/1247/1ee88c8bc1c3e39842c2a3ceaa160ded/index.m3u8
-CBC,https://z88.ubtvfans.com/live/rx4/1252/3ddd565e46374991d0dd3581e090e175/index.m3u8
-CTV,https://z88.ubtvfans.com/live/rx3/1253/0250d97a890ffad686a524f3be9cede4/index.m3u8
-CHCH,https://z88.ubtvfans.com/live/rx3/1256/d8c895996a56cb852f50ae4cd4fe8f98/index.m3u8
-CTV 2,https://z88.ubtvfans.com/live/rx3/1257/7cd75b2af7e124f3f10b72776491f6a4/index.m3u8
-OMNI 1,https://z88.ubtvfans.com/live/rx4/1258/be9df7245ed38aa9dc460487162a1ffa/index.m3u8
-OMNI 2,https://z88.ubtvfans.com/live/rx3/1259/35f103615bee5974cd9202f5e54f0196/index.m3u8
-TVO,https://z88.ubtvfans.com/live/rx4/1260/f4a50dc97bb6161d3d0dc822fd6b41d2/index.m3u8
-Discovery Canada,https://z88.ubtvfans.com/live/rx4/1261/f90c78efbdf871dce899cb1567145fc7/index.m3u8
-TLC Canada,https://z88.ubtvfans.com/live/rx4/1262/925e258ef2859084e3c47c8a6e1cd111/index.m3u8
-Love Nature,https://z88.ubtvfans.com/live/rx3/1263/2ee2a85a701bcd8faa3df3bf5d2180b8/index.m3u8
-Food Network Canada,https://z88.ubtvfans.com/live/rx4/1265/e656e7b11f7a2e5c63b663cab6b144c1/index.m3u8
-Cooking Channel Canada,https://z88.ubtvfans.com/live/rx3/1266/b9d5a360c02c7100d2e18db15fb48280/index.m3u8
-CTV Comedy,https://z88.ubtvfans.com/live/rx3/1267/347206b61c65768e3ed6755015ab5a1e/index.m3u8
-CTV Sci-Fi,https://z88.ubtvfans.com/live/rx4/1268/98fc64581bcb6041658ba1954f858c66/index.m3u8
-Crave 1,https://z88.ubtvfans.com/live/rx3/1269/62b9c6dba40cdd16faa6239999a46d82/index.m3u8
-Crave 2,https://z88.ubtvfans.com/live/rx4/1270/b4b723ecd16a8c840fc0ae1b0e07f8c8/index.m3u8
-Crave 3,https://z88.ubtvfans.com/live/rx4/1271/6986491f1e025a0df1d6a774e0bca73a/index.m3u8
-TSN 1,https://z88.ubtvfans.com/live/rx3/1273/f23f14947cefbb8616712f2b89963cf8/index.m3u8
-TSN 2,https://z88.ubtvfans.com/live/rx3/1274/86de5062a3db4568ac97842cf4897b75/index.m3u8
-TSN 3,https://z88.ubtvfans.com/live/rx3/1275/47f2960010cd38e38a1f224152c5733c/index.m3u8
-TSN 4,https://z88.ubtvfans.com/live/rx4/1276/a7c1ab2dfcaaf81dcca82d246dcc8835/index.m3u8
-TSN 5,https://z88.ubtvfans.com/live/rx3/1277/753c0a9016ea920d0345bb3f6715a5c0/index.m3u8
-SportNet ON,https://z88.ubtvfans.com/live/rx4/1278/5e2c4c907f7563b11b2b15f1b926f214/index.m3u8
-SportNet One,https://z88.ubtvfans.com/live/rx4/1279/b2e08f6735b3fb85086bfcda061147ac/index.m3u8
-SportNet World,https://z88.ubtvfans.com/live/rx3/1280/2938972177ab24dc28df73782d6159af/index.m3u8
-SportNet 360,https://z88.ubtvfans.com/live/rx4/1281/97cfb3f94b1210d05886f366fce921c2/index.m3u8
-NBA CA,https://z88.ubtvfans.com/live/rx4/1282/5528506edf31d6964f6855781bf66bd4/index.m3u8
-TreeHouse,https://z88.ubtvfans.com/live/rx3/1283/5f3ee4fa96896906b1370a344eb6505f/index.m3u8
-Teletoon,https://z88.ubtvfans.com/live/rx4/1284/ba60d7e9b3e3647da71036aadeb317e7/index.m3u8
-YTV,https://z88.ubtvfans.com/live/rx3/1285/6a471ce047aaff86981fef89ee8ca359/index.m3u8
-新時代東部,https://z88.ubtvfans.com/live/rx3/1286/a8d6b7c5839888962b60049913b5a891/index.m3u8
-新時代2,https://z88.ubtvfans.com/live/rx3/1288/99d190e454892806c4594d0ed8af9afc/index.m3u8
-城市電視,https://z88.ubtvfans.com/live/rx4/1289/6d27646c74e37586febfa8be982bf1be/index.m3u8
-Sportsnet P,https://z88.ubtvfans.com/live/rx4/3074/573515e4a549e51d092e7a9b76105c33/index.m3u8
-Global,https://z88.ubtvfans.com/live/rx3/1254/86a28f7403fe993281392c82164037ce/index.m3u8
-City,https://z88.ubtvfans.com/live/rx4/1255/e6577422a910e4afb2c1abfa6a9665e0/index.m3u8
-HGTV Canada,https://z88.ubtvfans.com/live/rx4/1264/1ff0f01feedbd14201755472caf7c518/index.m3u8
-Business Network News,https://z88.ubtvfans.com/live/rx4/1250/e2ce3217a9632ab63c1742e192bd94e7/index.m3u8
-CTV News,https://z88.ubtvfans.com/live/rx4/1249/53e336806040332d201775d186a96f90/index.m3u8
-CBC News,https://z88.ubtvfans.com/live/rx4/1248/05a4509c5daf39f946dc2a3796f9aab1/index.m3u8
-Crave 4,https://z88.ubtvfans.com/live/rx4/1272/7b8eb211a915b519355836f176b8e543/index.m3u8
-英國頻道,#genre#
-GB News,https://z88.ubtvfans.com/live/rx6/77/3fa5a68553a8d34e7d619f50a550f725/index.m3u8
-bt espn hd,https://z88.ubtvfans.com/live/rx3/2790/307ab85822ddee4608c78c405dbbfc0f/index.m3u8
-TalkTV,https://z88.ubtvfans.com/live/rx6/309/3aa5f4723a63fcbaaf52711a6a3bc5a2/index.m3u8
-BBC one,https://z88.ubtvfans.com/live/rx3/1382/d68c20b4e9ce94a17ff5487a4bd075dd/index.m3u8
-BBC four cbeebies,https://z88.ubtvfans.com/live/rx3/1383/ba749a5d061144fa51250d116cd10759/index.m3u8
-BBC three cbbc,https://z88.ubtvfans.com/live/rx3/1384/b3ac7d0fbe79bd1ccfc4e13d75c6588a/index.m3u8
-BBC two,https://z88.ubtvfans.com/live/rx3/1385/683373c0227fd2a7d132b5c477ea3c74/index.m3u8
-True entertainment,https://z88.ubtvfans.com/live/rx3/1386/62b5c207db8a3a2903a6e6004b39b82a/index.m3u8
-Discovery turbo,https://z88.ubtvfans.com/live/rx3/1387/ab030cea9e1a9a16087b5a2c3b15b508/index.m3u8
-sky_docu_hd,https://z88.ubtvfans.com/live/rx3/1388/0fb1564dc345c1a4de41b79cd44f484e/index.m3u8
-E ent,https://z88.ubtvfans.com/live/rx3/1392/3a48191154438e0265d88a6fcc430c20/index.m3u8
-BBC red button,https://z88.ubtvfans.com/live/rx3/1393/9b698fe9349a384947d141351a0c598c/index.m3u8
-E4,https://z88.ubtvfans.com/live/rx3/1397/1e32127042dc75e1f54fb1a772bbc64f/index.m3u8
-Alibi,https://z88.ubtvfans.com/live/rx3/1398/f1392a98c897ded1d86c05f346db296a/index.m3u8
-5 star,https://z88.ubtvfans.com/live/rx3/1400/adb1316a2329578ea5bc65327bb98926/index.m3u8
-Itv 1,https://z88.ubtvfans.com/live/rx3/1401/1b97d02553c4f1efa27ccd8bf7026b43/index.m3u8
-Itv 2,https://z88.ubtvfans.com/live/rx3/1402/e7cf50edefdf8c739538773eec6f639e/index.m3u8
-Itv 3,https://z88.ubtvfans.com/live/rx3/1403/fabc2ba273d362386938751ca29108cb/index.m3u8
-Itv 4,https://z88.ubtvfans.com/live/rx3/1404/5a41397eb3bd38c781cefe8114f129f3/index.m3u8
-discovery channel,https://z88.ubtvfans.com/live/rx3/1406/506aa496d28042e578657d9b2e956e15/index.m3u8
-Comedy Central,https://z88.ubtvfans.com/live/rx3/1408/91d1ae51ed8d1c10b5e8df470a767d1c/index.m3u8
-Rte1,https://z88.ubtvfans.com/live/rx3/1409/4445cdecacecebcdbcb3cfc4f1036c3d/index.m3u8
-Rte2,https://z88.ubtvfans.com/live/rx3/1410/4511dd28564229da742a828f3e8ced36/index.m3u8
-Premiersp,https://z88.ubtvfans.com/live/rx3/1411/aca7d7d8103bcc720d7dad6a7071f73b/index.m3u8
-Freesports,https://z88.ubtvfans.com/live/rx3/1412/f96d3ffee37dc428113d9f1bb541839b/index.m3u8
-History,https://z88.ubtvfans.com/live/rx3/1413/381cc3f81c47399a643a5b5ad0ce30a7/index.m3u8
-CNBC,https://z88.ubtvfans.com/live/rx3/1414/02e8be704b6fea1a0b884dc17d982500/index.m3u8
-Aljazeera,https://z88.ubtvfans.com/live/rx3/1415/314c2afb786ef1b13bfe8328ee7634ef/index.m3u8
-Tv3 virgin,https://z88.ubtvfans.com/live/rx3/1416/096107e3e253b180c6c3b0a9ac8e5b3f/index.m3u8
-Home,https://z88.ubtvfans.com/live/rx3/1417/a8b3169db1b2ad2351cf8a9952baf9f2/index.m3u8
-Dave,https://z88.ubtvfans.com/live/rx3/1418/369106a6cf7cac797e3f3944a249d418/index.m3u8
-Film 4,https://z88.ubtvfans.com/live/rx3/1419/ffba19b4485ead15310abf5fe555cac3/index.m3u8
-More 4,https://z88.ubtvfans.com/live/rx3/1420/f35b2e93c3f60f2863ccc116d081abc5/index.m3u8
-Food Network 英,https://z88.ubtvfans.com/live/rx3/1421/3fd81712bc2e8557bf439b21561ea4e9/index.m3u8
-Gold,https://z88.ubtvfans.com/live/rx3/1422/32d66b69b8ce94bbda49c157a42a0396/index.m3u8
-Syfy,https://z88.ubtvfans.com/live/rx3/1423/cc817c3d5f47f67ceccc9fce2aeab894/index.m3u8
-discovery science,https://z88.ubtvfans.com/live/rx3/1424/ed4fc5ede5f9d7693a832a0392b92212/index.m3u8
-Discovery investigation,https://z88.ubtvfans.com/live/rx3/1426/04caeb27bcf09f1b965655a2e3262d79/index.m3u8
-Tg4,https://z88.ubtvfans.com/live/rx3/1427/53f2fda530b223e5b4c8aa6ec3fa57c0/index.m3u8
-Real live,https://z88.ubtvfans.com/live/rx3/1428/4e2e6d502affe3f23b2ecc7b1192bcaa/index.m3u8
-Cartoonito,https://z88.ubtvfans.com/live/rx3/1429/d22385a2396f7d856f0b21f5b29c096a/index.m3u8
-Watch,https://z88.ubtvfans.com/live/rx3/1430/a5a324f6340ba9dba799fbd0b7621c46/index.m3u8
-Challenge,https://z88.ubtvfans.com/live/rx3/1431/03226d0c3b0ce99767cc1ef83a90e1ec/index.m3u8
-Pick,https://z88.ubtvfans.com/live/rx3/1433/ca48b4b2decf2a53e1e019023602eeb7/index.m3u8
-Nat Geo Wild,https://z88.ubtvfans.com/live/rx3/1434/452c1e8c9fb2c0430a2e3b5f2cd46e2d/index.m3u8
-Nick jr,https://z88.ubtvfans.com/live/rx3/1435/7d39746c14b23e05c5b69a35f8a56666/index.m3u8
-Quest,https://z88.ubtvfans.com/live/rx3/1436/81e05b8ce3d5ed9ea625f2b36627b372/index.m3u8
-Sky News,https://z88.ubtvfans.com/live/rx3/169/4d4d53008ce2068c3c1b4c23ab1299a0/index.m3u8
-BBC News,https://z88.ubtvfans.com/live/rx3/164/d8531a2273468437c00eae75216f3431/index.m3u8
-BT Sport 2,https://z88.ubtvfans.com/live/rx3/166/e3bf17a38883009e2a7302dbd0f84a4f/index.m3u8
-BT Sport 3,https://z88.ubtvfans.com/live/rx3/167/1601116b8a0b8eaece0e35c2b553db53/index.m3u8
-BT Sport 1,https://z88.ubtvfans.com/live/rx3/165/8ccc6a511a634d429b7662dd412ff14c/index.m3u8
-Sky Sports 1,https://z88.ubtvfans.com/live/rx3/172/7b06e5cc17b675777a0e729735ae479e/index.m3u8
-Sky Sport 2,https://z88.ubtvfans.com/live/rx3/171/c7fe6cdef7398ac4834a146dc22fed91/index.m3u8
-Sky Sports F1,https://z88.ubtvfans.com/live/rx3/182/b8a7a83222a29d6f9b17aebea66aac0e/index.m3u8
-Sky Sport 3,https://z88.ubtvfans.com/live/rx3/183/61161b0114a2207f02825a930871e11e/index.m3u8
-Sky Sport 4,https://z88.ubtvfans.com/live/rx3/417/f0f90facf91bf9d1e2882e091480d35c/index.m3u8
-Sky Sport 5,https://z88.ubtvfans.com/live/rx3/418/1da52e134c1af98b189234d94da513aa/index.m3u8
-sky sports racing hd,https://z88.ubtvfans.com/live/rx3/2778/9c652c2ea240653977fcc610062e0683/index.m3u8
-sky news hd,https://z88.ubtvfans.com/live/rx3/2779/f25f886c9cb3e2c3b84a3865aa041c4f/index.m3u8
-sky sports mix,https://z88.ubtvfans.com/live/rx3/2780/b9140d9b6dc486fe87eae0ca11a1add9/index.m3u8
-sky sports arena,https://z88.ubtvfans.com/live/rx3/2781/8ec2edfbc6692b293b9daa41093e160e/index.m3u8
-sky sports football,https://z88.ubtvfans.com/live/rx3/2782/44176d105a4efd51f12bd721ddaa8d65/index.m3u8
-sky sports premier league,https://z88.ubtvfans.com/live/rx3/2783/37cbc05cc5ecf56870eeef4608a13d3d/index.m3u8
-sky sports the open,https://z88.ubtvfans.com/live/rx3/2784/e32b44aae452b510488bcacb3d11f7ac/index.m3u8
-sky sports action,https://z88.ubtvfans.com/live/rx3/2785/be5ca7bb3313efaf79329d995231ee0e/index.m3u8
-sky sports cricket,https://z88.ubtvfans.com/live/rx3/2786/17193ae25ae60386e99025e4ecee0e5e/index.m3u8
-sky sports main event,https://z88.ubtvfans.com/live/rx3/2787/b36ca34d30cea8854e589082cb2641f0/index.m3u8
+
+
+
+
 法國頻道,#genre#
-FRANCE 24,https://z88.ubtvfans.com/live/rx6/1042/431c36701047742d2dbc22cb72272da1/index.m3u8
 Franceinfo,https://z88.ubtvfans.com/live/rx6/376/ad9c234bc70aa25573d9d4ccab1d44c9/index.m3u8
 Euronews français,https://z88.ubtvfans.com/live/rx6/1017/9af6cb53c9bdd82a0cf753e11646f16a/index.m3u8
-Bein Sport 4 Max,https://z88.ubtvfans.com/live/rx3/1405/09bbf56229092481fbb90f8b97d5348a/index.m3u8
-Bein Sport 5 Max,https://z88.ubtvfans.com/live/rx3/1450/5ac009d3967ada766006b4249049bd9a/index.m3u8
-Bein Sport 1,https://z88.ubtvfans.com/live/rx3/1085/19c856d334244d7aa1b8354af98d9465/index.m3u8
 Bein Sport 2,https://z88.ubtvfans.com/live/rx1/2366/4829201392395c4f5681829529655b9b/index.m3u8
-Bein Sport 3,https://z88.ubtvfans.com/live/rx3/2230/863af0d01f233878718d329206601b47/index.m3u8
 Boomerang,https://z88.ubtvfans.com/live/rx3/2228/8bfafe6424ab3d9c283d615950f036fb/index.m3u8
 CANAL Sport,https://z88.ubtvfans.com/live/rx3/2234/4bc00af2854349a5f8d389bccc795455/index.m3u8
 Cine Class,https://z88.ubtvfans.com/live/rx3/2229/fc583f0f4e21751900673972926349f6/index.m3u8
@@ -1637,67 +1537,23 @@ Paramount,https://z88.ubtvfans.com/live/rx3/2233/a67129ecd73e43ad5772f6d9a8f033c
 Paris premiere,https://z88.ubtvfans.com/live/rx3/2235/91d2ba76f73800d726d0b13a72cb0ea0/index.m3u8
 TF1 HD,https://z88.ubtvfans.com/live/rx3/2236/08a1d51885ed1a6051f95ce4851b8815/index.m3u8
 Toute Lhistoire,https://z88.ubtvfans.com/live/rx3/2238/a19ebbe181ea4f08566f2ea240071080/index.m3u8
+
+
 意大利,#genre#
 Sky Calcio,https://z88.ubtvfans.com/live/rx3/2737/7d2cb9ecea6a1db5a21ce3b4d138be9e/index.m3u8
-SKY SPORT NBA,https://z88.ubtvfans.com/live/rx4/2738/6b76bf51f583760b06a34d6ee263f659/index.m3u8
-SKY SPORT ARENA,https://z88.ubtvfans.com/live/rx4/2739/600bc71354ec9dc7ea1d780bd8da2659/index.m3u8
-SKY F1,https://z88.ubtvfans.com/live/rx4/2740/82c07313e28dd339bd674d69fe5f9a03/index.m3u8
-Sky sport uno,https://z88.ubtvfans.com/live/rx3/1597/4969c926b3543d36620d428e3e77bb9b/index.m3u8
 Inter TV,https://z88.ubtvfans.com/live/rx3/1599/82701175762fa9ff57bd9d590a2203a2/index.m3u8
 Deejay TV,https://z88.ubtvfans.com/live/rx3/1601/4ea1a5aa9ef4ef89bf1ef7b7f2d6242f/index.m3u8
-Rai Sport,https://z88.ubtvfans.com/live/rx3/1613/6d9571af10a2d5522e50a221a5a79818/index.m3u8
 Italia 1,https://z88.ubtvfans.com/live/rx3/1616/b04a868816b9541cca43213997b431d1/index.m3u8
-新馬頻道,#genre#
-CNA 24,https://z88.ubtvfans.com/live/rx6/15/8fa4bc37b13aef429e32aec04a2b7a5b/index.m3u8
-AEC,https://z88.ubtvfans.com/live/rx3/433/2d19cd6ecf75dc80b839369e166a9d8f/index.m3u8
-AEC,https://z88.ubtvfans.com/live/rx3/2745/9e39f15f04e377d91b58e759bca6be30/index.m3u8
-TV2,https://z88.ubtvfans.com/live/rx3/436/8bf44d9315583e5fa7290b319230ec00/index.m3u8
-TV3,https://z88.ubtvfans.com/live/rx3/437/5419036fb97b8a043fa20875ff4f7293/index.m3u8
-TV8,https://z88.ubtvfans.com/live/rx3/442/87b78cbcd3a3385f2866c3838342f4ca/index.m3u8
-Arena,https://z88.ubtvfans.com/live/rx3/1172/4215632da030da54fcfc87b822cf0bec/index.m3u8
-小太陽,https://z88.ubtvfans.com/live/rx3/443/3fc11abdee8173f3f612787147a99e8d/index.m3u8
-Channel8,https://z88.ubtvfans.com/live/rx3/142/499c272f7079d3eda2a6b28a30a5709d/index.m3u8
-天映頻道,https://z88.ubtvfans.com/live/rx3/441/4b02ebfe67b0d934aaae5b94f25d1b95/index.m3u8
-KIX,https://z88.ubtvfans.com/live/rx3/430/99f42c64a73fe68c9f265d8eebd3db23/index.m3u8
-全佳,https://z88.ubtvfans.com/live/rx3/427/0f7330dfa5e5c9489e056561b2a4122c/index.m3u8
-歡喜,https://z88.ubtvfans.com/live/rx3/432/fdaa767379839410dd2b934cddf323b1/index.m3u8
-TVN,https://z88.ubtvfans.com/live/rx3/1170/8bd67d195c48b766ff7899ee309e25dd/index.m3u8
-CRICKET,https://z88.ubtvfans.com/live/rx3/1173/b9032b89cc136d03888b97ebd36f03aa/index.m3u8
-華麗,https://z88.ubtvfans.com/live/rx3/429/0dde9804e5414c5bb68e1c4e99e82e2c/index.m3u8
-Astro AWANI,https://z88.ubtvfans.com/live/rx6/2741/4d44e82ab85b5336ed5f69e0566480b7/index.m3u8
-Astro Awani,https://z88.ubtvfans.com/live/rx3/440/64d347731b3e31ee397bf94ec5fc2f49/index.m3u8
-Suria,https://z88.ubtvfans.com/live/rx3/434/19d76612c149b5d957a155f5b3d881a7/index.m3u8
-TV9,https://z88.ubtvfans.com/live/rx3/438/490f6668a0ffe54cf9ed88524e832efd/index.m3u8
-NTV7,https://z88.ubtvfans.com/live/rx3/439/6b72e5cc931e378d31f285f8e8ee2231/index.m3u8
-AOD,https://z88.ubtvfans.com/live/rx3/428/cb5370756c4b55b25c1bc5ac92ff661b/index.m3u8
-TV1,https://z88.ubtvfans.com/live/rx3/435/868c2ec24783b45c303f033f99a48763/index.m3u8
-Astro Sp1,https://z88.ubtvfans.com/live/rx3/444/374f3a89485dae993739529766d65c1b/index.m3u8
-ASSP1_HD,https://z88.ubtvfans.com/live/rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8
-Astro Sp2,https://z88.ubtvfans.com/live/rx3/445/a051a0bab713f99e7021da86464bdb8e/index.m3u8
-ASSP2_HD,https://z88.ubtvfans.com/live/rx3/1071/2e6f0c8a9ed4d441be34ad70bc40d5ed/index.m3u8
-Astro Sp3,https://z88.ubtvfans.com/live/rx3/446/1e3a19eba5731087b35ae8bbf54420ab/index.m3u8
-ASSP3_HD,https://z88.ubtvfans.com/live/rx3/1072/c67b9eaba4040f95114b5ab2e813b322/index.m3u8
-Astro Sp4,https://z88.ubtvfans.com/live/rx3/447/632f3b53ec7433aec73594c6ed966313/index.m3u8
-Astro Sp5,https://z88.ubtvfans.com/live/rx3/2432/c408bb9ddb2042813bf949dac9cf681e/index.m3u8
-BOO,https://z88.ubtvfans.com/live/rx3/1437/c54aa058469a41d222db93856df8fd1f/index.m3u8
-CCM,https://z88.ubtvfans.com/live/rx3/1438/3614bb0fc967e939fd949c912841148a/index.m3u8
-KIX,https://z88.ubtvfans.com/live/rx3/1446/c494431bafc147be554159e71fc3ca27/index.m3u8
-PRIMA,https://z88.ubtvfans.com/live/rx3/1448/3fbb28a48359635ac46f4cbcbbede14b/index.m3u8
-sony_one,https://z88.ubtvfans.com/live/rx3/1451/454b89745f10e4ce8f4305eb8a3f23a8/index.m3u8
-TV8,https://z88.ubtvfans.com/live/rx3/1455/cd09b5c601e58ee0aed650c4ad64bc3e/index.m3u8
-Channel5,https://z88.ubtvfans.com/live/rx3/141/f985c0a7f6dd77294710deea414bc2b8/index.m3u8
-AFN,https://z88.ubtvfans.com/live/rx3/195/16eaeeae098e49d4182e9e5b5dead592/index.m3u8
-Channel U,https://z88.ubtvfans.com/live/rx3/1077/1a3f653f1fd254976baa6003ca9abf27/index.m3u8
-Vasantham,https://z88.ubtvfans.com/live/rx3/1078/d3542e993c33c551e61ce8bb67f547f5/index.m3u8
-TVB星河,https://z88.ubtvfans.com/live/rx4/1079/9371abf6b38ee5057462d8573a71736d/index.m3u8
-TVB經典,https://z88.ubtvfans.com/live/rx4/1083/067958a5c51d052f7bcc3f3bd1a3a8ff/index.m3u8
-Suria,https://z88.ubtvfans.com/live/rx4/1076/14daefa2383cb23fb2f439f52ee1e1d5/index.m3u8
-OKEY,https://z88.ubtvfans.com/live/rx3/1075/8e3de68ea08ff1957cda7b44479179ab/index.m3u8
-AXN,https://z88.ubtvfans.com/live/rx3/1044/40b9b1e709c0b85254f3fd3198f55b30/index.m3u8
-BNC,https://z88.ubtvfans.com/live/rx3/1045/b3a0b442b617cb21d536709c9945ec0b/index.m3u8
+
+
+
+
+
 菲律賓,#genre#
 DZRH TV,https://z88.ubtvfans.com/live/rx6/1425/9612fe346d7319bf6c9d4f8984b5f9f2/index.m3u8
 UNTV,https://z88.ubtvfans.com/live/rx6/1501/7d0161050c5e64d767942a804a9a4c76/index.m3u8
+
+
 泰國頻道,#genre#
 Channel 3,https://z88.ubtvfans.com/live/rx4/2315/1d3517aa2aaf1fcd9059b1a106c4cc58/index.m3u8
 Channel 5,https://z88.ubtvfans.com/live/rx4/2316/569f7071167ffae03a3772cca697541f/index.m3u8
@@ -1722,8 +1578,9 @@ JKN,https://z88.ubtvfans.com/live/rx4/2247/bf01d6b1f47857f77e16df7a92d9aef5/inde
 Thai PBS,https://z88.ubtvfans.com/live/rx4/1047/ad265f48143840f1589dbaf78c7ac998/index.m3u8
 NEWS1,https://z88.ubtvfans.com/live/rx4/1608/347d8a1abf931a717c4122d2714814c2/index.m3u8
 Thailand ch3,https://z88.ubtvfans.com/live/rx4/1839/c19cc0fdeb84e5e414a73602e5cdd837/index.m3u8
+
+
 印尼頻道,#genre#
-CNN Indonesia,https://z88.ubtvfans.com/live/rx5/1145/46a22817c4f7afa657f2fdde79d86a01/index.m3u8
 Metro TV,https://z88.ubtvfans.com/live/rx6/2577/9231ebfe24029622b7490d2ed286230d/index.m3u8
 tvOne,https://z88.ubtvfans.com/live/rx6/2734/9f2acddf209c31348b8b4ec8710510d2/index.m3u8
 SCTV,https://z88.ubtvfans.com/live/rx6/2553/75aced9789b73e1a87142f4b70f035cc/index.m3u8
@@ -1857,6 +1714,7 @@ TVone,https://z88.ubtvfans.com/live/rx4/1487/5cd59fa0c3b89dc2dec9117c9d8978db/in
 BeritaSatu,https://z88.ubtvfans.com/live/rx4/1488/fc896f45d9faad04611abd1fd0a721c7/index.m3u8
 TVMU,https://z88.ubtvfans.com/live/rx4/1490/20d8394d898595f2f7f2ab322d45e4c2/index.m3u8
 DAAI TV,https://z88.ubtvfans.com/live/rx4/2936/522eb7c67aa87a1313275fc7b3c5be9f/index.m3u8
+
 越南頻道,#genre#
 HTV7 HD,https://z88.ubtvfans.com/live/rx4/2251/ed8acc12f688ba81598b23bf15e5a9db/index.m3u8
 HTV9 HD,https://z88.ubtvfans.com/live/rx4/2253/ad61da6dd9e25dd567c5ce99b46019ce/index.m3u8
@@ -1871,6 +1729,7 @@ ANTV HD,https://z88.ubtvfans.com/live/rx4/1301/48d3578b98738314b50b34cc242140a7/
 HBTV,https://z88.ubtvfans.com/live/rx4/1302/2c674322003825ea98fd77d80d9feec6/index.m3u8
 KienGiangTV,https://z88.ubtvfans.com/live/rx6/1309/1e08e3f2bc55ff4e229980ba37af8ee7/index.m3u8
 KienGiangTV1,https://z88.ubtvfans.com/live/rx6/1310/eb0c9cb3dd6a47b74f85bbe015a436cb/index.m3u8
+
 土耳其,#genre#
 A SPOR,https://z88.ubtvfans.com/live/rx4/2367/8d4d2f4717beeca1f472d4aeafa6b86d/index.m3u8
 TRT 1 HD,https://z88.ubtvfans.com/live/rx4/2368/ea8d00e8bb84ed427cc7a51dd3a2392e/index.m3u8
@@ -1897,6 +1756,8 @@ TRT SPOR HD,https://z88.ubtvfans.com/live/rx4/2388/02bf1f78f07b6ee1b581394b81c1d
 BEIN SPORTS 1 HD,https://z88.ubtvfans.com/live/rx4/2389/59b2fa306c36ef9865b4319f20501e5c/index.m3u8
 BEIN SPORTS 2 HD,https://z88.ubtvfans.com/live/rx4/2390/179bff9e7775b2548bb1b75fade1f929/index.m3u8
 ULUSAL TV,https://z88.ubtvfans.com/live/rx4/2391/5ad381a69943724f9970c720c33e5731/index.m3u8
+
+
 私密頻道,#genre#
 K頻道,http://61.224.69.212:9088/udp/224.1.4.175:11111
 K頻道,http://61.224.69.212:9088/udp/224.1.4.65:11111
@@ -1963,12 +1824,16 @@ EROTIC SPICE,https://z88.ubtvfans.com/live/rx4/3098/dbd6d13c792f14549e1d2863bc35
 FAKE AGENT,https://z88.ubtvfans.com/live/rx4/3100/dbefa736bf8672b31f85be095d226729/index.m3u8
 FAKE AGENT UK,https://z88.ubtvfans.com/live/rx4/3101/f2ecc13e9909655c1d073bb2ed9ce2bf/index.m3u8
 FAKE COP,https://z88.ubtvfans.com/live/rx4/3102/c7b0ba56b04abe5eb387ce96a7ca129d/index.m3u8
+
+
 俄羅斯,#genre#
 RT News,https://z88.ubtvfans.com/live/rx4/2564/8b2917eae744d18b6cf6423bfbafef7d/index.m3u8
 Москва 24,https://z88.ubtvfans.com/live/rx4/2574/b8c8e47719ee10665e371bd8620e5251/index.m3u8
 RT Documentary,https://z88.ubtvfans.com/live/rx4/2611/322cc5ef9af6f8a91f8745b188bb04c2/index.m3u8
 5 KANAL,https://z88.ubtvfans.com/live/rx6/2444/a6f854c6f1806db91ba8edf9601378fd/index.m3u8
 TV CENTR,https://z88.ubtvfans.com/live/rx3/2451/0fa25836c109dacb0a2c94bce1f8b056/index.m3u8
+
+
 भारत,#genre#
 WION,https://z88.ubtvfans.com/live/rx6/303/80b339752d69bfe35c415ea5dfbb5546/index.m3u8
 ZeeNews,https://z88.ubtvfans.com/live/rx6/465/8204aec8833f0de7e58fd88264f2ae97/index.m3u8
@@ -1990,6 +1855,8 @@ Starplus,https://z88.ubtvfans.com/live/rx4/1469/ed1f157d2b950e0a237b4cb976d0a9f5
 Picture,https://z88.ubtvfans.com/live/rx4/1470/874bb1516f41a9cb984e45d5df8c1ff6/index.m3u8
 Asianet,https://z88.ubtvfans.com/live/rx4/1471/7202a8bb350e62ff7c51f3d8268714e4/index.m3u8
 Times Now,https://z88.ubtvfans.com/live/rx4/1472/1014dc5a4e987a128a11a36a3c714149/index.m3u8
+
+
 巴西,#genre#
 Globo RBS TV,https://z88.ubtvfans.com/live/rx1/1668/656641f8b5168de1b3bbe96b24cb984b/index.m3u8
 Gloobinho,https://z88.ubtvfans.com/live/rx1/1684/65a89aa91f95bf56d28d1090ece5db7c/index.m3u8
@@ -1999,7 +1866,4 @@ Mais Globosat,https://z88.ubtvfans.com/live/rx1/1704/b0ee89479132e74276d89617179
 Rede TV,https://z88.ubtvfans.com/live/rx1/1728/388dff62e5e81b815a42331110269379/index.m3u8
 Record,https://z88.ubtvfans.com/live/rx1/1746/60707b2db07b596a90eed407eb553ee5/index.m3u8
 SBT,https://z88.ubtvfans.com/live/rx1/1747/5be857102a72742ce07a9a3bbf8eea0f/index.m3u8
-Sport TV 1,https://z88.ubtvfans.com/live/rx1/1779/af3c2582a145776f0d35d1e96229c627/index.m3u8
-Sport TV 2,https://z88.ubtvfans.com/live/rx1/1785/6422dd842ca3f805e2fa14b4767278f7/index.m3u8
-Sport TV 3,https://z88.ubtvfans.com/live/rx1/2135/ef2e9ca7d4307a5cc6bdf6e17098a0a7/index.m3u8
 Globo News,https://z88.ubtvfans.com/live/rx1/1489/c46f248515e29e711f4552ff4d099126/index.m3u8
