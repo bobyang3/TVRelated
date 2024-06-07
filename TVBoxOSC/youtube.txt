@@ -1,0 +1,5 @@
+YouTube,#genre#
+大愛一台,https://www.youtube.com/watch?v=MIqUplvSRWA&ab_channel=%E5%A4%A7%E6%84%9B%E9%9B%BB%E8%A6%96TzuChiDaAiVideo 
+大愛二台台灣,https://www.youtube.com/watch?v=OKvWtVoDR8I&ab_channel=%E5%A4%A7%E6%84%9B%E9%9B%BB%E8%A6%96TzuChiDaAiVideo 
+大愛二台全球,https://www.youtube.com/watch?v=DTNkEm6jaqQ&ab_channel=%E5%A4%A7%E6%84%9B%E9%9B%BB%E8%A6%96TzuChiDaAiVideo
+鳳凰衛視資訊,https://www.youtube.com/watch?v=HFib76ySpbU
