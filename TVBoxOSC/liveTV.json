@@ -1,21 +1,11 @@
 {
-  "spider": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+  "spider": "./jar/fan.txt;md5;70471410f8e5a1bf20eb64b6b402e5c2",
   "lives": [
-    {
-      "name": "RobYang 安博",
-      "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/%E5%AE%89%E5%8D%9A.txt",
-
-      "ua": "okhttp/3.15",
-      "timeout": 20,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
     {
       "name": "jackson0829",
       "type": 0,
       "url": "https://github.moeyy.xyz//https:/raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/mitv.txt",
-
+      "_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
@@ -25,7 +15,7 @@
       "name": "jackson0829tw",
       "type": 0,
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/TW.txt",
-
+      "_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
@@ -45,17 +35,17 @@
       "name": "运输车",
       "type": 0,
       "url": "https://weixine.net/tv/ysclive.txt",
-
+      "_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }, 
     {
-      "name": "douyin",
+      "name": "Rob Y. 安博",
       "type": 0,
-      "url": "https://www.sv6-douyin-cloudfare.cloudns.ch/duanwukl.txt",
-
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/%E5%AE%89%E5%8D%9A.txt",
+      "_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
@@ -65,7 +55,7 @@
       "name": "jundie top",
       "type": 0,
       "url": "http://home.jundie.top:81/Cat/tv/live.txt",
-
+      "_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
@@ -75,7 +65,7 @@
       "name": "宝盒",
       "type": 0,
       "url": "https://epg.pw/test_channels.m3u",
-
+      "_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
@@ -85,7 +75,7 @@
       "name": "live (inner)",
       "type": 0,
       "url": "./tvlive/tvlive.txt",
-
+      "_playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -93,7 +83,7 @@
       "name": "live",
       "type": 0,
       "url": "https://epg.pw/test_channels.m3u",
-
+      "_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
@@ -103,7 +93,7 @@
       "name": "宝盒 ygbh66",
       "type": 0,
       "url": "https://gitcode.net/ygbh66/test/-/raw/master/tw.txt",
-
+      "_playerType": 2,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -112,7 +102,7 @@
       "name": "live.ipv6.m3u",
       "type": 0,
       "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-
+      "_playerType": 2,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -121,7 +111,7 @@
       "name": "live.fan",
       "type": 0,
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
-
+      "_playerType": 2,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -129,7 +119,7 @@
     {
       "name": "Cat TXT",
       "type": 0,
-
+      "_playerType": 2,
       "url": "http://home.jundie.top:81/Cat/tv/live.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
@@ -138,7 +128,7 @@
     {
       "name": "FongMi",
       "type": 1,
-
+      "_playerType": 2,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
@@ -148,7 +138,7 @@
       "name": "初秋语•ipv4",
       "type": 0,
       "url": "./list.txt",
-
+      "_playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -156,7 +146,7 @@
       "name": "YanG•综合",
       "type": 0,
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
-
+      "_playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -164,7 +154,7 @@
       "name": "drang•ipv6",
       "type": 0,
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/drangjchen/IPTV/main/M3U/ipv6.m3u",
-
+      "_playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -172,7 +162,7 @@
       "name": "范明明•ipv6",
       "type": 0,
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
-
+      "_playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -180,7 +170,7 @@
       "name": "YueChan•综合",
       "type": 0,
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
-
+      "_playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -188,7 +178,7 @@
       "name": "Yoursmile•综合",
       "type": 0,
       "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
-
+      "_playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
