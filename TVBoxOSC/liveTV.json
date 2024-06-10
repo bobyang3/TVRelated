@@ -3,7 +3,7 @@
   "lives": [
     {
       "name": "RobYang 安博",
-      "type": 0,
+      "type": 20,
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/%E5%AE%89%E5%8D%9A.txt",
 
       "ua": "okhttp/3.15",
@@ -13,7 +13,7 @@
     },
     {
       "name": "jackson0829",
-      "type": 0,
+      "type": 20,
       "url": "https://github.moeyy.xyz//https:/raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/mitv.txt",
 
       "ua": "okhttp/3.15",
@@ -23,7 +23,7 @@
     },
     {
       "name": "jackson0829tw",
-      "type": 0,
+      "type": 20,
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/TW.txt",
 
       "ua": "okhttp/3.15",
@@ -43,8 +43,28 @@
     // },
     {
       "name": "运输车",
-      "type": 0,
+      "type": 20,
       "url": "https://weixine.net/tv/ysclive.txt",
+
+      "ua": "okhttp/3.15",
+      "timeout": 20,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }, 
+    {
+      "name": "159169",
+      "type": 20,
+      "url": "http://www.52sw.top:678/play/oj1381/list.php?get=159169",
+
+      "ua": "okhttp/3.15",
+      "timeout": 20,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }, 
+    {
+      "name": "169",
+      "type": 20,
+      "url": "http://www.52sw.top:678/play/oj1381/list.php?get=169%E7%84%A6%E7%82%B9",
 
       "ua": "okhttp/3.15",
       "timeout": 20,

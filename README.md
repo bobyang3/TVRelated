@@ -15,15 +15,17 @@ Recommended:
 
 1. 泥巴,独播库,小宝,欧乐,腐剧　https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json (https://github.com/qist/tvbox)
 2. 寶盒=欧乐,泥巴　https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json
-3. https://raw.githubusercontent.com/iswhat/tvboxcon/master/0821.json
-4. https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json （https://github.com/gaotianliuyun/gao/tree/master） 
-5. https://tianyastudio.blogspot.com/search/label/TV 
-7. https://github.com/li5bo5/TVBox?tab=readme-ov-file
-8. http://home.jundie.top:81/top98.json
-9.  https://github.com/jake3737/tvbox?tab=readme-ov-file 
-10. 海外 https://github.com/LinWei0718/iptvtw/blob/main/mao.json 
-11. 教學 https://gitlab.com/xmbjm/omg/-/raw/main/omg.json
-12. https://gitlab.com/-/snippets/2343779/raw/main/snippetfile1.txt
+3. 159169 http://www.52sw.top:678/play/oj1381/list.php?get=159169
+4. 169 http://www.52sw.top:678/play/oj1381/list.php?get=169%E7%84%A6%E7%82%B9 
+5. https://raw.githubusercontent.com/iswhat/tvboxcon/master/0821.json
+6. https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json （https://github.com/gaotianliuyun/gao/tree/master） 
+7. https://tianyastudio.blogspot.com/search/label/TV 
+8. https://github.com/li5bo5/TVBox?tab=readme-ov-file
+9. http://home.jundie.top:81/top98.json
+10. https://github.com/jake3737/tvbox?tab=readme-ov-file 
+11. 海外 https://github.com/LinWei0718/iptvtw/blob/main/mao.json 
+12. 教學 https://gitlab.com/xmbjm/omg/-/raw/main/omg.json
+13. https://gitlab.com/-/snippets/2343779/raw/main/snippetfile1.txt
     
 
 
@@ -37,6 +39,7 @@ Recommended:
 接口List：
 1. https://www.upx8.com/4021
 2. https://xn--qoqw77q.top/dcjk.html
+3. http://www.52sw.top:678/play/oj1381/index.php?get=159169
 
 
 
