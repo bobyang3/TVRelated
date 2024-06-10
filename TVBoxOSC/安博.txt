@@ -55,13 +55,6 @@ Euronews English,https://www.youtube.com/live/pykpO5kQJ98
 GB News,https:/ /www.youtube.com/live/8WX6YL9JnLw
 
 
-
-可不可以請你幫我ＰＲ這個
-https://github.com/FongMi/TV/pull/498
-
-
-
-
 台灣頻道,#genre#
 民視,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
 民視,https://z88.ubtvfans.com/live/rx1/336/a355146f49dc8ec7fb97ab46e4c9857d/index.m3u8
