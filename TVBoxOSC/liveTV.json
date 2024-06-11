@@ -1,5 +1,9 @@
 {
-  "spider": "./jar/fan.txt;md5;70471410f8e5a1bf20eb64b6b402e5c2",
+  //"spider": "./jar/fan.txt;md5;70471410f8e5a1bf20eb64b6b402e5c2",
+  //"spider": "https://github.com/gaotianliuyun/gao/raw/master/jar/fan.txt",
+  "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar",
+  //"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714125698234/fan.txt",
+
   "lives": [
     {
       "name": "RobYang 安博",
@@ -10,6 +14,7 @@
       "timeout": 20,
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
+      //,"jar":"https://github.moeyy.xyz/raw.githubusercontent.com/bluefriendCN/bin/main/Yoursmile.jar"
     },
     {
       "name": "jackson0829",
