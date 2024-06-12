@@ -58,30 +58,9 @@ GB News,https:/ /www.youtube.com/live/8WX6YL9JnLw
 
 
 台灣頻道,#genre#
-民視台灣台,http://wanjiatv.net/litv.php?id=4gtv-4gtv001
-民視第一台,http://wanjiatv.net/litv.php?id=4gtv-4gtv003
-民視綜藝台,http://wanjiatv.net/litv.php?id=4gtv-4gtv004
-豬哥亮歌廳秀,http://wanjiatv.net/litv.php?id=4gtv-4gtv006
-中天新聞台,http://wanjiatv.net/litv.php?id=4gtv-4gtv009
-非凡新聞台,http://wanjiatv.net/litv.php?id=4gtv-4gtv010
-影迷數位電影台,http://wanjiatv.net/litv.php?id=4gtv-4gtv011
-視納華仁紀實頻道,http://wanjiatv.net/litv.php?id=4gtv-4gtv013
-時尚運動X,http://wanjiatv.net/litv.php?id=4gtv-4gtv014
-達文西頻道,http://wanjiatv.net/litv.php?id=4gtv-4gtv018
-八大精彩台,http://wanjiatv.net/litv.php?id=4gtv-4gtv034
-八大綜藝台,http://wanjiatv.net/litv.php?id=4gtv-4gtv039
-中視,http://wanjiatv.net/litv.php?id=4gtv-4gtv040
-華視,http://wanjiatv.net/litv.php?id=4gtv-4gtv041
-公視戲劇,http://wanjiatv.net/litv.php?id=4gtv-4gtv042
-客家電視台,http://wanjiatv.net/litv.php?id=4gtv-4gtv043
-靖天卡通台,http://wanjiatv.net/litv.php?id=4gtv-4gtv044
-靖洋戲劇台,http://wanjiatv.net/litv.php?id=4gtv-4gtv045
-靖天綜合台,http://wanjiatv.net/litv.php?id=4gtv-4gtv046
-靖天日本台,http://wanjiatv.net/litv.php?id=4gtv-4gtv047
-
+民視,https://z88.ubtvfans.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
 民視,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
 民視,https://z88.ubtvfans.com/live/rx1/336/a355146f49dc8ec7fb97ab46e4c9857d/index.m3u8
-民視,https://z88.ubtvfans.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
 台視,https://z88.ubtvfans.com/live/rx1/326/a673772508adb079ee615a07780a1a66/index.m3u8
 台視,https://z88.ubtvfans.com/live/rx3/312/df64913fe36fda05394f453b357c8cf8/index.m3u8
 中視,https://z88.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
@@ -288,6 +267,29 @@ CN卡通,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/
 靖洋卡通,https://z88.ubtvfans.com/live/rx1/348/f46f118edd38e34cf5f65affac4835dd/index.m3u8
 靖天卡通,https://z88.ubtvfans.com/live/rx1/344/f577021ae68af926ae8d3a80049e4541/index.m3u8
 大愛一臺,https://z88.ubtvfans.com/live/rx6/11/79c9c9e7e7068753ca822e3598e19eec/index.m3u8
+
+民視台灣台,http://wanjiatv.net/litv.php?id=4gtv-4gtv001
+民視第一台,http://wanjiatv.net/litv.php?id=4gtv-4gtv003
+民視綜藝台,http://wanjiatv.net/litv.php?id=4gtv-4gtv004
+豬哥亮歌廳秀,http://wanjiatv.net/litv.php?id=4gtv-4gtv006
+中天新聞台,http://wanjiatv.net/litv.php?id=4gtv-4gtv009
+非凡新聞台,http://wanjiatv.net/litv.php?id=4gtv-4gtv010
+影迷數位電影台,http://wanjiatv.net/litv.php?id=4gtv-4gtv011
+視納華仁紀實頻道,http://wanjiatv.net/litv.php?id=4gtv-4gtv013
+時尚運動X,http://wanjiatv.net/litv.php?id=4gtv-4gtv014
+達文西頻道,http://wanjiatv.net/litv.php?id=4gtv-4gtv018
+八大精彩台,http://wanjiatv.net/litv.php?id=4gtv-4gtv034
+八大綜藝台,http://wanjiatv.net/litv.php?id=4gtv-4gtv039
+中視,http://wanjiatv.net/litv.php?id=4gtv-4gtv040
+華視,http://wanjiatv.net/litv.php?id=4gtv-4gtv041
+公視戲劇,http://wanjiatv.net/litv.php?id=4gtv-4gtv042
+客家電視台,http://wanjiatv.net/litv.php?id=4gtv-4gtv043
+靖天卡通台,http://wanjiatv.net/litv.php?id=4gtv-4gtv044
+靖洋戲劇台,http://wanjiatv.net/litv.php?id=4gtv-4gtv045
+靖天綜合台,http://wanjiatv.net/litv.php?id=4gtv-4gtv046
+靖天日本台,http://wanjiatv.net/litv.php?id=4gtv-4gtv047
+
+
 
 
 港澳頻道,#genre#
