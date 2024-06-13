@@ -31,7 +31,7 @@ Recommended:
 
 直播接口： 
 
-1.　Rob Y.: https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTV.json <br>
+1.　Rob Y.: https://t.ly/bobyang or https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTV.json <br>
 2.  4GTV live: https://api2.4gtv.tv/Channel/GetChannelBySetId/1/pc/L<br>
 
 
