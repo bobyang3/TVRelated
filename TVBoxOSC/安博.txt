@@ -1,20 +1,20 @@
 YouTube,#genre#
 
 
-三立新聞,https://www.youtube.com/watch?v=FoBfXvlOR6I
-三立inews,https://www.youtube.com/watch?v=CKjSm5ZeehE
-三立NEWS+,https://www.youtube.com/watch?v=oZdzzvxTfUY
-公視直播,https://www.youtube.com/watch?v=4Uc00FPs27M
-公視台語,https://www.youtube.com/watch?v=6KlRR_DGhmI
-公視新聞網,htt​​ps://www.youtube.com/live/quwqlazU-c8
-民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
-民視戲劇,https://www.youtube.com/live/6CQZxYpW9q4
-台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
-華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-華視綜藝頻道,https://www.youtube.com/live/IfKO17h4pVE
-華視戲劇頻道,https://www.youtube.com/live/WFXI3igmwDk 
-寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
-寰宇新聞台灣台,https://www.youtube.com/live/w87VGpgd90U
+三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
+三立inews,https://m.youtube.com/watch?v=CKjSm5ZeehE
+三立NEWS+,https://m.youtube.com/watch?v=oZdzzvxTfUY
+公視直播,https://m.youtube.com/watch?v=4Uc00FPs27M
+公視台語,https://m.youtube.com/watch?v=6KlRR_DGhmI
+公視新聞網,htt​​ps://m.youtube.com/live/quwqlazU-c8
+民視新聞,http://www.youtube.com/watch?v=ylYJSBUgaMA
+民視戲劇,http://www.youtube.com/live/6CQZxYpW9q4
+台視新聞,http://www.youtube.com/watch?v=xL0ch83RAK8
+華視新聞,http://m.youtube.com/watch?v=wM0g8EoUZ_E
+華視綜藝頻道,http://m.youtube.com/live/IfKO17h4pVE
+華視戲劇頻道,http://m.youtube.com/live/WFXI3igmwDk 
+寰宇新聞,http://m.youtube.com/watch?v=6IquAgfvYmc
+寰宇新聞台灣台,http://m.youtube.com/live/w87VGpgd90U
 東森財經股市,https://www.youtube.com/watch?v=LbS-xQ67fos
 東森財經新聞,https://www.youtube.com/live/WHEPzbFA3hw
 mnews鏡新聞,https://www.youtube.com/live/5n0y6b0Q25o 
