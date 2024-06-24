@@ -93,7 +93,7 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 TVBS,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 TVBS,https://z88.ubtvfans.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.m3u8
 緯來育樂,https://z88.ubtvfans.com/live/rx1/338/24e3230f2c9205c6307b25e118377967/index.m3u8
-緯來育樂（測試）,https://z88.ubtvfans.com/live/rx3/2772/6b4a1d089f96bd4152f46f3b5fd19f77/index.m3u8
+緯來育樂,https://z88.ubtvfans.com/live/rx3/2772/6b4a1d089f96bd4152f46f3b5fd19f77/index.m3u8
 緯來日本,https://z88.ubtvfans.com/live/rx1/337/035c2937fcd367625255344bb95d7bc0/index.m3u8
 緯來日本,https://z88.ubtvfans.com/live/rx3/46/f02a81ef8894bafbc6efb82a89384917/index.m3u8
 國興衛視,https://z88.ubtvfans.com/live/rx1/65/512600edc0968aef5fac5f0cc1195023/index.m3u8
@@ -145,7 +145,7 @@ MOMO購物2,https://z88.ubtvfans.com/live/rx6/1586/6f15340ecd25670ca08605411b9c7
 三立新聞,https://z88.ubtvfans.com/live/rx6/2392//index.m3u8
 三立新聞+,https://z88.ubtvfans.com/live/rx6/320/fe69b133c10d8cf53971acc52a35ddff/index.m3u8
 東森新聞,https://z88.ubtvfans.com/live/rx5/1025/8849e4836a47ae92c7dbaddbd374badd/index.m3u8
-東森新聞4,https://z88.ubtvfans.com/live/rx1/2766/11a206130aa9aeef32670d759dca953d/index.m3u8
+東森新聞,https://z88.ubtvfans.com/live/rx1/2766/11a206130aa9aeef32670d759dca953d/index.m3u8
 東森新聞,https://z88.ubtvfans.com/live/rx2/1358/7eb08c8701281a6117ea7b14e3e55ffc/index.m3u8
 東森新聞,https://z88.ubtvfans.com/live/rx6/2393//index.m3u8
 東森亞洲,https://z88.ubtvfans.com/live/rx1/3/0e6d203e74c6b1e9402855ab8065e43c/index.m3u8
@@ -260,8 +260,8 @@ EYE旅遊,https://z88.ubtvfans.com/live/rx1/1494/12d6a963435f08d46af4b54fac42dea
 Globetrotter 環遊旅行家,https://z88.ubtvfans.com/live/rx1/114/3cd789f76d80cfa1ce9f5a570516261f/index.m3u8
 MOMO親子,https://z88.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2c/index.m3u8
 MOMO親子,https://z88.ubtvfans.com/live/rx3/1126/e784303c7c9eed38bde81d3a18ea6a7b/index.m3u8
-東森幼幼（備）,https://z88.ubtvfans.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
 東森幼幼,https://z88.ubtvfans.com/live/rx1/371/0fd95cba4794f8bed187c2bcfa9c47d1/index.m3u8
+東森幼幼,https://z88.ubtvfans.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
 東森亞洲呦呦,https://z88.ubtvfans.com/live/rx1/293/25103d9c3ad2b7e2fffb4765fce2b7fb/index.m3u8
 CN卡通,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/index.m3u8
 靖洋卡通,https://z88.ubtvfans.com/live/rx1/348/f46f118edd38e34cf5f65affac4835dd/index.m3u8
