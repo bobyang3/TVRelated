@@ -1,4 +1,5 @@
 YouTube,#genre#
+test,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719803994/ei/-suBZquIFOHElu8PseChSA/ip/172.183.131.36/id/37h3mmtPOkI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6p17M6tEvJEugqVJAxRG-MPROiIPoMWkBFVYd-EUKQwsYwF4pO0AZKAyms/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgD4aoYvnJwyeZi1qZpga1H3t_iVFE8juh5x0zMVuT-kUCIBdKkEPDrtvS1fR6QAQkX1zBX80oVgaOjOycEwZUAh6B/file/index.m3u8
 三立,https://www.youtube.com/watch?v=FoBfXvlOR6I
 大愛一台,https://www.youtube.com/watch?v=MIqUplvSRWA&ab_channel=%E5%A4%A7%E6%84%9B%E9%9B%BB%E8%A6%96TzuChiDaAiVideo 
 大愛二台台灣,https://www.youtube.com/watch?v=OKvWtVoDR8I&ab_channel=%E5%A4%A7%E6%84%9B%E9%9B%BB%E8%A6%96TzuChiDaAiVideo 
