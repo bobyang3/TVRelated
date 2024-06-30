@@ -12,9 +12,9 @@ Recommended:
 
 
 接口：
-1. Rob Y.: https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/FongMiPg.json <br>
-2. 泥巴,独播库,小宝,欧乐,腐剧　https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json (https://github.com/qist/tvbox)
-3. 寶盒=欧乐,泥巴　https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json
+1. Rob Yang 點播倉庫.: https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveVodTV.json
+2. 寶盒=欧乐,泥巴　https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json
+3. 泥巴,独播库,小宝,欧乐,腐剧　https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json (https://github.com/qist/tvbox)
 4. https://raw.githubusercontent.com/iswhat/tvboxcon/master/0821.json
 5. https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json （https://github.com/gaotianliuyun/gao/tree/master） 
 6. https://tianyastudio.blogspot.com/search/label/TV 
@@ -29,10 +29,11 @@ Recommended:
 
 
 直播接口： 
-1. Rob Y.: https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTV.json <br>
+1. Rob Yang 直播倉庫: https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTV.json <br>
 2. 4GTV live: https://api2.4gtv.tv/Channel/GetChannelBySetId/1/pc/L<br>
 3. 159169 http://www.52sw.top:678/play/oj1381/list.php?get=159169
 4. 169 http://www.52sw.top:678/play/oj1381
+   
 
 
 

@@ -56,6 +56,15 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
+      "name": "epg.pw",
+      "type": 0,
+      "url": "https://epg.pw/test_channels.m3u",
+      //"_playerType": 2,
+      "ua": "okhttp/3.8.1",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "月光宝盒",
       "type": 0,
       "url": "https://gitcode.net/ygbh66/test/-/raw/master/tw.txt",
