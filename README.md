@@ -28,9 +28,10 @@ Recommended:
 
 直播接口： 
 1. Rob Yang 直播倉庫: https://rb.gy/cbgs6c or https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTV.json <br>
-2. 4GTV live: https://api2.4gtv.tv/Channel/GetChannelBySetId/1/pc/L<br>
-3. 159169 http://www.52sw.top:678/play/oj1381/list.php?get=159169
-4. 169 http://www.52sw.top:678/play/oj1381
+2. Rob Yang 全直播: https://rb.gy/fmlb89 or https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTV.json <br>
+3. 4GTV live: https://api2.4gtv.tv/Channel/GetChannelBySetId/1/pc/L<br>
+4. 159169 http://www.52sw.top:678/play/oj1381/list.php?get=159169
+5. 169 http://www.52sw.top:678/play/oj1381
    
 
 
