@@ -6,9 +6,9 @@
 
   "lives": [
     {
-      "name": "RobYang 安博",
+      "name": "Rob Yang liveTVList",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/%E5%AE%89%E5%8D%9A.txt",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTVList.txt",
       // "_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
