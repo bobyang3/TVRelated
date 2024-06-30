@@ -1,13 +1,14 @@
 {
   "urls": [
     {
-      "url": "https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json",
-      "name": "guot55"
-    },
-    {
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
       "name": "qist"
     },
+    {
+      "url": "https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json",
+      "name": "guot55" 
+    },
+
     {
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
       "name": "高天流雲 No.1"
