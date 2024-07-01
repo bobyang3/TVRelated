@@ -21,7 +21,7 @@ Recommended:
 7. http://home.jundie.top:81/top98.json
 8. https://github.moeyy.xyz/https://github.com/jake3737/tvbox?tab=readme-ov-file 
 9. 教學 https://gitlab.com/xmbjm/omg/-/raw/main/omg.json
-10. 欧乐,泥巴 (onlien js) https://gitlab.com/-/snippets/2343779/raw/main/snippetfile1.txt
+10. 欧乐,泥巴 (online js) https://gitlab.com/-/snippets/2343779/raw/main/snippetfile1.txt
 11. 18 AV https://d.kstore.space/download/7708/a18.json
     
 
