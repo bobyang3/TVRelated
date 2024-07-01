@@ -16,10 +16,8 @@ Recommended:
 2. 寶盒=欧乐,泥巴　https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json
 3. 泥巴,独播库,小宝,欧乐,腐剧　https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json (https://github.com/qist/tvbox)
 4. https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json （https://github.com/gaotianliuyun/gao/tree/master） 
-5. https://tianyastudio.blogspot.com/search/label/TV 
-6. https://github.com/li5bo5/TVBox?tab=readme-ov-file
 7. http://home.jundie.top:81/top98.json
-8. https://github.moeyy.xyz/https://github.com/jake3737/tvbox?tab=readme-ov-file 
+8. https://github.moeyy.xyz/https://raw.githubusercontent.com/jake3737/tvbox/master/js.json 
 9. 教學 https://gitlab.com/xmbjm/omg/-/raw/main/omg.json
 10. 欧乐,泥巴 (online js) https://gitlab.com/-/snippets/2343779/raw/main/snippetfile1.txt
 11. 18 AV https://d.kstore.space/download/7708/a18.json
@@ -40,6 +38,8 @@ Recommended:
 1. https://www.upx8.com/4021
 2. https://xn--qoqw77q.top/dcjk.html
 3. http://www.52sw.top:678/play/oj1381/index.php?get=159169
+4. https://tianyastudio.blogspot.com/search/label/TV 
+5. https://github.com/li5bo5/TVBox?tab=readme-ov-file
 
 
 PG包　（本地包）：
