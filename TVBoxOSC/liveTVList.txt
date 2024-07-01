@@ -2015,10 +2015,8 @@ ULUSAL TV,https://z88.ubtvfans.com/live/rx4/2391/5ad381a69943724f9970c720c33e573
 
 
 ==  限制級節目  ==,#genre#
-
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-A teen with a mature,http://ovhv39.twincdn.com/videos/5/5912/5912_720p.mp4
 
 
 歐美,#genre#
@@ -3278,3 +3276,27 @@ EROTIC SPICE,https://z88.ubtvfans.com/live/rx4/3098/dbd6d13c792f14549e1d2863bc35
 FAKE AGENT,https://z88.ubtvfans.com/live/rx4/3100/dbefa736bf8672b31f85be095d226729/index.m3u8
 FAKE AGENT UK,https://z88.ubtvfans.com/live/rx4/3101/f2ecc13e9909655c1d073bb2ed9ce2bf/index.m3u8
 FAKE COP,https://z88.ubtvfans.com/live/rx4/3102/c7b0ba56b04abe5eb387ce96a7ca129d/index.m3u8
+
+
+
+
+
+
+
+==  沒了  ==,#genre#
+parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+==  什麼都沒了   ==,#genre#
+parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+
+==  真的都沒了  ==,#genre#
+parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+
+==  完全都沒了  ==,#genre#
+parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
