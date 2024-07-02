@@ -2017,7 +2017,7 @@ ULUSAL TV,https://z88.ubtvfans.com/live/rx4/2391/5ad381a69943724f9970c720c33e573
 ==  限制級節目  ==,#genre#
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
+三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
 
 歐美,#genre#
 parse=1
@@ -3286,17 +3286,22 @@ FAKE COP,https://z88.ubtvfans.com/live/rx4/3102/c7b0ba56b04abe5eb387ce96a7ca129d
 ==  沒了  ==,#genre#
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
+
 
 ==  什麼都沒了   ==,#genre#
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
 
 
 ==  真的都沒了  ==,#genre#
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
 
 
 ==  完全都沒了  ==,#genre#
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
