@@ -29,8 +29,7 @@ Recommended:
 2. Rob Yang 全直播: https://rb.gy/fmlb89 or https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTV.json <br>
 3. 4GTV live: https://api2.4gtv.tv/Channel/GetChannelBySetId/1/pc/L<br>
 4. 159169 http://www.52sw.top:678/play/oj1381/list.php?get=159169
-5. 169 http://www.52sw.top:678/play/oj1381
-   
+5. 169 http://www.52sw.top:678/play/oj1381  
 
 
 
@@ -42,8 +41,14 @@ Recommended:
 5. https://github.com/li5bo5/TVBox?tab=readme-ov-file
 
 
+特別解析json:
+1. https://github.com/wnddwc/daiweichun
+
+
+
 PG包　（本地包）：
 1. https://github.com/gaotianliuyun/gao/tree/master
+
 
 
 如何為影視倉設定內建來源介面？
@@ -55,8 +60,7 @@ PG包　（本地包）：
 
 TVbox Info:
 
-1. https://www.xn--sss604efuw.top/
-2. https://github.com/FongMi/TV
+1. https://github.com/FongMi/TV
 3. https://github.com/qist/tvbox
 
 
@@ -64,14 +68,6 @@ TVbox Info:
 
 --------------------------------------------------------------------
 
-# IptvSource
-
-
-Channels.txt = https://git.io/Jfz3l
-Channels.m3u = https://git.io/JJUnS
-
-
------
 
 格式說明 http://www.sharerw.com/a/ziyuan/444.html:
 1. 《分享者tv》 《百川影音》自定义直播源的分类写法为: ### $c_start央视$c_end
