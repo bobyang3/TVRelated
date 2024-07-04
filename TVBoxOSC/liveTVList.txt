@@ -3210,7 +3210,7 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 
 
 
-私密頻道,#genre#
+私密頻道_5566,#genre#
 K頻道,http://61.224.69.212:9088/udp/224.1.4.175:11111
 K頻道,http://61.224.69.212:9088/udp/224.1.4.65:11111
 松視1台,http://61.224.69.212:9088/udp/224.1.4.68:11111
@@ -3283,30 +3283,20 @@ FAKE COP,https://z88.ubtvfans.com/live/rx4/3102/c7b0ba56b04abe5eb387ce96a7ca129d
 
 
 
-=====,#genre#
-parse=1
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+==密碼是5566===,#genre#
 三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
 
 
-=====,#genre#
-parse=1
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+==密碼是5566===,#genre#
 三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
 
 
-=====,#genre#
-parse=1
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+==密碼是5566===,#genre#
 三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
 
 
-=====,#genre#
-parse=1
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+==密碼是5566===,#genre#
 三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
 
-=====,#genre#
-parse=1
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+==密碼是5566===,#genre#
 三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
