@@ -2014,12 +2014,12 @@ ULUSAL TV,https://z88.ubtvfans.com/live/rx4/2391/5ad381a69943724f9970c720c33e573
 
 
 
-==  限制級節目  ==,#genre#
+==  5566 限制級節目  ==,#genre#
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
 
-歐美,#genre#
+歐美_5566,#genre#
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 A teen with a mature,http://ovhv39.twincdn.com/videos/5/5912/5912_720p.mp4
@@ -2113,7 +2113,7 @@ Tiny 4k 9,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/
 
 
 
-一本道,#genre#
+一本道_5566,#genre#
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 一本道_1,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
@@ -2461,7 +2461,7 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 一本道_406,https://vip4.ddyunbo.com/20210202/6wLYbWPq/index.m3u8?skipl=1
 
 
-日本AV,#genre#
+日本AV_5566,#genre#
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 SET-009c-僕生中出人妻篠田ゆう,http://videocdn.quweikm.com:8091/20180730/SET-009c/index.m3u8
