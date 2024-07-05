@@ -6,6 +6,16 @@
 
   "lives": [
     {
+      "name": "jackson0829tw",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/TW.txt",
+      // "_playerType": 2,
+      "ua": "okhttp/3.15",
+      "timeout": 20,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "Rob Yang live TV list https://rb.gy/fmlb89",
       "type": 0,
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTVList.txt",
@@ -14,7 +24,7 @@
       "timeout": 20,
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-      //,"jar":"https://github.moeyy.xyz/raw.githubusercontent.com/bluefriendCN/bin/main/Yoursmile.jar"
+      ,"jar":"https://github.moeyy.xyz/raw.githubusercontent.com/bluefriendCN/bin/main/Yoursmile.jar"
     },
     {
       "name": "jackson0829",
@@ -36,16 +46,6 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },   
-    {
-      "name": "jackson0829tw",
-      "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/TW.txt",
-      // "_playerType": 2,
-      "ua": "okhttp/3.15",
-      "timeout": 20,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
     {
       "name": "UPLIVE 安博",
       "type": 0,
