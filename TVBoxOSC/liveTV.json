@@ -16,7 +16,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "Rob Yang live TV list https://rb.gy/fmlb89",
+      "name": "Rob Yang live TV list https://rb.gy/cbgs6c",
       "type": 0,
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTVList.txt",
       // "_playerType": 2,
@@ -24,7 +24,7 @@
       "timeout": 20,
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-      ,"jar":"https://github.moeyy.xyz/raw.githubusercontent.com/bluefriendCN/bin/main/Yoursmile.jar"
+      ,"jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"
     },
     {
       "name": "jackson0829",
