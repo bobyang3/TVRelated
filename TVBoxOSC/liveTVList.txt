@@ -4,7 +4,6 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
 三立inews,https://m.youtube.com/watch?v=CKjSm5ZeehE
 三立NEWS+,https://m.youtube.com/watch?v=oZdzzvxTfUY
-公視直播,https://m.youtube.com/watch?v=4Uc00FPs27M
 公視台語,https://m.youtube.com/watch?v=6KlRR_DGhmI
 公視新聞網,htt​​ps://m.youtube.com/live/quwqlazU-c8
 民視新聞,http://www.youtube.com/watch?v=ylYJSBUgaMA
@@ -247,8 +246,6 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
 
 歐美_5566,#genre#
-parse=1
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 A teen with a mature,http://ovhv39.twincdn.com/videos/5/5912/5912_720p.mp4
 Adriana Malao,http://ovhv39.twincdn.com/videos/12/12570/12570_720p.mp4
 Amateur Teen,http://ovhv39.twincdn.com/videos/6/6858/6858_720p.mp4

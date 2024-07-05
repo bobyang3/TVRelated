@@ -33,12 +33,15 @@ Recommended:
 
 
 
+
 接口List：
 1. https://www.upx8.com/4021
 2. https://xn--qoqw77q.top/dcjk.html
 3. http://www.52sw.top:678/play/oj1381/index.php?get=159169
 4. https://tianyastudio.blogspot.com/search/label/TV 
 5. https://github.com/li5bo5/TVBox?tab=readme-ov-file
+6. International: https://iptv-org.github.io/iptv/index.m3u (https://github.com/iptv-org/iptv)
+7. 
 
 
 特別解析json:
