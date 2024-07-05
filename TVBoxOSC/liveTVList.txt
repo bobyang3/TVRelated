@@ -1115,7 +1115,7 @@ SET-010c-巨乳美人,http://videocdn.quweikm.com:8091/20180730/SET-010c/index.m
 二本道,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0431_full/1500kb/hls/index.m3u8
 一本道,http://video1.rhsj520.com:8091/nyrm3/20180105/3/050313-328/1500kb/hls/index.m3u8
 
-SWAG,#genre#
+SWAG_5566,#genre#
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 SWAG學校保健室的性感絲襪女老師給同學老二擦藥消腫被啪啪戴著眼鏡樣子非常淫騷,https://cdn.163cdn.net/hls/contents/videos/46000/46944/46944.mp4/index.m3u8
@@ -1226,7 +1226,7 @@ SWAG騷女友被你落在這了,https://video2.51daao.com/btt1/2020/12/20201205/
 
 
 
-麻豆传媒,#genre#
+麻豆传媒_5566,#genre#
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 麻豆传媒001,https://video2.51daao.com/btt1/2021/04/20210421/vTcVOAWe/index.m3u8
@@ -1276,7 +1276,7 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 麻豆传媒085,https://video2.51daao.com/btt1/2021/03/20210323/2plUZWUR/index.m3u8
 
 
-国产传媒,#genre#
+国产传媒_5566,#genre#
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 国产11传媒01,https://u89ey1.cdnedge.live/file/avple-asserts/hls/636263a357da9326a9b1cdcb/playlist.m3u8
@@ -1596,7 +1596,7 @@ English.27,p3p://108.181.32.169:24147/64231eaa000cc687e2894d1c6445706e
 
 
 
-CR18+__5566,#genre#
+CR18+_5566,#genre#
 潘多拉完美,p3p://108.181.20.159:54852/5fe4450c000c918b829fca233c845311
 香蕉,p3p://108.181.20.159:54852/60626a760005067e6f5bbecb5816771e
 松视1,p3p://108.181.20.159:54852/5fe445280008a40682a0367c343436bb
