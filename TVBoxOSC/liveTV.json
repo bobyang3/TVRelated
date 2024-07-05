@@ -47,6 +47,16 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
+      "name": "UPLIVE 安博",
+      "type": 0,
+      "url": "https://fm1077.serv00.net/anbo/",
+      // "_playerType": 2,
+      "ua": "okhttp/3.15",
+      "timeout": 20,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "live.ipv6.m3u",
       "type": 0,
       "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
