@@ -6,9 +6,9 @@
 
   "lives": [
     {
-      "name": "jackson0829tw",
+      "name": "UPLIVE 安博",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/TW.txt",
+      "url": "https://fm1077.serv00.net/anbo/",
       // "_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
@@ -25,6 +25,16 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
       ,"jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"
+    },
+    {
+      "name": "jackson0829tw",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/TW.txt",
+      // "_playerType": 2,
+      "ua": "okhttp/3.15",
+      "timeout": 20,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "jackson0829",
