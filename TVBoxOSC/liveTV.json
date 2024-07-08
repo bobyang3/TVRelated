@@ -5,9 +5,6 @@
   //"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714125698234/fan.txt",
   //"spider": "  https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/42d562dc8e29d0adf7689e4748a43d84ecdf2805/jar/custom_spider.jar",
   "spider": "https://mirror.ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
-
-
-
   "lives": [
     {
       "name": "UPLIVE 安博",
@@ -61,9 +58,9 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "UPLIVE 安博",
+      "name": "唐老大 Smart",
       "type": 0,
-      "url": "https://fm1077.serv00.net/anbo/",
+      "url": "https://tang.hz.cz/zb/stv",
       // "_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
@@ -233,15 +230,6 @@
     //   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
     //   "logo": "https://epg.112114.xyz/logo/{name}.png"
     // },
-    {
-      "name": "Cat TXT",
-      "type": 0,
-      //"_playerType": 2,
-      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-    },
     // {
     //   "name": "FongMi",
     //   "type": 1,
@@ -260,7 +248,7 @@
     //   "logo": "https://epg.112114.xyz/logo/{name}.png"
     // },
     {
-      "name": "YanG•综合",
+      "name": "YanG 综合",
       "type": 0,
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
       //"_playerType": 2,
@@ -268,7 +256,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "drang•ipv6",
+      "name": "drangipv6",
       "type": 0,
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/drangjchen/IPTV/main/M3U/ipv6.m3u",
       //"_playerType": 2,
@@ -276,7 +264,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "范明明•ipv6",
+      "name": "范明明 ipv6",
       "type": 0,
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
       //"_playerType": 2,
@@ -284,7 +272,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "YueChan•综合",
+      "name": "YueChan 综合",
       "type": 0,
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
       //"_playerType": 2,
