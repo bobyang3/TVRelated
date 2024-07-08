@@ -67,6 +67,9 @@ TVbox Info:
 3. https://github.com/qist/tvbox
 
 
+Emoji:
+1. https://emojiterra.com/
+
 
 
 --------------------------------------------------------------------
