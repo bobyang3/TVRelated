@@ -37,10 +37,6 @@
       "name": "4k 介面"
     },
     {
-      "url": "https://yubox.xyz/dc.json",
-      "name": "星辰多倉"
-    },
-    {
       "url": "",
       "name": ""
     },
@@ -95,6 +91,18 @@
     {
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
       "name": "高天流雲 XYQ"
+    },
+    {
+      "url": "https://yubox.xyz/dc.json",
+      "name": "星辰多倉"
+    },
+    {
+      "url": "https://www.gitlink.org.cn/api/leevi0321/apps/raw/room.json?ref=main",
+      "name": "多多多商"
+    },
+    {
+      "url": "https://www.gitlink.org.cn/api/leevi0321/apps/raw/duo.json?ref=main",
+      "name": "多多多倉"
     }
   ]
 }

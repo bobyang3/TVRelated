@@ -14,6 +14,17 @@
       "filterable": 0
     },
     {
+      "key": "PTT",
+      "name": "PTT | 影视",
+      "type": 3,
+      "api": "csp_PTT",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+    },
+    {
       "key": "豆瓣",
       "name": "豆瓣",
       "type": 3,
