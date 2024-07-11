@@ -1,5 +1,6 @@
-# TVBoxOSC
+![alt text](setting.png)
 
+# TVBoxOSC
 
 TVBox常見版本: <br>
 https://github.com/dlgt7/TVbox-interface/blob/main/tvbox%E5%B8%B8%E8%A7%81%E7%89%88%E6%9C%AC.md
