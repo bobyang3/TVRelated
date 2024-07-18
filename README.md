@@ -70,6 +70,7 @@ TVbox Info:
 
 Emoji:
 1. https://emojiterra.com/
+2. https://emojipedia.org/
 
 
 
