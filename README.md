@@ -12,7 +12,7 @@ Recommended:
 
 
 
-接口：
+點播接口：
 1. Rob Yang 點播倉庫.: https://rb.gy/4s4hbd or https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveVodTV.json
 2. 寶盒=欧乐,泥巴　https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json
 3. 泥巴,独播库,小宝,欧乐,腐剧　https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json (https://github.com/qist/tvbox)

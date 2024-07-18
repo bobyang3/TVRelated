@@ -4,7 +4,7 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
 三立inews,https://m.youtube.com/watch?v=CKjSm5ZeehE
 三立NEWS+,https://m.youtube.com/watch?v=oZdzzvxTfUY
-公視新聞網,htt​​ps://m.youtube.com/live/quwqlazU-c8
+公視新聞網,https://www.youtube.com/watch?v=quwqlazU-c8
 民視新聞,http://www.youtube.com/watch?v=ylYJSBUgaMA
 民視戲劇,http://www.youtube.com/live/6CQZxYpW9q4
 台視新聞,http://www.youtube.com/watch?v=xL0ch83RAK8
