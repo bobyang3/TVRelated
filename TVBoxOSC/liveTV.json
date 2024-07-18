@@ -19,7 +19,24 @@
     {
       "name": "🏠RobYang rb.gy/cbgs6c",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTVList.txt",
+      "url": "https://rb.gy/cbgs6c",
+      "ua": "okhttp/3.15",
+      "timeout": 20,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
+    },
+    {
+      "name": "🏠RobYang Live",
+      "type": 0,
+      //"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTVList.txt",
+      "urls": [
+        "https://fm1077.serv00.net/anbo/",
+        "https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTVList.txt",
+        "https://github.moeyy.xyz/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/TW.txt",
+        "https://github.moeyy.xyz//https:/raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/mitv.txt"
+      ],
+      
       // "_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
@@ -73,7 +90,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-      {
+    {
       "name": "安博z2",
       "type": 0,
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/kan31467/1/main/tv/%E5%AE%89%E5%8D%9Az1.txt",
@@ -359,7 +376,7 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-        // {
+    // {
     //   "name": "Yoursmile•综合",
     //   "type": 0,
     //   "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
@@ -386,7 +403,7 @@
     {
       "name": "18+ 黄色",
       "type": 0,
-      "url":  "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/%E9%BB%84%E8%89%B2%E7%82%B9%E6%92%AD.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/%E9%BB%84%E8%89%B2%E7%82%B9%E6%92%AD.txt",
       //"_playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"

@@ -14,6 +14,30 @@
       "filterable": 0
     },
     {
+      "key": "實驗黑木耳",
+      "name": "實驗黑木耳",
+      "type": 1,
+      "api": "http://zhangqun66.serv00.net/225.php",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "實驗金鷹",
+      "name": "實驗金鷹",
+      "type": 1,
+      "api": "http://zhangqun66.serv00.net/jy.php",
+      "可搜尋": 1,
+      "可變": 1
+    },
+    {
+      "key": "實驗華為吧",
+      "name": "實驗華為吧",
+      "type": 1,
+      "api": "http://zhangqun66.serv00.net/hwb.php",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "PTT",
       "name": "PTT | 影视",
       "type": 3,
