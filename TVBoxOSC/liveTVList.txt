@@ -21,7 +21,7 @@ mnews鏡新聞,https://www.youtube.com/live/5n0y6b0Q25o
 中天新聞2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 中視亞洲台,https://www.youtube.com/live/s2waUruqze4 
-中視經典綜藝,https://www.youtube.com/live/ADDSmXoPDY8 
+中視綜藝,https://www.youtube.com/live/ADDSmXoPDY8 
 TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 大愛一台,https://www.youtube.com/watch?v=MIqUplvSRWA
