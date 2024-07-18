@@ -1132,10 +1132,16 @@ HGTV,https://food-dlvr-ott.akamaized.net/primary/4/c20e615a33504bc7a227077cb102a
 
 
 
-==  5566 限制級節目  ==,#genre#
-parse=1
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+🔞限制級🔞,#genre#
 三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
+
+🔞下面是限制級，密碼是5566🔞,#genre#
+三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
+
+🔞下面是限制級，密碼是5566🔞,#genre#
+三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
+
+
 
 歐美_5566,#genre#
 A teen with a mature,http://ovhv39.twincdn.com/videos/5/5912/5912_720p.mp4
@@ -2575,7 +2581,12 @@ Vivid red,p3p://fccsen.dyndns.tv:29706/5b2c54aa0003c48fe0d1190f0090339a
 
 
 
-==密碼是5566===,#genre#
+🔞密碼是5566🔞,#genre#
 三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
 
+🔞蜂蜜與ok到設定直播🔞,#genre#
+三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
+
+🔞按鎖圖就可看到全頻道🔞,#genre#
+三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
 
