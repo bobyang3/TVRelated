@@ -14,6 +14,14 @@
       "filterable": 0
     },
     {
+      "key": "实验播放列表",
+      "name": "实验播放列表",
+      "type": 4,
+      "api": "http://zhangqun66.serv00.net/ytlb.php",
+      "searchable": 0,
+      "changeable": 0
+  },
+    {
       "key": "實驗黑木耳",
       "name": "實驗黑木耳",
       "type": 1,
