@@ -1,6 +1,6 @@
 ![alt text](setting.png)
 
-# TVBoxOSC
+# 蜂蜜 & TVBoxOSC
 
 ## 兩大系統："FongMi 蜂蜜與唐三維護: 影視ＴＶ, 蜂蜜影視"　與　"TVBoxOSC"　基礎概念
 1. 接口　（源）－＞線路－＞站源　（一個接口可以包含很多線路，一個線路可以包含很多站源）

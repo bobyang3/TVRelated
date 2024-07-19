@@ -2,8 +2,8 @@
   //"spider": "./jar/fan.txt;md5;70471410f8e5a1bf20eb64b6b402e5c2",
   //"spider": "https://github.com/gaotianliuyun/gao/raw/master/jar/fan.txt",
   //"spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar",
-  //"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714125698234/fan.txt",
-  //"spider": "  https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/42d562dc8e29d0adf7689e4748a43d84ecdf2805/jar/custom_spider.jar",
+  //"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714125698234/fan.txt",
+  //"spider": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/42d562dc8e29d0adf7689e4748a43d84ecdf2805/jar/custom_spider.jar",
   "spider": "https://mirror.ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
   "lives": [
     {
@@ -25,16 +25,6 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
-    },  
-    {
-      "name": "jackson0829tw",
-      "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/TW.txt",
-      // "_playerType": 2,
-      "ua": "okhttp/3.15",
-      "timeout": 20,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "ETH 2",
@@ -42,16 +32,6 @@
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/kan31467/1/main/tv/eth5%E6%9C%8810%E6%97%A5.txt",
       //"_playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "jackson0829",
-      "type": 0,
-      "url": "https://github.moeyy.xyz//https:/raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/mitv.txt",
-      // "_playerType": 2,
-      "ua": "okhttp/3.15",
-      "timeout": 20,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
@@ -71,18 +51,9 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "安博z2",
+      "name": "jackson0829tw",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/kan31467/1/main/tv/%E5%AE%89%E5%8D%9Az1.txt",
-      //"_playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-
-    {
-      "name": "jundie",
-      "type": 0,
-      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/TW.txt",
       // "_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
@@ -90,9 +61,59 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
+      "name": "jackson0829",
+      "type": 0,
+      "url": "https://github.moeyy.xyz//https:/raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/mitv.txt",
+      // "_playerType": 2,
+      "ua": "okhttp/3.15",
+      "timeout": 20,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
+    {
+      "name": "安博z2",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/kan31467/1/main/tv/%E5%AE%89%E5%8D%9Az1.txt",
+      //"_playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    // international
+    {
+      "name": "epg.pw",
+      "type": 0,
+      "url": "https://epg.pw/test_channels.m3u",
+      //"_playerType": 2,
+      "ua": "okhttp/3.8.1",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "唐老大 Smart",
       "type": 0,
       "url": "https://tang.hz.cz/zb/stv",
+      // "_playerType": 2,
+      "ua": "okhttp/3.15",
+      "timeout": 20,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "宝盒",
+      "type": 0,
+      "url": "https://epg.pw/test_channels.m3u",
+      //"_playerType": 2,
+      "ua": "okhttp/3.15",
+      "timeout": 20,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    // most of China TVs
+    {
+      "name": "jundie",
+      "type": 0,
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
       // "_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
@@ -109,59 +130,61 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "極致2",
+      "name": "大视界",
       "type": 0,
-      "url": "https://clonglii.serv00.net/user_data/youtube1.php?id=clonglii&q=0&v=1197",
-      //"_playerType": 2,
-      "ua": "okhttp/4.12",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "極致1",
-      "type": 0,
-      "url": "https://clonglii.serv00.net/youtube1.php?id=clonglii&q=0",
+      "url": "http://zb.xmzb.xyz/%e5%a4%a7%e8%a7%86%e7%95%8c3.txt",
       //"_playerType": 2,
       "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "timeout": 20,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-      "name": "52sw.top",
-      "type": 0,
-      "url": "http://www.52sw.top:678/p3p/p3p.php",
-      //"_playerType": 2,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "epg.pw",
-      "type": 0,
-      "url": "https://epg.pw/test_channels.m3u",
-      //"_playerType": 2,
-      "ua": "okhttp/3.8.1",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "月光宝盒",
-      "type": 0,
-      "url": "https://gitcode.net/ygbh66/test/-/raw/master/tw.txt",
-      //"_playerType": 2,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "月光宝盒Pro",
-      "type": 0,
-      "url": "https://jihulab.com/jigedos/bh/-/raw/main/ZB/ZB.txt",
-      //"_playerType": 2,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+    // {
+    //   "name": "極致2",
+    //   "type": 0,
+    //   "url": "https://clonglii.serv00.net/user_data/youtube1.php?id=clonglii&q=0&v=1197",
+    //   //"_playerType": 2,
+    //   "ua": "okhttp/4.12",
+    //   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
+    // },
+    // {
+    //   "name": "極致1",
+    //   "type": 0,
+    //   "url": "https://clonglii.serv00.net/youtube1.php?id=clonglii&q=0",
+    //   //"_playerType": 2,
+    //   "ua": "okhttp/3.15",
+    //   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
+    // },
+    // {
+    //   "name": "52sw.top",
+    //   "type": 0,
+    //   "url": "http://www.52sw.top:678/p3p/p3p.php",
+    //   //"_playerType": 2,
+    //   "ua": "okhttp/3.15",
+    //   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
+    // },
+
+    // {
+    //   "name": "月光宝盒",
+    //   "type": 0,
+    //   "url": "https://gitcode.net/ygbh66/test/-/raw/master/tw.txt",
+    //   //"_playerType": 2,
+    //   "ua": "okhttp/3.15",
+    //   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
+    // },
+    // {
+    //   "name": "月光宝盒Pro",
+    //   "type": 0,
+    //   "url": "https://jihulab.com/jigedos/bh/-/raw/main/ZB/ZB.txt",
+    //   //"_playerType": 2,
+    //   "ua": "okhttp/3.15",
+    //   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
+    // },
     // {
     //   "name": "OK",
     //   "type": 0,
@@ -202,26 +225,17 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-      "name": "jundie top",
-      "type": 0,
-      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
-      //"_playerType": 2,
-      "ua": "okhttp/3.15",
-      "timeout": 20,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "宝盒",
-      "type": 0,
-      "url": "https://epg.pw/test_channels.m3u",
-      //"_playerType": 2,
-      "ua": "okhttp/3.15",
-      "timeout": 20,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+    // {
+    //   "name": "jundie top",
+    //   "type": 0,
+    //   "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+    //   //"_playerType": 2,
+    //   "ua": "okhttp/3.15",
+    //   "timeout": 20,
+    //   "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
+    // },
+
     {
       "name": "live",
       "type": 0,
@@ -232,22 +246,22 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-      "name": "YanG 综合",
-      "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
-      //"_playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "drangipv6",
-      "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/drangjchen/IPTV/main/M3U/ipv6.m3u",
-      //"_playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+    // {
+    //   "name": "YanG 综合",
+    //   "type": 0,
+    //   "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+    //   //"_playerType": 2,
+    //   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
+    // },
+    // {
+    //   "name": "drangipv6",
+    //   "type": 0,
+    //   "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/drangjchen/IPTV/main/M3U/ipv6.m3u",
+    //   //"_playerType": 2,
+    //   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
+    // },
     {
       "name": "范明明 ipv6",
       "type": 0,
@@ -256,24 +270,15 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-      "name": "YueChan 综合",
-      "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
-      //"_playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "大视界",
-      "type": 0,
-      "url": "http://zb.xmzb.xyz/%e5%a4%a7%e8%a7%86%e7%95%8c3.txt",
-      //"_playerType": 2,
-      "ua": "okhttp/3.15",
-      "timeout": 20,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+    // {
+    //   "name": "YueChan 综合",
+    //   "type": 0,
+    //   "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+    //   //"_playerType": 2,
+    //   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
+    // },
+
     {
       "name": "ZhiBoYuan",
       "type": 0,
