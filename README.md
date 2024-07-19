@@ -8,7 +8,9 @@
    2. 片上長按，可以搜尋所有站源的片
    3. ＂蜂蜜＂影視ＴＶ系列的下游播放器，　如: 寶盒，西夏，開心，天微，木魚，猫TV，春盈天下，三林，欧歌，星辰...
    4. 每條線路有自己的歷史記錄
-2. 推薦：　蜂蜜影視ＴＶ　與　ＯＫＴＶ．　同Fongmi蜂蜜系列，支援注音輸入，直播多線路選擇，有英文，繁中，簡中選項，支援直播多線、自動換源、直播倍速，Ai去廣告等功能，手機投影螢幕等　https://xhdwc.tk/ or https://github.com/FongMi/Release or https://github.com/FongMi/TV
+2. 推薦：　蜂蜜影視ＴＶ　與　ＯＫＴＶ．　同Fongmi蜂蜜系列，支援注音輸入，直播多線路選擇，有英文，繁中，簡中選項，支援直播多線、自動換源、直播倍速，Ai去廣告等功能，手機投影螢幕等　
+   1. 蜂蜜影視ＴＶ 唐三 https://xhdwc.tk/ or https://github.com/FongMi/Release or https://github.com/FongMi/TV or https://github.com/FongMi/Release/tree/fongmi/apk
+   2. ＯＫＴＶ https://github.com/FongMi/Release/tree/main/apk
 3. 常見版本：　https://github.com/dlgt7/TVbox-interface/blob/main/tvbox%E5%B8%B8%E8%A7%81%E7%89%88%E6%9C%AC.md
 4. https://www.wmdz.com/tvboxFM.html (List of many apps)
 
