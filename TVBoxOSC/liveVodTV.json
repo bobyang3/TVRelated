@@ -22,6 +22,10 @@
       "name": "高天流雲 No.1"
     },
     {
+      "url": " http://ok321.top/tv",
+      "name": "OK"
+    },
+    {
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json",
       "name": "guot55 localhost lib"
     },
@@ -46,8 +50,40 @@
       "name": "星辰"
     },
     {
-      "url": " http://ok321.top/tv",
-      "name": "OK"
+      "url": "assets://tianwei.json",
+      "name": "天微"
+    },
+    {
+      "url": "http://www.饭太硬.com/tv",
+      "name": "飯太硬"
+    },
+    {
+      "url": "https://pastebin.com/raw/5NHaxyGR",
+      "name": "道長降魔"
+    },
+    {
+      "url": "http://肥猫.com",
+      "name": "肥猫"
+    },
+    {
+      "url": "http://meowtv.top/tv",
+      "name": "喵影視"
+    },
+    {
+      "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
+      "name": "PG線路"
+    },
+    {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+      "name": "瀟灑線路"
+    },
+    {
+      "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
+      "name": "D佬線路"
+    },
+    {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "name": "香雅情深"
     },
     {
       "url": "https://gitee.com/tvkj/tw/raw/main/svip.json",
@@ -81,10 +117,6 @@
       "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/",
       "name": "王二小放牛娃"
     },
-    {
-      "url": "https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt",
-      "name": "OK炸天"
-    }, 
     {
       "url": "https://www.xn--sss604efuw.com/tv", 
       "name": "饭太硬"
