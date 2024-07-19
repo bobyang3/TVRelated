@@ -93,6 +93,14 @@
 
 --------------------------------------------------------------------
 
+## 其他:
+1.  txt m3u 轉換工具 https://guihet.com/tvlistconvert.html
+2.  Other link Source https://beatsingdrama.blogspot.com/p/xt-playlist-txt.html?m=1
+3.  Emotn: 796233, 202096, 
+4.  downloader App https://www.aftvnews.com/downloader/, 383716 to download emotn 
+
+
+--------------------------------------------------------------------
 
 格式說明 http://www.sharerw.com/a/ziyuan/444.html:
 1. 《分享者tv》 《百川影音》自定义直播源的分类写法为: ### $c_start央视$c_end
@@ -106,11 +114,5 @@ CCTV-1HD,http://stream.guihet.com/hd/ccav1.m3u8,cntv-cctv1
 CCTV-1HD,http://stream.guihet.com/hd/ccav1.m3u8,tvming-CCTV1HD
 
 
-----
-## Other link Source
-https://beatsingdrama.blogspot.com/p/xt-playlist-txt.html?m=1
-
-## txt m3u 轉換工具
-https://guihet.com/tvlistconvert.html
 
 
