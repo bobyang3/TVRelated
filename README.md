@@ -1,4 +1,11 @@
+# 這裏所有資料與碼僅供研究，測試，與學習． 請勿用於非法用途，否則後果自負!!!
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+
+
 ![alt text](setting.png)
+
 
 # 蜂蜜 & TVBoxOSC
 
@@ -98,7 +105,7 @@
 ## 其他:
 1.  txt m3u 轉換工具 https://guihet.com/tvlistconvert.html
 2.  Other link Source https://beatsingdrama.blogspot.com/p/xt-playlist-txt.html?m=1
-3.  Emotn: 796233, 202096, 
+3.  Emotn: 331026, 796233, 202096
 4.  downloader App https://www.aftvnews.com/downloader/, 383716 to download emotn 
 
 
