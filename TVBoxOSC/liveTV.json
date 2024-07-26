@@ -11,7 +11,7 @@
       "type": 0,
       "url": "https://fm1077.serv00.net/anbo/",
       // "_playerType": 2,
-      "ua": "okhttp/3.15",
+      "ua": "okhttp/5.2.0",
       "timeout": 20,
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -89,16 +89,16 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-      "name": "唐老大 Smart",
-      "type": 0,
-      "url": "https://tang.hz.cz/zb/stv",
-      // "_playerType": 2,
-      "ua": "okhttp/3.15",
-      "timeout": 20,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+    // {
+    //   "name": "唐老大 Smart",
+    //   "type": 0,
+    //   "url": "https://tang.hz.cz/zb/stv",
+    //   // "_playerType": 2,
+    //   "ua": "okhttp/3.15",
+    //   "timeout": 20,
+    //   "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
+    // },
     {
       "name": "宝盒",
       "type": 0,
@@ -216,9 +216,40 @@
     //   "logo": "https://epg.112114.xyz/logo/{name}.png"
     // },
     {
+      "name": "香蕉哥",
+      "type": 0,
+      "url": "https://tv.iill.top/m3u/Live", //https://tv.iill.top/m3u/Gather //https://github.com/YanG-1989
+      //"_playerType": 2,
+      "ua": "okhttp/3.15",
+      "timeout": 20,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "香蕉哥 Sport",
+      "type": 0,
+      "url": "https://tv.iill.top/m3u/Sport", //https://tv.iill.top/m3u/Gather //https://github.com/YanG-1989
+      //"_playerType": 2,
+      "ua": "okhttp/3.15",
+      "timeout": 20,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
+    {
       "name": "运输车",
       "type": 0,
       "url": "https://weixine.net/tv/ysclive.txt",
+      //"_playerType": 2,
+      "ua": "okhttp/3.15",
+      "timeout": 20,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "zwc456baby",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt",
       //"_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
@@ -278,7 +309,16 @@
     //   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
     //   "logo": "https://epg.112114.xyz/logo/{name}.png"
     // },
-
+    {
+      "name": "搬運",
+      "type": 0,
+      "url": "http://0tt118.getenjoyment.net/m3u2.php",
+      //"_playerType": 2,
+      "ua": "okhttp/3.15",
+      "timeout": 20,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
     {
       "name": "ZhiBoYuan",
       "type": 0,
@@ -313,6 +353,17 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+    {
+      "name": "18+ 香蕉哥",
+      "type": 0,
+      "url": "https://tv.iill.top/m3u/Adult",
+      //"_playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
+    
+
     // {
     //   "name": "Yoursmile•综合",
     //   "type": 0,
