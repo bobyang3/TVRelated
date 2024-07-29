@@ -79,7 +79,9 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    // international
+
+
+    //---------------------international------------------
     {
       "name": "epg.pw",
       "type": 0,
@@ -89,16 +91,10 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    // {
-    //   "name": "唐老大 Smart",
-    //   "type": 0,
-    //   "url": "https://tang.hz.cz/zb/stv",
-    //   // "_playerType": 2,
-    //   "ua": "okhttp/3.15",
-    //   "timeout": 20,
-    //   "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
-    // },
+
+
+
+  //-------------CHINA------------------
     {
       "name": "宝盒",
       "type": 0,
@@ -109,7 +105,6 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    // most of China TVs
     {
       "name": "jundie",
       "type": 0,
@@ -133,6 +128,16 @@
       "name": "大视界",
       "type": 0,
       "url": "http://zb.xmzb.xyz/%e5%a4%a7%e8%a7%86%e7%95%8c3.txt",
+      //"_playerType": 2,
+      "ua": "okhttp/3.15",
+      "timeout": 20,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "fk8cnn",
+      "type": 0,
+      "url": "https://files.catbox.moe/fk8cnn.txt",
       //"_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
@@ -277,14 +282,14 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    // {
-    //   "name": "YanG 综合",
-    //   "type": 0,
-    //   "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
-    //   //"_playerType": 2,
-    //   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
-    // },
+    {
+      "name": "YanG 综合",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+      //"_playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
     // {
     //   "name": "drangipv6",
     //   "type": 0,
@@ -329,6 +334,10 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+
+
+
+      //-------------18+------------------
     {
       "name": "18+ tv",
       "type": 0,
