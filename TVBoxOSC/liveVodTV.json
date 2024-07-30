@@ -10,18 +10,22 @@
     },
     {
       "url": "https://rb.gy/4s4hbd",
-      "name": "🏘️1RobYang rb.gy/4s4hbd"
+      "name": "🏘️RobYang rb.gy/4s4hbd"
     },  
     {
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/vod.json",
       "name": "🏘️RobYang VOD"
     },
     {
+      "name": "",
+      "url": ""
+    },
+    {
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
       "name": "高天流雲 No.1"
     },
     {
-      "url": " http://ok321.top/tv",
+      "url": "http://ok321.top/tv",
       "name": "OK"
     },
     {
@@ -35,6 +39,10 @@
     {
       "url": "https://gitlab.com/-/snippets/2343779/raw/main/snippetfile1.txt",
       "name": "hhqqwwjj Web JS"
+    },
+    {
+      "url": "https://raw.liucn.cc/box/m.json",
+      "name": "liucn"
     },
     {
       "url": "http://ygbhbox.3vfree.club/pg/jsm.json",
@@ -97,8 +105,20 @@
       "name": "HD9211"
     },
     {
-      "url": "",
-      "name": ""
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "",
+      "url": ""
     },
     {
       "url": "http://yingshi.fongmi.eu.org",
@@ -172,5 +192,13 @@
     //   "url": "https://www.gitlink.org.cn/api/leevi0321/apps/raw/duo.json?ref=main",
     //   "name": "多多多倉"
     // }
+  ],
+  "lives": [
+    {"name": "🏠RobYang rb.gy/cbgs6c","type": 0,"url": "https://rb.gy/cbgs6c","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png",   "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
+    },
+    {"name": "SAO0","type": 0,"url": "./libs/tv/tvlive.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {"name": "IPV6","type": 0,"url": "./lib/tv/ipv6.m3u","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
   ]
 }
