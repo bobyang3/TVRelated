@@ -75,7 +75,7 @@
       // "_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
@@ -110,7 +110,7 @@
       //"_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
@@ -120,7 +120,7 @@
       // "_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
@@ -139,7 +139,7 @@
       //"_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
@@ -149,7 +149,7 @@
       //"_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     // {
@@ -205,7 +205,7 @@
     //   // "_playerType": 2,
     //   "ua": "okhttp/3.15",
     //   "timeout": 20,
-    //   "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+    //   "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
     //   "logo": "https://epg.112114.xyz/logo/{name}.png"
     // },
     // {
@@ -215,7 +215,7 @@
     //   // "_playerType": 2,
     //   "ua": "okhttp/3.15",
     //   "timeout": 20,
-    //   "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+    //   "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
     //   "logo": "https://epg.112114.xyz/logo/{name}.png"
     // },
     // {
@@ -225,7 +225,7 @@
     //   "_playerType": 2,
     //   "ua": "okhttp/3.15",
     //   "timeout": 20,
-    //   "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+    //   "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
     //   "logo": "https://epg.112114.xyz/logo/{name}.png"
     // },
     {
@@ -235,7 +235,7 @@
       //"_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
@@ -245,7 +245,7 @@
       //"_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
@@ -256,7 +256,7 @@
       //"_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
@@ -266,7 +266,7 @@
       //"_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     // {
@@ -276,7 +276,7 @@
     //   //"_playerType": 2,
     //   "ua": "okhttp/3.15",
     //   "timeout": 20,
-    //   "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+    //   "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
     //   "logo": "https://epg.112114.xyz/logo/{name}.png"
     // },
 
@@ -287,7 +287,7 @@
       //"_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
@@ -329,7 +329,7 @@
       //"_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
@@ -339,7 +339,7 @@
       //"_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
@@ -351,7 +351,7 @@
       "type": 0,
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/kan31467/1/main/tv/18tv.txt",
       //"_playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
@@ -359,7 +359,7 @@
       "type": 0,
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/kan31467/1/main/tv/18zb%E7%9B%B4%E6%92%AD%E6%BA%90%20(2).txt",
       //"_playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
@@ -367,7 +367,7 @@
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/%E9%BB%84%E8%89%B2%E7%82%B9%E6%92%AD.txt",
       //"_playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
@@ -375,7 +375,7 @@
       "type": 0,
       "url": "https://tv.iill.top/m3u/Adult",
       //"_playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
