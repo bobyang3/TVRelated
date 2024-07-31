@@ -27,6 +27,14 @@
       "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
     },
     {
+      "name": "IPTV",
+      "type": 0,
+      "url": "https://anbox118.serv00.net/iptv.php",
+      //"_playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "ETH 2",
       "type": 0,
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/kan31467/1/main/tv/eth5%E6%9C%8810%E6%97%A5.txt",
