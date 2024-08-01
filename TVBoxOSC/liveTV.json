@@ -6,14 +6,24 @@
   //"spider": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/42d562dc8e29d0adf7689e4748a43d84ecdf2805/jar/custom_spider.jar",
   "spider": "https://mirror.ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
   "lives": [
+    // {
+    //   "name": "UPLIVE 安博",
+    //   "type": 0,
+    //   "url": "https://fm1077.serv00.net/anbo/",
+    //   // "_playerType": 2,
+    //   "ua": "okhttp/5.2.0",
+    //   "timeout": 20,
+    //   "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Kuala_Lumpur",
+    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
+    // },
     {
-      "name": "UPLIVE 安博",
+      "name": "晨瑞",
       "type": 0,
-      "url": "https://fm1077.serv00.net/anbo/",
-      // "_playerType": 2,
-      "ua": "okhttp/5.2.0",
+      "url": "https://www.gitlink.org.cn/api/chenrui007/tvbox/raw/.%2A.%2A.%2A.?ref=master",
+      //"_playerType": 2,
+      "ua": "okhttp/3.15",
       "timeout": 20,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Kuala_Lumpur",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
@@ -103,6 +113,8 @@
 
 
   //-------------CHINA------------------
+  
+
     {
       "name": "宝盒",
       "type": 0,
@@ -378,6 +390,24 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+    {
+      "name": "18+ XXX Live",
+      "type": 0,
+      "url": "https://parlay12.serv00.net/xhamters/paylist.php",
+      //"_playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "18+ 日本",
+      "type": 0,
+      "url": "https://files.catbox.moe/2r4ru2.txt",
+      //"_playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    
+
 
     
 

@@ -12,6 +12,7 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 寰宇新聞台灣台,http://m.youtube.com/live/w87VGpgd90U
 東森財經股市,https://www.youtube.com/watch?v=LbS-xQ67fos
 東森財經新聞,https://www.youtube.com/live/WHEPzbFA3hw
+幼幼YoyoTV,https://www.youtube.com/watch?v=yks2_Og6MY4
 mnews鏡新聞,https://www.youtube.com/live/5n0y6b0Q25o 
 新唐人,https://www.youtube.com/watch?v=WIhgU_mc05A
 華視新聞,http://m.youtube.com/watch?v=wM0g8EoUZ_E
@@ -29,6 +30,10 @@ TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 大愛二台全球,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 信大電視台,https://www.youtube.com/live/ciwFpYofb28
 國會頻道,https://www.youtube.com/live/4HysYHJ6GkY 
+momo購物一台,https://www.youtube.com/watch?v=_pZQ1Lk0xMA
+momo購物二台,https://www.youtube.com/watch?v=xbNWkUyxQGM
+東森購物台CH34,https://www.youtube.com/watch?v=ViJ3XiN6Q3M
+美好購物二台,https://www.youtube.com/watch?v=lEXITHxcagI
 正德電視台,https://www.youtube.com/watch?v=AfcVHGIRbP8
 華藏,https://www.youtube.com/watch?v=ypmrwYeLAaQ
 鳳凰衛視資訊,https://www.youtube.com/watch?v=HFib76ySpbU
