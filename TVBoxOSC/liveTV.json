@@ -9,7 +9,7 @@
     // {
     //   "name": "UPLIVE 安博",
     //   "type": 0,
-    //   "url": "https://fm1077.serv00.net/anbo/", 
+    //   "url": "https://fm1077.serv00.net/anbo/",
     //   // "_playerType": 2,
     //   "ua": "okhttp/5.2.0",
     //   "timeout": 20,
@@ -45,13 +45,32 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
-    },     
+    },
     {
       "name": "設定,關鑰匙,可免費顯示台灣頻道，晨瑞",
       "type": 0,
       "url": "https://www.gitlink.org.cn/api/chenrui007/tvbox/raw/.%2A.%2A.%2A.?ref=master",
       //"_playerType": 2,
       "ua": "okhttp/3.15",
+      "timeout": 20,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "ETH(JS)",
+      "api": "https://tang.hz.cz/js/ethtv.js",
+      "type": 3,
+      "ua": "okhttp/4.12.0",
+      "timeout": 20,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "CatBox",
+      "type": 0,
+      "url": "https://files.catbox.moe/a12ikd.txt",
+      "api": "https://files.catbox.moe/auor6s.js",
+      "ua": "okhttp/4.12.0",
       "timeout": 20,
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -86,7 +105,7 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-        {
+    {
       "name": "MyTvSuper",
       "type": 0,
       "url": "http://xg.52sw.top:5000/mytvsuper.m3u",
@@ -95,7 +114,7 @@
       "timeout": 20,
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }, 
+    },
     // {
     //   "name": "中文教科书",
     //   "type": 0,
@@ -108,16 +127,6 @@
     // },
 
 
-    // {
-    //   "name": "CatBox",
-    //   "type": 0,
-    //   "url": "https://files.catbox.moe/a12ikd.txt", //https://files.catbox.moe/auor6s.js
-    //   // "_playerType": 2,
-    //   "ua": "okhttp/3.15",
-    //   "timeout": 20,
-    //   "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
-    // }, 
     // {
     //   "name": "ETH 2",
     //   "type": 0,
@@ -170,7 +179,6 @@
     //   "logo": "https://epg.112114.xyz/logo/{name}.png"
     // },
 
-
     //---------------------international------------------
     {
       "name": "epg.pw International",
@@ -182,10 +190,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
-
-
-  //-------------CHINA------------------
-  
+    //-------------CHINA------------------
 
     {
       "name": "宝盒",
@@ -417,9 +422,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
-
-
-      //-------------18+------------------
+    //-------------18+------------------
     {
       "name": "18+ tv",
       "type": 0,
@@ -476,8 +479,6 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-
-    
 
     // {
     //   "name": "Yoursmile•综合",
