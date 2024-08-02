@@ -2,7 +2,6 @@
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
-三立inews,https://m.youtube.com/watch?v=CKjSm5ZeehE
 三立NEWS+,https://m.youtube.com/watch?v=oZdzzvxTfUY
 公視新聞網,https://www.youtube.com/watch?v=quwqlazU-c8
 民視新聞,http://www.youtube.com/watch?v=ylYJSBUgaMA

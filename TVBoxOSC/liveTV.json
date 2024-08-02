@@ -17,10 +17,10 @@
     //   "logo": "https://epg.112114.xyz/logo/{name}.png"
     // },
     {
-      "name": "設定,關鑰匙,可免費顯示台灣頻道，晨瑞",
+      "name": "jackson0829CR",
       "type": 0,
-      "url": "https://www.gitlink.org.cn/api/chenrui007/tvbox/raw/.%2A.%2A.%2A.?ref=master",
-      //"_playerType": 2,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/CR.txt",
+      // "_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
@@ -37,6 +37,34 @@
       "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
     },
     {
+      "name": "設定,關鑰匙,可免費顯示台灣頻道，晨瑞",
+      "type": 0,
+      "url": "https://www.gitlink.org.cn/api/chenrui007/tvbox/raw/.%2A.%2A.%2A.?ref=master",
+      //"_playerType": 2,
+      "ua": "okhttp/3.15",
+      "timeout": 20,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "jundie",
+      "type": 0,
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      // "_playerType": 2,
+      "ua": "okhttp/3.15",
+      "timeout": 20,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    // {
+    //   "name": "ETH 2",
+    //   "type": 0,
+    //   "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/kan31467/1/main/tv/eth5%E6%9C%8810%E6%97%A5.txt",
+    //   //"_playerType": 2,
+    //   "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
+    // },
+    {
       "name": "IPTV",
       "type": 0,
       "url": "https://anbox118.serv00.net/iptv.php",
@@ -44,64 +72,46 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-      "name": "ETH 2",
-      "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/kan31467/1/main/tv/eth5%E6%9C%8810%E6%97%A5.txt",
-      //"_playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "安博",
-      "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/kan31467/1/main/tv/z02%E5%AE%89%E5%8D%9A%E7%9B%B4%E6%92%AD%E6%BA%90.txt",
-      //"_playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "安博z1",
-      "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/kan31467/1/main/tv/%E5%AE%89%E5%8D%9Az02.txt",
-      //"_playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "jackson0829tw",
-      "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/TW.txt",
-      // "_playerType": 2,
-      "ua": "okhttp/3.15",
-      "timeout": 20,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "jackson0829",
-      "type": 0,
-      "url": "https://github.moeyy.xyz//https:/raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/mitv.txt",
-      // "_playerType": 2,
-      "ua": "okhttp/3.15",
-      "timeout": 20,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
 
-    {
-      "name": "安博z2",
-      "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/kan31467/1/main/tv/%E5%AE%89%E5%8D%9Az1.txt",
-      //"_playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+    // {
+    //   "name": "安博",
+    //   "type": 0,
+    //   "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/kan31467/1/main/tv/z02%E5%AE%89%E5%8D%9A%E7%9B%B4%E6%92%AD%E6%BA%90.txt",
+    //   //"_playerType": 2,
+    //   "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
+    // },
+    // {
+    //   "name": "安博z1",
+    //   "type": 0,
+    //   "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/kan31467/1/main/tv/%E5%AE%89%E5%8D%9Az02.txt",
+    //   //"_playerType": 2,
+    //   "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
+    // },
+    // {
+    //   "name": "jackson0829tw",
+    //   "type": 0,
+    //   "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/TW.txt",
+    //   // "_playerType": 2,
+    //   "ua": "okhttp/3.15",
+    //   "timeout": 20,
+    //   "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
+    // },
+    // {
+    //   "name": "安博z2",
+    //   "type": 0,
+    //   "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/kan31467/1/main/tv/%E5%AE%89%E5%8D%9Az1.txt",
+    //   //"_playerType": 2,
+    //   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
+    // },
 
 
     //---------------------international------------------
     {
-      "name": "epg.pw",
+      "name": "epg.pw International",
       "type": 0,
       "url": "https://epg.pw/test_channels.m3u",
       //"_playerType": 2,
@@ -120,16 +130,6 @@
       "type": 0,
       "url": "https://epg.pw/test_channels.m3u",
       //"_playerType": 2,
-      "ua": "okhttp/3.15",
-      "timeout": 20,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "jundie",
-      "type": 0,
-      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
-      // "_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
