@@ -25,25 +25,25 @@
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
       "name": "高天流雲 No.1"
     },
-    {
-      "url": "http://ok321.top/tv",
-      "name": "OK"
-    },
+    // {
+    //   "url": "http://ok321.top/tv",
+    //   "name": "OK"
+    // },
     {
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json",
-      "name": "guot55 localhost lib"
+      "name": "Guot55, localhost lib"
     },
     {
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-      "name": "qist localhost JS"
+      "name": "Qist, localhost JS"
     },
     {
       "url": "https://gitlab.com/-/snippets/2343779/raw/main/snippetfile1.txt",
-      "name": "hhqqwwjj Web JS"
+      "name": "hhqqwwjj, Web JS"
     },
     {
       "url": "https://raw.liucn.cc/box/m.json",
-      "name": "liucn"
+      "name": "Liucn, localhost lib"
     },
     {
       "url": "http://ygbhbox.3vfree.club/pg/jsm.json",
@@ -95,7 +95,7 @@
     },
     {
       "url": "http://xhztv.top/4k.json",
-      "name": "4k 介面"
+      "name": "4k介面"
     },
     {
       "url": "http://pandown.pro/tvbox/tvbox.json",
@@ -153,23 +153,7 @@
     {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zengchaoqun0625/movies/main/feimao",
       "name": "哈哈线路"
-    },
-    {
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
-      "name": "高天流雲 18+ AV 限制級"
-    },
-    {
-      "url": "https://d.kstore.space/download/7708/a18.json",
-      "name": "18+ A限制級"
-    },
-    {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/18%2B%E5%A4%A7%E5%85%A8.txt",
-      "name": "18+ 大全"
-    },
-    {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/%E6%88%90%E4%BA%BA%E6%8E%A5%E5%8F%A3.txt",
-      "name": "18+ 成人"
-    },
+    },    
     {
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
       "name": "高天流雲 FTY"
@@ -186,18 +170,40 @@
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
       "name": "高天流雲 XYQ"
     },
+
+
+
+
+
+    //-------------- 18+  ------------
+    {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
+      "name": "高天流雲 18+ AV 限制級"
+    },
+    {
+      "url": "https://d.kstore.space/download/7708/a18.json",
+      "name": "18+ A限制級"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/18%2B%E5%A4%A7%E5%85%A8.txt",
+      "name": "18+ 大全"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/%E6%88%90%E4%BA%BA%E6%8E%A5%E5%8F%A3.txt",
+      "name": "18+ 成人"
+    },
+
+
+
+
+    //-------------- Store ------------
     {
       "url": "https://yubox.xyz/dc.json",
       "name": "星辰多倉"
     }
-    // {
-    //   "url": "https://www.gitlink.org.cn/api/leevi0321/apps/raw/room.json?ref=main",
-    //   "name": "多多多商"
-    // },
-    // {
-    //   "url": "https://www.gitlink.org.cn/api/leevi0321/apps/raw/duo.json?ref=main",
-    //   "name": "多多多倉"
-    // }
+
+
+
   ],
   "lives": [
     {
