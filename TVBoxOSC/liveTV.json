@@ -17,7 +17,7 @@
     //   "logo": "https://epg.112114.xyz/logo/{name}.png"
     // },
     {
-      "name": "晨瑞",
+      "name": "設定裡取消即可密碼可列出台灣頻道，晨瑞",
       "type": 0,
       "url": "https://www.gitlink.org.cn/api/chenrui007/tvbox/raw/.%2A.%2A.%2A.?ref=master",
       //"_playerType": 2,
