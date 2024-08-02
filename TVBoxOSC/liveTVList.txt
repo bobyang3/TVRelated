@@ -62,6 +62,136 @@ GB News,https:/ /www.youtube.com/live/8WX6YL9JnLw
 
 
 
+中天新聞1台,https://tv.iill.top/youtube/CtiNews
+中天新聞2台,https://tv.iill.top/youtube/WPfPjbOLNfE
+公視新聞,https://tv.iill.top/youtube/PNNPTS
+民視新聞,https://tv.iill.top/youtube/FTV_News
+台視新聞,https://tv.iill.top/youtube/TTV_NEWS
+中視新聞,https://tv.iill.top/youtube/twctvnews
+華視新聞,https://tv.iill.top/youtube/CtsTw
+TVBS NEWS,https://tv.iill.top/youtube/TVBSNEWS01
+TVBS 選新聞,https://tv.iill.top/youtube/TVBSNEWS02
+三立新聞,https://tv.iill.top/youtube/setnews
+三立 iNEWS,https://tv.iill.top/youtube/setinews
+東森新聞,https://tv.iill.top/youtube/newsebc
+東森財經新聞,https://tv.iill.top/youtube/57ETFN
+寰宇新聞,https://tv.iill.top/youtube/globalnewstw
+寰宇財經新聞,https://tv.iill.top/youtube/globlemoney
+鏡新聞,https://tv.iill.top/youtube/mnews-tw
+新聞大白話,https://tv.iill.top/youtube/tvbstalk
+倪珍24小時播新聞,https://tv.iill.top/youtube/NOWnews-sp2di
+BNE TV「新西蘭」,https://tv.iill.top/youtube/BNETV28
+CHANNEL33「新西蘭」,https://tv.iill.top/youtube/CHANNEL33NewZealand
+8 world,https://tv.iill.top/youtube/8worldSG
+CNA,https://tv.iill.top/youtube/channelnewsasia
+ABC NEWS,https://tv.iill.top/youtube/ABCNews
+ABC NEWS (Australia),https://tv.iill.top/youtube/abcnewsaustralia
+FRANCE 24,https://tv.iill.top/youtube/France24_en
+DW NEWS,https://tv.iill.top/youtube/dwnews
+LiveNOW from FOX,https://tv.iill.top/youtube/livenowfox
+Al Jazeera English,https://tv.iill.top/youtube/aljazeeraenglish
+AlJazeera Arabic,https://tv.iill.top/youtube/aljazeera
+USA TODAY,https://tv.iill.top/youtube/USATODAY
+ANN NEWS,https://tv.iill.top/youtube/ANNnewsCH
+NHK WORLD,https://tv.iill.top/youtube/NHKWORLDJAPAN
+TBS NEWS,https://tv.iill.top/youtube/tbsnewsdig
+大陸尋奇,https://tv.iill.top/youtube/ctvchinatv
+中天亞洲台,https://tv.iill.top/youtube/CtiAsia
+大愛電視,https://tv.iill.top/youtube/DaAiVideo
+中視經典綜藝,https://tv.iill.top/youtube/ctvent_classic
+華視綜藝頻道,https://tv.iill.top/youtube/CTSSHOW
+民視戲劇館,https://tv.iill.top/youtube/FTVDRAMA
+綜藝大熱門,https://tv.iill.top/youtube/HotDoorNight
+綜藝大平台,https://tv.iill.top/youtube/samentshow
+飢餓遊戲,https://tv.iill.top/youtube/HungerGames123
+豬哥會社,https://tv.iill.top/youtube/FTV_ZhuGeClub
+中天電視,https://tv.iill.top/youtube/CtiTv
+國家地理,https://tv.iill.top/youtube/NatGeo
+國家地理野生動物,https://tv.iill.top/youtube/NatGeoWild
+國家地理兒童頻道,https://tv.iill.top/youtube/natgeokids
+動物世界,https://tv.iill.top/youtube/SafariWonders4K
+動物世界¹,https://tv.iill.top/youtube/4krelaxing-wildanimals
+森林角落,https://tv.iill.top/youtube/loveyourself.alexander
+森林角落¹,https://tv.iill.top/youtube/relaxing-mp8701
+森林角落²,https://tv.iill.top/youtube/BirderKing
+海洋世界,https://tv.iill.top/youtube/R34ot1LETK0
+海洋世界¹,https://tv.iill.top/youtube/MontereyBayAquarium
+海洋世界²,https://tv.iill.top/youtube/healingsoul6795
+放松自然,https://tv.iill.top/youtube/CHRISTIAN_Piano650
+放松自然¹,https://tv.iill.top/youtube/animals-world
+放松自然²,https://tv.iill.top/youtube/timjanis
+放松自然³,https://tv.iill.top/youtube/OCBRelaxMusic
+風景放松,https://tv.iill.top/youtube/landscapefilm.4k
+風景放松¹,https://tv.iill.top/youtube/12KScenicRelaxation
+風景放松²,https://tv.iill.top/youtube/ScenicRelaxation8K
+風景放松³,https://tv.iill.top/youtube/juggalouno420
+風景放松⁴,https://tv.iill.top/youtube/HealingMelodies66
+我們的星球,https://tv.iill.top/youtube/RelaxingMelody88
+我們的星球¹,https://tv.iill.top/youtube/ourplanet4k
+我們的星球²,https://tv.iill.top/youtube/toprelaxchannel
+我們的星球³,https://tv.iill.top/youtube/8knaturefilm1620
+我們的星球⁴,https://tv.iill.top/youtube/4KScenicRelaxationFilms
+兒歌童謠,https://tv.iill.top/youtube/kafoomusic
+粵·音樂,https://tv.iill.top/youtube/Cantopopgreatesthits8090s
+粵·音樂¹,https://tv.iill.top/youtube/warnermusichk
+粵·音樂²,https://tv.iill.top/youtube/hongkongmusic8090s
+粵·音樂³,https://tv.iill.top/youtube/Hongkongclassichits
+中·音樂,https://tv.iill.top/youtube/chinesesong2023
+中·音樂¹,https://tv.iill.top/youtube/KKBOX2023
+中·音樂²,https://tv.iill.top/youtube/ChinesePopHits_KKBOX
+英·音樂,https://tv.iill.top/youtube/EnglishSongCollection
+英·音樂¹,https://tv.iill.top/youtube/TheGoodLiferadio
+日·音樂,https://tv.iill.top/youtube/lhand1
+日·音樂¹,https://tv.iill.top/youtube/jpopmusichits
+韓·音樂,https://tv.iill.top/youtube/Musicforyou_Lionmedia
+韓·音樂¹,https://tv.iill.top/youtube/luvbeekr
+貓·音樂,https://tv.iill.top/youtube/catslovemusic
+貓·音樂¹,https://tv.iill.top/youtube/SleepyCats
+狗·音樂,https://tv.iill.top/youtube/Sleepy_Dogs
+永恒鋼琴,https://tv.iill.top/youtube/BGMTotoroStudio
+永恒鋼琴¹,https://tv.iill.top/youtube/PIANOMUSIC7584
+永恒鋼琴²,https://tv.iill.top/youtube/Goodpianomusic-6886
+永恒鋼琴³,https://tv.iill.top/youtube/Ghibli-Relaxing9490
+浪漫吉他,https://tv.iill.top/youtube/OceanicGuitar6868
+浪漫吉他¹,https://tv.iill.top/youtube/romanticguitar.no1
+浪漫吉他²,https://tv.iill.top/youtube/GuitarInstrumentalMusic102
+浪漫吉他³,https://tv.iill.top/youtube/instrumentalguitar_99
+浪漫吉他⁴,https://tv.iill.top/youtube/ClassicalGuitar384
+雨與夜,https://tv.iill.top/youtube/loficityvibes95
+雨與夜¹,https://tv.iill.top/youtube/Pluviophile_Lofi
+BGM,https://tv.iill.top/youtube/j-popmusicbgmchannel
+BGM¹,https://tv.iill.top/youtube/bgmchannelbgm
+BGM²,https://tv.iill.top/youtube/cafemusicbgmchannel
+BGM³,https://tv.iill.top/youtube/lofigeek
+老古董,https://tv.iill.top/youtube/NemosDreamscapes
+海浪·聲,https://tv.iill.top/youtube/naturaleza-viva
+時裝藝術表演,https://tv.iill.top/youtube/305miamivisuals
+時裝藝術表演¹,https://tv.iill.top/youtube/NYFT
+時裝藝術表演²,https://tv.iill.top/youtube/shiftswim
+時裝藝術表演³,https://tv.iill.top/youtube/SPLASHme
+THE K-POP,https://tv.iill.top/youtube/thekpop
+SBS Running Man,https://tv.iill.top/youtube/SBSRunningMan
+小豬佩奇,https://tv.iill.top/youtube/PeppaPigChineseOfficial
+芝麻街,https://tv.iill.top/youtube/SesameStreet
+汪汪隊,https://tv.iill.top/youtube/PAWPatrolOfficial
+陽光兔,https://tv.iill.top/youtube/SunnyBunnies
+幼兒動物園,https://tv.iill.top/youtube/ToddlerZoo
+童謠與卡通,https://tv.iill.top/youtube/BillionSurpriseToys
+兒童動畫,https://tv.iill.top/youtube/KedooToonsTV
+兒童動畫¹,https://tv.iill.top/youtube/OldMacDonaldsFarm_MoonbugKids
+123 GO,https://tv.iill.top/youtube/123goseries
+貓·部落,https://tv.iill.top/youtube/miaou-cat
+鼠·部落,https://tv.iill.top/youtube/MohumohuPetCafe
+綠聲·旅遊,https://tv.iill.top/youtube/GreenSoundOfficial
+
+
+
+
+
+
+
+
+
 🇹🇼 4GTV豪華套餐,#genre#
 4民視第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
 5民視台灣台,https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2

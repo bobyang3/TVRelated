@@ -17,9 +17,9 @@
     //   "logo": "https://epg.112114.xyz/logo/{name}.png"
     // },
     {
-      "name": "jackson0829CR",
+      "name": "Dussl",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/CR.txt",
+      "url": "https://www.dussl.icu/4gtv_dussl.m3u",
       // "_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
@@ -37,14 +37,24 @@
       "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
     },
     {
-      "name": "現代生活",
+      "name": "Dussl 奧運",
       "type": 0,
-      "url": "https://www.dussl.icu/4gtv_dussl.m3u",
+      "url": "https://www.dussl.icu/Aoyun_dussl.m3u",
+      // "_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 20,
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "jackson0829CR",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/CR.txt",
+      // "_playerType": 2,
+      "ua": "okhttp/3.15",
+      "timeout": 20,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "設定,關鑰匙,可免費顯示台灣頻道，晨瑞",
@@ -57,6 +67,26 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
+      "name": "FreeNode",
+      "type": 0,
+      "url": "https://linuxdo.freenode.briqt.dev/",
+      //"_playerType": 2,
+      "ua": "okhttp/3.15",
+      "timeout": 20,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "現代生活",
+      "type": 0,
+      "url": "https://www.dussl.icu/4gtv_dussl.m3u",
+      "ua": "okhttp/3.15",
+      "timeout": 20,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
+    },
+    {
       "name": "ETH(JS)",
       "api": "https://tang.hz.cz/js/ethtv.js",
       "type": 3,
@@ -65,16 +95,16 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-      "name": "CatBox",
-      "type": 0,
-      "url": "https://files.catbox.moe/a12ikd.txt",
-      "api": "https://files.catbox.moe/auor6s.js",
-      "ua": "okhttp/4.12.0",
-      "timeout": 20,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+    // {
+    //   "name": "CatBox",
+    //   "type": 0,
+    //   "url": "https://files.catbox.moe/a12ikd.txt",
+    //   "api": "https://files.catbox.moe/auor6s.js",
+    //   "ua": "okhttp/4.12.0",
+    //   "timeout": 20,
+    //   "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
+    // },
     {
       "name": "jundie",
       "type": 0,
