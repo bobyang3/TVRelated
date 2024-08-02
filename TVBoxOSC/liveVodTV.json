@@ -1,8 +1,9 @@
-{ "spider": "https://mirror.ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
-"wallpaper": "http://img.fongmi.eu.org",
-"logo": "http://img.fongmi.eu.org/fongmi.jpg",
-"ads": ["static-mozai.4gtv.tv", "s3t3d2y8.afcdn.net"],
-"urls": [
+{
+  "spider": "https://mirror.ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
+  "wallpaper": "http://img.fongmi.eu.org",
+  "logo": "http://img.fongmi.eu.org/fongmi.jpg",
+  "ads": ["static-mozai.4gtv.tv", "s3t3d2y8.afcdn.net"],
+  "urls": [
     {
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
       "name": "高天流雲 JS"
@@ -10,13 +11,14 @@
     {
       "url": "https://rb.gy/4s4hbd",
       "name": "🏘️RobYang rb.gy/4s4hbd"
-    },  
+    },
     {
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/vod.json",
       "name": "🏘️RobYang VOD"
     },
     {
       "name": "",
+      "ua": "okhttp/3.15",
       "url": ""
     },
     {
@@ -105,23 +107,28 @@
     },
     {
       "name": "",
+      "ua": "okhttp/3.15",
       "url": ""
     },
     {
       "name": "",
+      "ua": "okhttp/3.15",
       "url": ""
     },
     {
       "name": "",
+      "ua": "okhttp/3.15",
       "url": ""
     },
     {
       "name": "",
+      "ua": "okhttp/3.15",
       "url": ""
     },
     {
-      "url": "http://yingshi.fongmi.eu.org",
-      "name": "4GTV去廣告"
+      "name": "4GTV去廣告",
+      "ua": "okhttp/3.15",
+      "url": "http://yingshi.fongmi.eu.org"
     },
     {
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jake3737/tvbox/master/js.json /",
@@ -132,7 +139,7 @@
       "name": "王二小放牛娃"
     },
     {
-      "url": "https://www.xn--sss604efuw.com/tv", 
+      "url": "https://www.xn--sss604efuw.com/tv",
       "name": "饭太硬"
     },
     {
@@ -163,7 +170,7 @@
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/%E6%88%90%E4%BA%BA%E6%8E%A5%E5%8F%A3.txt",
       "name": "18+ 成人"
     },
-      {
+    {
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
       "name": "高天流雲 FTY"
     },
@@ -192,26 +199,51 @@
     //   "name": "多多多倉"
     // }
   ],
-"lives": [
-    {"name": "🏠RobYang rb.gy/cbgs6c","type": 0,"url": "https://rb.gy/cbgs6c","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png",   "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
+  "lives": [
+    {
+      "name": "🏠RobYang rb.gy/cbgs6c",
+      "url": "https://rb.gy/cbgs6c",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
     },
-    {"name": "SAO0","type": 0,"url": "./libs/tv/tvlive.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
+    {
+      "name": "SAO0",
+      "type": 0,
+      "url": "./libs/tv/tvlive.txt",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {"name": "IPV6","type": 0,"url": "./lib/tv/ipv6.m3u","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
-    },      {
+    {
+      "name": "IPV6",
+      "type": 0,
+      "url": "./lib/tv/ipv6.m3u",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "🇹🇼4GTV",
-      "url": "https://www.dussl.icu/4gtv_dussl.m3u"
-  },
-  {
+      "url": "https://www.dussl.icu/4gtv_dussl.m3u",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "香蕉哥直播",
-      "url": "https://tv.iill.top/m3u/Gather"
-  },
-  {
-      "name": "MyTvSuper",
-      "url": "http://xg.52sw.top:5000/mytvsuper.m3u"
-  },
-  {
+      "url": "https://tv.iill.top/m3u/Gather",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "UPLive",
-      "url": "https://fm1077.serv00.net/anbo/"
+      "url": "https://fm1077.serv00.net/anbo/",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ]
 }
-  ] }
