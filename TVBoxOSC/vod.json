@@ -5,6 +5,65 @@
   //from https://yingshi.fongmi.eu.org/
   "sites": [
     {
+      "key": "php2_hmezy",
+      "name": "🟢黑木耳",
+      "type": 4,
+      "api": "https://t4.doube.eu.org/heimuer.php",
+      "quickSearch": 0,
+      "searchable": 1
+  },
+  {
+      "key": "php_huaweiba",
+      "name": "🔴華為吧",
+      "type": 4,
+      "api": "https://t4.doube.eu.org/huaweiba.php",
+      "quickSearch": 0,
+      "searchable": 1
+  },
+  {
+      "key": "php_madou",
+      "name": "🔞麻豆",
+      "type": 4,
+      "api": "https://t4.doube.eu.org/madou.php",
+      "searchable": 1,
+      "quickSearch": 0,
+      "style": {
+          "type": "rect",
+          "ratio": 1.33
+      }
+  },
+  {
+     "key": "文采",
+     "name": "💮文采┃秒播",
+     "type": 3,
+     "api": "csp_Jpys",
+     "jar":"https://github.com/kan31467/1/raw/main/jar/kan.jar",
+     "playerType": 2,
+     "searchable": 1,
+     "quickSearch": 1,
+     "changeable": 1
+ },
+  {
+      "key": "xp_nuiyue",
+      "name": "🍼紐約影视",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://t4.doube.eu.org/site/xp_nuiyue.json"
+  },
+  {
+      "key": "xp_olehdtv",
+      "name": "🔥歐樂影院 | 大陸要翻",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://t4.doube.eu.org/site/xp_olehdtv.json"
+  },
+  {
       "key": "php_hmezy",
       "name": "黑木耳克隆",
       "type": 4,
@@ -545,5 +604,23 @@
       ]
     }
   ],
-  "ads": ["static-mozai.4gtv.tv", "s3t3d2y8.afcdn.net"]
+  "ads": ["static-mozai.4gtv.tv", "s3t3d2y8.afcdn.net"],
+  "lives": [
+      {
+          "name": "🇹🇼4GTV",
+          "url": "https://www.dussl.icu/4gtv_dussl.m3u"
+      },
+      {
+          "name": "香蕉哥直播",
+          "url": "https://tv.iill.top/m3u/Gather"
+      },
+      {
+          "name": "MyTvSuper",
+          "url": "http://xg.52sw.top:5000/mytvsuper.m3u"
+      },
+      {
+          "name": "UPLive",
+          "url": "https://fm1077.serv00.net/anbo/"
+  }
+  ]
 }

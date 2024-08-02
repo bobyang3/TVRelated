@@ -9,7 +9,7 @@
     // {
     //   "name": "UPLIVE 安博",
     //   "type": 0,
-    //   "url": "https://fm1077.serv00.net/anbo/",
+    //   "url": "https://fm1077.serv00.net/anbo/", 
     //   // "_playerType": 2,
     //   "ua": "okhttp/5.2.0",
     //   "timeout": 20,
@@ -37,6 +37,16 @@
       "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
     },
     {
+      "name": "現代生活",
+      "type": 0,
+      "url": "https://www.dussl.icu/4gtv_dussl.m3u",
+      "ua": "okhttp/3.15",
+      "timeout": 20,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
+    },     
+    {
       "name": "設定,關鑰匙,可免費顯示台灣頻道，晨瑞",
       "type": 0,
       "url": "https://www.gitlink.org.cn/api/chenrui007/tvbox/raw/.%2A.%2A.%2A.?ref=master",
@@ -56,6 +66,58 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+    {
+      "name": "yuanzl77",
+      "type": 0,
+      "url": "http://175.178.251.183:6689/live.m3u",
+      // "_playerType": 2,
+      "ua": "okhttp/3.15",
+      "timeout": 20,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "香蕉哥直播",
+      "type": 0,
+      "url": "https://tv.iill.top/m3u/Gather",
+      // "_playerType": 2,
+      "ua": "okhttp/3.15",
+      "timeout": 20,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+        {
+      "name": "MyTvSuper",
+      "type": 0,
+      "url": "http://xg.52sw.top:5000/mytvsuper.m3u",
+      // "_playerType": 2,
+      "ua": "okhttp/3.15",
+      "timeout": 20,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }, 
+    // {
+    //   "name": "中文教科书",
+    //   "type": 0,
+    //   "url": "https://www.4spaces.org/5711.html",
+    //   // "_playerType": 2,
+    //   "ua": "okhttp/3.15",
+    //   "timeout": 20,
+    //   "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
+    // },
+
+
+    // {
+    //   "name": "CatBox",
+    //   "type": 0,
+    //   "url": "https://files.catbox.moe/a12ikd.txt", //https://files.catbox.moe/auor6s.js
+    //   // "_playerType": 2,
+    //   "ua": "okhttp/3.15",
+    //   "timeout": 20,
+    //   "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
+    // }, 
     // {
     //   "name": "ETH 2",
     //   "type": 0,
@@ -406,8 +468,14 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    
-
+    {
+      "name": "18+ 紳士台",
+      "type": 0,
+      "url": "https://files.catbox.moe/rfybwc.txt",
+      //"_playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
 
     
 
