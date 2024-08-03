@@ -45,7 +45,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "ETH(JS), 蜂蜜影視0802後",
+      "name": "ETH(JS), 蜂蜜影視0802版後",
       "api": "https://tang.hz.cz/js/ethtv.js",
       "type": 3,
       "ua": "okhttp/4.12.0",
