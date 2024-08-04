@@ -44,12 +44,12 @@
 
 
 ## 點播接口：
-1. Rob Yang 點播倉庫.: https://rb.gy/4s4hbd or https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveVodTV.json
+1. Rob Yang 點播庫.: https://rb.gy/4s4hbd or https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveVodTV.json
 2. 寶盒=欧乐,泥巴　https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json
-3. 泥巴,独播库,小宝,欧乐,腐剧　https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json (https://github.com/qist/tvbox)
+3. 泥巴,独播库,小宝,欧乐,腐剧　https://raw.githubusercontent.com/qist/tvbox/master/jsm.json (https://github.com/qist/tvbox)
 4. https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json （https://github.com/gaotianliuyun/gao/tree/master） 
 7. http://home.jundie.top:81/top98.json
-8. https://github.moeyy.xyz/https://raw.githubusercontent.com/jake3737/tvbox/master/js.json 
+8. https://raw.githubusercontent.com/jake3737/tvbox/master/js.json 
 9. 教學 https://gitlab.com/xmbjm/omg/-/raw/main/omg.json
 10. 欧乐,泥巴 (online js) https://gitlab.com/-/snippets/2343779/raw/main/snippetfile1.txt
 11. 18 AV https://d.kstore.space/download/7708/a18.json
@@ -57,8 +57,8 @@
 
 
 ## 直播接口： 
-1. Rob Yang 直播倉庫: https://rb.gy/cbgs6c or https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTV.json <br>
-2. Rob Yang 直播: https://rb.gy/fmlb89 or https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTV.json <br>
+1. Rob Yang 直播庫: https://rb.gy/cbgs6c or https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTV.json <br>
+2. Rob Yang 直播: https://rb.gy/fmlb89 or https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTV.json <br>
 3. 4GTV live: https://api2.4gtv.tv/Channel/GetChannelBySetId/1/pc/L<br>
 4. 159169 http://www.52sw.top:678/play/oj1381/list.php?get=159169
 5. 169 http://www.52sw.top:678/play/oj1381  
