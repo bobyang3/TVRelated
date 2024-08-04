@@ -26,24 +26,14 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "🏠RobYang rb.gy/cbgs6c",
+      "name": "🏠RobYang rb.gy/fnexy1",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTVList.txt",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTVList.txt",
       "ua": "okhttp/3.15",
       "timeout": 5,
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
-    },
-    {
-      "name": "🏘️1RobYang rb.gy/cbgs6c",
-      "type": 0,
-      "url": "https://rb.gy/cbgs6c"
-    },
-    {
-      "name": "🏘️2RobYang rb.gy/fnexy1",
-      "type": 0,
-      "url": "https://rb.gy/fnexy1"
     },
     {
       "name": "Get Enjoy, International",
@@ -361,6 +351,17 @@
     },
 
 
+
+    {
+      "name": "🏘️只是鏈接 1RobYang rb.gy/cbgs6c",
+      "type": 0,
+      "url": "https://rb.gy/cbgs6c"
+    },
+    {
+      "name": "🏘️只是鏈接 2RobYang rb.gy/fnexy1",
+      "type": 0,
+      "url": "https://rb.gy/fnexy1"
+    },
 
 
     {
