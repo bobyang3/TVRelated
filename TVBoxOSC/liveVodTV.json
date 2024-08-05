@@ -5,12 +5,16 @@
   "ads": ["static-mozai.4gtv.tv", "s3t3d2y8.afcdn.net"],
   "urls": [
     {
-      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-      "name": "高天流雲 JS"
+      "url": "https://raw.githubusercontent.com/alantang1977/X/main/X.json",
+      "name": "Tang 線源"
     },
     {
-      "url": "https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/vod.json",
+      "url": "https://gh.con.sh/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/vod.json",
       "name": "🏠RobYang VOD"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "name": "高天流雲 JS"
     },
     {
       "url": "https://rb.gy/4s4hbd",
