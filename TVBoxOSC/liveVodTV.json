@@ -5,11 +5,11 @@
   "ads": ["static-mozai.4gtv.tv", "s3t3d2y8.afcdn.net"],
   "urls": [
     {
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
       "name": "高天流雲 JS"
     },
     {
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/vod.json",
+      "url": "https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/vod.json",
       "name": "🏠RobYang VOD"
     },
     {
@@ -21,7 +21,7 @@
       "name": "🏘️2RobYang rb.gy/nr46sd"
     },
     {
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveVodTV.json",
+      "url": "https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveVodTV.json",
       "name": "🏘️3RobYang Hub"
     },
     {
@@ -30,7 +30,7 @@
       "url": ""
     },
     {
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
       "name": "高天流雲 No.1"
     },
     // {
@@ -38,11 +38,11 @@
     //   "name": "OK"
     // },
     {
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json",
       "name": "Guot55, localhost lib"
     },
     {
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
       "name": "Qist, localhost JS"
     },
     {
@@ -86,7 +86,7 @@
       "name": "PG線路"
     },
     {
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
       "name": "瀟灑線路"
     },
     {
@@ -94,7 +94,7 @@
       "name": "D佬線路"
     },
     {
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
       "name": "香雅情深"
     },
     {
@@ -110,7 +110,7 @@
       "name": "巧儿"
     },
     {
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hd9211/maotv/main/maotv1.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/maotv/main/maotv1.txt",
       "name": "HD9211"
     },
     {
@@ -139,7 +139,7 @@
       "url": "http://yingshi.fongmi.eu.org"
     },
     {
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jake3737/tvbox/master/js.json /",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jake3737/tvbox/master/js.json /",
       "name": "jake3737 localhost JS"
     },
     {
@@ -152,30 +152,30 @@
     },
     {
       "name": "幸福老罗",
-      "url": "https://mirror.ghproxy.com/https://github.moeyy.xyz/https://raw.githubusercontent.com/jake3737/box/main/feimao"
+      "url": "https://mirror.ghproxy.com/https://mirror.ghproxy.com/https://raw.githubusercontent.com/jake3737/box/main/feimao"
     },
     {
       "url": "http://like.肥猫.com/你好",
       "name": "肥猫线路"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://github.moeyy.xyz/https://raw.githubusercontent.com/zengchaoqun0625/movies/main/feimao",
+      "url": "https://mirror.ghproxy.com/https://mirror.ghproxy.com/https://raw.githubusercontent.com/zengchaoqun0625/movies/main/feimao",
       "name": "哈哈线路"
     },    
     {
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
       "name": "高天流雲 FTY"
     },
     {
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
       "name": "高天流雲 FM"
     },
     {
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
       "name": "高天流雲 PG"
     },
     {
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
       "name": "高天流雲 XYQ"
     },
 
@@ -185,7 +185,7 @@
 
     //-------------- 18+  ------------
     {
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
       "name": "高天流雲 18+ AV 限制級"
     },
     {
@@ -193,11 +193,11 @@
       "name": "18+ A限制級"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://github.moeyy.xyz/https://raw.githubusercontent.com/kan31467/1/main/tv/18%2B%E5%A4%A7%E5%85%A8.txt",
+      "url": "https://mirror.ghproxy.com/https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/18%2B%E5%A4%A7%E5%85%A8.txt",
       "name": "18+ 大全"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://github.moeyy.xyz/https://raw.githubusercontent.com/kan31467/1/main/tv/%E6%88%90%E4%BA%BA%E6%8E%A5%E5%8F%A3.txt",
+      "url": "https://mirror.ghproxy.com/https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/%E6%88%90%E4%BA%BA%E6%8E%A5%E5%8F%A3.txt",
       "name": "18+ 成人"
     },
 
@@ -217,6 +217,14 @@
     {
       "name": "🏠RobYang rb.gy/cbgs6c",
       "url": "https://rb.gy/cbgs6c",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
+    },
+    {
+      "name": "🏠RobYang rb.gy/fnexy1",
+      "url": "https://rb.gy/fnexy1",
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png",

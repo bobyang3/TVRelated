@@ -4,7 +4,8 @@
   //"spider": "https://github.com/gaotianliuyun/gao/raw/master/jar/fan.txt",
   //"spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar",
   //"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714125698234/fan.txt",
-  //"spider": "https://ghproxy.net/https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/CatVodSpider/42d562dc8e29d0adf7689e4748a43d84ecdf2805/jar/custom_spider.jar",
+  //"spider": "https://ghproxy.net/https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/42d562dc8e29d0adf7689e4748a43d84ecdf2805/jar/custom_spider.jar",
+  "logo": "http://img.fongmi.eu.org/fongmi.jpg",
   "spider": "https://mirror.ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
   "lives": [
     // {
@@ -28,7 +29,7 @@
     {
       "name": "🏠RobYang https://rb.gy/cbgs6c",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTVList.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTVList.txt",
       "ua": "okhttp/3.15",
       "timeout": 5,
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
@@ -77,7 +78,7 @@
     {
       "name": "jackson0829CR",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/CR.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/CR.txt",
       // "_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 5,
@@ -168,7 +169,7 @@
     {
       "name": "ETH 2",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/kan31467/1/main/tv/eth5%E6%9C%8810%E6%97%A5.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/eth5%E6%9C%8810%E6%97%A5.txt",
       //"_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 5,
@@ -178,7 +179,7 @@
     // {
     //   "name": "安博",
     //   "type": 0,
-    //   "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/kan31467/1/main/tv/z02%E5%AE%89%E5%8D%9A%E7%9B%B4%E6%92%AD%E6%BA%90.txt",
+    //   "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/z02%E5%AE%89%E5%8D%9A%E7%9B%B4%E6%92%AD%E6%BA%90.txt",
     //   //"_playerType": 2,
     //   "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
     //   "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -186,7 +187,7 @@
     // {
     //   "name": "安博z1",
     //   "type": 0,
-    //   "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/kan31467/1/main/tv/%E5%AE%89%E5%8D%9Az02.txt",
+    //   "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/%E5%AE%89%E5%8D%9Az02.txt",
     //   //"_playerType": 2,
     //   "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
     //   "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -194,7 +195,7 @@
     // {
     //   "name": "jackson0829tw",
     //   "type": 0,
-    //   "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/TW.txt",
+    //   "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/TW.txt",
     //   // "_playerType": 2,
     //   "ua": "okhttp/3.15",
     //   "timeout": 5,
@@ -204,7 +205,7 @@
     // {
     //   "name": "安博z2",
     //   "type": 0,
-    //   "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/kan31467/1/main/tv/%E5%AE%89%E5%8D%9Az1.txt",
+    //   "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/%E5%AE%89%E5%8D%9Az1.txt",
     //   //"_playerType": 2,
     //   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
     //   "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -262,7 +263,7 @@
     {
       "name": "zwc456baby",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt",
       //"_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 5,
@@ -272,7 +273,7 @@
     {
       "name": "China, YanG 综合",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+      "url": "https://mirror.ghproxy.com/https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
       //"_playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -288,7 +289,7 @@
     {
       "name": "18+ tv",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/kan31467/1/main/tv/18tv.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/18tv.txt",
       //"_playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -296,7 +297,7 @@
     {
       "name": "18+ zb",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/kan31467/1/main/tv/18zb%E7%9B%B4%E6%92%AD%E6%BA%90%20(2).txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/18zb%E7%9B%B4%E6%92%AD%E6%BA%90%20(2).txt",
       //"_playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -304,7 +305,7 @@
     {
       "name": "18+ 黄色",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://github.moeyy.xyz/https://raw.githubusercontent.com/kan31467/1/main/tv/%E9%BB%84%E8%89%B2%E7%82%B9%E6%92%AD.txt",
+      "url": "https://mirror.ghproxy.com/https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/%E9%BB%84%E8%89%B2%E7%82%B9%E6%92%AD.txt",
       //"_playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -344,7 +345,7 @@
     {
       "name": "18+ Jie",
       "type": 0,
-      "url": "https://ghproxy.com/https://github.moeyy.xyz/https://raw.githubusercontent.com/jie20091116/cat/main/TVBOX/18.txt",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/jie20091116/cat/main/TVBOX/18.txt",
       //"_playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
