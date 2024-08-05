@@ -211,9 +211,6 @@
     //   "logo": "https://epg.112114.xyz/logo/{name}.png"
     // },
 
-
-
-
     //---------------------international Only------------------
     {
       "name": "宝盒 International",
@@ -225,11 +222,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
-
-
-
-
-    //-------------CHINA------------------    
+    //-------------CHINA------------------
     {
       "name": "大视界",
       "type": 0,
@@ -278,12 +271,6 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-
-
-
-
-
-
 
     //-------------18+------------------
     {
@@ -351,8 +338,6 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
-
-
     {
       "name": "🏘️只是鏈接 1RobYang rb.gy/cbgs6c",
       "type": 0,
@@ -364,7 +349,6 @@
       "url": "https://rb.gy/fnexy1"
     },
 
-
     {
       "group": "redirect",
       "channels": [
@@ -374,7 +358,5 @@
         }
       ]
     }
-
-
   ]
 }

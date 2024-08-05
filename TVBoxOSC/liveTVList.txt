@@ -1,4 +1,4 @@
-📺YouTube,#genre#
+📺YouTube News,#genre#
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
@@ -11,28 +11,19 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 寰宇新聞台灣台,http://m.youtube.com/live/w87VGpgd90U
 東森財經股市,https://www.youtube.com/watch?v=LbS-xQ67fos
 東森財經新聞,https://www.youtube.com/live/WHEPzbFA3hw
-幼幼YoyoTV,https://www.youtube.com/watch?v=yks2_Og6MY4
+東森新聞,https://tv.iill.top/youtube/newsebc
+東森財經新聞,https://tv.iill.top/youtube/57ETFN
 mnews鏡新聞,https://www.youtube.com/live/5n0y6b0Q25o 
 新唐人,https://www.youtube.com/watch?v=WIhgU_mc05A
 華視新聞,http://m.youtube.com/watch?v=wM0g8EoUZ_E
-華視綜藝頻道,http://m.youtube.com/live/IfKO17h4pVE
-華視戲劇頻道,http://m.youtube.com/live/WFXI3igmwDk 
+
 中天新聞1台,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新聞2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
-中視亞洲台,https://www.youtube.com/live/s2waUruqze4 
-中視綜藝,https://www.youtube.com/live/ADDSmXoPDY8 
+中天新聞1台,https://tv.iill.top/youtube/CtiNews
+中天新聞2台,https://tv.iill.top/youtube/WPfPjbOLNfE
 TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
-大愛一台,https://www.youtube.com/watch?v=MIqUplvSRWA
-大愛二台台灣,https://www.youtube.com/watch?v=OKvWtVoDR8I
-大愛二台全球,https://www.youtube.com/watch?v=DTNkEm6jaqQ
-信大電視台,https://www.youtube.com/live/ciwFpYofb28
-國會頻道,https://www.youtube.com/live/4HysYHJ6GkY 
-momo購物一台,https://www.youtube.com/watch?v=_pZQ1Lk0xMA
-momo購物二台,https://www.youtube.com/watch?v=xbNWkUyxQGM
-東森購物台CH34,https://www.youtube.com/watch?v=ViJ3XiN6Q3M
-美好購物二台,https://www.youtube.com/watch?v=lEXITHxcagI
 正德電視台,https://www.youtube.com/watch?v=AfcVHGIRbP8
 華藏,https://www.youtube.com/watch?v=ypmrwYeLAaQ
 鳳凰衛視資訊,https://www.youtube.com/watch?v=HFib76ySpbU
@@ -57,13 +48,6 @@ NASA TV,https:/ /www.youtube.com/live/21X5lGlDOfg
 NASA Live,https://www.youtube.com/live/nA9UZF-SZoQ 
 Euronews English,https://www.youtube.com/live/pykpO5kQJ98 
 GB News,https:/ /www.youtube.com/live/8WX6YL9JnLw
-
-
-
-
-
-中天新聞1台,https://tv.iill.top/youtube/CtiNews
-中天新聞2台,https://tv.iill.top/youtube/WPfPjbOLNfE
 公視新聞,https://tv.iill.top/youtube/PNNPTS
 民視新聞,https://tv.iill.top/youtube/FTV_News
 台視新聞,https://tv.iill.top/youtube/TTV_NEWS
@@ -73,8 +57,6 @@ TVBS NEWS,https://tv.iill.top/youtube/TVBSNEWS01
 TVBS 選新聞,https://tv.iill.top/youtube/TVBSNEWS02
 三立新聞,https://tv.iill.top/youtube/setnews
 三立 iNEWS,https://tv.iill.top/youtube/setinews
-東森新聞,https://tv.iill.top/youtube/newsebc
-東森財經新聞,https://tv.iill.top/youtube/57ETFN
 寰宇新聞,https://tv.iill.top/youtube/globalnewstw
 寰宇財經新聞,https://tv.iill.top/youtube/globlemoney
 鏡新聞,https://tv.iill.top/youtube/mnews-tw
@@ -95,6 +77,45 @@ USA TODAY,https://tv.iill.top/youtube/USATODAY
 ANN NEWS,https://tv.iill.top/youtube/ANNnewsCH
 NHK WORLD,https://tv.iill.top/youtube/NHKWORLDJAPAN
 TBS NEWS,https://tv.iill.top/youtube/tbsnewsdig
+
+
+
+
+📺YouTube Kids,#genre#
+parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+國家地理兒童頻道,https://tv.iill.top/youtube/natgeokids
+小豬佩奇,https://tv.iill.top/youtube/PeppaPigChineseOfficial
+芝麻街,https://tv.iill.top/youtube/SesameStreet
+汪汪隊,https://tv.iill.top/youtube/PAWPatrolOfficial
+陽光兔,https://tv.iill.top/youtube/SunnyBunnies
+幼兒動物園,https://tv.iill.top/youtube/ToddlerZoo
+童謠與卡通,https://tv.iill.top/youtube/BillionSurpriseToys
+兒童動畫,https://tv.iill.top/youtube/KedooToonsTV
+兒童動畫¹,https://tv.iill.top/youtube/OldMacDonaldsFarm_MoonbugKids
+123 GO,https://tv.iill.top/youtube/123goseries
+貓·部落,https://tv.iill.top/youtube/miaou-cat
+鼠·部落,https://tv.iill.top/youtube/MohumohuPetCafe
+幼幼YoyoTV,https://www.youtube.com/watch?v=yks2_Og6MY4
+
+
+
+📺YouTube Others,#genre#
+parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+華視綜藝頻道,http://m.youtube.com/live/IfKO17h4pVE
+華視戲劇頻道,http://m.youtube.com/live/WFXI3igmwDk 
+中視亞洲台,https://www.youtube.com/live/s2waUruqze4 
+中視綜藝,https://www.youtube.com/live/ADDSmXoPDY8 
+大愛一台,https://www.youtube.com/watch?v=MIqUplvSRWA
+大愛二台台灣,https://www.youtube.com/watch?v=OKvWtVoDR8I
+大愛二台全球,https://www.youtube.com/watch?v=DTNkEm6jaqQ
+信大電視台,https://www.youtube.com/live/ciwFpYofb28
+國會頻道,https://www.youtube.com/live/4HysYHJ6GkY 
+momo購物一台,https://www.youtube.com/watch?v=_pZQ1Lk0xMA
+momo購物二台,https://www.youtube.com/watch?v=xbNWkUyxQGM
+東森購物台CH34,https://www.youtube.com/watch?v=ViJ3XiN6Q3M
+美好購物二台,https://www.youtube.com/watch?v=lEXITHxcagI
 大陸尋奇,https://tv.iill.top/youtube/ctvchinatv
 中天亞洲台,https://tv.iill.top/youtube/CtiAsia
 大愛電視,https://tv.iill.top/youtube/DaAiVideo
@@ -108,7 +129,6 @@ TBS NEWS,https://tv.iill.top/youtube/tbsnewsdig
 中天電視,https://tv.iill.top/youtube/CtiTv
 國家地理,https://tv.iill.top/youtube/NatGeo
 國家地理野生動物,https://tv.iill.top/youtube/NatGeoWild
-國家地理兒童頻道,https://tv.iill.top/youtube/natgeokids
 動物世界,https://tv.iill.top/youtube/SafariWonders4K
 動物世界¹,https://tv.iill.top/youtube/4krelaxing-wildanimals
 森林角落,https://tv.iill.top/youtube/loveyourself.alexander
@@ -171,21 +191,7 @@ BGM³,https://tv.iill.top/youtube/lofigeek
 時裝藝術表演³,https://tv.iill.top/youtube/SPLASHme
 THE K-POP,https://tv.iill.top/youtube/thekpop
 SBS Running Man,https://tv.iill.top/youtube/SBSRunningMan
-小豬佩奇,https://tv.iill.top/youtube/PeppaPigChineseOfficial
-芝麻街,https://tv.iill.top/youtube/SesameStreet
-汪汪隊,https://tv.iill.top/youtube/PAWPatrolOfficial
-陽光兔,https://tv.iill.top/youtube/SunnyBunnies
-幼兒動物園,https://tv.iill.top/youtube/ToddlerZoo
-童謠與卡通,https://tv.iill.top/youtube/BillionSurpriseToys
-兒童動畫,https://tv.iill.top/youtube/KedooToonsTV
-兒童動畫¹,https://tv.iill.top/youtube/OldMacDonaldsFarm_MoonbugKids
-123 GO,https://tv.iill.top/youtube/123goseries
-貓·部落,https://tv.iill.top/youtube/miaou-cat
-鼠·部落,https://tv.iill.top/youtube/MohumohuPetCafe
 綠聲·旅遊,https://tv.iill.top/youtube/GreenSoundOfficial
-
-
-
 
 
 
