@@ -273,7 +273,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": 456寶貝",
+      "name": "456寶貝",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt",
       //"_playerType": 2,
