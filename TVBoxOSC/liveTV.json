@@ -286,7 +286,7 @@
     {
       "name": "China, YanG 综合",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
       //"_playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -312,7 +312,7 @@
     {
       "name": "18+ 黄色",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/%E9%BB%84%E8%89%B2%E7%82%B9%E6%92%AD.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/%E9%BB%84%E8%89%B2%E7%82%B9%E6%92%AD.txt",
       //"_playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
