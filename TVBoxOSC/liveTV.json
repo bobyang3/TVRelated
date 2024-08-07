@@ -106,7 +106,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "fk8cnn",
+      "name": "貓箱fk8cnn",
       "type": 0,
       "url": "https://files.catbox.moe/fk8cnn.txt",
       //"_playerType": 2,
@@ -252,16 +252,16 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-      "name": "香蕉哥",
-      "type": 0,
-      "url": "https://tv.iill.top/m3u/Live", //https://tv.iill.top/m3u/Gather //https://github.com/YanG-1989
-      //"_playerType": 2,
-      "ua": "okhttp/3.15",
-      "timeout": 5,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+ //   {
+  //    "name": "香蕉哥",
+ //     "type": 0,
+ //     "url": "https://tv.iill.top/m3u/Live", //https://tv.iill.top/m3u/Gather //https://github.com/YanG-1989
+  //    //"_playerType": 2,
+  //    "ua": "okhttp/3.15",
+  //    "timeout": 5,
+ //     "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+  //    "logo": "https://epg.112114.xyz/logo/{name}.png"
+ //   },
     {
       "name": "香蕉哥 Sport",
       "type": 0,
