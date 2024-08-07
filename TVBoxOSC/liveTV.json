@@ -273,12 +273,13 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "zwc456baby",
+      "name": 456寶貝",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt",
       //"_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 5,
+      "pass": true,
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
