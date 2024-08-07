@@ -22,7 +22,7 @@
     },
     {
       "url": "https://rb.gy/nr46sd",
-      "name": "🏘️2RobYang rb.gy/nr46sd"
+      "name": "🏘️2RobYang"
     },
     {
       "url": "https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveVodTV.json",
@@ -169,7 +169,7 @@
     {
       "url": "https://mirror.ghproxy.com/https://mirror.ghproxy.com/https://raw.githubusercontent.com/zengchaoqun0625/movies/main/feimao",
       "name": "哈哈线路"
-    },    
+    },
     {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
       "name": "高天流雲 FTY"
@@ -187,9 +187,11 @@
       "name": "高天流雲 XYQ"
     },
 
-
-
-
+    //-------------- Kids  ------------
+    {
+      "name": "mf | 兒童🚸",
+      "url": "https://raw.gitcode.com/mfkdxk/zb/raw/main/se.json"
+    },
 
     //-------------- 18+  ------------
     {
@@ -209,21 +211,15 @@
       "name": "18+ 成人"
     },
 
-
-
-
     //-------------- Store ------------
     {
       "url": "https://yubox.xyz/dc.json",
       "name": "星辰多倉"
     }
-
-
-
   ],
   "lives": [
     {
-      "name": "🏠1RobYang rb.gy/cbgs6c",
+      "name": "🏠1RobYang rb.gy/cbgs6c 直播",
       "url": "https://rb.gy/cbgs6c",
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
@@ -231,7 +227,7 @@
       "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
     },
     {
-      "name": "🏠2RobYang",
+      "name": "🏠2RobYang 直播",
       "url": "https://rb.gy/fnexy1",
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
