@@ -36,7 +36,17 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
     },
-   {
+    {
+      "name": "貓箱noo2v｜雜中臺港日韓際",
+      "type": 0,
+      "url": "https://files.catbox.moe/7noo2v.txt",
+      // "_playerType": 2,
+      "ua": "okhttp/3.15",
+      "timeout": 5,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+     {
      "name": "K店2912｜中台港",
      "url": "https://2912.kstore.space/0328.txt",
      "type": 0,
@@ -68,6 +78,36 @@
       "name": "享受2｜International",
       "type": 0,
       "url": "http://0tt118.getenjoyment.net/m3u2.php",
+      //"_playerType": 2,
+      "ua": "okhttp/3.15",
+      "timeout": 5,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+ {
+      "name": "我的電視超級｜台",
+      "type": 0,
+      "url": "https://www.mytvsuper.com.mp/4gtv_dussl.m3u",
+      //"_playerType": 2,
+      "ua": "okhttp/3.15",
+      "timeout": 5,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+     {
+      "name": "我的電視超級｜International",
+      "type": 0,
+      "url": "https://www.mytvsuper.com.mp/beesport_dussl.m3u", //"https://www.mytvsuper.com.mp/itv_dussl.m3u",
+      //"_playerType": 2,
+      "ua": "okhttp/3.15",
+      "timeout": 5,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+         {
+      "name": "我的電視超級｜雜中",
+      "type": 0,
+      "url": "https://www.mytvsuper.com.mp/itv_dussl.m3u",
       //"_playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 5,
