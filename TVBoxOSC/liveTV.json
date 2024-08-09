@@ -45,8 +45,27 @@
      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
      "logo": "https://epg.112114.xyz/logo/{name}.png"
    },
+   {
+    "name": "U6V｜中台港",
+    "url": "http://u6v.cn/5MF6C7",
+    "type": 0,
+    "ua": "okhttp/4.12.0",
+    "timeout": 5,
+    "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+    "logo": "https://epg.112114.xyz/logo/{name}.png"
+  },
+   {
+    "name": "享受1｜International",
+    "type": 0,
+    "url": "http://0tt118.getenjoyment.net/m3u.php",
+    //"_playerType": 2,
+    "ua": "okhttp/3.15",
+    "timeout": 5,
+    "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+    "logo": "https://epg.112114.xyz/logo/{name}.png"
+  },
     {
-      "name": "享受｜International",
+      "name": "享受2｜International",
       "type": 0,
       "url": "http://0tt118.getenjoyment.net/m3u2.php",
       //"_playerType": 2,
@@ -85,7 +104,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "香蕉哥｜雜中臺港日韓際",
+      "name": "香蕉哥佛系｜雜中臺港日韓際",
       "type": 0,
       "url": "https://tv.iill.top/m3u/Gather",
       // "_playerType": 2,
@@ -223,7 +242,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "香蕉哥｜Sport",
+      "name": "香蕉哥佛系｜Sport",
       "type": 0,
       "url": "https://tv.iill.top/m3u/Sport", //https://tv.iill.top/m3u/Gather //https://github.com/YanG-1989
       //"_playerType": 2,
@@ -278,7 +297,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "18+ 香蕉哥",
+      "name": "18+ 香蕉哥佛系",
       "type": 0,
       "url": "https://tv.iill.top/m3u/Adult",
       //"_playerType": 2,
