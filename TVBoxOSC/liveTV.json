@@ -388,6 +388,14 @@
       "url": "https://rb.gy/fnexy1"
     },
 
+        //-------------Download------------------
+    {
+      "name": "下載: 蜂蜜影視，OK影視",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/lystv/fmapp/app/yysd.json"
+    },
+
+
     {
       "group": "redirect",
       "channels": [
