@@ -1,4 +1,4 @@
-📺YouTube News,#genre#
+📺YouTube 新聞,#genre#
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
@@ -81,26 +81,14 @@ TBS NEWS,https://tv.iill.top/youtube/tbsnewsdig
 
 
 
-📺YouTube Kids,#genre#
+📺YouTube 兒童,#genre#
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-國家地理兒童頻道,https://tv.iill.top/youtube/natgeokids
-小豬佩奇,https://tv.iill.top/youtube/PeppaPigChineseOfficial
-芝麻街,https://tv.iill.top/youtube/SesameStreet
-汪汪隊,https://tv.iill.top/youtube/PAWPatrolOfficial
-陽光兔,https://tv.iill.top/youtube/SunnyBunnies
-幼兒動物園,https://tv.iill.top/youtube/ToddlerZoo
-童謠與卡通,https://tv.iill.top/youtube/BillionSurpriseToys
-兒童動畫,https://tv.iill.top/youtube/KedooToonsTV
-兒童動畫¹,https://tv.iill.top/youtube/OldMacDonaldsFarm_MoonbugKids
-123 GO,https://tv.iill.top/youtube/123goseries
-貓·部落,https://tv.iill.top/youtube/miaou-cat
-鼠·部落,https://tv.iill.top/youtube/MohumohuPetCafe
 幼幼YoyoTV,https://www.youtube.com/watch?v=yks2_Og6MY4
 
 
 
-📺YouTube Others,#genre#
+📺YouTube 其他,#genre#
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 華視綜藝頻道,http://m.youtube.com/live/IfKO17h4pVE
