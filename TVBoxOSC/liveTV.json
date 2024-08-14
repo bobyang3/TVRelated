@@ -50,6 +50,15 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
+      "name": "串流連結｜台港中日韓際(換慢)",
+      "url": "https://www.stream-link.org/stream-link.m3u",
+      "type": 0,
+      "ua": "okhttp/4.12.0",
+      "timeout": 5,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "K店2912｜中台港",
       "url": "https://2912.kstore.space/0328.txt",
       "type": 0,
