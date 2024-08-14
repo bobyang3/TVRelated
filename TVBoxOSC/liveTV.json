@@ -21,11 +21,14 @@
     {
       "name": "蜂蜜影視｜International",
       "type": 0,
-      "url": "https://anbox118.serv00.net/iptv.php",
+      "url": "http://0tt118.getenjoyment.net/m3u.php",
       //"_playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
+      "ua": "okhttp/3.15",
+      "timeout": 5,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+
     {
       "name": "🏠RobYang https://rb.gy/cbgs6c",
       "type": 0,
@@ -46,34 +49,43 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-     {
-     "name": "K店2912｜中台港",
-     "url": "https://2912.kstore.space/0328.txt",
-     "type": 0,
-     "ua": "okhttp/4.12.0",
-     "timeout": 5,
-     "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-     "logo": "https://epg.112114.xyz/logo/{name}.png"
-   },
-   {
-    "name": "U6V｜中台港",
-    "url": "http://u6v.cn/5MF6C7",
-    "type": 0,
-    "ua": "okhttp/4.12.0",
-    "timeout": 5,
-    "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-    "logo": "https://epg.112114.xyz/logo/{name}.png"
-  },
-   {
-    "name": "享受1｜International",
-    "type": 0,
-    "url": "http://0tt118.getenjoyment.net/m3u.php",
-    //"_playerType": 2,
-    "ua": "okhttp/3.15",
-    "timeout": 5,
-    "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-    "logo": "https://epg.112114.xyz/logo/{name}.png"
-  },
+    {
+      "name": "K店2912｜中台港",
+      "url": "https://2912.kstore.space/0328.txt",
+      "type": 0,
+      "ua": "okhttp/4.12.0",
+      "timeout": 5,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "U6V｜中台港",
+      "url": "http://u6v.cn/5MF6C7",
+      "type": 0,
+      "ua": "okhttp/4.12.0",
+      "timeout": 5,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    //  {
+    //   "name": "享受1｜International",
+    //   "type": 0,
+    //   "url": "http://0tt118.getenjoyment.net/m3u.php",
+    //   //"_playerType": 2,
+    //   "ua": "okhttp/3.15",
+    //   "timeout": 5,
+    //   "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
+    // },
+    {
+      "name": "一盒｜International",
+      "type": 0,
+      "url": "https://anbox118.serv00.net/iptv.php",
+      //"_playerType": 2,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
     {
       "name": "享受2｜International",
       "type": 0,
@@ -84,7 +96,7 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
- {
+    {
       "name": "我的電視超級｜台",
       "type": 0,
       "url": "https://www.mytvsuper.com.mp/4gtv_dussl.m3u",
@@ -94,7 +106,7 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-     {
+    {
       "name": "我的電視超級｜International",
       "type": 0,
       "url": "https://www.mytvsuper.com.mp/beesport_dussl.m3u", //"https://www.mytvsuper.com.mp/itv_dussl.m3u",
@@ -104,7 +116,7 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-         {
+    {
       "name": "我的電視超級｜雜中",
       "type": 0,
       "url": "https://www.mytvsuper.com.mp/itv_dussl.m3u",
@@ -214,16 +226,16 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
- //   {
-  //    "name": "ETH 2",
-   //   "type": 0,
-  //    "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/eth5%E6%9C%8810%E6%97%A5.txt",
-  //    //"_playerType": 2,
-   //   "ua": "okhttp/3.15",
- //     "timeout": 5,
-  //    "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
- //     "logo": "https://epg.112114.xyz/logo/{name}.png"
- //   },
+    //   {
+    //    "name": "ETH 2",
+    //   "type": 0,
+    //    "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/eth5%E6%9C%8810%E6%97%A5.txt",
+    //    //"_playerType": 2,
+    //   "ua": "okhttp/3.15",
+    //     "timeout": 5,
+    //    "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+    //     "logo": "https://epg.112114.xyz/logo/{name}.png"
+    //   },
     // {
     //   "name": "安博",
     //   "type": 0,
@@ -388,13 +400,12 @@
       "url": "https://rb.gy/fnexy1"
     },
 
-        //-------------Download------------------
+    //-------------Download------------------
     {
       "name": "下載: 蜂蜜影視，OK影視",
       "type": 0,
       "url": "https://raw.githubusercontent.com/lystv/fmapp/app/yysd.json"
     },
-
 
     {
       "group": "redirect",
