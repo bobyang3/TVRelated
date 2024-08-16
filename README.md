@@ -148,13 +148,12 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/bobyang3/TVRelated/
 7.  https://epg.112114.eu.org/?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
 8.  https://skytv.serv00.net/epg.php?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date} 
 9.  https://epg.v1.mk/json?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
-10. http://epg.diyp.top/diyp/epg.php?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
-11. http://hk.doube.eu.org/EPG/epg.php?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
-12. https://skytv.serv00.net/epg.php?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
-13. https://cdn.1678520.xyz/epg/?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
-14. https://epg.mxdyeah.top/api/diyp/?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
-15. https://epg.0472.org/?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
-16. http://epg.51zmt.top:8000/e.xml
+10. http://hk.doube.eu.org/EPG/epg.php?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
+11. https://cdn.1678520.xyz/epg/?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
+12. https://epg.mxdyeah.top/api/diyp/?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
+13. https://epg.0472.org/?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
+14. http://epg.51zmt.top:8000/e.xml
+15. http://epg.diyp.top/diyp/epg.php?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
 
 
 --------------------------------------------------------------------
