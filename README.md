@@ -137,6 +137,25 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/bobyang3/TVRelated/
 3.  Emotn: 331026, 796233, 202096
 4.  downloader App https://www.aftvnews.com/downloader/, 383716 to download emotn 
 
+--------------------------------------------------------------------
+
+## EPG:
+2.  https://diyp.112114.xyz/?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
+3.  https://diyp1.112114.xyz/?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
+4.  https://diyp2.112114.xyz/?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
+5.  https://epg.112114.xyz/?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
+6.  https://epg.112114.free.hr/?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
+7.  https://epg.112114.eu.org/?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
+8.  https://skytv.serv00.net/epg.php?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date} 
+9.  https://epg.v1.mk/json?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
+10. http://epg.diyp.top/diyp/epg.php?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
+11. http://hk.doube.eu.org/EPG/epg.php?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
+12. https://skytv.serv00.net/epg.php?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
+13. https://cdn.1678520.xyz/epg/?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
+14. https://epg.mxdyeah.top/api/diyp/?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
+15. https://epg.0472.org/?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
+16. http://epg.51zmt.top:8000/e.xml
+
 
 --------------------------------------------------------------------
 
@@ -148,7 +167,6 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/bobyang3/TVRelated/
     即在原來的播放列表的每一個項後面加上EPG-ID，舉個例子: 
     
 CCTV-1HD,http://stream.guihet.com/hd/ccav1.m3u8,cntv-cctv1
-
 CCTV-1HD,http://stream.guihet.com/hd/ccav1.m3u8,tvming-CCTV1HD
 
 

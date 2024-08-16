@@ -40,6 +40,17 @@
       "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
     },
     {
+      "name": "星視界｜中臺港際",
+      "type": 0,
+      "url": "https://t4.doube.eu.org/XingShiJie.txt",
+      // "_playerType": 2,
+      "ua": "okhttp/3.15",
+      "timeout": 5,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    
+    {
       "name": "貓箱noo2v｜雜中臺港日韓際",
       "type": 0,
       "url": "https://files.catbox.moe/7noo2v.txt",
@@ -145,15 +156,24 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "Dussl｜奧運",
-      "type": 0,
-      "url": "https://www.dussl.icu/Aoyun_dussl.m3u",
-      // "_playerType": 2,
-      "ua": "okhttp/3.15",
+      "name": "貓箱3｜蜂蜜影視0802版後",
+      "api": "https://files.catbox.moe/4dqdzg.js",
+      "type": 3,
+      "ua": "okhttp/4.12.0",
       "timeout": 5,
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+    // {
+    //   "name": "Dussl｜奧運",
+    //   "type": 0,
+    //   "url": "https://www.dussl.icu/Aoyun_dussl.m3u",
+    //   // "_playerType": 2,
+    //   "ua": "okhttp/3.15",
+    //   "timeout": 5,
+    //   "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
+    // },
     {
       "name": "傑克森0829CR",
       "type": 0,
@@ -235,6 +255,17 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+    {
+      "name": "君赢天下｜中臺港際18+",
+      "type": 0,
+      "url": "https://d.kstore.space/download/5288/君赢天下.txt",
+      // "_playerType": 2,
+      "ua": "okhttp/3.15",
+      "timeout": 5,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
     //   {
     //    "name": "ETH 2",
     //   "type": 0,

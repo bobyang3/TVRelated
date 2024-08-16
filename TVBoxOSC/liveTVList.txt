@@ -908,6 +908,1876 @@ Dream：夢想代表隊（韓片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/4
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+臺灣 Taiwan,#genre#
+AXN, https://phdown.serv00.net/Smartv.php?id=axn_twn
+CINEMAX, https://phdown.serv00.net/Smartv.php?id=cinemax_twn
+EYE戲劇, https://phdown.serv00.net/Smartv.php?id=eyetvxiju_twn
+EYE旅遊, https://phdown.serv00.net/Smartv.php?id=eyetvtravel_twn
+HBO, https://phdown.serv00.net/Smartv.php?id=hbohd_twn
+HBO Family, https://phdown.serv00.net/Smartv.php?id=fyi_twn
+好萊塢電影台, https://phdown.serv00.net/Smartv.php?id=hollywoodmovies_twn
+MTV Live, https://phdown.serv00.net/Smartv.php?id=mtvhd_twn
+TLC旅遊生活, https://phdown.serv00.net/Smartv.php?id=tlc_twn
+東森新聞, https://phdown.serv00.net/Smartv.php?id=ettvnews
+TVBS HD, https://phdown.serv00.net/Smartv.php?id=tvbs
+TVBS新聞台, https://phdown.serv00.net/Smartv.php?id=tvbs_n
+TVBS歡樂台, https://phdown.serv00.net/Smartv.php?id=tvbshuanle_twn
+三立台灣台, https://phdown.serv00.net/Smartv.php?id=sanlitaiwan
+三立戲劇台, https://phdown.serv00.net/Smartv.php?id=sanlixiju_twn
+三立綜合台, https://phdown.serv00.net/Smartv.php?id=sanlizhonghe
+中天亞洲台, https://phdown.serv00.net/Smartv.php?id=ctiasia_twn
+中天娱樂, https://phdown.serv00.net/Smartv.php?id=ctient
+中天新聞HD, https://phdown.serv00.net/Smartv.php?id=ctinews
+中天綜合, https://phdown.serv00.net/Smartv.php?id=ctizhonghe
+亞洲旅遊台, https://phdown.serv00.net/Smartv.php?id=asiatravel_twn
+亞洲美食, https://phdown.serv00.net/Smartv.php?id=afc_twn
+八大戲劇, https://phdown.serv00.net/Smartv.php?id=badadrama
+八大第一, https://phdown.serv00.net/Smartv.php?id=badafirst
+八大綜合, https://phdown.serv00.net/Smartv.php?id=badazhonghe
+公視, https://phdown.serv00.net/Smartv.php?id=ctv_taiwan
+民視, https://phdown.serv00.net/Smartv.php?id=ftvhd_taiwan
+民視第一台, https://phdown.serv00.net/Smartv.php?id=lunghuajingdian_twn
+民視台灣台, https://phdown.serv00.net/Smartv.php?id=ftvtaiwan_twn
+民視新聞台, https://phdown.serv00.net/Smartv.php?id=ftvnew_taiwan
+台視, https://phdown.serv00.net/Smartv.php?id=ttv_taiwan
+台視新聞台, https://phdown.serv00.net/Smartv.php?id=ttvnews_twn
+中視, https://phdown.serv00.net/Smartv.php?id=zhongshihd_twn
+中視新聞台, https://phdown.serv00.net/Smartv.php?id=zhongshinews_twn
+中視經典, https://phdown.serv00.net/Smartv.php?id=zhongshi_twn
+華視, https://phdown.serv00.net/Smartv.php?id=ctshd_twn
+華藝綜合, https://phdown.serv00.net/Smartv.php?id=weishichinese_twn
+大愛一台, https://phdown.serv00.net/Smartv.php?id=daai_twn
+寰宇新聞台, https://phdown.serv00.net/Smartv.php?id=huanyuxinwen_twn
+寰宇財經台, https://phdown.serv00.net/Smartv.php?id=huanyutaiwan_twn
+年代新聞台, https://phdown.serv00.net/Smartv.php?id=niandainews_twn
+愛爾達影劇, https://phdown.serv00.net/Smartv.php?id=eltayingju_twn
+愛爾達體育 1, https://phdown.serv00.net/Smartv.php?id=eltasport_twn
+愛爾達體育 2, https://phdown.serv00.net/Smartv.php?id=eltasport2_twn
+愛爾達體育 3, https://phdown.serv00.net/Smartv.php?id=eltasport3_twn
+ELEVEN 1, https://phdown.serv00.net/Smartv.php?id=golfchannel_twn
+博斯網球, https://phdown.serv00.net/Smartv.php?id=bositennis_twn
+博斯運動1, https://phdown.serv00.net/Smartv.php?id=bosisport1_twn
+博斯運動2, https://phdown.serv00.net/Smartv.php?id=bosisport2_twn
+博斯高球1, https://phdown.serv00.net/Smartv.php?id=bosigolf1_twn
+博斯高球2, https://phdown.serv00.net/Smartv.php?id=bosigolf2_twn
+探索亞洲, https://phdown.serv00.net/Smartv.php?id=discoverytwn_twn
+探索動力, https://phdown.serv00.net/Smartv.php?id=discoveryturbo_twn
+國家地理, https://phdown.serv00.net/Smartv.php?id=natgeohd_twn
+野生動物, https://phdown.serv00.net/Smartv.php?id=natgeowild_twn
+動物星球, https://phdown.serv00.net/Smartv.php?id=animalplanet_twn
+時尚, https://phdown.serv00.net/Smartv.php?id=fashiontv_twn
+Discovery Asia, https://phdown.serv00.net/Smartv.php?id=discoverytwn_twn
+Discovery HD, https://phdown.serv00.net/Smartv.php?id=discoveryhd_twn
+東森戲劇, https://phdown.serv00.net/Smartv.php?id=ettvdrama
+東森洋片, https://phdown.serv00.net/Smartv.php?id=ettvwestern
+東森綜合, https://phdown.serv00.net/Smartv.php?id=ettvzhonghe
+東森財經新聞, https://phdown.serv00.net/Smartv.php?id=ettvcaijing_twn
+東森電影, https://phdown.serv00.net/Smartv.php?id=ettvmovie
+緯來日本台, https://phdown.serv00.net/Smartv.php?id=videolandjapan
+緯來體育台, https://phdown.serv00.net/Smartv.php?id=videolandsport
+美亞電影, https://phdown.serv00.net/Smartv.php?id=meiyamovie_twn
+BBC World News, https://phdown.serv00.net/Smartv.php?id=bbcnews_twn
+Bloomberg News, https://phdown.serv00.net/Smartv.php?id=bloomberg_twn
+Fox News, https://phdown.serv00.net/Smartv.php?id=foxnews_twn
+阿里郎, https://phdown.serv00.net/Smartv.php?id=arirang_twn
+CN卡通, https://phdown.serv00.net/Smartv.php?id=momo1_twn
+靖天卡通台, https://phdown.serv00.net/Smartv.php?id=jingtiancartoon_twn
+靖天國際台, https://phdown.serv00.net/Smartv.php?id=jingtianintl_twn
+非凡新聞台, https://phdown.serv00.net/Smartv.php?id=feifannews_twn
+龍祥時代, https://phdown.serv00.net/Smartv.php?id=lungxiangtime_twn
+龍華偶像, https://phdown.serv00.net/Smartv.php?id=lunghuaidol_twn
+龍華戲劇, https://phdown.serv00.net/Smartv.php?id=lunghuaxiju_twn
+龍華洋片, https://phdown.serv00.net/Smartv.php?id=lunghuawestern_twn
+龍華經典, https://phdown.serv00.net/Smartv.php?id=lunghuajingdian_twn
+龍華電影, https://phdown.serv00.net/Smartv.php?id=xingwei_movie
+馬來西亞 Malaysia,#genre#
+TV1, https://phdown.serv00.net/Smartv.php?id=TV1
+TV1(備用), https://phdown.serv00.net/Smartv.php?id=TV1_backup
+TV2, https://phdown.serv00.net/Smartv.php?id=TV2
+TV3, https://phdown.serv00.net/Smartv.php?id=TV3
+TV3(備用), https://phdown.serv00.net/Smartv.php?id=tv3_twn
+NTV7, https://phdown.serv00.net/Smartv.php?id=NTV7
+TV8, https://phdown.serv00.net/Smartv.php?id=TV8
+TV9, https://phdown.serv00.net/Smartv.php?id=TV9
+Warna, https://phdown.serv00.net/Smartv.php?id=Warna-O
+Warna(備用), https://phdown.serv00.net/Smartv.php?id=Warna
+Ria, https://phdown.serv00.net/Smartv.php?id=Ria-0
+Ria(備用), https://phdown.serv00.net/Smartv.php?id=Ria49
+Ria-3, https://phdown.serv00.net/Smartv.php?id=Ria_quanjia
+Al-Hijrah, https://phdown.serv00.net/Smartv.php?id=Alhijrah
+Al-Hijrah(備用), https://phdown.serv00.net/Smartv.php?id=Alhijrah_backup
+Awani, https://phdown.serv00.net/Smartv.php?id=Awani
+Bernama, https://phdown.serv00.net/Smartv.php?id=Bernama
+Prima, https://phdown.serv00.net/Smartv.php?id=Prima-0
+Prima(備用), https://phdown.serv00.net/Smartv.php?id=Prima49
+Ceria, https://phdown.serv00.net/Smartv.php?id=Ceria
+Astro MTV, https://phdown.serv00.net/Smartv.php?id=AstroMTV
+Mecca Live HD, https://phdown.serv00.net/Smartv.php?id=quran_mido
+Madinah HD, https://phdown.serv00.net/Smartv.php?id=sunnah_mido
+Oasis, https://phdown.serv00.net/Smartv.php?id=Oasis
+HBO HD, https://phdown.serv00.net/Smartv.php?id=Hbo
+HBO Signature, https://phdown.serv00.net/Smartv.php?id=Hbosignature
+HBO Hits, https://phdown.serv00.net/Smartv.php?id=Hbohits
+NatGeo Wild HD, https://phdown.serv00.net/Smartv.php?id=Natgeowild
+Cartoon Network, https://phdown.serv00.net/Smartv.php?id=Cn
+Nickelodeon, https://phdown.serv00.net/Smartv.php?id=Nickelodeon
+Nick Jr, https://phdown.serv00.net/Smartv.php?id=Nickjr
+Citra, https://phdown.serv00.net/Smartv.php?id=Citra
+Sensasi, https://phdown.serv00.net/Smartv.php?id=Sensasi
+Aura, https://phdown.serv00.net/Smartv.php?id=Aura
+Rania, https://phdown.serv00.net/Smartv.php?id=Rania
+Boo, https://phdown.serv00.net/Smartv.php?id=Boo
+Awesome TV, https://phdown.serv00.net/Smartv.php?id=Awesome_mega
+Sony HD, https://phdown.serv00.net/Smartv.php?id=SetOne
+KBS World, https://phdown.serv00.net/Smartv.php?id=KBS
+TvN, https://phdown.serv00.net/Smartv.php?id=TVN
+Astro Premier, https://phdown.serv00.net/Smartv.php?id=Astropremier
+AEC, https://phdown.serv00.net/Smartv.php?id=AEC
+華麗台 HD, https://phdown.serv00.net/Smartv.php?id=Wlt
+歡喜台 HD, https://phdown.serv00.net/Smartv.php?id=Huahee
+歡喜台(備用), https://phdown.serv00.net/Smartv.php?id=Huahee_backup
+Astro QJ, https://phdown.serv00.net/Smartv.php?id=Quanjia
+TVB Jade, https://phdown.serv00.net/Smartv.php?id=Tvbjade
+TVBS Asia, https://phdown.serv00.net/Smartv.php?id=Tvbasia
+TVB Entertainment, https://phdown.serv00.net/Smartv.php?id=Tvbentertainment
+TVB Classic, https://phdown.serv00.net/Smartv.php?id=Tvbclassic
+AOD, https://phdown.serv00.net/Smartv.php?id=AodHD
+One, https://phdown.serv00.net/Smartv.php?id=One_mega
+TVB 星河台, https://phdown.serv00.net/Smartv.php?id=Xinhe
+愛奇藝, https://phdown.serv00.net/Smartv.php?id=Qiyi
+Animal Planet (Eng), https://phdown.serv00.net/Smartv.php?id=AnimalPlanet
+tvN Movie, https://phdown.serv00.net/Smartv.php?id=Tvnmovie
+CNN(備用), https://phdown.serv00.net/Smartv.php?id=cnn_twn
+Celestial Classic, https://phdown.serv00.net/Smartv.php?id=Celestial2
+CNBC, https://phdown.serv00.net/Smartv.php?id=cnbc_twn
+RTM Sports HD, https://phdown.serv00.net/Smartv.php?id=Rtmsport
+TLC, https://phdown.serv00.net/Smartv.php?id=Tlc
+CNA, https://phdown.serv00.net/Smartv.php?id=cna
+AFC 亞洲旅遊台, https://phdown.serv00.net/Smartv.php?id=asiatravel_twn
+BBC World News, https://phdown.serv00.net/Smartv.php?id=bbcnews_twn
+Foodnetwork Hd, https://phdown.serv00.net/Smartv.php?id=Foodnetwork_mega
+HGTV, https://phdown.serv00.net/Smartv.php?id=HGTV
+Arena, https://phdown.serv00.net/Smartv.php?id=Arena
+Goshop, https://phdown.serv00.net/Smartv.php?id=Goshop
+Celestial Movies HD, https://phdown.serv00.net/Smartv.php?id=Celestial_mega
+Arena 2, https://phdown.serv00.net/Smartv.php?id=Arena2
+Axn HD, https://phdown.serv00.net/Smartv.php?id=Axn
+Paramount Network, https://phdown.serv00.net/Smartv.php?id=Paramountnetwork
+BolaArena 1, https://phdown.serv00.net/Smartv.php?id=Bolaarena1
+Astrol Kplus, https://phdown.serv00.net/Smartv.php?id=Kplus
+Rock Actions, https://phdown.serv00.net/Smartv.php?id=Rockaction
+Bloomberg News, https://phdown.serv00.net/Smartv.php?id=bloomberg_twn
+Al-Jazeera, https://phdown.serv00.net/Smartv.php?id=aljazeera_twn
+Rock Entertainment, https://phdown.serv00.net/Smartv.php?id=Rockentertain
+Showcase, https://phdown.serv00.net/Smartv.php?id=Showcase_mega
+BolaArena 2, https://phdown.serv00.net/Smartv.php?id=Bolaarena2
+新加坡 Singapore,#genre#
+Channel 5, https://phdown.serv00.net/Smartv.php?id=Channel5HD
+Channel 5(備用), https://phdown.serv00.net/Smartv.php?id=Ch5_mega
+Channel 8, https://phdown.serv00.net/Smartv.php?id=Channel8HD
+Channel 8(備用), https://phdown.serv00.net/Smartv.php?id=Ch8_mega
+Suria, https://phdown.serv00.net/Smartv.php?id=Suria
+Suria(備用), https://phdown.serv00.net/Smartv.php?id=Suria_backup
+Channel U, https://phdown.serv00.net/Smartv.php?id=ChannelU
+Channel U(備用), https://phdown.serv00.net/Smartv.php?id=ChU_mega
+Vasantham, https://phdown.serv00.net/Smartv.php?id=Vasantham
+Vasantham(備用), https://phdown.serv00.net/Smartv.php?id=Vasantham_mega
+CNA, https://phdown.serv00.net/Smartv.php?id=cna
+CNA(備用), https://phdown.serv00.net/Smartv.php?id=cna_twn
+印尼 Indonesia,#genre#
+TVRI National, https://phdown.serv00.net/Smartv.php?id=TVRI
+RCTI, https://phdown.serv00.net/Smartv.php?id=Rcti
+Kompass TV, https://phdown.serv00.net/Smartv.php?id=Kompass
+Berita Satu, https://phdown.serv00.net/Smartv.php?id=BeritaSatu_eko
+Indosiar HD, https://phdown.serv00.net/Smartv.php?id=Indosiar
+AnTV, https://phdown.serv00.net/Smartv.php?id=Antv
+MNC TV, https://phdown.serv00.net/Smartv.php?id=Mnctv
+Trans 7, https://phdown.serv00.net/Smartv.php?id=Trans7_eko
+Transtv, https://phdown.serv00.net/Smartv.php?id=Transtv
+JTV, https://phdown.serv00.net/Smartv.php?id=JTV_eko
+Metro TV, https://phdown.serv00.net/Smartv.php?id=metrotv_eko
+Cinemax, https://phdown.serv00.net/Smartv.php?id=Cinemax
+SCTV, https://phdown.serv00.net/Smartv.php?id=SCTV
+Tvone, https://phdown.serv00.net/Smartv.php?id=Tvone
+TVMU, https://phdown.serv00.net/Smartv.php?id=TVMU_eko
+GTV, https://phdown.serv00.net/Smartv.php?id=Gtv
+RTV, https://phdown.serv00.net/Smartv.php?id=Rtv
+Jak TV, https://phdown.serv00.net/Smartv.php?id=JakTV
+iNews TV, https://phdown.serv00.net/Smartv.php?id=Inewstv
+Daai TV, https://phdown.serv00.net/Smartv.php?id=DaaiTV
+Net TV, https://phdown.serv00.net/Smartv.php?id=NetTV
+Animax, https://phdown.serv00.net/Smartv.php?id=Animax
+EWTN, https://phdown.serv00.net/Smartv.php?id=Ewtn
+AlQuran AlKareem, https://phdown.serv00.net/Smartv.php?id=AlQuran
+Tawaf TV, https://phdown.serv00.net/Smartv.php?id=TawafTV
+Vision Prime, https://phdown.serv00.net/Smartv.php?id=VisionPrime
+Muslim TV, https://phdown.serv00.net/Smartv.php?id=MuslimTV
+Music TV, https://phdown.serv00.net/Smartv.php?id=MusicTV
+Lifestyle&Fashion, https://phdown.serv00.net/Smartv.php?id=Lifestyle
+Entertain, https://phdown.serv00.net/Smartv.php?id=Entertain
+Hits, https://phdown.serv00.net/Smartv.php?id=Hits
+Warner TV, https://phdown.serv00.net/Smartv.php?id=WarnerTV
+SCM, https://phdown.serv00.net/Smartv.php?id=Weishimovie
+Thrill, https://phdown.serv00.net/Smartv.php?id=Thrill
+Fight Sports, https://phdown.serv00.net/Smartv.php?id=Fs
+Beinsports 2 HD, https://phdown.serv00.net/Smartv.php?id=Bein2hd
+Hits Movie, https://phdown.serv00.net/Smartv.php?id=Hitsmovie
+One, https://phdown.serv00.net/Smartv.php?id=One_mega
+tvN Movie, https://phdown.serv00.net/Smartv.php?id=Tvnmovie
+Celestial Movies HD, https://phdown.serv00.net/Smartv.php?id=Celestialindo
+Rock Actions, https://phdown.serv00.net/Smartv.php?id=Rockaction
+Rock Entertainment, https://phdown.serv00.net/Smartv.php?id=Rockentertain
+香港 Hongkong,#genre#
+J2(備用), https://phdown.serv00.net/Smartv.php?id=j2_hkdavid
+J2, https://phdown.serv00.net/Smartv.php?id=j2_twn
+RHK 31, https://phdown.serv00.net/Smartv.php?id=rhk31_twn
+RHK 32, https://phdown.serv00.net/Smartv.php?id=rhk32_twn
+TVB 星河, https://phdown.serv00.net/Smartv.php?id=tvbxinhe_twn
+VIUTV1, https://phdown.serv00.net/Smartv.php?id=viu1_twn
+Viu TV 69, https://phdown.serv00.net/Smartv.php?id=viutv69_hkdavid
+Viu6, https://phdown.serv00.net/Smartv.php?id=viusix_twn
+iNews 新聞台, https://phdown.serv00.net/Smartv.php?id=inews_twn
+無線財經資訊台, https://phdown.serv00.net/Smartv.php?id=tvbcaijing_twn
+珍珠台(備用), https://phdown.serv00.net/Smartv.php?id=pearl_hkdavid
+珍珠台, https://phdown.serv00.net/Smartv.php?id=pearl_twn
+翡翠台(備用), https://phdown.serv00.net/Smartv.php?id=jade_mike
+翡翠台, https://phdown.serv00.net/Smartv.php?id=jade_twn
+鳳凰衛視, https://phdown.serv00.net/Smartv.php?id=phoenixtv_hd
+鳳凰資訊, https://phdown.serv00.net/Smartv.php?id=phoenixinfo_hd
+鳳凰香港, https://phdown.serv00.net/Smartv.php?id=hkphoenix_twn
+中國 China,#genre#
+CCTV-1, https://phdown.serv00.net/Smartv.php?id=cctv1
+CCTV-2, https://phdown.serv00.net/Smartv.php?id=cctv2
+CCTV-3, https://phdown.serv00.net/Smartv.php?id=cctv3
+CCTV-4, https://phdown.serv00.net/Smartv.php?id=cctv4
+CCTV-4, https://phdown.serv00.net/Smartv.php?id=Cctv4
+CCTV-5, https://phdown.serv00.net/Smartv.php?id=cctv5
+CCTV-5+, https://phdown.serv00.net/Smartv.php?id=cctv5plus
+CCTV-6, https://phdown.serv00.net/Smartv.php?id=cctv6
+CCTV-7, https://phdown.serv00.net/Smartv.php?id=cctv7
+CCTV-8, https://phdown.serv00.net/Smartv.php?id=cctv8hd
+CCTV-9, https://phdown.serv00.net/Smartv.php?id=cctv9hd
+CCTV-10, https://phdown.serv00.net/Smartv.php?id=cctv10hd
+CCTV-11, https://phdown.serv00.net/Smartv.php?id=cctv11
+CCTV-12, https://phdown.serv00.net/Smartv.php?id=cctv12
+CCTV-13, https://phdown.serv00.net/Smartv.php?id=cctv13
+CCTV-14, https://phdown.serv00.net/Smartv.php?id=cctv14
+CCTV-15, https://phdown.serv00.net/Smartv.php?id=cctv15
+CCTV-16, https://phdown.serv00.net/Smartv.php?id=cctv16
+CCTV-17, https://phdown.serv00.net/Smartv.php?id=cctv17
+湖南衛視, https://phdown.serv00.net/Smartv.php?id=hunan_twn
+江蘇衛視, https://phdown.serv00.net/Smartv.php?id=jiangsu_twn
+深圳衛視, https://phdown.serv00.net/Smartv.php?id=shenzhen
+大灣區衛視, https://phdown.serv00.net/Smartv.php?id=nanfang_twn
+廣東衛視, https://phdown.serv00.net/Smartv.php?id=guangdongweishi_twn
+北京衛視, https://phdown.serv00.net/Smartv.php?id=beijing
+廣東珠江, https://phdown.serv00.net/Smartv.php?id=zhujiang
+廣西衛視, https://phdown.serv00.net/Smartv.php?id=guangxi
+湖北衛視, https://phdown.serv00.net/Smartv.php?id=hubei
+四川衛視, https://phdown.serv00.net/Smartv.php?id=sichuan_twn
+鳳凰衛視, https://phdown.serv00.net/Smartv.php?id=phoenixtv_hd
+東方衛視, https://phdown.serv00.net/Smartv.php?id=dongfangweishi_twn
+CGTN, https://phdown.serv00.net/Smartv.php?id=CGTN
+鳳凰資訊, https://phdown.serv00.net/Smartv.php?id=phoenixinfo_hd
+體育 Sports,#genre#
+Supersports 1, https://phdown.serv00.net/Smartv.php?id=Assp1
+Supersports 1(備用), https://phdown.serv00.net/Smartv.php?id=go_assp1
+Supersportq 1(備用2), https://phdown.serv00.net/Smartv.php?id=Assp1_mega
+Supersports 2, https://phdown.serv00.net/Smartv.php?id=Assp2
+Supersports 2(備用), https://phdown.serv00.net/Smartv.php?id=go_assp2
+Supersports 3, https://phdown.serv00.net/Smartv.php?id=Assp3
+Supersports 3(備用), https://phdown.serv00.net/Smartv.php?id=go_assp3
+Supersports 3(備用2), https://phdown.serv00.net/Smartv.php?id=Assp3_mega
+Supersports 4, https://phdown.serv00.net/Smartv.php?id=Assp4_mega
+Supersports 4(備用), https://phdown.serv00.net/Smartv.php?id=go_assp4
+Supersports 5, https://phdown.serv00.net/Smartv.php?id=go_assp5
+Bein 2HD, https://phdown.serv00.net/Smartv.php?id=Beinhd
+Beinsports HD, https://phdown.serv00.net/Smartv.php?id=Besports
+Champion 5 EPL, https://phdown.serv00.net/Smartv.php?id=Champion5epl
+WWE, https://phdown.serv00.net/Smartv.php?id=Wwe
+Champion 6 EPL, https://phdown.serv00.net/Smartv.php?id=Champion6epl
+Fight Sports, https://phdown.serv00.net/Smartv.php?id=Fs
+UFC Network, https://phdown.serv00.net/Smartv.php?id=ufc_mega
+NBA TV, https://phdown.serv00.net/Smartv.php?id=nbatv_twn
+Astro Cricket, https://phdown.serv00.net/Smartv.php?id=Acricket_mega
+Astro Golf, https://phdown.serv00.net/Smartv.php?id=Agolf
+TNT Sports 1, https://phdown.serv00.net/Smartv.php?id=beeone
+TNT Sports 2, https://phdown.serv00.net/Smartv.php?id=beetwo
+TNT Sports 3, https://phdown.serv00.net/Smartv.php?id=beethree
+TNT Sports 4, https://phdown.serv00.net/Smartv.php?id=beefour
+Sony Ten 1, https://phdown.serv00.net/Smartv.php?id=ten1_raj
+Sony Ten 2, https://phdown.serv00.net/Smartv.php?id=ten2_raj
+Sony Ten 3, https://phdown.serv00.net/Smartv.php?id=ten3_raj
+SPOTV 1 HD, https://phdown.serv00.net/Smartv.php?id=go_spotv
+SPO TV 2, https://phdown.serv00.net/Smartv.php?id=go_spotv2
+Beinsports 2 HD, https://phdown.serv00.net/Smartv.php?id=Bein2hd
+Skysports Arena, https://phdown.serv00.net/Smartv.php?id=tiankongarena
+Skysports F1, https://phdown.serv00.net/Smartv.php?id=tiankongf1
+Skysports Cricket, https://phdown.serv00.net/Smartv.php?id=tiankongcricket
+Skysports EPL, https://phdown.serv00.net/Smartv.php?id=tiankongepl
+Skysports Football, https://phdown.serv00.net/Smartv.php?id=tiankongfootball
+Skysports Golf, https://phdown.serv00.net/Smartv.php?id=tiankonggolf
+Skysports Main Event, https://phdown.serv00.net/Smartv.php?id=tiankongmain
+Skysports News, https://phdown.serv00.net/Smartv.php?id=tiankongnews
+Skysports NFL, https://phdown.serv00.net/Smartv.php?id=tiankongnfl
+Skysports Racing, https://phdown.serv00.net/Smartv.php?id=tiankongracing
+Skysports Mix, https://phdown.serv00.net/Smartv.php?id=tiankongmix
+CCTV-5, https://phdown.serv00.net/Smartv.php?id=cctv5
+CCTV-5+, https://phdown.serv00.net/Smartv.php?id=cctv5plus
+愛爾達體育2台, https://phdown.serv00.net/Smartv.php?id=eltasport2_twn
+愛爾達體育3台, https://phdown.serv00.net/Smartv.php?id=eltasport3_twn
+RTM Sports HD, https://phdown.serv00.net/Smartv.php?id=Rtmsport
+Arena, https://phdown.serv00.net/Smartv.php?id=Arena
+Arena 2, https://phdown.serv00.net/Smartv.php?id=Arena2
+BolaArena 1, https://phdown.serv00.net/Smartv.php?id=Bolaarena1
+Bein 1 Sports, https://phdown.serv00.net/Smartv.php?id=bein1_mega
+Bein 2 Sports, https://phdown.serv00.net/Smartv.php?id=bein2_mega
+Bein 3 Sports, https://phdown.serv00.net/Smartv.php?id=bein3_mega
+Bein 4 Sports, https://phdown.serv00.net/Smartv.php?id=bein4_mega
+Bein 5 Sports, https://phdown.serv00.net/Smartv.php?id=bein5_mega
+Bein 6 Sports, https://phdown.serv00.net/Smartv.php?id=bein6_mega
+Bein 7 Sports, https://phdown.serv00.net/Smartv.php?id=bein7_mega
+Rugby Pass TV, https://phdown.serv00.net/Smartv.php?id=Rugbypasstv
+BolaArena 2, https://phdown.serv00.net/Smartv.php?id=Bolaarena2
+印度 Indian,#genre#
+Sun TV HD, https://phdown.serv00.net/Smartv.php?id=Suntv
+Star Vijay, https://phdown.serv00.net/Smartv.php?id=Starvijay
+Colors Tamil, https://phdown.serv00.net/Smartv.php?id=Colorstam_mega
+Sun Music, https://phdown.serv00.net/Smartv.php?id=Sunmusic
+Astro Sunlife, https://phdown.serv00.net/Smartv.php?id=Sunlife
+Astro Vaanavil, https://phdown.serv00.net/Smartv.php?id=Vaanavil
+Zee Tamil, https://phdown.serv00.net/Smartv.php?id=Zeetamil
+Zee Business, https://phdown.serv00.net/Smartv.php?id=Zeebusiness
+News 18 Tamil, https://phdown.serv00.net/Smartv.php?id=news18tamil_raj
+Adithya, https://phdown.serv00.net/Smartv.php?id=Adithya
+Makkal TV, https://phdown.serv00.net/Smartv.php?id=Makkaltv
+Zee Action, https://phdown.serv00.net/Smartv.php?id=Zeeaction
+Astro KTV, https://phdown.serv00.net/Smartv.php?id=Astroktv
+Zee TV HD, https://phdown.serv00.net/Smartv.php?id=Zeetvhd
+Zee Cinema HD, https://phdown.serv00.net/Smartv.php?id=Zeecinemahd
+Color HD, https://phdown.serv00.net/Smartv.php?id=Colorhd
+Starplus HD, https://phdown.serv00.net/Smartv.php?id=Starplushd
+Picture HD, https://phdown.serv00.net/Smartv.php?id=Npicture
+Zee News, https://phdown.serv00.net/Smartv.php?id=Zeenews
+Asianet, https://phdown.serv00.net/Smartv.php?id=asianet_raj
+Asianet News, https://phdown.serv00.net/Smartv.php?id=asianetnews_raj
+Times Now, https://phdown.serv00.net/Smartv.php?id=timesnow_mega
+BBC Earth Tamil, https://phdown.serv00.net/Smartv.php?id=bbcearthtam_raj
+Discovery World Tamil, https://phdown.serv00.net/Smartv.php?id=discoveryworldtam_raj
+History Tamil, https://phdown.serv00.net/Smartv.php?id=historytam_raj
+NatGeo Tamil, https://phdown.serv00.net/Smartv.php?id=natgeotamil_raj
+Natgeo Wild Tamil, https://phdown.serv00.net/Smartv.php?id=natgeowildtamil_raj
+Discovery Kids Tamil, https://phdown.serv00.net/Smartv.php?id=discoverykidtamil_raj
+Discovery Tamil, https://phdown.serv00.net/Smartv.php?id=discoverytamil_raj
+Sony Yay Tamil, https://phdown.serv00.net/Smartv.php?id=sonyyaytam_raj
+Sun TV India, https://phdown.serv00.net/Smartv.php?id=suntv_raj
+Starmaa HD, https://phdown.serv00.net/Smartv.php?id=starmaa_raj
+Starmaa Movies HD, https://phdown.serv00.net/Smartv.php?id=starmaamovies_raj
+Bollyone, https://phdown.serv00.net/Smartv.php?id=Bollyone
+Astro Sunmusic, https://phdown.serv00.net/Smartv.php?id=Sunmusic
+Sony Pix HD, https://phdown.serv00.net/Smartv.php?id=sonypix_mega
+Vijay Super, https://phdown.serv00.net/Smartv.php?id=vijaysuper_raj
+電影 Movie,#genre#
+AXN, https://phdown.serv00.net/Smartv.php?id=axn_twn
+Animax, https://phdown.serv00.net/Smartv.php?id=Animax
+Astrol Kplus, https://phdown.serv00.net/Smartv.php?id=Kplus
+Axn HD, https://phdown.serv00.net/Smartv.php?id=Axn
+CCTV-6, https://phdown.serv00.net/Smartv.php?id=cctv6
+CINEMAX, https://phdown.serv00.net/Smartv.php?id=cinemax_twn
+Celestial Classic, https://phdown.serv00.net/Smartv.php?id=Celestial2
+Celestial Movies HD, https://phdown.serv00.net/Smartv.php?id=Celestialindo
+Cinemax, https://phdown.serv00.net/Smartv.php?id=Cinemax
+HBO Family, https://phdown.serv00.net/Smartv.php?id=Hbofamily
+HBO HD, https://phdown.serv00.net/Smartv.php?id=Hbo
+HBO Hits, https://phdown.serv00.net/Smartv.php?id=Hbohits
+HBO Signature, https://phdown.serv00.net/Smartv.php?id=Hbosignature
+HBO_HD, https://phdown.serv00.net/Smartv.php?id=hbohd_twn
+HBO_HITS, https://phdown.serv00.net/Smartv.php?id=hbohits_twn
+Hits Movie, https://phdown.serv00.net/Smartv.php?id=Hitsmovie
+Hits, https://phdown.serv00.net/Smartv.php?id=Hits
+Hollywood Movies, https://phdown.serv00.net/Smartv.php?id=hollywoodmovies_twn
+Movies Now HD, https://phdown.serv00.net/Smartv.php?id=moviesnow_raj
+One, https://phdown.serv00.net/Smartv.php?id=One_mega
+Paramount Network, https://phdown.serv00.net/Smartv.php?id=Paramountnetwork
+Rock Actions, https://phdown.serv00.net/Smartv.php?id=Rockaction
+Rock Entertainment, https://phdown.serv00.net/Smartv.php?id=Rockentertain
+SCM, https://phdown.serv00.net/Smartv.php?id=Weishimovie
+Sony Pix HD, https://phdown.serv00.net/Smartv.php?id=sonypix_mega
+Star Movies HD, https://phdown.serv00.net/Smartv.php?id=starmovies_raj
+Thrill, https://phdown.serv00.net/Smartv.php?id=Thrill
+Warner TV, https://phdown.serv00.net/Smartv.php?id=WarnerTV
+tvN Movie, https://phdown.serv00.net/Smartv.php?id=Tvnmovie
+大愛2台, https://phdown.serv00.net/Smartv.php?id=catchplay_twn
+龍華電影, https://phdown.serv00.net/Smartv.php?id=xingwei_movie
+東森洋片, https://phdown.serv00.net/Smartv.php?id=ettvwestern
+東森電影, https://phdown.serv00.net/Smartv.php?id=ettvmovie
+美亞電影, https://phdown.serv00.net/Smartv.php?id=meiyamovie_twn
+龍華洋片, https://phdown.serv00.net/Smartv.php?id=lunghuawestern_twn
+龍祥时代, https://phdown.serv00.net/Smartv.php?id=lungxiangtime_twn
+紀錄 Documentary,#genre#
+AFC 亞洲旅遊台, https://phdown.serv00.net/Smartv.php?id=asiatravel_twn
+Animal Planet (Eng), https://phdown.serv00.net/Smartv.php?id=AnimalPlanet
+Animal_Planet, https://phdown.serv00.net/Smartv.php?id=animalplanet_twn
+Asia Travel, https://phdown.serv00.net/Smartv.php?id=asiatravel_twn
+BBC Earth HD, https://phdown.serv00.net/Smartv.php?id=bbcearth_twn
+BBC Earth Lifestyle, https://phdown.serv00.net/Smartv.php?id=bbclifestyle_twn
+CI, https://phdown.serv00.net/Smartv.php?id=ci_twn
+Discovery Asia, https://phdown.serv00.net/Smartv.php?id=discoverytwn_twn
+Discovery HD, https://phdown.serv00.net/Smartv.php?id=discoveryhd_twn
+Fashion TV, https://phdown.serv00.net/Smartv.php?id=fashiontv_twn
+Foodnetwork Hd, https://phdown.serv00.net/Smartv.php?id=Foodnetwork_mega
+HGTV, https://phdown.serv00.net/Smartv.php?id=HGTV
+History, https://phdown.serv00.net/Smartv.php?id=History
+MTV Live, https://phdown.serv00.net/Smartv.php?id=mtvhd_twn
+NatGeo HD, https://phdown.serv00.net/Smartv.php?id=Natgeo
+NatGeo Wild HD, https://phdown.serv00.net/Smartv.php?id=Natgeowild
+NatGeo_Wild HD, https://phdown.serv00.net/Smartv.php?id=natgeowild_twn
+Natgeo_HD, https://phdown.serv00.net/Smartv.php?id=natgeohd_twn
+TLC, https://phdown.serv00.net/Smartv.php?id=Tlc
+TLC Asia, https://phdown.serv00.net/Smartv.php?id=tlc_twn
+亞洲美食, https://phdown.serv00.net/Smartv.php?id=afc_twn
+美食星球, https://phdown.serv00.net/Smartv.php?id=foodplanet_twn
+新聞 News,#genre#
+ABC News, https://phdown.serv00.net/Smartv.php?id=abcnews_glo
+Al-Jazeera, https://phdown.serv00.net/Smartv.php?id=aljazeera_twn
+BBC World News, https://phdown.serv00.net/Smartv.php?id=Bbcnews
+BBC World News, https://phdown.serv00.net/Smartv.php?id=bbcnews_twn
+Bloomberg News, https://phdown.serv00.net/Smartv.php?id=bloomberg_twn
+CBS HD, https://phdown.serv00.net/Smartv.php?id=cbshd_glo
+CBSN HD, https://phdown.serv00.net/Smartv.php?id=cbsn_glo
+CGTN, https://phdown.serv00.net/Smartv.php?id=CGTN
+CNA, https://phdown.serv00.net/Smartv.php?id=cna
+CNBC, https://phdown.serv00.net/Smartv.php?id=cnbc_twn
+CNN International, https://phdown.serv00.net/Smartv.php?id=Cnn
+CNN(備用), https://phdown.serv00.net/Smartv.php?id=cnn_twn
+DW (Deutsch), https://phdown.serv00.net/Smartv.php?id=dw_twn
+Fox News, https://phdown.serv00.net/Smartv.php?id=foxnews_twn
+France 24, https://phdown.serv00.net/Smartv.php?id=france24_twn
+NHK World, https://phdown.serv00.net/Smartv.php?id=nhkworld_japan
+Skynews, https://phdown.serv00.net/Smartv.php?id=skynews_antik
+東森財經新聞, https://phdown.serv00.net/Smartv.php?id=ettvcaijing_twn
+兒童 Kids,#genre#
+Animax, https://phdown.serv00.net/Smartv.php?id=Animax
+Baby TV Eng, https://phdown.serv00.net/Smartv.php?id=Babytv
+Baby TV, https://phdown.serv00.net/Smartv.php?id=babytv_twn
+Boomerang Taiwan, https://phdown.serv00.net/Smartv.php?id=boomerang_twn
+Boomerang, https://phdown.serv00.net/Smartv.php?id=Boomerang
+CBeebies, https://phdown.serv00.net/Smartv.php?id=Cbeebies
+Cartoon Network, https://phdown.serv00.net/Smartv.php?id=Cn
+Disney Taiwan, https://phdown.serv00.net/Smartv.php?id=disneytwn_twn
+Kids TV, https://phdown.serv00.net/Smartv.php?id=KidsTV
+MiaoMi, https://phdown.serv00.net/Smartv.php?id=MiaoMi
+Momo TV, https://phdown.serv00.net/Smartv.php?id=momo1_twn
+Nick Jr, https://phdown.serv00.net/Smartv.php?id=Nickjr
+Nickelodeon, https://phdown.serv00.net/Smartv.php?id=Nickelodeon
+東森幼幼 Yoyo TV, https://phdown.serv00.net/Smartv.php?id=yoyo_twn
+靖天卡通台, https://phdown.serv00.net/Smartv.php?id=jingtiancartoon_twn
+泰國 Thailand,#genre#
+Amarin, https://phdown.serv00.net/Smartv.php?id=amarin_pat
+Ch 8, https://phdown.serv00.net/Smartv.php?id=ch8_pat
+Channel 3 Thailand, https://phdown.serv00.net/Smartv.php?id=ch3_pat
+Channel 5 Thailand, https://phdown.serv00.net/Smartv.php?id=ch5_pat
+Channel 7 Thailand, https://phdown.serv00.net/Smartv.php?id=ch7_pat
+Gmm Channel, https://phdown.serv00.net/Smartv.php?id=gmmchannel_pat
+GmmOne, https://phdown.serv00.net/Smartv.php?id=gmmone_pat
+MCOT HD Thailand-1, https://phdown.serv00.net/Smartv.php?id=mcot_pat
+Mono, https://phdown.serv00.net/Smartv.php?id=mono_pat
+Nation, https://phdown.serv00.net/Smartv.php?id=nation_pat
+Nbt, https://phdown.serv00.net/Smartv.php?id=nbt_pat
+New, https://phdown.serv00.net/Smartv.php?id=new_pat
+PPTV Thailand1, https://phdown.serv00.net/Smartv.php?id=pptv_pat
+TPTV, https://phdown.serv00.net/Smartv.php?id=tptv_pat
+Thai Thai, https://phdown.serv00.net/Smartv.php?id=thaithai_pat
+Thairath, https://phdown.serv00.net/Smartv.php?id=thairath_pat
+Tnn24, https://phdown.serv00.net/Smartv.php?id=tnn24_pat
+Workpoint, https://phdown.serv00.net/Smartv.php?id=workpoint_pat
+tpbs, https://phdown.serv00.net/Smartv.php?id=tpbs_pat
+英國 United Kingdom,#genre#
+Al-Jazeera, https://phdown.serv00.net/Smartv.php?id=aljazeera_twn
+Animal Planet (Eng), https://phdown.serv00.net/Smartv.php?id=AnimalPlanet
+Axn HD, https://phdown.serv00.net/Smartv.php?id=Axn
+BBC 1, https://phdown.serv00.net/Smartv.php?id=bbc1_antik
+BBC 2, https://phdown.serv00.net/Smartv.php?id=bbc2_antik
+BBC Earth HD, https://phdown.serv00.net/Smartv.php?id=bbcearth_twn
+BBC Earth Lifestyle, https://phdown.serv00.net/Smartv.php?id=bbclifestyle_twn
+BBC World News, https://phdown.serv00.net/Smartv.php?id=bbcworldnews_antik
+Bloomberg News, https://phdown.serv00.net/Smartv.php?id=bloomberg_twn
+Boomerang, https://phdown.serv00.net/Smartv.php?id=Boomerang
+CBBC, https://phdown.serv00.net/Smartv.php?id=cbbc_antik
+CBeebies, https://phdown.serv00.net/Smartv.php?id=Cbeebies
+CGTN, https://phdown.serv00.net/Smartv.php?id=CGTN
+CNBC, https://phdown.serv00.net/Smartv.php?id=cnbc_twn
+Channel 4, https://phdown.serv00.net/Smartv.php?id=channel4_antik
+DW (Deutsch), https://phdown.serv00.net/Smartv.php?id=dw_twn
+Euronews, https://phdown.serv00.net/Smartv.php?id=euronews_antik
+France 24, https://phdown.serv00.net/Smartv.php?id=france24_twn
+Freesports, https://phdown.serv00.net/Smartv.php?id=freesports_antik
+HBO HD, https://phdown.serv00.net/Smartv.php?id=Hbo
+HGTV, https://phdown.serv00.net/Smartv.php?id=HGTV
+History, https://phdown.serv00.net/Smartv.php?id=History
+Hits Movie, https://phdown.serv00.net/Smartv.php?id=Hitsmovie
+Kids TV, https://phdown.serv00.net/Smartv.php?id=KidsTV
+MTV Live, https://phdown.serv00.net/Smartv.php?id=mtvhd_twn
+More4, https://phdown.serv00.net/Smartv.php?id=more4_antik
+NHK World, https://phdown.serv00.net/Smartv.php?id=nhkworld_japan
+NatGeo HD, https://phdown.serv00.net/Smartv.php?id=Natgeo
+NatGeo Wild HD, https://phdown.serv00.net/Smartv.php?id=Natgeowild
+Nick Jr, https://phdown.serv00.net/Smartv.php?id=Nickjr
+Nickelodeon, https://phdown.serv00.net/Smartv.php?id=Nickelodeon
+Pick TV, https://phdown.serv00.net/Smartv.php?id=picktv_antik
+Skynews, https://phdown.serv00.net/Smartv.php?id=skynews_antik
+Skysports Arena, https://phdown.serv00.net/Smartv.php?id=tiankongarena
+Skysports Cricket, https://phdown.serv00.net/Smartv.php?id=tiankongcricket
+Skysports EPL, https://phdown.serv00.net/Smartv.php?id=tiankongepl
+Skysports F1, https://phdown.serv00.net/Smartv.php?id=tiankongf1
+Skysports Football, https://phdown.serv00.net/Smartv.php?id=tiankongfootball
+Skysports Golf, https://phdown.serv00.net/Smartv.php?id=tiankonggolf
+Skysports Main Event, https://phdown.serv00.net/Smartv.php?id=tiankongmain
+Skysports News, https://phdown.serv00.net/Smartv.php?id=tiankongnews
+Star Movies HD, https://phdown.serv00.net/Smartv.php?id=starmovies_raj
+TLC, https://phdown.serv00.net/Smartv.php?id=Tlc
+Thrill, https://phdown.serv00.net/Smartv.php?id=Thrill
+Warner TV, https://phdown.serv00.net/Smartv.php?id=WarnerTV
+itv 1, https://phdown.serv00.net/Smartv.php?id=itv1_antik
+itv 2, https://phdown.serv00.net/Smartv.php?id=itv2_antik
+越南 Vietnam,#genre#
+ANTV, https://phdown.serv00.net/Smartv.php?id=viet_antv
+BPTV 2, https://phdown.serv00.net/Smartv.php?id=viet_bptv2
+BRT HD, https://phdown.serv00.net/Smartv.php?id=viet_brt
+Ca Mau TV, https://phdown.serv00.net/Smartv.php?id=viet_camautv
+Danang TV1 HD, https://phdown.serv00.net/Smartv.php?id=viet_danangtv1
+Danang TV2 HD, https://phdown.serv00.net/Smartv.php?id=viet_danangtv2
+HBTV HD, https://phdown.serv00.net/Smartv.php?id=viet_hbtv
+HTV 7, https://phdown.serv00.net/Smartv.php?id=viet_htv7
+HTV 9, https://phdown.serv00.net/Smartv.php?id=viet_htv9
+PTTH 1, https://phdown.serv00.net/Smartv.php?id=viet_ptth1
+VTV 1, https://phdown.serv00.net/Smartv.php?id=viet_vtv1
+VTV 7, https://phdown.serv00.net/Smartv.php?id=viet_vtv7
+韓國 Korea,#genre#
+All the Kpop, https://phdown.serv00.net/Smartv.php?id=allthekpop_korea
+Apps TV, https://phdown.serv00.net/Smartv.php?id=appongoogle_korea
+Arirang HD, https://phdown.serv00.net/Smartv.php?id=arirang_korea
+CBS, https://phdown.serv00.net/Smartv.php?id=cbs_korea
+CGNTV, https://phdown.serv00.net/Smartv.php?id=cgntv_korea
+EBS 1, https://phdown.serv00.net/Smartv.php?id=ebs1_korea
+EBS Kids, https://phdown.serv00.net/Smartv.php?id=ebskids_korea
+EBS Plus2, https://phdown.serv00.net/Smartv.php?id=ebsplus2_korea
+EBS2, https://phdown.serv00.net/Smartv.php?id=ebs2_korea
+J the Kpop, https://phdown.serv00.net/Smartv.php?id=jthekpop_korea
+KBS World 24, https://phdown.serv00.net/Smartv.php?id=kbsworld24_korea
+SBS Plus, https://phdown.serv00.net/Smartv.php?id=sbsplus_korea
+YTN DMB, https://phdown.serv00.net/Smartv.php?id=ytndmb_korea
+YTN Korean, https://phdown.serv00.net/Smartv.php?id=ytnkorean_korea
+YTN Science, https://phdown.serv00.net/Smartv.php?id=ytnscience_korea
+YTN, https://phdown.serv00.net/Smartv.php?id=ytn_korea
+Yonhap News, https://phdown.serv00.net/Smartv.php?id=yonhapnews_korea
+日本 Japan,#genre#
+BS-TBS, https://phdown.serv00.net/Smartv.php?id=bstbs_japan
+BSジャパン 181, https://phdown.serv00.net/Smartv.php?id=bs181_japan
+BSフジ BS Fuji, https://phdown.serv00.net/Smartv.php?id=bsfuji_japan
+CNA Japan, https://phdown.serv00.net/Smartv.php?id=cna_japan
+JET 綜合, https://phdown.serv00.net/Smartv.php?id=jettv_japan
+NHK Oaska, https://phdown.serv00.net/Smartv.php?id=nhkosaka_japan
+NHK World, https://phdown.serv00.net/Smartv.php?id=nhkworld_japan
+NHK-E, https://phdown.serv00.net/Smartv.php?id=nhke_japan
+NHK-総合-2, https://phdown.serv00.net/Smartv.php?id=nhkg_japan
+NHKBS1, https://phdown.serv00.net/Smartv.php?id=nhkbs1_japan
+NHKBSプレミア Premium, https://phdown.serv00.net/Smartv.php?id=nhkpremium_japan
+TOKYOMX, https://phdown.serv00.net/Smartv.php?id=tokyomx_japan
+テレビ朝日 Asahi TV, https://phdown.serv00.net/Smartv.php?id=asahitv_japan
+テレビ東京 Tokyo TV, https://phdown.serv00.net/Smartv.php?id=tokyotv_japan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+js=https://files.catbox.moe/4dqdzg.js
+臺灣 Taiwan,#genre#
+AXN, http://?id=axn_twn
+CINEMAX, http://?id=cinemax_twn
+EYE戲劇, http://?id=eyetvxiju_twn
+EYE旅遊, http://?id=eyetvtravel_twn
+HBO, http://?id=hbohd_twn
+HBO Family, http://?id=fyi_twn
+好萊塢電影台, http://?id=hollywoodmovies_twn
+MTV Live, http://?id=mtvhd_twn
+TLC旅遊生活, http://?id=tlc_twn
+東森新聞, http://?id=ettvnews
+TVBS HD, http://?id=tvbs
+TVBS新聞台, http://?id=tvbs_n
+TVBS歡樂台, http://?id=tvbshuanle_twn
+三立台灣台, http://?id=sanlitaiwan
+三立戲劇台, http://?id=sanlixiju_twn
+三立綜合台, http://?id=sanlizhonghe
+中天亞洲台, http://?id=ctiasia_twn
+中天娱樂, http://?id=ctient
+中天新聞HD, http://?id=ctinews
+中天綜合, http://?id=ctizhonghe
+亞洲旅遊台, http://?id=asiatravel_twn
+亞洲美食, http://?id=afc_twn
+八大戲劇, http://?id=badadrama
+八大第一, http://?id=badafirst
+八大綜合, http://?id=badazhonghe
+公視, http://?id=ctv_taiwan
+民視, http://?id=ftvhd_taiwan
+民視第一台, http://?id=lunghuajingdian_twn
+民視台灣台, http://?id=ftvtaiwan_twn
+民視新聞台, http://?id=ftvnew_taiwan
+台視, http://?id=ttv_taiwan
+台視新聞台, http://?id=ttvnews_twn
+中視, http://?id=zhongshihd_twn
+中視新聞台, http://?id=zhongshinews_twn
+中視經典, http://?id=zhongshi_twn
+華視, http://?id=ctshd_twn
+華藝綜合, http://?id=weishichinese_twn
+大愛一台, http://?id=daai_twn
+寰宇新聞台, http://?id=huanyuxinwen_twn
+寰宇財經台, http://?id=huanyutaiwan_twn
+年代新聞台, http://?id=niandainews_twn
+愛爾達影劇, http://?id=eltayingju_twn
+愛爾達體育 1, http://?id=eltasport_twn
+愛爾達體育 2, http://?id=eltasport2_twn
+愛爾達體育 3, http://?id=eltasport3_twn
+ELEVEN 1, http://?id=golfchannel_twn
+博斯網球, http://?id=bositennis_twn
+博斯運動1, http://?id=bosisport1_twn
+博斯運動2, http://?id=bosisport2_twn
+博斯高球1, http://?id=bosigolf1_twn
+博斯高球2, http://?id=bosigolf2_twn
+探索亞洲, http://?id=discoverytwn_twn
+探索動力, http://?id=discoveryturbo_twn
+國家地理, http://?id=natgeohd_twn
+野生動物, http://?id=natgeowild_twn
+動物星球, http://?id=animalplanet_twn
+時尚, http://?id=fashiontv_twn
+Discovery Asia, http://?id=discoverytwn_twn
+Discovery HD, http://?id=discoveryhd_twn
+東森戲劇, http://?id=ettvdrama
+東森洋片, http://?id=ettvwestern
+東森綜合, http://?id=ettvzhonghe
+東森財經新聞, http://?id=ettvcaijing_twn
+東森電影, http://?id=ettvmovie
+緯來日本台, http://?id=videolandjapan
+緯來體育台, http://?id=videolandsport
+美亞電影, http://?id=meiyamovie_twn
+BBC World News, http://?id=bbcnews_twn
+Bloomberg News, http://?id=bloomberg_twn
+Fox News, http://?id=foxnews_twn
+阿里郎, http://?id=arirang_twn
+CN卡通, http://?id=momo1_twn
+靖天卡通台, http://?id=jingtiancartoon_twn
+靖天國際台, http://?id=jingtianintl_twn
+非凡新聞台, http://?id=feifannews_twn
+龍祥時代, http://?id=lungxiangtime_twn
+龍華偶像, http://?id=lunghuaidol_twn
+龍華戲劇, http://?id=lunghuaxiju_twn
+龍華洋片, http://?id=lunghuawestern_twn
+龍華經典, http://?id=lunghuajingdian_twn
+龍華電影, http://?id=xingwei_movie
+馬來西亞 Malaysia,#genre#
+TV1, http://?id=TV1
+TV1(備用), http://?id=TV1_backup
+TV2, http://?id=TV2
+TV3, http://?id=TV3
+TV3(備用), http://?id=tv3_twn
+NTV7, http://?id=NTV7
+TV8, http://?id=TV8
+TV9, http://?id=TV9
+Warna, http://?id=Warna-O
+Warna(備用), http://?id=Warna
+Ria, http://?id=Ria-0
+Ria(備用), http://?id=Ria49
+Ria-3, http://?id=Ria_quanjia
+Al-Hijrah, http://?id=Alhijrah
+Al-Hijrah(備用), http://?id=Alhijrah_backup
+Awani, http://?id=Awani
+Bernama, http://?id=Bernama
+Prima, http://?id=Prima-0
+Prima(備用), http://?id=Prima49
+Ceria, http://?id=Ceria
+Astro MTV, http://?id=AstroMTV
+Mecca Live HD, http://?id=quran_mido
+Madinah HD, http://?id=sunnah_mido
+Oasis, http://?id=Oasis
+HBO HD, http://?id=Hbo
+HBO Signature, http://?id=Hbosignature
+HBO Hits, http://?id=Hbohits
+NatGeo Wild HD, http://?id=Natgeowild
+Cartoon Network, http://?id=Cn
+Nickelodeon, http://?id=Nickelodeon
+Nick Jr, http://?id=Nickjr
+Citra, http://?id=Citra
+Sensasi, http://?id=Sensasi
+Aura, http://?id=Aura
+Rania, http://?id=Rania
+Boo, http://?id=Boo
+Awesome TV, http://?id=Awesome_mega
+Sony HD, http://?id=SetOne
+KBS World, http://?id=KBS
+TvN, http://?id=TVN
+Astro Premier, http://?id=Astropremier
+AEC, http://?id=AEC
+華麗台 HD, http://?id=Wlt
+歡喜台 HD, http://?id=Huahee
+歡喜台(備用), http://?id=Huahee_backup
+Astro QJ, http://?id=Quanjia
+TVB Jade, http://?id=Tvbjade
+TVBS Asia, http://?id=Tvbasia
+TVB Entertainment, http://?id=Tvbentertainment
+TVB Classic, http://?id=Tvbclassic
+AOD, http://?id=AodHD
+One, http://?id=One_mega
+TVB 星河台, http://?id=Xinhe
+愛奇藝, http://?id=Qiyi
+Animal Planet (Eng), http://?id=AnimalPlanet
+tvN Movie, http://?id=Tvnmovie
+CNN(備用), http://?id=cnn_twn
+Celestial Classic, http://?id=Celestial2
+CNBC, http://?id=cnbc_twn
+RTM Sports HD, http://?id=Rtmsport
+TLC, http://?id=Tlc
+CNA, http://?id=cna
+AFC 亞洲旅遊台, http://?id=asiatravel_twn
+BBC World News, http://?id=bbcnews_twn
+Foodnetwork Hd, http://?id=Foodnetwork_mega
+HGTV, http://?id=HGTV
+Arena, http://?id=Arena
+Goshop, http://?id=Goshop
+Celestial Movies HD, http://?id=Celestial_mega
+Arena 2, http://?id=Arena2
+Axn HD, http://?id=Axn
+Paramount Network, http://?id=Paramountnetwork
+BolaArena 1, http://?id=Bolaarena1
+Astrol Kplus, http://?id=Kplus
+Rock Actions, http://?id=Rockaction
+Bloomberg News, http://?id=bloomberg_twn
+Al-Jazeera, http://?id=aljazeera_twn
+Rock Entertainment, http://?id=Rockentertain
+Showcase, http://?id=Showcase_mega
+BolaArena 2, http://?id=Bolaarena2
+新加坡 Singapore,#genre#
+Channel 5, http://?id=Channel5HD
+Channel 5(備用), http://?id=Ch5_mega
+Channel 8, http://?id=Channel8HD
+Channel 8(備用), http://?id=Ch8_mega
+Suria, http://?id=Suria
+Suria(備用), http://?id=Suria_backup
+Channel U, http://?id=ChannelU
+Channel U(備用), http://?id=ChU_mega
+Vasantham, http://?id=Vasantham
+Vasantham(備用), http://?id=Vasantham_mega
+CNA, http://?id=cna
+CNA(備用), http://?id=cna_twn
+印尼 Indonesia,#genre#
+TVRI National, http://?id=TVRI
+RCTI, http://?id=Rcti
+Kompass TV, http://?id=Kompass
+Berita Satu, http://?id=BeritaSatu_eko
+Indosiar HD, http://?id=Indosiar
+AnTV, http://?id=Antv
+MNC TV, http://?id=Mnctv
+Trans 7, http://?id=Trans7_eko
+Transtv, http://?id=Transtv
+JTV, http://?id=JTV_eko
+Metro TV, http://?id=metrotv_eko
+Cinemax, http://?id=Cinemax
+SCTV, http://?id=SCTV
+Tvone, http://?id=Tvone
+TVMU, http://?id=TVMU_eko
+GTV, http://?id=Gtv
+RTV, http://?id=Rtv
+Jak TV, http://?id=JakTV
+iNews TV, http://?id=Inewstv
+Daai TV, http://?id=DaaiTV
+Net TV, http://?id=NetTV
+Animax, http://?id=Animax
+EWTN, http://?id=Ewtn
+AlQuran AlKareem, http://?id=AlQuran
+Tawaf TV, http://?id=TawafTV
+Vision Prime, http://?id=VisionPrime
+Muslim TV, http://?id=MuslimTV
+Music TV, http://?id=MusicTV
+Lifestyle&Fashion, http://?id=Lifestyle
+Entertain, http://?id=Entertain
+Hits, http://?id=Hits
+Warner TV, http://?id=WarnerTV
+SCM, http://?id=Weishimovie
+Thrill, http://?id=Thrill
+Fight Sports, http://?id=Fs
+Beinsports 2 HD, http://?id=Bein2hd
+Hits Movie, http://?id=Hitsmovie
+One, http://?id=One_mega
+tvN Movie, http://?id=Tvnmovie
+Celestial Movies HD, http://?id=Celestialindo
+Rock Actions, http://?id=Rockaction
+Rock Entertainment, http://?id=Rockentertain
+香港 Hongkong,#genre#
+J2(備用), http://?id=j2_hkdavid
+J2, http://?id=j2_twn
+RHK 31, http://?id=rhk31_twn
+RHK 32, http://?id=rhk32_twn
+TVB 星河, http://?id=tvbxinhe_twn
+VIUTV1, http://?id=viu1_twn
+Viu TV 69, http://?id=viutv69_hkdavid
+Viu6, http://?id=viusix_twn
+iNews 新聞台, http://?id=inews_twn
+無線財經資訊台, http://?id=tvbcaijing_twn
+珍珠台(備用), http://?id=pearl_hkdavid
+珍珠台, http://?id=pearl_twn
+翡翠台(備用), http://?id=jade_mike
+翡翠台, http://?id=jade_twn
+鳳凰衛視, http://?id=phoenixtv_hd
+鳳凰資訊, http://?id=phoenixinfo_hd
+鳳凰香港, http://?id=hkphoenix_twn
+中國 China,#genre#
+CCTV-1, http://?id=cctv1
+CCTV-2, http://?id=cctv2
+CCTV-3, http://?id=cctv3
+CCTV-4, http://?id=cctv4
+CCTV-4, http://?id=Cctv4
+CCTV-5, http://?id=cctv5
+CCTV-5+, http://?id=cctv5plus
+CCTV-6, http://?id=cctv6
+CCTV-7, http://?id=cctv7
+CCTV-8, http://?id=cctv8hd
+CCTV-9, http://?id=cctv9hd
+CCTV-10, http://?id=cctv10hd
+CCTV-11, http://?id=cctv11
+CCTV-12, http://?id=cctv12
+CCTV-13, http://?id=cctv13
+CCTV-14, http://?id=cctv14
+CCTV-15, http://?id=cctv15
+CCTV-16, http://?id=cctv16
+CCTV-17, http://?id=cctv17
+湖南衛視, http://?id=hunan_twn
+江蘇衛視, http://?id=jiangsu_twn
+深圳衛視, http://?id=shenzhen
+大灣區衛視, http://?id=nanfang_twn
+廣東衛視, http://?id=guangdongweishi_twn
+北京衛視, http://?id=beijing
+廣東珠江, http://?id=zhujiang
+廣西衛視, http://?id=guangxi
+湖北衛視, http://?id=hubei
+四川衛視, http://?id=sichuan_twn
+鳳凰衛視, http://?id=phoenixtv_hd
+東方衛視, http://?id=dongfangweishi_twn
+CGTN, http://?id=CGTN
+鳳凰資訊, http://?id=phoenixinfo_hd
+體育 Sports,#genre#
+Supersports 1, http://?id=Assp1
+Supersports 1(備用), http://?id=go_assp1
+Supersportq 1(備用2), http://?id=Assp1_mega
+Supersports 2, http://?id=Assp2
+Supersports 2(備用), http://?id=go_assp2
+Supersports 3, http://?id=Assp3
+Supersports 3(備用), http://?id=go_assp3
+Supersports 3(備用2), http://?id=Assp3_mega
+Supersports 4, http://?id=Assp4_mega
+Supersports 4(備用), http://?id=go_assp4
+Supersports 5, http://?id=go_assp5
+Bein 2HD, http://?id=Beinhd
+Beinsports HD, http://?id=Besports
+Champion 5 EPL, http://?id=Champion5epl
+WWE, http://?id=Wwe
+Champion 6 EPL, http://?id=Champion6epl
+Fight Sports, http://?id=Fs
+UFC Network, http://?id=ufc_mega
+NBA TV, http://?id=nbatv_twn
+Astro Cricket, http://?id=Acricket_mega
+Astro Golf, http://?id=Agolf
+TNT Sports 1, http://?id=beeone
+TNT Sports 2, http://?id=beetwo
+TNT Sports 3, http://?id=beethree
+TNT Sports 4, http://?id=beefour
+Sony Ten 1, http://?id=ten1_raj
+Sony Ten 2, http://?id=ten2_raj
+Sony Ten 3, http://?id=ten3_raj
+SPOTV 1 HD, http://?id=go_spotv
+SPO TV 2, http://?id=go_spotv2
+Beinsports 2 HD, http://?id=Bein2hd
+Skysports Arena, http://?id=tiankongarena
+Skysports F1, http://?id=tiankongf1
+Skysports Cricket, http://?id=tiankongcricket
+Skysports EPL, http://?id=tiankongepl
+Skysports Football, http://?id=tiankongfootball
+Skysports Golf, http://?id=tiankonggolf
+Skysports Main Event, http://?id=tiankongmain
+Skysports News, http://?id=tiankongnews
+Skysports NFL, http://?id=tiankongnfl
+Skysports Racing, http://?id=tiankongracing
+Skysports Mix, http://?id=tiankongmix
+CCTV-5, http://?id=cctv5
+CCTV-5+, http://?id=cctv5plus
+愛爾達體育2台, http://?id=eltasport2_twn
+愛爾達體育3台, http://?id=eltasport3_twn
+RTM Sports HD, http://?id=Rtmsport
+Arena, http://?id=Arena
+Arena 2, http://?id=Arena2
+BolaArena 1, http://?id=Bolaarena1
+Bein 1 Sports, http://?id=bein1_mega
+Bein 2 Sports, http://?id=bein2_mega
+Bein 3 Sports, http://?id=bein3_mega
+Bein 4 Sports, http://?id=bein4_mega
+Bein 5 Sports, http://?id=bein5_mega
+Bein 6 Sports, http://?id=bein6_mega
+Bein 7 Sports, http://?id=bein7_mega
+Rugby Pass TV, http://?id=Rugbypasstv
+BolaArena 2, http://?id=Bolaarena2
+印度 Indian,#genre#
+Sun TV HD, http://?id=Suntv
+Star Vijay, http://?id=Starvijay
+Colors Tamil, http://?id=Colorstam_mega
+Sun Music, http://?id=Sunmusic
+Astro Sunlife, http://?id=Sunlife
+Astro Vaanavil, http://?id=Vaanavil
+Zee Tamil, http://?id=Zeetamil
+Zee Business, http://?id=Zeebusiness
+News 18 Tamil, http://?id=news18tamil_raj
+Adithya, http://?id=Adithya
+Makkal TV, http://?id=Makkaltv
+Zee Action, http://?id=Zeeaction
+Astro KTV, http://?id=Astroktv
+Zee TV HD, http://?id=Zeetvhd
+Zee Cinema HD, http://?id=Zeecinemahd
+Color HD, http://?id=Colorhd
+Starplus HD, http://?id=Starplushd
+Picture HD, http://?id=Npicture
+Zee News, http://?id=Zeenews
+Asianet, http://?id=asianet_raj
+Asianet News, http://?id=asianetnews_raj
+Times Now, http://?id=timesnow_mega
+BBC Earth Tamil, http://?id=bbcearthtam_raj
+Discovery World Tamil, http://?id=discoveryworldtam_raj
+History Tamil, http://?id=historytam_raj
+NatGeo Tamil, http://?id=natgeotamil_raj
+Natgeo Wild Tamil, http://?id=natgeowildtamil_raj
+Discovery Kids Tamil, http://?id=discoverykidtamil_raj
+Discovery Tamil, http://?id=discoverytamil_raj
+Sony Yay Tamil, http://?id=sonyyaytam_raj
+Sun TV India, http://?id=suntv_raj
+Starmaa HD, http://?id=starmaa_raj
+Starmaa Movies HD, http://?id=starmaamovies_raj
+Bollyone, http://?id=Bollyone
+Astro Sunmusic, http://?id=Sunmusic
+Sony Pix HD, http://?id=sonypix_mega
+Vijay Super, http://?id=vijaysuper_raj
+電影 Movie,#genre#
+AXN, http://?id=axn_twn
+Animax, http://?id=Animax
+Astrol Kplus, http://?id=Kplus
+Axn HD, http://?id=Axn
+CCTV-6, http://?id=cctv6
+CINEMAX, http://?id=cinemax_twn
+Celestial Classic, http://?id=Celestial2
+Celestial Movies HD, http://?id=Celestialindo
+Cinemax, http://?id=Cinemax
+HBO Family, http://?id=Hbofamily
+HBO HD, http://?id=Hbo
+HBO Hits, http://?id=Hbohits
+HBO Signature, http://?id=Hbosignature
+HBO_HD, http://?id=hbohd_twn
+HBO_HITS, http://?id=hbohits_twn
+Hits Movie, http://?id=Hitsmovie
+Hits, http://?id=Hits
+Hollywood Movies, http://?id=hollywoodmovies_twn
+Movies Now HD, http://?id=moviesnow_raj
+One, http://?id=One_mega
+Paramount Network, http://?id=Paramountnetwork
+Rock Actions, http://?id=Rockaction
+Rock Entertainment, http://?id=Rockentertain
+SCM, http://?id=Weishimovie
+Sony Pix HD, http://?id=sonypix_mega
+Star Movies HD, http://?id=starmovies_raj
+Thrill, http://?id=Thrill
+Warner TV, http://?id=WarnerTV
+tvN Movie, http://?id=Tvnmovie
+大愛2台, http://?id=catchplay_twn
+龍華電影, http://?id=xingwei_movie
+東森洋片, http://?id=ettvwestern
+東森電影, http://?id=ettvmovie
+美亞電影, http://?id=meiyamovie_twn
+龍華洋片, http://?id=lunghuawestern_twn
+龍祥时代, http://?id=lungxiangtime_twn
+紀錄 Documentary,#genre#
+AFC 亞洲旅遊台, http://?id=asiatravel_twn
+Animal Planet (Eng), http://?id=AnimalPlanet
+Animal_Planet, http://?id=animalplanet_twn
+Asia Travel, http://?id=asiatravel_twn
+BBC Earth HD, http://?id=bbcearth_twn
+BBC Earth Lifestyle, http://?id=bbclifestyle_twn
+CI, http://?id=ci_twn
+Discovery Asia, http://?id=discoverytwn_twn
+Discovery HD, http://?id=discoveryhd_twn
+Fashion TV, http://?id=fashiontv_twn
+Foodnetwork Hd, http://?id=Foodnetwork_mega
+HGTV, http://?id=HGTV
+History, http://?id=History
+MTV Live, http://?id=mtvhd_twn
+NatGeo HD, http://?id=Natgeo
+NatGeo Wild HD, http://?id=Natgeowild
+NatGeo_Wild HD, http://?id=natgeowild_twn
+Natgeo_HD, http://?id=natgeohd_twn
+TLC, http://?id=Tlc
+TLC Asia, http://?id=tlc_twn
+亞洲美食, http://?id=afc_twn
+美食星球, http://?id=foodplanet_twn
+新聞 News,#genre#
+ABC News, http://?id=abcnews_glo
+Al-Jazeera, http://?id=aljazeera_twn
+BBC World News, http://?id=Bbcnews
+BBC World News, http://?id=bbcnews_twn
+Bloomberg News, http://?id=bloomberg_twn
+CBS HD, http://?id=cbshd_glo
+CBSN HD, http://?id=cbsn_glo
+CGTN, http://?id=CGTN
+CNA, http://?id=cna
+CNBC, http://?id=cnbc_twn
+CNN International, http://?id=Cnn
+CNN(備用), http://?id=cnn_twn
+DW (Deutsch), http://?id=dw_twn
+Fox News, http://?id=foxnews_twn
+France 24, http://?id=france24_twn
+NHK World, http://?id=nhkworld_japan
+Skynews, http://?id=skynews_antik
+東森財經新聞, http://?id=ettvcaijing_twn
+兒童 Kids,#genre#
+Animax, http://?id=Animax
+Baby TV Eng, http://?id=Babytv
+Baby TV, http://?id=babytv_twn
+Boomerang Taiwan, http://?id=boomerang_twn
+Boomerang, http://?id=Boomerang
+CBeebies, http://?id=Cbeebies
+Cartoon Network, http://?id=Cn
+Disney Taiwan, http://?id=disneytwn_twn
+Kids TV, http://?id=KidsTV
+MiaoMi, http://?id=MiaoMi
+Momo TV, http://?id=momo1_twn
+Nick Jr, http://?id=Nickjr
+Nickelodeon, http://?id=Nickelodeon
+東森幼幼 Yoyo TV, http://?id=yoyo_twn
+靖天卡通台, http://?id=jingtiancartoon_twn
+泰國 Thailand,#genre#
+Amarin, http://?id=amarin_pat
+Ch 8, http://?id=ch8_pat
+Channel 3 Thailand, http://?id=ch3_pat
+Channel 5 Thailand, http://?id=ch5_pat
+Channel 7 Thailand, http://?id=ch7_pat
+Gmm Channel, http://?id=gmmchannel_pat
+GmmOne, http://?id=gmmone_pat
+MCOT HD Thailand-1, http://?id=mcot_pat
+Mono, http://?id=mono_pat
+Nation, http://?id=nation_pat
+Nbt, http://?id=nbt_pat
+New, http://?id=new_pat
+PPTV Thailand1, http://?id=pptv_pat
+TPTV, http://?id=tptv_pat
+Thai Thai, http://?id=thaithai_pat
+Thairath, http://?id=thairath_pat
+Tnn24, http://?id=tnn24_pat
+Workpoint, http://?id=workpoint_pat
+tpbs, http://?id=tpbs_pat
+英國 United Kingdom,#genre#
+Al-Jazeera, http://?id=aljazeera_twn
+Animal Planet (Eng), http://?id=AnimalPlanet
+Axn HD, http://?id=Axn
+BBC 1, http://?id=bbc1_antik
+BBC 2, http://?id=bbc2_antik
+BBC Earth HD, http://?id=bbcearth_twn
+BBC Earth Lifestyle, http://?id=bbclifestyle_twn
+BBC World News, http://?id=bbcworldnews_antik
+Bloomberg News, http://?id=bloomberg_twn
+Boomerang, http://?id=Boomerang
+CBBC, http://?id=cbbc_antik
+CBeebies, http://?id=Cbeebies
+CGTN, http://?id=CGTN
+CNBC, http://?id=cnbc_twn
+Channel 4, http://?id=channel4_antik
+DW (Deutsch), http://?id=dw_twn
+Euronews, http://?id=euronews_antik
+France 24, http://?id=france24_twn
+Freesports, http://?id=freesports_antik
+HBO HD, http://?id=Hbo
+HGTV, http://?id=HGTV
+History, http://?id=History
+Hits Movie, http://?id=Hitsmovie
+Kids TV, http://?id=KidsTV
+MTV Live, http://?id=mtvhd_twn
+More4, http://?id=more4_antik
+NHK World, http://?id=nhkworld_japan
+NatGeo HD, http://?id=Natgeo
+NatGeo Wild HD, http://?id=Natgeowild
+Nick Jr, http://?id=Nickjr
+Nickelodeon, http://?id=Nickelodeon
+Pick TV, http://?id=picktv_antik
+Skynews, http://?id=skynews_antik
+Skysports Arena, http://?id=tiankongarena
+Skysports Cricket, http://?id=tiankongcricket
+Skysports EPL, http://?id=tiankongepl
+Skysports F1, http://?id=tiankongf1
+Skysports Football, http://?id=tiankongfootball
+Skysports Golf, http://?id=tiankonggolf
+Skysports Main Event, http://?id=tiankongmain
+Skysports News, http://?id=tiankongnews
+Star Movies HD, http://?id=starmovies_raj
+TLC, http://?id=Tlc
+Thrill, http://?id=Thrill
+Warner TV, http://?id=WarnerTV
+itv 1, http://?id=itv1_antik
+itv 2, http://?id=itv2_antik
+越南 Vietnam,#genre#
+ANTV, http://?id=viet_antv
+BPTV 2, http://?id=viet_bptv2
+BRT HD, http://?id=viet_brt
+Ca Mau TV, http://?id=viet_camautv
+Danang TV1 HD, http://?id=viet_danangtv1
+Danang TV2 HD, http://?id=viet_danangtv2
+HBTV HD, http://?id=viet_hbtv
+HTV 7, http://?id=viet_htv7
+HTV 9, http://?id=viet_htv9
+PTTH 1, http://?id=viet_ptth1
+VTV 1, http://?id=viet_vtv1
+VTV 7, http://?id=viet_vtv7
+韓國 Korea,#genre#
+All the Kpop, http://?id=allthekpop_korea
+Apps TV, http://?id=appongoogle_korea
+Arirang HD, http://?id=arirang_korea
+CBS, http://?id=cbs_korea
+CGNTV, http://?id=cgntv_korea
+EBS 1, http://?id=ebs1_korea
+EBS Kids, http://?id=ebskids_korea
+EBS Plus2, http://?id=ebsplus2_korea
+EBS2, http://?id=ebs2_korea
+J the Kpop, http://?id=jthekpop_korea
+KBS World 24, http://?id=kbsworld24_korea
+SBS Plus, http://?id=sbsplus_korea
+YTN DMB, http://?id=ytndmb_korea
+YTN Korean, http://?id=ytnkorean_korea
+YTN Science, http://?id=ytnscience_korea
+YTN, http://?id=ytn_korea
+Yonhap News, http://?id=yonhapnews_korea
+日本 Japan,#genre#
+BS-TBS, http://?id=bstbs_japan
+BSジャパン 181, http://?id=bs181_japan
+BSフジ BS Fuji, http://?id=bsfuji_japan
+CNA Japan, http://?id=cna_japan
+JET 綜合, http://?id=jettv_japan
+NHK Oaska, http://?id=nhkosaka_japan
+NHK World, http://?id=nhkworld_japan
+NHK-E, http://?id=nhke_japan
+NHK-総合-2, http://?id=nhkg_japan
+NHKBS1, http://?id=nhkbs1_japan
+NHKBSプレミア Premium, http://?id=nhkpremium_japan
+TOKYOMX, http://?id=tokyomx_japan
+テレビ朝日 Asahi TV, http://?id=asahitv_japan
+テレビ東京 Tokyo TV, http://?id=tokyotv_japan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VIP频道,#genre#
+Dali TV,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+大爱二台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8#https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts$LR•IPV4『线路12』
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+澳门莲花,http://php.jdshipin.com:8880/amlh.php
+澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+台视新闻,http://livetv.skycf.eu.org/live.m3u8?c=4
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+八大戏剧,http://mywlkj.ddns.net:754/tv/tw3.php?id=4
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+三立戏剧,http://mywlkj.ddns.net:754/tv/tw3.php?id=6
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+八大综合,http://mywlkj.ddns.net:754/tv/tw3.php?id=14
+TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS新闻,http://194.87.101.118/live.m3u8?c=5
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+精彩影视,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000063
+好訊息台,https://epg.pw/stream/797529276770285bb5212acd5798702e0db85532c78121a94f600759dec5dabf.m3u8
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+AMC 电影,http://61.221.215.25:8800/hls/43/index.m3u8
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+台视频道,rtmp://220.130.201.73/sat/tv071
+纬来体育,rtmp://220.130.201.73/sat/tv721
+民视频道,rtmp://f13h.mine.nu/sat/tv051
+台视频道,rtmp://f13h.mine.nu/sat/tv071
+AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+中華小當家,http://61.221.215.25:8800/hls/40/index.m3u8
+日本新闻世界,http://61.221.215.25:8800/hls/51/index.m3u8
+点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+TVB无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83
+TVB娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+TVB娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+TVB娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+TVB星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/playlist.m3u8
+TVB无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83
+星河频道,https://epg.pw/stream/180e5ec54c87920bfe91fae3b1febba13c6fe5b44045941a281f1104c992a925.m3u8
+功夫台,https://epg.pw/stream/ae7ae839911a5250ce264da233b3af364f8fd6d37fce0eb36e7131a1adc1aca0.m3u8
+娱乐新闻台,https://epg.pw/stream/b3b65ea63164e1a7818216f985f33ad1f4a1be264a8661e97baf145e231645db.m3u8
+TVB娛樂新聞,https://epg.pw/stream/57737ed82a70288e90bca3ef3b9e7ed3e8b896445947908bd76d4ed3c4ba6c43.m3u8
+TVB星河,https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.m3u8
+TVB星河,https://epg.pw/stream/186dab52eabcdf6b47765bf93dc370a250af463f1759ce68025a20c01a9ba0d8.m3u8
+環球電視臺,https://epg.pw/stream/871627cefa0727603ae38287f349e796402982c186ea32bea812ef9d764c5923.m3u8
+耀才財經臺,https://epg.pw/stream/dd22b2b5f1c65e8294658a1d7732d747d14e6e4e8438f8fd30f90ca318063d3d.m3u8
+耀才財經臺,https://epg.pw/stream/80569330bb5aeb8688d1c55d643ba04008ed5f9313f1f012688a559d1379bb8d.m3u8
+耀才財經臺,https://epg.pw/stream/89eef7f40ece15ce35ecb80e3fd18ebd67bf74d927337c8cc66fdca919d0f83b.m3u8
+TVB星河台https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+TVB星河台,http://113.64.145.195:8081/hls/135/index.m3u8
+TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+TVB星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/playlist.m3u8
+TVB星河台,http://113.64.145.195:8081/hls/135/index.m3u8
+TVB无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83
+香港34台全网,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+港台RTHK33HD,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+港台RTHK34HD,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+TVB星河,http://cdn8.jdshipin.com:8880/smt.php?id=Xinhe
+TVB星河,http://888.iptv543.com/Smartv.php?id=Xinhe
+TVB星河,http://888.iptv543.com/Smartv.php?id=tvbxinhe_twn
+香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+香港34台全网,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+港台RTHK33HD,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+港台RTHK34HD,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+緯來音乐,rtmp://f13h.mine.nu/sat/tv701
+緯來育樂,rtmp://220.130.201.73/sat/tv701
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+未来体育,rtmp://220.130.201.73/sat/tv721
+未来体育,rtmp://f13h.mine.nu/sat/tv721
+未来体育,rtmp://f13h.mine.nu/sat/tv721
+WIN HD綜合,https://epg.pw/stream/beedf009af55b6adf5840ba8defe6a88bb4e1b85c6e31907f4d0c93a4d6f1d16.ctv
+中視,rtmp://f13h.mine.nu/sat/tv091
+八大綜合,https://epg.pw/stream/e7df67a1a8400d4741889391ccc7e8a2b3f623a4f19544ae0863ae2c184bbe2c.m3u8
+東森超視,rtmp://220.130.201.73/sat/tv331
+東森超視,rtmp://f13h.mine.nu/sat/tv331
+華視,rtmp://f13h.mine.nu/sat/tv111
+台視新聞,https://epg.pw/stream/9c01d60667916853d9729b3f653cadc718828c7976a0844bcbeb1f90d6e25212.m3u8
+台視新聞,https://epg.pw/stream/44b15ebca92df287ed0eed88fef12d6bce71b47c12f848691d7c603caeb5f85b.m3u8
+大立電視臺,https://epg.pw/stream/5089e07a3319b33160e486ab9c09540d8ad763339474f9c41ba8062333504b0d.m3u8
+大愛,https://epg.pw/stream/634d66848d8e5fe80d4fb498f3de9e0a841cad38d5e9a12d8e1b4a807a7f5857.m3u8
+大愛2,https://epg.pw/stream/2b383d639b6b2eade22f2d085141a38ae48a98f24b8a06f485e23f7211bbf909.m3u8
+大愛2,https://epg.pw/stream/60efaf070c91949a4c4e52c9d35746ebfb99b5318b43115c15205965c5807948.m3u8
+民视,rtmp://f13h.mine.nu/sat/tv051
+台视,rtmp://f13h.mine.nu/sat/tv071
+东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
+民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+东森新闻美国,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台湾民视,http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+东森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+东森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+半岛新闻台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+东森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+东森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+生命电视台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
+香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+佛陀教育,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+人间卫视,http://dfkj.live/index.m3u8?user=r5p38&channel=taiwanTV&id=3799 
+
+
+
+VIP2频道,#genre#
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+泰国ASTV,http://news1.live14.com/stream/news1_hi.m3u8
+韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+日本新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+俄罗斯频,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+韩国国防,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+日语新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+环球频道,http://live.cgtn.com/500/prog_index.m3u8
+BSテ東京,https://epg.pw/stream/7efb71faf5dbaf3a788c953dce022e0aee5c7ffb73d0d79774e0de39a72ff41d.m3u8
+BSテ東京,https://epg.pw/stream/5a2f7754e3ca2a4166034033ac40a7eaf54aee18c27f42437ceaadfe0556236d.m3u8
+AL Jazeera FHD,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+CGTN记录,https://livedoc.cgtn.com/500d/prog_index.m3u8
+CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
+CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
+CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
+CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
+CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
+CGTN,http://live.cgtn.com/1000/prog_index.m3u8
+韩·EBS-2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+韩·EBS-2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+韩·JobPlusTV,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+韩·EBS-1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+韩·EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+韩·EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+韩·EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+韩·KBSWorld,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+韩·TBS,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
+韩·GSMyShop,https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+韩·KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+韩·SBS,http://1.245.74.5:1935/live/tv/.m3u8
+韩·NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+韩国-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+俄·IGITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+Самара,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+希·FoxTV,http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+越·ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+越·HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+KCTV 광주,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
+KBS World,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+KBS World,https://livecdn.fptplay.net:443/sdb/kbs_hls.smil/playlist.m3u8
+TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+半岛新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+欧洲华文教育,http://hatu-video.oss-cn-hangzhou.aliyuncs.com/live-stream/20111114W.m3u8
+欧洲华文8套,https://livefr.cgtn.com/1000f/prog_index.m3u8
+BBS Buddhist Broadcasting,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+Gongyoung Shopping,https://etv.publichs.com/live5.stream/playlist.m3u8
+GS My Shop,https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+Home & Shopping,http://gg.gg/Ha_Noi_IPTV_78-Home_and_Shopping_HD
+Hyundai Home Shopping Plus,http://gg.gg/Ha_Noi_IPTV_72-Hyundai_Mall_Plus_HD
+KBS国际,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+KoreaTV,https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
+Lotte Home Shopping,https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+MBC,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+Music Reload,http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
+NHTV,http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+Shinsegae TV Shopping,https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+TBS,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
+
+
+VIP频道3,#genre#
+AlbKanale Music TV Ⓢ,https://albportal.net/albkanalemusic.m3u8
+CNA,https://live1.mediadesk.al/cnatvlive.m3u8
+News 24 Ⓢ,https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+Ora News,https://live1.mediadesk.al/oranews.m3u8
+Panorama TV Ⓢ,http://198.244.188.94/panorama/livestream/playlist.m3u8
+Report TV,https://deb10stream.duckdns.org/hls/stream.m3u8
+Syri,https://stream.syritv.al/SyriTV/index.m3u8
+Tropoja,https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+Vizion Plus,https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
+Net TV,https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+TV Universidad,https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+RTV,http://iptv.rtv-ooe.at/stream.m3u8
+Baku TV,https://rtmp.baku.tv/live/bakutv_720p.m3u8
+CBC,https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
+Mədəniyyət TV Ⓢ,https://str.yodacdn.net/medeniyyet/index.m3u8
+MTV Azerbaijan Ⓢ,https://www.tvkaista.net/stream-forwarder/get.php?x=MTVAzerbaijan
+Беларусь 1,https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+Беларусь 2,https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
+Беларусь 3,https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+ОНТ Ⓢ,https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
+Беларусь 5,https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+СТВ,https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+Беларусь 24,https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+Беларусь 5 Интернет,https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+1Mus,http://hz1.teleport.cc/HLS/HD.m3u8
+8 Kanal Vitebsk Ⓢ,http://95.46.208.8:24433/art
+Belros Ⓢ,https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+Radio HIT Orsk,http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+RTV Glas Drine,http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
+Fora Tedio TV,http://stream.foratedio.com/foratedio/foratedio/playlist.m3u8
+City TV Ⓢ,https://tv.city.bg/play/tshls/citytv/index.m3u8
+TV1,https://tv1.cloudcdn.bg/temp/livestream.m3u8
+CPAC (EN),https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+Toronto 360 TV,http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
+Télé Tchad Ⓢ,https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
+TV+ Ⓖ,https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
+TVN 3,https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+BRT 1,https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
+BRT 2,https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8
+Ada TV Ⓢ,https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/playlist.m3u8
+Kıbrıs Genç TV Ⓢ,https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8
+Kanal T Ⓢ,https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
+Kıbrıs TV Ⓢ,https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8
+TV 2020 Ⓢ,https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8
+Prima Krimi Ⓖ,https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_krimi/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+Prima MAX Ⓖ,https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+Óčko Ⓢ,https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+Óčko Star Ⓢ,https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+Retro Music Television Ⓢ,https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+Praha TV,https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
+Folketinget TV,https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
+TV Storbyen,https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8
+Kanal Hovedstaden,http://khkbh.dk:8080/hls/livestream/index.m3u8
+ETV Ⓖ,http://sb.err.ee/live/etv.m3u8
+ETV2 Ⓖ,http://sb.err.ee/live/etv2.m3u8
+ETV+ Ⓖ,http://sb.err.ee/live/etvpluss.m3u8
+Life TV Estonia,https://lifetv.bitflip.ee/live/stream2.m3u8
+Life TV Europe,https://lifetv.bitflip.ee/live/stream1.m3u8
+TBN Baltia,http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
+Nelonen,https://live-fi.tvkaista.net/nelonen/live.m3u8?src=freetv
+MTV Sub,https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv
+TV5 Finland,https://live-fi.tvkaista.net/tv5/live.m3u8?src=freetv
+Kutonen,https://live-fi.tvkaista.net/kutonen/live.m3u8?src=freetv
+TLC Finland,https://live-fi.tvkaista.net/tlc/live.m3u8?src=freetv
+MTV Ava,https://live-fi.tvkaista.net/ava/live.m3u8?src=freetv
+Frii,https://live-fi.tvkaista.net/frii/live.m3u8?src=freetv
+National Geographic Finland,https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=freetv
+Nopola News,https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8
+När-TV Ⓢ,https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8
+YleX Studio Live,https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8
+Arte Ⓖ,https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+LCP,https://lcp.fr/le-live-lcp-tnt-5433
+Public Sénat,https://www.publicsenat.fr/direct
+CGTN Français,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+RT France Ⓖ,https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+Imedi TV,https://tv.cdn.xsg.ge/imedihd/index.m3u8
+BR Nord Ⓖ,https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+BR Süd Ⓖ,https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
+HR Ⓖ,https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
+SR Ⓖ,https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+WDR Ⓖ,https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
+DW Deutsch,https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
+NDR International,https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+Peer TV Südtirol,https://iptv.peer.biz/live/peertv.m3u8
+AlphaTV,https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
+Skai TV,https://skai-live.siliconweb.com/media/cambria4/index.m3u8
+Open TV,https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+Kontra,http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
+Hír TV,https://onlinestream.live/play.m3u?id=4740&ext=.m3u
+TV7 Bekescsaba,https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
+Hegyvidék TV,https://tv.hegyvidek.hu/hvtv/hvstream.m3u8
+16TV,https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
+Lóverseny közvetítés,https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
+Zalaegerszeg TV,https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
+Oroszlányi Városi Televízió,https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
+ABP News,https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+Al-Alam News Network Ⓢ,https://live2.alalam.ir/alalam.m3u8
+Al-Iraqiya,https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
+TG4,https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
+Houses of the Oireachtas Channel,https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
+כא11,https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+ערוץ 13,https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+33,https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+כאן חינוכית,https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+Rai 4 Ⓖ,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
+Rai 5 Ⓖ,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
+Rai Movie Ⓖ,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
+Rai Premium Ⓖ,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
+TV 2000,https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+La7d,https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+QVC,https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+Motor Trend,https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
+Sportitalia Plus,https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/F59D8EB0332E783633CDDE8E265844975635D24F/index.m3u8
+Travel TV,https://traveltv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+Donna TV Ⓢ,https://donnatv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+SuperTennis,https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
+Alma TV,https://almatv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+Radio 105 TV Ⓖ,https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+R101 TV Ⓖ,https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
+Deejay TV,https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+RadioItaliaTV,https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+Radio KISS KISS TV,https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+Rai Radio 2 Visual Radio,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=raiplayappletv
+RTL 102.5 News,https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+RadioFreccia,https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+RDS Social TV,https://stream.rdstv.radio/index.m3u8
+Radio ZETA,https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+Radio TV Serie A con RDS,https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
+Gold TV Sat,https://goldsattv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+Sportitalia SOLOCALCIO,https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/6197F24C2DDD359567D902082C9347C25BC98852/index.m3u8
+BIKE,https://66286fdeb96da.streamlock.net/BikeChannel/Bikechannel/playlist.m3u8
+Radio Montecarlo TV Ⓖ,https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
+Virgin Radio TV Ⓖ,https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
+Senato TV,https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+Camera dei Deputati Ⓢ,https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
+UniNettuno University TV Ⓖ,https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
+111 Tv,https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
+12 Tv Parma,https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+4 You Tv,https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
+Alpauno,https://5f22d76e220e1.streamlock.net/alpaunotv/alpaunotv/playlist.m3u8
+Alto Adige Tv,https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
+Antenna 2 Bergamo,https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
+Antenna 3 Massa,https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8
+Antenna 3 Veneto Nord Est,https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
+Antenna Sud,https://live.antennasudwebtv.it:9443/hls/vod.m3u8
+Antenna Sud Extra,https://live.antennasudwebtv.it:9443/hls/vod92.m3u8
+Aristanis SuperTv,https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8
+Arte Network Orler,https://tsw.streamingwebtv24.it:1936/artenetwork/artenetwork/playlist.m3u8
+Aurora Arte,https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
+Azzurra Tv Vco,https://59d7d6f47d7fc.streamlock.net/azzurratv/azzurratv/playlist.m3u8
+BOM Channel,https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
+ByoBlu,https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
+Cafe Tv 24,https://srvx1.selftv.video/cafe/live/playlist.m3u8
+Calabria Uno Tv,https://635320cd397eb.streamlock.net/live/ngrp:calabriaunolive_all/playlist.m3u8
+Canale 10,https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/playlist.m3u8
+Canale 2,https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
+Canale 21,https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/playlist.m3u8
+Canale 21 Extra,https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8
+Canale 7,http://wms.shared.streamshow.it:80/canale7/canale7/playlist.m3u8
+Canale 8 Campania,https://59d7d6f47d7fc.streamlock.net/canale8/canale8/playlist.m3u8
+Canale Italia,https://ovp-live.akamaized.net/ac115_live/canale1.smil/playlist.m3u8
+Carina Tv,https://samson.streamerr.co:8081/carinatv/index.m3u8
+Casa Italia 53,https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
+Casa Sanremo Tv,https://router.xdevel.com/video0s975911-633/stream/playlist_dvr.m3u8
+Castrovillari Tv,http://msh0062.stream.seeweb.it/live/flv:stream00.sdp/playlist.m3u8
+Cittaceleste Tv,https://sportitaliaamd.akamaized.net/live/Cittaceleste/hls/A990687F506536598442FC5CD12C97CB78873FBA/index.m3u8
+Company Tv,https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist.m3u8
+Cremona 1,https://cdn2.streamshow.it/cloud-cremona1/cremona1/playlist.m3u8
+Cusano Italia Tv,https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
+Cusano News 7,https://router.xdevel.com/video1s975363-1596/stream/playlist.m3u8
+Delta Tv,http://hbbtv-server.zivoli.it:8080/hls/deltatv/deltatv/index.m3u8
+Deluxe 139,https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8
+Di.Tv 80,https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
+Digital Tv7 Benevento,http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
+Donna Shopping Tv,https://5f22d76e220e1.streamlock.net/fascinotv/fascinotv/playlist.m3u8
+E\'live Brescia Tv,https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
+Easy Tv Canale 190,https://diretta.arcapuglia.it:8080/live/easytv/index.m3u8
+Entella Tv,https://5f22d76e220e1.streamlock.net:443/EntellaTV/EntellaTV/playlist.m3u8
+Espansione Tv,https://srvx1.selftv.video/espansione/smil:live.smil/playlist.m3u8
+Esperia Tv,https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
+è Tv Marche,https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
+è Tv Rete7,https://live.ipstream.it/etv/etv.stream/playlist.m3u8
+è Tv Umbria,https://live.ipstream.it/etvumbria/etvumbria.stream/playlist.m3u8
+Euro Tv,https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+Extra Tv,https://rst2.saiuzwebnetwork.it:8081/extratvlive/index.m3u8
+FM Tv Marche,https://bbtv.intvstream.net:3988/hybrid/play.m3u8
+Fano Tv,https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
+Fascino Tv,https://5f22d76e220e1.streamlock.net/canale157/canale157/playlist.m3u8
+GRP Televisione,https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5.m3u8
+GarganoTv,https://cdn80-ger.azotosolutions.com:8443/cdnedge3/smil:live3.smil/playlist.m3u8
+Giornale Radio Tv,https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
+Giovanni Paolo Tv,https://media2021.rtvweb.com/giovannipaolotv/web/chunklist_w663456797.m3u8
+Globus Television,https://cdn.cubws.com/live/globus.m3u8
+Gold Tv,https://goldtv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+GO-TV Channel,https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
+GS Channel,https://rst.saiuzwebnetwork.it:8081/retereggio/index.m3u8
+Icaro Tv Rimini,https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
+Idea Plus,https://rst.saiuzwebnetwork.it:19360/teleidea/teleidea.m3u8
+Italia 2 Tv,https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
+Italia 7,https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8
+Italia Channel,https://stream1.aswifi.it/italiachannel/stream/index.m3u8
+Iunior Tv,https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+L\'Altro Corriere Tv,https://stream.cp.ets-sistemi.it:1936/laltrocorriere-tv/laltrocorriere-tv/playlist.m3u8
+La Nuova Tv,https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
+La tr3 Marsala,https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
+LaC News 24,https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
+LaC Tv Calabria,https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
+Lab Tv,https://customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec4243f84/manifest/video.m3u8
+Lazio Tv,https://laziotv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+Lira Tv,https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
+Lombardia Tv,https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
+Love in Venice,http://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice/playlist.m3u8
+Lucania Tv,https://cdn15.streamshow.it/cloud-lucaniatv/lucaniatv/playlist.m3u8
+Made in BO,https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
+Maria Vision,https://1601580044.rsc.cdn77.org/live/_jcn_/amls:CHANNEL_2/playlist.m3u8
+Mediterranea Tv,https://stream1.aswifi.it/mediterraneatv/live/index.m3u8
+Medjugorje Italia Tv,https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
+Medjugorje Tv Puglia,https://diretta.arcapuglia.it:8080/live/medjugorietv/index.m3u8
+Minformo Tv,https://5db313b643fd8.streamlock.net:443/MinformoTV/MinformoTV/playlist.m3u8
+Motori Tv,https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8
+NTI Canale 271,https://www.ntimedia.it/video/S0B/S0B_master.m3u8
+Nuova TV Nazionale,https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
+Nuova Tv 1,https://nuovatv.net:8443/tv/stream.m3u8
+Nuova Tv 2,https://nuovatv.net:8443/tv2/stream.m3u8
+Nuvola Tv,https://stream.nuvola.tv:8181/memfs/4aaa6328-1879-4ebf-b18a-498146d0c61c.m3u8
+Onda Novara Tv,https://585b674743bbb.streamlock.net/9006/9006/playlist.m3u8
+Onda Tv Sicilia,https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8
+Onda Web Radio,http://178.33.224.197:1935/ondaradioweb/ondaradioweb/playlist.m3u8
+Ora Tv,https://5db313b643fd8.streamlock.net/OraTv/OraTv/playlist.m3u8
+Orler Tv,https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
+Otto Channel,https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8
+Padre Pio Tv,https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+Parole di Vita,https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
+Peer Tv Alto Adige,https://iptv.peer.biz/live/peertv-it.m3u8
+Prima Tv Napoli,https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
+Prima Tv Sicilia,https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
+PrimaFREE,https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
+Primantenna Torino,https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
+Primocanale,https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
+Promovideo Tv,https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8
+Quarto Canale Flegreo,http://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
+Radio 51 Tv,https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w1193883900.m3u8
+Radio Birikina Tv,https://tvd-bk.fluid.stream/RadioBirikinaTV/livestream/chunklist_w84398277.m3u8
+Radio Bruno Tv,https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
+Radio Ibiza,https://str48.fluid.stream/RadioIbizaTV/livestream/playlist.m3u8
+Radio Immagine Tv,https://media.velcom.it:8081/RadioImmagineTV/index.fmp4.m3u8
+Radio Italia Cina Tv,https://585b674743bbb.streamlock.net/9054/9054/playlist.m3u8
+Radio Libertà,https://router.xdevel.com/video0s975360-67/stream/playlist_dvr.m3u8
+Radio m2o Tv,https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+Radio Monte Kronio Tv (R.M.K.),https://648026e87a75e.streamlock.net/rmktv/rmktv/playlist.m3u8
+Radio Norba Tv,https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
+Radio Piter Pan Tv,https://tvd-piter.fluid.stream/RadioPiterpanTV/livestream/chunklist_w1866496033.m3u8
+Radio Radiosa Tv,https://stream7.zivoli.it/radiosatv/radiosatv/playlist.m3u8
+Radio Roma,https://585b674743bbb.streamlock.net/9044/9044/playlist.m3u8
+Radio Roma Television,https://5926fc9c7c5b2.streamlock.net/rtfeunawfu/rtfeunawfu/playlist.m3u8
+Ran Friul,https://5f22d76e220e1.streamlock.net/RanFriul/RanFriul/playlist.m3u8
+Reggio Tv,https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
+Rei Tv,https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8
+Rete 55,https://live1.giocabet.tv/stream/6/index.m3u8
+Rete 8 Vga,https://604e46ac2bdee.streamlock.net:1936/rete8_1/rete8_1/playlist.m3u8
+Rete 8,https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
+Rete 8 Sport,https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
+Rete Biella Tv,https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
+Rete Mia,https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
+Rete Oro Tv,https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
+Rete Tv Italia,https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
+Rete Veneta,http://wms.shared.streamshow.it/reteveneta/reteveneta/playlist.m3u8
+Roma Tv 82,https://streaming.softwarecreation.it/RomaCH71/RomaCH71/playlist.m3u8
+Rossini Tv,https://stream.rossinitv.it/memfs/3bca4ad7-adfc-4610-ac0e-e826743ddc57.m3u8
+RTC Quarta Rete,https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8
+RTC Telecalabria,https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
+RTI Calabria,https://stream.ets-sistemi.it:8081/rticalabria/index.m3u8
+RTL 102.5 + Plus,https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S12772175/FmIo5I5kmwTy/playlist_video.m3u8
+RTM Manduria,https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
+Rtp Tv,http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+Rttr,https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
+Rtv 38 Toscana,https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8
+SL 48 Tv,http://media.velcom.it:1935/sl48/sl48/playlist.m3u8
+Sardegna 1,https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/playlist.m3u8
+Set Tv Cilento,https://stream1.aswifi.it/settv/live/index.m3u8
+Sesta Rete,https://stream10.xdevel.com/video0s977089-1792/stream/playlist.m3u8
+Sicilia 24 Tv,https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
+Sienatv,https://router.xdevel.com/video0s976727-1441/stream/playlist.m3u8
+Sophia Tv,https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
+Stiletv,https://proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u8
+Super J Tv,https://59d39900ebfb8.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
+Super Six,https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+Supertv,http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+T9,https://t9tv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+TRC Santeramo,https://stream7.livinlive.it/trc/trc/playlist.m3u8
+TRL Tele Radio Leo,https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
+TSD Tv Arezzo(Tele San Domenico),https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8
+TVL (TV Libera Pistoia),http://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/mono.m3u8
+Tcf Tv,https://stream10.xdevel.com/video1s977294-1864/stream/playlist.m3u8
+Tci,https://tbn-jw.cdn.vustreams.com/live/tci/live.isml/2b7d53c5-b504-4d26-b25f-a70deb8d0faf.m3u8
+Teatro Tv,https://m.iostream.it/hls/teatrotv/teatrotv.m3u8
+Tele A,https://lostream.it/hls/telea/video.m3u8
+Tele Abruzzo Tv,http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+Tele Acras,https://5db313b643fd8.streamlock.net/teleacras/teleacras/playlist.m3u8
+Tele Bari,https://w1.mediastreaming.it/telebari/livestream/playlist.m3u8
+Tele Belluno,https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8
+Tele Boario,https://stream7.xdevel.com/video0s976425-1244/stream/playlist_dvr.m3u8
+Tele Bruzzano,https://playerssl.telemia.tv/fileadmin/hls/Telebruzzano/telebruzzano_mediachunks.m3u8
+Tele Chiara,http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
+Telecolor,https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
+Tele Cupole,https://nrvideo1.newradio.it/euhsbdamnx/euhsbdamnx/playlist.m3u8
+Tele Foggia,https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8
+Tele Friuli,https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8
+Tele Ischia,https://rst.saiuzwebnetwork.it:8081/teleischia/index.m3u8
+Tele Jonio,http://59d7d6f47d7fc.streamlock.net/telejonio/telejonio/playlist.m3u8
+Tele Liberta\' HD,https://streaming.liberta.it/hls/liberta.m3u8
+Tele Liguria Sud,https://64b16f23efbee.streamlock.net/teleliguriasud/teleliguriasud/playlist.m3u8
+Tele Mantova,https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
+Tele Mia,https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
+Tele Mia Extra,https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8
+Tele Mistretta,https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
+Tele Molise,http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
+Tele Nord Genova,https://64b16f23efbee.streamlock.net/telenord/telenord/playlist.m3u8
+Tele Oltre,http://1se1.troydesign.eu/np_teleoltre/_definst_/channel1_np_teleoltre/playlist.m3u8?ext=.m3u8
+Tele One,https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
+Tele Pace 1,https://live.mariatvcdn.com/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/mono.m3u8
+Tele Pace 2,https://live.mariatvcdn.com/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/mono.m3u8
+Tele Pace 3,https://live.mariatvcdn.com/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/mono.m3u8
+Tele Pace 4,https://live.mariatvcdn.com/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/mono.m3u8
+Tele Pace News,https://live.mariatvcdn.com/teleradiopace6/d289fe76f16ad32afec471ea1b941583.sdp/index.m3u8
+Tele Pace Roma,https://live.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/index.m3u8
+Tele Pace Trento,https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
+Tele Pavia,http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+Tele Pegaso,https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8
+Tele Piadena,https://stream3.xdevel.com/video0s975441-151/stream/playlist_dvr.m3u8
+Tele Pordenone,https://video.wifi4all.it/telepn/telepn.m3u8
+Telecity Lombardia,https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
+Telecity Valle D\'Aosta,https://64b16f23efbee.streamlock.net/telecityvda/telecityvda/playlist.m3u8
+TeleCostaSmeralda,https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/tcs_live/tcs/tcs/playlist.m3u8
+Telegenova,https://64b16f23efbee.streamlock.net/telegenova/telegenova/playlist.m3u8
+Teleiblea,https://5f22d76e220e1.streamlock.net/teleiblea/teleiblea/playlist.m3u8
+Teleitalia 41,https://streaming.softwarecreation.it/teleitalia/teleitalia/playlist.m3u8
+Telejato,https://telejato.liberotratto.com/hls/stream.m3u8
+Teleleonessa,http://wms.shared.streamshow.it:1935/teleleonessa/teleleonessa/live.m3u8
+TeleMajg,https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8
+Telenova,https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
+Telerama,https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
+TeleRegione,https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8
+TeleRegione Color,https://live.antennasudwebtv.it:9443/hls/vodtele.m3u8
+TeleRegione Live,https://5f22d76e220e1.streamlock.net/galluralive/galluralive/playlist.m3u8
+Teleromagna,https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+Teleromagna 24,https://livetr.teleromagna.it/mia/live/playlist.m3u8
+TeleRomaDue,https://57068da1deb21.streamlock.net/teletibur/teletibur/playlist.m3u8
+Teleuniverso,https://stream.cp.ets-sistemi.it:1936/teleuniverso/teleuniverso/playlist.m3u8
+Televallo Trapani,https://64b16f23efbee.streamlock.net/televallo/televallo/playlist.m3u8
+TG Norba 24,https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
+TLT Molise,https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
+Tremedia Tv,https://stream4.xdevel.com/video0s976062-1263/stream/playlist_dvr.m3u8
+Tuscia Sabina 2000Tv,http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/chunks.m3u8
+Tv 12,https://59d7d6f47d7fc.streamlock.net/tv12/tv12/playlist.m3u8
+Tv Prato,https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/mono.m3u8
+Tv Qui Modena,https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
+Tv Yes,https://stream1.aswifi.it/radioyes/live/index.m3u8
+Tva Vicenza,http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
+Tvm Palermo,https://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8
+Tvr Xenon,https://cdn107-ita.azotosolutions.com:8443/cdnedge4/smil:live4.smil/playlist.m3u8
+Tvrs Tv,https://cdn8.streamshow.it/cloud-tvrs/tvrs/playlist.m3u8
+Umbria Tv,https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
+Uno Tv,https://stream1.aswifi.it/unotv/live/index.m3u8
+Uno4 Tv,https://cdn.uno4.it/index.m3u8
+VB33,https://live.ipstream.it/vb33/vb33.stream/playlist.m3u8
+Video Calabria,https://a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/playlist.m3u8
+Video Mediterraneo,https://bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8
+Video Nola,https://videonola.aswifi.it/videonolaabr/live.m3u8
+Video Regione Sicilia,https://57214cb172d84f8cb311b91513952b03.msvdn.net/live/S40896499/ZuaLjACsWIL4/playlist.m3u8
+Video Star Tv Sicilia,https://stream9.xdevel.com/video0s976556-1321/stream/playlist.m3u8
+Video Touring Tv,https://streamingvideo.auranex.cloud/memfs/70baacad-47c6-41a6-aee0-86530c31e080.m3u8
+Videolina,http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
+Videonovara,https://ed04.top-ix.org/avtvlive/videonovara/streaming/playlist.m3u8
+Videotelecarnia,https://rst2.saiuzwebnetwork.it:8081/vtccarnia/index.m3u8
+Vintage Radio Tv,https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
+Webcom Tv,https://www.webcomiptv.it/mistserver/passionelotto/index.m3u8
+WLTV,https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
+Yvii Tv,https://stream.wired-shop.com/hls/yviitv.m3u8
+Zerouno Tv Music,https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
+Zerouno Tv News,https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
+NHK G (Tokyo) Ⓢ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+NHK G (Osaka) Ⓢ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+NHK E Ⓢ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+Nippon TV (日テレ) Ⓢ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+日テレNEWS24 Ⓢ,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+TV Asahi Ⓢ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+TBS Ⓢ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+TV Tokyo Ⓢ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+Fuji TV (フジテレビ) Ⓢ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+Tokyo MX1 Ⓢ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+MBS TV (MBSテレビ) Ⓢ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+ABC TV (ABCテレビ) Ⓢ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
+Kansai TV (カンテレ) Ⓢ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
+Yomiuri TV (読売テレビ) Ⓢ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+TV Osaka (テレビ大阪) Ⓢ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
+Sun TV (サンテレビ) Ⓢ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+NHK Kishou-Saigai Ⓢ,https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
+NHK BS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+NHK BSP4K,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+BS Nippon TV (BS日テレ),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+BS Asahi,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
+BS-TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+BS TV Tokyo,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
+BS Fuji TV (BSフジテレビ),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+KBC TV,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+TJB TV,http://1.245.74.5:1935/live/tv/.m3u8
+UBC TV,http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
+TV 21 Ⓢ Ⓖ,https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
+Телевизија Здравкин,http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
+ТВ Сонце,https://media2.streambrothers.com:1936/8142/8142/playlist.m3u8
+Орбис,http://tvorbis.hugo.mk:1935/live/orbistv/index.m3u8
+M»Net,http://ares.mnet.mk/hls/mnet.m3u8
+Македонско Сонце,https://media2.streambrothers.com:1936/8128/8128/playlist.m3u8
+Канал 8,http://kanal8.hugo.mk:1935/live/kanal8/index.m3u8
+
+
+
 🇺🇸 USA,#genre#
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1277,7 +3147,7 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 一本道_185,https://vip4.ddyunbo.com/20191128/zrhWuPR1/index.m3u8
 一本道_186,https://vip4.ddyunbo.com/20191110/7bbcTr2N/index.m3u8
 一本道_187,https://vip4.ddyunbo.com/20191127/65PpXoMw/index.m3u8
-一本道_188,https://vip4.ddyunbo.com/20191203/0ir3uu6a/index.m3u8
+一本道,https://vip4.ddyunbo.com/20191203/0ir3uu6a/index.m3u8
 一本道_189,https://vip4.ddyunbo.com/20191029/iONkDOhp/index.m3u8
 一本道_190,https://vip4.ddyunbo.com/20191020/Ez8f8YXO/index.m3u8
 一本道_191,https://vip4.ddyunbo.com/20191121/EkloOcUP/index.m3u8
@@ -2342,6 +4212,344 @@ English.24,p3p://108.181.32.169:24147/64231e860007ac07e288bf3061103b0d
 English.25,p3p://108.181.32.169:24147/64231e91000587aae288e99916e46fdd
 English.26,p3p://108.181.32.169:24147/64231e9c0007a45ee289151c0c8f60ca
 English.27,p3p://108.181.32.169:24147/64231eaa000cc687e2894d1c6445706e
+
+
+
+麻豆传媒_5566,#genre#
+7传媒01,https://zo392.cdnedge.live/file/avple-images/hls/62e3e05368ab9b4779793825/playlist.m3u8
+7传媒02,https://d862cp.cdnedge.live/file/avple-images/hls/62e3c73764d6ad45f65f31b0/playlist.m3u8
+7传媒03,https://10j99.cdnedge.live/file/avple-images/hls/62e285ed03f56d1e4c965640/playlist.m3u8
+7传媒04,https://w9n76.cdnedge.live/file/avple-images/hls/62e285ed03f56d1e4c96563f/playlist.m3u8
+7传媒05,https://e2fa6.cdnedge.live/file/avple-images/hls/62e2866503f56d1e4c965641/playlist.m3u8
+7传媒06,https://e2fa6.cdnedge.live/file/avple-images/hls/62e283d103f56d1e4c96563e/playlist.m3u8
+7传媒07,https://10j99.cdnedge.live/file/avple-images/hls/62e282e203f56d1e4c96563c/playlist.m3u8
+7传媒08,https://e2fa6.cdnedge.live/file/avple-images/hls/62e281f103f56d1e4c96563b/playlist.m3u8
+7传媒09,https://1xp60.cdnedge.live/file/avple-images/hls/62e1a776ae8e25784a42cffd/playlist.m3u8
+7传媒10,https://8bb88.cdnedge.live/file/avple-images/hls/62e17640ae8e25784a42cffc/playlist.m3u8
+7传媒11,https://8bb88.cdnedge.live/file/avple-images/hls/62e16ce0ae8e25784a42cffb/playlist.m3u8
+7传媒12,https://w9n76.cdnedge.live/file/avple-images/hls/62e1612aae8e25784a42cffa/playlist.m3u8
+7传媒01,https://zo392.cdnedge.live/file/avple-images/hls/62e3e05368ab9b4779793825/playlist.m3u8
+7传媒02,https://d862cp.cdnedge.live/file/avple-images/hls/62e3c73764d6ad45f65f31b0/playlist.m3u8
+7传媒03,https://10j99.cdnedge.live/file/avple-images/hls/62e285ed03f56d1e4c965640/playlist.m3u8
+7传媒04,https://w9n76.cdnedge.live/file/avple-images/hls/62e285ed03f56d1e4c96563f/playlist.m3u8
+7传媒05,https://e2fa6.cdnedge.live/file/avple-images/hls/62e2866503f56d1e4c965641/playlist.m3u8
+7传媒06,https://e2fa6.cdnedge.live/file/avple-images/hls/62e283d103f56d1e4c96563e/playlist.m3u8
+7传媒07,https://10j99.cdnedge.live/file/avple-images/hls/62e282e203f56d1e4c96563c/playlist.m3u8
+7传媒08,https://e2fa6.cdnedge.live/file/avple-images/hls/62e281f103f56d1e4c96563b/playlist.m3u8
+7传媒09,https://1xp60.cdnedge.live/file/avple-images/hls/62e1a776ae8e25784a42cffd/playlist.m3u8
+7传媒10,https://8bb88.cdnedge.live/file/avple-images/hls/62e17640ae8e25784a42cffc/playlist.m3u8
+7传媒11,https://8bb88.cdnedge.live/file/avple-images/hls/62e16ce0ae8e25784a42cffb/playlist.m3u8
+7传媒12,https://w9n76.cdnedge.live/file/avple-images/hls/62e1612aae8e25784a42cffa/playlist.m3u8
+7传媒01,https://zo392.cdnedge.live/file/avple-images/hls/62e3e05368ab9b4779793825/playlist.m3u8
+7传媒02,https://d862cp.cdnedge.live/file/avple-images/hls/62e3c73764d6ad45f65f31b0/playlist.m3u8
+7传媒03,https://10j99.cdnedge.live/file/avple-images/hls/62e285ed03f56d1e4c965640/playlist.m3u8
+7传媒04,https://w9n76.cdnedge.live/file/avple-images/hls/62e285ed03f56d1e4c96563f/playlist.m3u8
+7传媒05,https://e2fa6.cdnedge.live/file/avple-images/hls/62e2866503f56d1e4c965641/playlist.m3u8
+7传媒06,https://e2fa6.cdnedge.live/file/avple-images/hls/62e283d103f56d1e4c96563e/playlist.m3u8
+7传媒07,https://10j99.cdnedge.live/file/avple-images/hls/62e282e203f56d1e4c96563c/playlist.m3u8
+7传媒08,https://e2fa6.cdnedge.live/file/avple-images/hls/62e281f103f56d1e4c96563b/playlist.m3u8
+7传媒09,https://1xp60.cdnedge.live/file/avple-images/hls/62e1a776ae8e25784a42cffd/playlist.m3u8
+7传媒10,https://8bb88.cdnedge.live/file/avple-images/hls/62e17640ae8e25784a42cffc/playlist.m3u8
+7传媒11,https://8bb88.cdnedge.live/file/avple-images/hls/62e16ce0ae8e25784a42cffb/playlist.m3u8
+7传媒12,https://w9n76.cdnedge.live/file/avple-images/hls/62e1612aae8e25784a42cffa/playlist.m3u8
+7传媒01,https://zo392.cdnedge.live/file/avple-images/hls/62e3e05368ab9b4779793825/playlist.m3u8
+7传媒02,https://d862cp.cdnedge.live/file/avple-images/hls/62e3c73764d6ad45f65f31b0/playlist.m3u8
+7传媒03,https://10j99.cdnedge.live/file/avple-images/hls/62e285ed03f56d1e4c965640/playlist.m3u8
+7传媒04,https://w9n76.cdnedge.live/file/avple-images/hls/62e285ed03f56d1e4c96563f/playlist.m3u8
+7传媒05,https://e2fa6.cdnedge.live/file/avple-images/hls/62e2866503f56d1e4c965641/playlist.m3u8
+7传媒06,https://e2fa6.cdnedge.live/file/avple-images/hls/62e283d103f56d1e4c96563e/playlist.m3u8
+7传媒07,https://10j99.cdnedge.live/file/avple-images/hls/62e282e203f56d1e4c96563c/playlist.m3u8
+7传媒08,https://e2fa6.cdnedge.live/file/avple-images/hls/62e281f103f56d1e4c96563b/playlist.m3u8
+7传媒09,https://1xp60.cdnedge.live/file/avple-images/hls/62e1a776ae8e25784a42cffd/playlist.m3u8
+7传媒10,https://8bb88.cdnedge.live/file/avple-images/hls/62e17640ae8e25784a42cffc/playlist.m3u8
+7传媒11,https://8bb88.cdnedge.live/file/avple-images/hls/62e16ce0ae8e25784a42cffb/playlist.m3u8
+7传媒12,https://w9n76.cdnedge.live/file/avple-images/hls/62e1612aae8e25784a42cffa/playlist.m3u8
+
+
+精东影业_5566,#genre#
+传媒01,https://w9n76.cdnedge.live/file/avple-images/hls/62c43a77366b240e3b67be28/playlist.m3u8
+传媒02,https://u89ey.cdnedge.live/file/avple-images/hls/62c448bd366b240e3b67be3b/playlist.m3u8
+传媒03,https://10j99.cdnedge.live/file/avple-images/hls/62c44575366b240e3b67be3a/playlist.m3u8
+传媒04,https://10j99.cdnedge.live/file/avple-images/hls/62c4444a366b240e3b67be37/playlist.m3u8
+传媒05,https://u89ey.cdnedge.live/file/avple-images/hls/62c43a3c366b240e3b67be27/playlist.m3u8
+传媒06,https://8bb88.cdnedge.live/file/avple-images/hls/62c44c81366b240e3b67be3c/playlist.m3u8
+传媒07,https://e2fa6.cdnedge.live/file/avple-images/hls/62c44485366b240e3b67be38/playlist.m3u8
+传媒08,https://je40u.cdnedge.live/file/avple-images/hls/62c43af1366b240e3b67be29/playlist.m3u8
+传媒09,https://zo392.cdnedge.live/file/avple-images/hls/62c44398366b240e3b67be36/playlist.m3u8
+传媒10,https://10j99.cdnedge.live/file/avple-images/hls/62c44359366b240e3b67be35/playlist.m3u8
+传媒11,https://je40u.cdnedge.live/file/avple-images/hls/62c4426c366b240e3b67be34/playlist.m3u8
+传媒12,https://q2cyl7.cdnedge.live/file/avple-images/hls/62c44231366b240e3b67be33/playlist.m3u8
+传媒13,https://u89ey.cdnedge.live/file/avple-images/hls/62c4413f366b240e3b67be32/playlist.m3u8
+传媒14,https://8bb88.cdnedge.live/file/avple-images/hls/62c440c8366b240e3b67be31/playlist.m3u8
+传媒15,https://e2fa6.cdnedge.live/file/avple-images/hls/62c4408b366b240e3b67be30/playlist.m3u8
+传媒16,https://q2cyl7.cdnedge.live/file/avple-images/hls/62c44019366b240e3b67be2f/playlist.m3u8
+传媒17,https://10j99.cdnedge.live/file/avple-images/hls/62c43eab366b240e3b67be2e/playlist.m3u8
+传媒18,https://u89ey.cdnedge.live/file/avple-images/hls/62c43910366b240e3b67be25/playlist.m3u8
+传媒19,https://q2cyl7.cdnedge.live/file/avple-images/hls/62c43e37366b240e3b67be2d/playlist.m3u8
+传媒20,https://1xp60.cdnedge.live/file/avple-images/hls/62c43dfa366b240e3b67be2c/playlist.m3u8
+传媒21,https://u89ey.cdnedge.live/file/avple-images/hls/62c439c3366b240e3b67be26/playlist.m3u8
+传媒22,https://8bb88.cdnedge.live/file/avple-images/hls/62c43d81366b240e3b67be2b/playlist.m3u8
+传媒23,https://10j99.cdnedge.live/file/avple-images/hls/62c420dd366b240e3b67be24/playlist.m3u8
+传媒24,https://q2cyl7.cdnedge.live/file/avple-images/hls/62c41f75366b240e3b67be21/playlist.m3u8
+传媒01,https://w9n76.cdnedge.live/file/avple-images/hls/62c43a77366b240e3b67be28/playlist.m3u8
+传媒02,https://u89ey.cdnedge.live/file/avple-images/hls/62c448bd366b240e3b67be3b/playlist.m3u8
+传媒03,https://10j99.cdnedge.live/file/avple-images/hls/62c44575366b240e3b67be3a/playlist.m3u8
+传媒04,https://10j99.cdnedge.live/file/avple-images/hls/62c4444a366b240e3b67be37/playlist.m3u8
+传媒05,https://u89ey.cdnedge.live/file/avple-images/hls/62c43a3c366b240e3b67be27/playlist.m3u8
+传媒06,https://8bb88.cdnedge.live/file/avple-images/hls/62c44c81366b240e3b67be3c/playlist.m3u8
+传媒07,https://e2fa6.cdnedge.live/file/avple-images/hls/62c44485366b240e3b67be38/playlist.m3u8
+传媒08,https://je40u.cdnedge.live/file/avple-images/hls/62c43af1366b240e3b67be29/playlist.m3u8
+传媒09,https://zo392.cdnedge.live/file/avple-images/hls/62c44398366b240e3b67be36/playlist.m3u8
+传媒10,https://10j99.cdnedge.live/file/avple-images/hls/62c44359366b240e3b67be35/playlist.m3u8
+传媒11,https://je40u.cdnedge.live/file/avple-images/hls/62c4426c366b240e3b67be34/playlist.m3u8
+传媒12,https://q2cyl7.cdnedge.live/file/avple-images/hls/62c44231366b240e3b67be33/playlist.m3u8
+传媒13,https://u89ey.cdnedge.live/file/avple-images/hls/62c4413f366b240e3b67be32/playlist.m3u8
+传媒14,https://8bb88.cdnedge.live/file/avple-images/hls/62c440c8366b240e3b67be31/playlist.m3u8
+传媒15,https://e2fa6.cdnedge.live/file/avple-images/hls/62c4408b366b240e3b67be30/playlist.m3u8
+传媒16,https://q2cyl7.cdnedge.live/file/avple-images/hls/62c44019366b240e3b67be2f/playlist.m3u8
+传媒17,https://10j99.cdnedge.live/file/avple-images/hls/62c43eab366b240e3b67be2e/playlist.m3u8
+传媒18,https://u89ey.cdnedge.live/file/avple-images/hls/62c43910366b240e3b67be25/playlist.m3u8
+传媒19,https://q2cyl7.cdnedge.live/file/avple-images/hls/62c43e37366b240e3b67be2d/playlist.m3u8
+传媒20,https://1xp60.cdnedge.live/file/avple-images/hls/62c43dfa366b240e3b67be2c/playlist.m3u8
+传媒21,https://u89ey.cdnedge.live/file/avple-images/hls/62c439c3366b240e3b67be26/playlist.m3u8
+传媒22,https://8bb88.cdnedge.live/file/avple-images/hls/62c43d81366b240e3b67be2b/playlist.m3u8
+传媒23,https://10j99.cdnedge.live/file/avple-images/hls/62c420dd366b240e3b67be24/playlist.m3u8
+传媒24,https://q2cyl7.cdnedge.live/file/avple-images/hls/62c41f75366b240e3b67be21/playlist.m3u8
+传媒01,https://w9n76.cdnedge.live/file/avple-images/hls/62c43a77366b240e3b67be28/playlist.m3u8
+传媒02,https://u89ey.cdnedge.live/file/avple-images/hls/62c448bd366b240e3b67be3b/playlist.m3u8
+传媒03,https://10j99.cdnedge.live/file/avple-images/hls/62c44575366b240e3b67be3a/playlist.m3u8
+传媒04,https://10j99.cdnedge.live/file/avple-images/hls/62c4444a366b240e3b67be37/playlist.m3u8
+传媒05,https://u89ey.cdnedge.live/file/avple-images/hls/62c43a3c366b240e3b67be27/playlist.m3u8
+传媒06,https://8bb88.cdnedge.live/file/avple-images/hls/62c44c81366b240e3b67be3c/playlist.m3u8
+传媒07,https://e2fa6.cdnedge.live/file/avple-images/hls/62c44485366b240e3b67be38/playlist.m3u8
+传媒08,https://je40u.cdnedge.live/file/avple-images/hls/62c43af1366b240e3b67be29/playlist.m3u8
+传媒09,https://zo392.cdnedge.live/file/avple-images/hls/62c44398366b240e3b67be36/playlist.m3u8
+传媒10,https://10j99.cdnedge.live/file/avple-images/hls/62c44359366b240e3b67be35/playlist.m3u8
+传媒11,https://je40u.cdnedge.live/file/avple-images/hls/62c4426c366b240e3b67be34/playlist.m3u8
+传媒12,https://q2cyl7.cdnedge.live/file/avple-images/hls/62c44231366b240e3b67be33/playlist.m3u8
+传媒13,https://u89ey.cdnedge.live/file/avple-images/hls/62c4413f366b240e3b67be32/playlist.m3u8
+传媒14,https://8bb88.cdnedge.live/file/avple-images/hls/62c440c8366b240e3b67be31/playlist.m3u8
+传媒15,https://e2fa6.cdnedge.live/file/avple-images/hls/62c4408b366b240e3b67be30/playlist.m3u8
+传媒16,https://q2cyl7.cdnedge.live/file/avple-images/hls/62c44019366b240e3b67be2f/playlist.m3u8
+传媒17,https://10j99.cdnedge.live/file/avple-images/hls/62c43eab366b240e3b67be2e/playlist.m3u8
+传媒18,https://u89ey.cdnedge.live/file/avple-images/hls/62c43910366b240e3b67be25/playlist.m3u8
+传媒19,https://q2cyl7.cdnedge.live/file/avple-images/hls/62c43e37366b240e3b67be2d/playlist.m3u8
+传媒20,https://1xp60.cdnedge.live/file/avple-images/hls/62c43dfa366b240e3b67be2c/playlist.m3u8
+传媒21,https://u89ey.cdnedge.live/file/avple-images/hls/62c439c3366b240e3b67be26/playlist.m3u8
+传媒22,https://8bb88.cdnedge.live/file/avple-images/hls/62c43d81366b240e3b67be2b/playlist.m3u8
+传媒23,https://10j99.cdnedge.live/file/avple-images/hls/62c420dd366b240e3b67be24/playlist.m3u8
+传媒24,https://q2cyl7.cdnedge.live/file/avple-images/hls/62c41f75366b240e3b67be21/playlist.m3u8
+传媒01,https://w9n76.cdnedge.live/file/avple-images/hls/62c43a77366b240e3b67be28/playlist.m3u8
+传媒02,https://u89ey.cdnedge.live/file/avple-images/hls/62c448bd366b240e3b67be3b/playlist.m3u8
+传媒03,https://10j99.cdnedge.live/file/avple-images/hls/62c44575366b240e3b67be3a/playlist.m3u8
+传媒04,https://10j99.cdnedge.live/file/avple-images/hls/62c4444a366b240e3b67be37/playlist.m3u8
+传媒05,https://u89ey.cdnedge.live/file/avple-images/hls/62c43a3c366b240e3b67be27/playlist.m3u8
+传媒06,https://8bb88.cdnedge.live/file/avple-images/hls/62c44c81366b240e3b67be3c/playlist.m3u8
+传媒07,https://e2fa6.cdnedge.live/file/avple-images/hls/62c44485366b240e3b67be38/playlist.m3u8
+传媒08,https://je40u.cdnedge.live/file/avple-images/hls/62c43af1366b240e3b67be29/playlist.m3u8
+传媒09,https://zo392.cdnedge.live/file/avple-images/hls/62c44398366b240e3b67be36/playlist.m3u8
+传媒10,https://10j99.cdnedge.live/file/avple-images/hls/62c44359366b240e3b67be35/playlist.m3u8
+传媒11,https://je40u.cdnedge.live/file/avple-images/hls/62c4426c366b240e3b67be34/playlist.m3u8
+传媒12,https://q2cyl7.cdnedge.live/file/avple-images/hls/62c44231366b240e3b67be33/playlist.m3u8
+传媒13,https://u89ey.cdnedge.live/file/avple-images/hls/62c4413f366b240e3b67be32/playlist.m3u8
+传媒14,https://8bb88.cdnedge.live/file/avple-images/hls/62c440c8366b240e3b67be31/playlist.m3u8
+传媒15,https://e2fa6.cdnedge.live/file/avple-images/hls/62c4408b366b240e3b67be30/playlist.m3u8
+传媒16,https://q2cyl7.cdnedge.live/file/avple-images/hls/62c44019366b240e3b67be2f/playlist.m3u8
+传媒17,https://10j99.cdnedge.live/file/avple-images/hls/62c43eab366b240e3b67be2e/playlist.m3u8
+传媒18,https://u89ey.cdnedge.live/file/avple-images/hls/62c43910366b240e3b67be25/playlist.m3u8
+传媒19,https://q2cyl7.cdnedge.live/file/avple-images/hls/62c43e37366b240e3b67be2d/playlist.m3u8
+传媒20,https://1xp60.cdnedge.live/file/avple-images/hls/62c43dfa366b240e3b67be2c/playlist.m3u8
+传媒21,https://u89ey.cdnedge.live/file/avple-images/hls/62c439c3366b240e3b67be26/playlist.m3u8
+传媒22,https://8bb88.cdnedge.live/file/avple-images/hls/62c43d81366b240e3b67be2b/playlist.m3u8
+传媒23,https://10j99.cdnedge.live/file/avple-images/hls/62c420dd366b240e3b67be24/playlist.m3u8
+传媒24,https://q2cyl7.cdnedge.live/file/avple-images/hls/62c41f75366b240e3b67be21/playlist.m3u8
+
+
+星空传媒_5566,#genre#
+传媒01,https://1xp60.cdnedge.live/file/avple-images/hls/62d40c2e33356255121f1986/playlist.m3u8
+传媒02,https://d862cp.cdnedge.live/file/avple-images/hls/62d40c2e33356255121f1985/playlist.m3u8
+传媒03,https://q2cyl7.cdnedge.live/file/avple-images/hls/62d40b0133356255121f1983/playlist.m3u8
+传媒04,https://q2cyl7.cdnedge.live/file/avple-images/hls/62d40b0133356255121f1984/playlist.m3u8
+传媒05,https://1xp60.cdnedge.live/file/avple-images/hls/62d40a1133356255121f1982/playlist.m3u8
+传媒06,https://u89ey.cdnedge.live/file/avple-images/hls/62d2c7550876771b0a5ff9f6/playlist.m3u8
+传媒07,https://u89ey.cdnedge.live/file/avple-images/hls/62d2c6a10876771b0a5ff9f5/playlist.m3u8
+传媒08,https://je40u.cdnedge.live/file/avple-images/hls/62d2c5ed0876771b0a5ff9f4/playlist.m3u8
+传媒09,https://zo392.cdnedge.live/file/avple-images/hls/62d186b59ba01b6759166c03/playlist.m3u8
+传媒01,https://q2cyl7.cdnedge.live/file/avple-images/hls/62d1136d3f2a4e362eb52b79/playlist.m3u8
+传媒02,https://10j99.cdnedge.live/file/avple-images/hls/62d112bc3f2a4e362eb52b78/playlist.m3u8
+传媒03,https://zo392.cdnedge.live/file/avple-images/hls/62d111183f2a4e362eb52b75/playlist.m3u8
+传媒04,https://1xp60.cdnedge.live/file/avple-images/hls/62d1127e3f2a4e362eb52b77/playlist.m3u8
+传媒05,https://1xp60.cdnedge.live/file/avple-images/hls/62d112423f2a4e362eb52b76/playlist.m3u8
+传媒06,https://q2cyl7.cdnedge.live/file/avple-images/hls/62d10fad3f2a4e362eb52b73/playlist.m3u8
+传媒07,https://je40u.cdnedge.live/file/avple-images/hls/62d10ef93f2a4e362eb52b72/playlist.m3u8
+传媒08,https://1xp60.cdnedge.live/file/avple-images/hls/62d1109e3f2a4e362eb52b74/playlist.m3u8
+传媒09,https://1xp60.cdnedge.live/file/avple-images/hls/62d10e093f2a4e362eb52b71/playlist.m3u8
+传媒10,https://d862cp.cdnedge.live/file/avple-images/hls/62d10d563f2a4e362eb52b70/playlist.m3u8
+传媒11,https://q2cyl7.cdnedge.live/file/avple-images/hls/62d10d1a3f2a4e362eb52b6f/playlist.m3u8
+传媒12,https://je40u.cdnedge.live/file/avple-images/hls/62d10c673f2a4e362eb52b6e/playlist.m3u8
+传媒13,https://u89ey.cdnedge.live/file/avple-images/hls/62d10bb23f2a4e362eb52b6d/playlist.m3u8
+传媒14,https://u89ey.cdnedge.live/file/avple-images/hls/62d10aff3f2a4e362eb52b6c/playlist.m3u8
+传媒15,https://d862cp.cdnedge.live/file/avple-images/hls/62d10a873f2a4e362eb52b6b/playlist.m3u8
+传媒16,https://d862cp.cdnedge.live/file/avple-images/hls/62d10a103f2a4e362eb52b6a/playlist.m3u8
+传媒17,https://d862cp.cdnedge.live/file/avple-images/hls/62d109983f2a4e362eb52b69/playlist.m3u8
+传媒18,https://u89ey.cdnedge.live/file/avple-images/hls/62d1077d3f2a4e362eb52b66/playlist.m3u8
+传媒19,https://je40u.cdnedge.live/file/avple-images/hls/62d1091f3f2a4e362eb52b68/playlist.m3u8
+传媒20,https://10j99.cdnedge.live/file/avple-images/hls/62d108303f2a4e362eb52b67/playlist.m3u8
+传媒21,https://je40u.cdnedge.live/file/avple-images/hls/62d103443f2a4e362eb52b65/playlist.m3u8
+传媒22,https://e2fa6.cdnedge.live/file/avple-images/hls/62d0fffe3f2a4e362eb52b64/playlist.m3u8
+传媒23,https://q2cyl7.cdnedge.live/file/avple-images/hls/62d0ffc03f2a4e362eb52b63/playlist.m3u8
+传媒24,https://10j99.cdnedge.live/file/avple-images/hls/62d0fda53f2a4e362eb52b62/playlist.m3u8
+传媒25,https://je40u.cdnedge.live/file/avple-images/hls/62d0fc403f2a4e362eb52b60/playlist.m3u8
+传媒26,https://10j99.cdnedge.live/file/avple-images/hls/62d0fcb53f2a4e362eb52b61/playlist.m3u8
+传媒27,https://d862cp.cdnedge.live/file/avple-images/hls/62d0fc053f2a4e362eb52b5f/playlist.m3u8
+传媒28,https://w9n76.cdnedge.live/file/avple-images/hls/62d0fb153f2a4e362eb52b5d/playlist.m3u8
+传媒29,https://w9n76.cdnedge.live/file/avple-images/hls/62d0fa223f2a4e362eb52b5b/playlist.m3u8
+传媒30,https://10j99.cdnedge.live/file/avple-images/hls/62d0fad63f2a4e362eb52b5c/playlist.m3u8
+传媒31,https://10j99.cdnedge.live/file/avple-images/hls/62d0f9aa3f2a4e362eb52b5a/playlist.m3u8
+传媒32,https://e2fa6.cdnedge.live/file/avple-images/hls/62d0f87f3f2a4e362eb52b59/playlist.m3u8
+传媒33,https://zo392.cdnedge.live/file/avple-images/hls/62d0f80d3f2a4e362eb52b58/playlist.m3u8
+传媒34,https://1xp60.cdnedge.live/file/avple-images/hls/62d016fa3f2a4e362eb52b56/playlist.m3u8
+传媒35,https://zo392.cdnedge.live/file/avple-images/hls/62d015913f2a4e362eb52b54/playlist.m3u8
+传媒36,https://8bb88.cdnedge.live/file/avple-images/hls/62d014dd3f2a4e362eb52b52/playlist.m3u8
+传媒37,https://1xp60.cdnedge.live/file/avple-images/hls/62d013753f2a4e362eb52b51/playlist.m3u8
+传媒01,https://1xp60.cdnedge.live/file/avple-images/hls/62d40c2e33356255121f1986/playlist.m3u8
+传媒02,https://d862cp.cdnedge.live/file/avple-images/hls/62d40c2e33356255121f1985/playlist.m3u8
+传媒03,https://q2cyl7.cdnedge.live/file/avple-images/hls/62d40b0133356255121f1983/playlist.m3u8
+传媒04,https://q2cyl7.cdnedge.live/file/avple-images/hls/62d40b0133356255121f1984/playlist.m3u8
+传媒05,https://1xp60.cdnedge.live/file/avple-images/hls/62d40a1133356255121f1982/playlist.m3u8
+传媒06,https://u89ey.cdnedge.live/file/avple-images/hls/62d2c7550876771b0a5ff9f6/playlist.m3u8
+传媒07,https://u89ey.cdnedge.live/file/avple-images/hls/62d2c6a10876771b0a5ff9f5/playlist.m3u8
+传媒08,https://je40u.cdnedge.live/file/avple-images/hls/62d2c5ed0876771b0a5ff9f4/playlist.m3u8
+传媒09,https://zo392.cdnedge.live/file/avple-images/hls/62d186b59ba01b6759166c03/playlist.m3u8
+传媒01,https://q2cyl7.cdnedge.live/file/avple-images/hls/62d1136d3f2a4e362eb52b79/playlist.m3u8
+传媒02,https://10j99.cdnedge.live/file/avple-images/hls/62d112bc3f2a4e362eb52b78/playlist.m3u8
+传媒03,https://zo392.cdnedge.live/file/avple-images/hls/62d111183f2a4e362eb52b75/playlist.m3u8
+传媒04,https://1xp60.cdnedge.live/file/avple-images/hls/62d1127e3f2a4e362eb52b77/playlist.m3u8
+传媒05,https://1xp60.cdnedge.live/file/avple-images/hls/62d112423f2a4e362eb52b76/playlist.m3u8
+传媒06,https://q2cyl7.cdnedge.live/file/avple-images/hls/62d10fad3f2a4e362eb52b73/playlist.m3u8
+传媒07,https://je40u.cdnedge.live/file/avple-images/hls/62d10ef93f2a4e362eb52b72/playlist.m3u8
+传媒08,https://1xp60.cdnedge.live/file/avple-images/hls/62d1109e3f2a4e362eb52b74/playlist.m3u8
+传媒09,https://1xp60.cdnedge.live/file/avple-images/hls/62d10e093f2a4e362eb52b71/playlist.m3u8
+传媒10,https://d862cp.cdnedge.live/file/avple-images/hls/62d10d563f2a4e362eb52b70/playlist.m3u8
+传媒11,https://q2cyl7.cdnedge.live/file/avple-images/hls/62d10d1a3f2a4e362eb52b6f/playlist.m3u8
+传媒12,https://je40u.cdnedge.live/file/avple-images/hls/62d10c673f2a4e362eb52b6e/playlist.m3u8
+传媒13,https://u89ey.cdnedge.live/file/avple-images/hls/62d10bb23f2a4e362eb52b6d/playlist.m3u8
+传媒14,https://u89ey.cdnedge.live/file/avple-images/hls/62d10aff3f2a4e362eb52b6c/playlist.m3u8
+传媒15,https://d862cp.cdnedge.live/file/avple-images/hls/62d10a873f2a4e362eb52b6b/playlist.m3u8
+传媒16,https://d862cp.cdnedge.live/file/avple-images/hls/62d10a103f2a4e362eb52b6a/playlist.m3u8
+传媒17,https://d862cp.cdnedge.live/file/avple-images/hls/62d109983f2a4e362eb52b69/playlist.m3u8
+传媒18,https://u89ey.cdnedge.live/file/avple-images/hls/62d1077d3f2a4e362eb52b66/playlist.m3u8
+传媒19,https://je40u.cdnedge.live/file/avple-images/hls/62d1091f3f2a4e362eb52b68/playlist.m3u8
+传媒20,https://10j99.cdnedge.live/file/avple-images/hls/62d108303f2a4e362eb52b67/playlist.m3u8
+传媒21,https://je40u.cdnedge.live/file/avple-images/hls/62d103443f2a4e362eb52b65/playlist.m3u8
+传媒22,https://e2fa6.cdnedge.live/file/avple-images/hls/62d0fffe3f2a4e362eb52b64/playlist.m3u8
+传媒23,https://q2cyl7.cdnedge.live/file/avple-images/hls/62d0ffc03f2a4e362eb52b63/playlist.m3u8
+传媒24,https://10j99.cdnedge.live/file/avple-images/hls/62d0fda53f2a4e362eb52b62/playlist.m3u8
+传媒25,https://je40u.cdnedge.live/file/avple-images/hls/62d0fc403f2a4e362eb52b60/playlist.m3u8
+传媒26,https://10j99.cdnedge.live/file/avple-images/hls/62d0fcb53f2a4e362eb52b61/playlist.m3u8
+传媒27,https://d862cp.cdnedge.live/file/avple-images/hls/62d0fc053f2a4e362eb52b5f/playlist.m3u8
+传媒28,https://w9n76.cdnedge.live/file/avple-images/hls/62d0fb153f2a4e362eb52b5d/playlist.m3u8
+传媒29,https://w9n76.cdnedge.live/file/avple-images/hls/62d0fa223f2a4e362eb52b5b/playlist.m3u8
+传媒30,https://10j99.cdnedge.live/file/avple-images/hls/62d0fad63f2a4e362eb52b5c/playlist.m3u8
+传媒31,https://10j99.cdnedge.live/file/avple-images/hls/62d0f9aa3f2a4e362eb52b5a/playlist.m3u8
+传媒32,https://e2fa6.cdnedge.live/file/avple-images/hls/62d0f87f3f2a4e362eb52b59/playlist.m3u8
+传媒33,https://zo392.cdnedge.live/file/avple-images/hls/62d0f80d3f2a4e362eb52b58/playlist.m3u8
+传媒34,https://1xp60.cdnedge.live/file/avple-images/hls/62d016fa3f2a4e362eb52b56/playlist.m3u8
+传媒35,https://zo392.cdnedge.live/file/avple-images/hls/62d015913f2a4e362eb52b54/playlist.m3u8
+传媒36,https://8bb88.cdnedge.live/file/avple-images/hls/62d014dd3f2a4e362eb52b52/playlist.m3u8
+传媒37,https://1xp60.cdnedge.live/file/avple-images/hls/62d013753f2a4e362eb52b51/playlist.m3u8
+传媒01,https://1xp60.cdnedge.live/file/avple-images/hls/62d40c2e33356255121f1986/playlist.m3u8
+传媒02,https://d862cp.cdnedge.live/file/avple-images/hls/62d40c2e33356255121f1985/playlist.m3u8
+传媒03,https://q2cyl7.cdnedge.live/file/avple-images/hls/62d40b0133356255121f1983/playlist.m3u8
+传媒04,https://q2cyl7.cdnedge.live/file/avple-images/hls/62d40b0133356255121f1984/playlist.m3u8
+传媒05,https://1xp60.cdnedge.live/file/avple-images/hls/62d40a1133356255121f1982/playlist.m3u8
+传媒06,https://u89ey.cdnedge.live/file/avple-images/hls/62d2c7550876771b0a5ff9f6/playlist.m3u8
+传媒07,https://u89ey.cdnedge.live/file/avple-images/hls/62d2c6a10876771b0a5ff9f5/playlist.m3u8
+传媒08,https://je40u.cdnedge.live/file/avple-images/hls/62d2c5ed0876771b0a5ff9f4/playlist.m3u8
+传媒09,https://zo392.cdnedge.live/file/avple-images/hls/62d186b59ba01b6759166c03/playlist.m3u8
+传媒01,https://q2cyl7.cdnedge.live/file/avple-images/hls/62d1136d3f2a4e362eb52b79/playlist.m3u8
+传媒02,https://10j99.cdnedge.live/file/avple-images/hls/62d112bc3f2a4e362eb52b78/playlist.m3u8
+传媒03,https://zo392.cdnedge.live/file/avple-images/hls/62d111183f2a4e362eb52b75/playlist.m3u8
+传媒04,https://1xp60.cdnedge.live/file/avple-images/hls/62d1127e3f2a4e362eb52b77/playlist.m3u8
+传媒05,https://1xp60.cdnedge.live/file/avple-images/hls/62d112423f2a4e362eb52b76/playlist.m3u8
+传媒06,https://q2cyl7.cdnedge.live/file/avple-images/hls/62d10fad3f2a4e362eb52b73/playlist.m3u8
+传媒07,https://je40u.cdnedge.live/file/avple-images/hls/62d10ef93f2a4e362eb52b72/playlist.m3u8
+传媒08,https://1xp60.cdnedge.live/file/avple-images/hls/62d1109e3f2a4e362eb52b74/playlist.m3u8
+传媒09,https://1xp60.cdnedge.live/file/avple-images/hls/62d10e093f2a4e362eb52b71/playlist.m3u8
+传媒10,https://d862cp.cdnedge.live/file/avple-images/hls/62d10d563f2a4e362eb52b70/playlist.m3u8
+传媒11,https://q2cyl7.cdnedge.live/file/avple-images/hls/62d10d1a3f2a4e362eb52b6f/playlist.m3u8
+传媒12,https://je40u.cdnedge.live/file/avple-images/hls/62d10c673f2a4e362eb52b6e/playlist.m3u8
+传媒13,https://u89ey.cdnedge.live/file/avple-images/hls/62d10bb23f2a4e362eb52b6d/playlist.m3u8
+传媒14,https://u89ey.cdnedge.live/file/avple-images/hls/62d10aff3f2a4e362eb52b6c/playlist.m3u8
+传媒15,https://d862cp.cdnedge.live/file/avple-images/hls/62d10a873f2a4e362eb52b6b/playlist.m3u8
+传媒16,https://d862cp.cdnedge.live/file/avple-images/hls/62d10a103f2a4e362eb52b6a/playlist.m3u8
+传媒17,https://d862cp.cdnedge.live/file/avple-images/hls/62d109983f2a4e362eb52b69/playlist.m3u8
+传媒18,https://u89ey.cdnedge.live/file/avple-images/hls/62d1077d3f2a4e362eb52b66/playlist.m3u8
+传媒19,https://je40u.cdnedge.live/file/avple-images/hls/62d1091f3f2a4e362eb52b68/playlist.m3u8
+传媒20,https://10j99.cdnedge.live/file/avple-images/hls/62d108303f2a4e362eb52b67/playlist.m3u8
+传媒21,https://je40u.cdnedge.live/file/avple-images/hls/62d103443f2a4e362eb52b65/playlist.m3u8
+传媒22,https://e2fa6.cdnedge.live/file/avple-images/hls/62d0fffe3f2a4e362eb52b64/playlist.m3u8
+传媒23,https://q2cyl7.cdnedge.live/file/avple-images/hls/62d0ffc03f2a4e362eb52b63/playlist.m3u8
+传媒24,https://10j99.cdnedge.live/file/avple-images/hls/62d0fda53f2a4e362eb52b62/playlist.m3u8
+传媒25,https://je40u.cdnedge.live/file/avple-images/hls/62d0fc403f2a4e362eb52b60/playlist.m3u8
+传媒26,https://10j99.cdnedge.live/file/avple-images/hls/62d0fcb53f2a4e362eb52b61/playlist.m3u8
+传媒27,https://d862cp.cdnedge.live/file/avple-images/hls/62d0fc053f2a4e362eb52b5f/playlist.m3u8
+传媒28,https://w9n76.cdnedge.live/file/avple-images/hls/62d0fb153f2a4e362eb52b5d/playlist.m3u8
+传媒29,https://w9n76.cdnedge.live/file/avple-images/hls/62d0fa223f2a4e362eb52b5b/playlist.m3u8
+传媒30,https://10j99.cdnedge.live/file/avple-images/hls/62d0fad63f2a4e362eb52b5c/playlist.m3u8
+传媒31,https://10j99.cdnedge.live/file/avple-images/hls/62d0f9aa3f2a4e362eb52b5a/playlist.m3u8
+传媒32,https://e2fa6.cdnedge.live/file/avple-images/hls/62d0f87f3f2a4e362eb52b59/playlist.m3u8
+传媒33,https://zo392.cdnedge.live/file/avple-images/hls/62d0f80d3f2a4e362eb52b58/playlist.m3u8
+传媒34,https://1xp60.cdnedge.live/file/avple-images/hls/62d016fa3f2a4e362eb52b56/playlist.m3u8
+传媒35,https://zo392.cdnedge.live/file/avple-images/hls/62d015913f2a4e362eb52b54/playlist.m3u8
+传媒36,https://8bb88.cdnedge.live/file/avple-images/hls/62d014dd3f2a4e362eb52b52/playlist.m3u8
+传媒37,https://1xp60.cdnedge.live/file/avple-images/hls/62d013753f2a4e362eb52b51/playlist.m3u8
+传媒01,https://1xp60.cdnedge.live/file/avple-images/hls/62d40c2e33356255121f1986/playlist.m3u8
+传媒02,https://d862cp.cdnedge.live/file/avple-images/hls/62d40c2e33356255121f1985/playlist.m3u8
+传媒03,https://q2cyl7.cdnedge.live/file/avple-images/hls/62d40b0133356255121f1983/playlist.m3u8
+传媒04,https://q2cyl7.cdnedge.live/file/avple-images/hls/62d40b0133356255121f1984/playlist.m3u8
+传媒05,https://1xp60.cdnedge.live/file/avple-images/hls/62d40a1133356255121f1982/playlist.m3u8
+传媒06,https://u89ey.cdnedge.live/file/avple-images/hls/62d2c7550876771b0a5ff9f6/playlist.m3u8
+传媒07,https://u89ey.cdnedge.live/file/avple-images/hls/62d2c6a10876771b0a5ff9f5/playlist.m3u8
+传媒08,https://je40u.cdnedge.live/file/avple-images/hls/62d2c5ed0876771b0a5ff9f4/playlist.m3u8
+传媒09,https://zo392.cdnedge.live/file/avple-images/hls/62d186b59ba01b6759166c03/playlist.m3u8
+传媒01,https://q2cyl7.cdnedge.live/file/avple-images/hls/62d1136d3f2a4e362eb52b79/playlist.m3u8
+传媒02,https://10j99.cdnedge.live/file/avple-images/hls/62d112bc3f2a4e362eb52b78/playlist.m3u8
+传媒03,https://zo392.cdnedge.live/file/avple-images/hls/62d111183f2a4e362eb52b75/playlist.m3u8
+传媒04,https://1xp60.cdnedge.live/file/avple-images/hls/62d1127e3f2a4e362eb52b77/playlist.m3u8
+传媒05,https://1xp60.cdnedge.live/file/avple-images/hls/62d112423f2a4e362eb52b76/playlist.m3u8
+传媒06,https://q2cyl7.cdnedge.live/file/avple-images/hls/62d10fad3f2a4e362eb52b73/playlist.m3u8
+传媒07,https://je40u.cdnedge.live/file/avple-images/hls/62d10ef93f2a4e362eb52b72/playlist.m3u8
+传媒08,https://1xp60.cdnedge.live/file/avple-images/hls/62d1109e3f2a4e362eb52b74/playlist.m3u8
+传媒09,https://1xp60.cdnedge.live/file/avple-images/hls/62d10e093f2a4e362eb52b71/playlist.m3u8
+传媒10,https://d862cp.cdnedge.live/file/avple-images/hls/62d10d563f2a4e362eb52b70/playlist.m3u8
+传媒11,https://q2cyl7.cdnedge.live/file/avple-images/hls/62d10d1a3f2a4e362eb52b6f/playlist.m3u8
+传媒12,https://je40u.cdnedge.live/file/avple-images/hls/62d10c673f2a4e362eb52b6e/playlist.m3u8
+传媒13,https://u89ey.cdnedge.live/file/avple-images/hls/62d10bb23f2a4e362eb52b6d/playlist.m3u8
+传媒14,https://u89ey.cdnedge.live/file/avple-images/hls/62d10aff3f2a4e362eb52b6c/playlist.m3u8
+传媒15,https://d862cp.cdnedge.live/file/avple-images/hls/62d10a873f2a4e362eb52b6b/playlist.m3u8
+传媒16,https://d862cp.cdnedge.live/file/avple-images/hls/62d10a103f2a4e362eb52b6a/playlist.m3u8
+传媒17,https://d862cp.cdnedge.live/file/avple-images/hls/62d109983f2a4e362eb52b69/playlist.m3u8
+传媒18,https://u89ey.cdnedge.live/file/avple-images/hls/62d1077d3f2a4e362eb52b66/playlist.m3u8
+传媒19,https://je40u.cdnedge.live/file/avple-images/hls/62d1091f3f2a4e362eb52b68/playlist.m3u8
+传媒20,https://10j99.cdnedge.live/file/avple-images/hls/62d108303f2a4e362eb52b67/playlist.m3u8
+传媒21,https://je40u.cdnedge.live/file/avple-images/hls/62d103443f2a4e362eb52b65/playlist.m3u8
+传媒22,https://e2fa6.cdnedge.live/file/avple-images/hls/62d0fffe3f2a4e362eb52b64/playlist.m3u8
+传媒23,https://q2cyl7.cdnedge.live/file/avple-images/hls/62d0ffc03f2a4e362eb52b63/playlist.m3u8
+传媒24,https://10j99.cdnedge.live/file/avple-images/hls/62d0fda53f2a4e362eb52b62/playlist.m3u8
+传媒25,https://je40u.cdnedge.live/file/avple-images/hls/62d0fc403f2a4e362eb52b60/playlist.m3u8
+传媒26,https://10j99.cdnedge.live/file/avple-images/hls/62d0fcb53f2a4e362eb52b61/playlist.m3u8
+传媒27,https://d862cp.cdnedge.live/file/avple-images/hls/62d0fc053f2a4e362eb52b5f/playlist.m3u8
+传媒28,https://w9n76.cdnedge.live/file/avple-images/hls/62d0fb153f2a4e362eb52b5d/playlist.m3u8
+传媒29,https://w9n76.cdnedge.live/file/avple-images/hls/62d0fa223f2a4e362eb52b5b/playlist.m3u8
+传媒30,https://10j99.cdnedge.live/file/avple-images/hls/62d0fad63f2a4e362eb52b5c/playlist.m3u8
+传媒31,https://10j99.cdnedge.live/file/avple-images/hls/62d0f9aa3f2a4e362eb52b5a/playlist.m3u8
+传媒32,https://e2fa6.cdnedge.live/file/avple-images/hls/62d0f87f3f2a4e362eb52b59/playlist.m3u8
+传媒33,https://zo392.cdnedge.live/file/avple-images/hls/62d0f80d3f2a4e362eb52b58/playlist.m3u8
+传媒34,https://1xp60.cdnedge.live/file/avple-images/hls/62d016fa3f2a4e362eb52b56/playlist.m3u8
+传媒35,https://zo392.cdnedge.live/file/avple-images/hls/62d015913f2a4e362eb52b54/playlist.m3u8
+传媒36,https://8bb88.cdnedge.live/file/avple-images/hls/62d014dd3f2a4e362eb52b52/playlist.m3u8
+传媒37,https://1xp60.cdnedge.live/file/avple-images/hls/62d013753f2a4e362eb52b51/playlist.m3u8
 
 
 
