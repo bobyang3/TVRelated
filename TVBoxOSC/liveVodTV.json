@@ -234,32 +234,6 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
     },
-    // {
-    //   "name": "SAO0",
-    //   "type": 0,
-    //   "url": "./libs/tv/tvlive.txt",
-    //   "ua": "okhttp/3.15",
-    //   "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-    //   "pass": true,
-    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
-    // },
-    // {
-    //   "name": "IPV6",
-    //   "type": 0,
-    //   "url": "./lib/tv/ipv6.m3u",
-    //   "ua": "okhttp/3.15",
-    //   "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-    //   "pass": true,
-    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
-    // },
-    // {
-    //   "name": "🇹🇼4GTV",
-    //   "url": "https://www.dussl.icu/4gtv_dussl.m3u",
-    //   "ua": "okhttp/3.15",
-    //   "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-    //   "pass": true,
-    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
-    // },
     {
       "name": "香蕉哥直播",
       "url": "https://tv.iill.top/m3u/Gather",
@@ -267,14 +241,6 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "pass": true,
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    // {
-    //   "name": "UPLive",
-    //   "url": "https://fm1077.serv00.net/anbo/",
-    //   "ua": "okhttp/3.15",
-    //   "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-    //   "pass": true,
-    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
-    // }
+    }
   ]
 }
