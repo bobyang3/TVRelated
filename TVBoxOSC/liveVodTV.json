@@ -41,14 +41,14 @@
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
       "name": "高天流雲 No.1"
     },
-    // {
-    //   "url": "http://ok321.top/tv",
-    //   "name": "OK"
-    // },
     {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json", //Decoder: https://shixiong.alwaysdata.net/
       "name": "Guot55, localhost lib"
     },
+    {
+      "url": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Fjsm.json ?ref=main",
+      "name": "月光寶盒"
+      },
     {
       "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
       "name": "Qist, localhost JS"
@@ -62,6 +62,78 @@
       "name": "Liucn, localhost lib"
     },
     {
+      "url": "http://我不是.摸魚兒.top",
+      "name": "摸魚"
+      },
+      {
+      "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
+      "name": "PG"
+      },
+      {
+      "url": "http://ok321.top/ok",
+      "name": "OK"
+      },
+      {
+      "url": "http://tvbox.王二小放牛娃.top",
+      "name": "王二小"
+      },
+      {
+      "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
+      "name": "道長"
+      },
+      {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "name": "香雅晴"
+      },
+      {
+      "url": "http://home.jundie.top:81/top98.json",
+      "name": "俊佬"
+      },
+      {
+      "url": "https://100km.top/0",
+      "name": "Ray明"
+      },
+      {
+      "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
+      "name": "D佬魔改"
+      },
+      {
+      "url": "https://raw.liucn.cc/box/m.json",
+      "name": "老劉備"
+      },
+      {
+      "url": "https://cn.kstore.space/download/2883/0110.txt",
+      "name": "螞蟻"
+      },
+      {
+      "url": "http://v.nxog.top/m/111.php?ou=公號歐歌app&mz=index&jar=index&123&b=歐歌",
+      "name": "歐歌"
+      },
+      {
+      "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B. m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
+      "name": "吾愛"
+      },
+      {
+      "url": "http://itvbox.cc/雲星日記",
+      "name": "雲星日記"
+      },
+      {
+      "url": "https://szyyds.cn/tv/x.json",
+      "name": "小馬"
+      },
+      {
+      "url": "https://yydf.540734621.xyz/QQ/yydf2024.json",
+      "name": "業餘打發"
+      },
+      {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+      "name": "瀟灑"
+      },
+      {
+      "url": "http://cdn.qiaoji8.com/tvbox.json",
+      "name": "巧計"
+      },
+    {
       "url": "http://ygbhbox.3vfree.club/pg/jsm.json",
       "name": "寶盒"
     },
@@ -73,10 +145,10 @@
       "url": "https://fmbox.cc",
       "name": "星辰"
     },
-    {
-      "url": "http://www.饭太硬.com/tv",
-      "name": "飯太硬"
-    },
+    // {
+    //   "url": "http://www.饭太硬.com/tv",
+    //   "name": "飯太硬"
+    // },
     {
       "url": "https://pastebin.com/raw/5NHaxyGR",
       "name": "道長降魔"
@@ -95,11 +167,11 @@
     },
     {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
-      "name": "瀟灑線路"
+      "name": "瀟灑"
     },
     {
       "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
-      "name": "D佬線路"
+      "name": "D佬"
     },
     {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
@@ -156,7 +228,7 @@
     },
     {
       "url": "https://www.xn--sss604efuw.com/tv",
-      "name": "饭太硬"
+      "name": "飯太硬"
     },
     {
       "name": "幸福老罗",
@@ -164,11 +236,11 @@
     },
     {
       "url": "http://like.肥猫.com/你好",
-      "name": "肥猫线路"
+      "name": "肥猫"
     },
     {
       "url": "https://mirror.ghproxy.com/https://mirror.ghproxy.com/https://raw.githubusercontent.com/zengchaoqun0625/movies/main/feimao",
-      "name": "哈哈线路"
+      "name": "哈哈"
     },
     {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
@@ -185,6 +257,15 @@
     {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
       "name": "高天流雲 XYQ"
+    },
+    {
+      "key": "push_agent",
+      "name": "RobYang https://rb.gy/4s4hbd",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "changeable": 0,
+      "timeout": 60
     },
 
     //-------------- Kids  ------------
