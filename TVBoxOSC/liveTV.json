@@ -58,15 +58,6 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "串流連結｜台港中日韓際(換慢)",
-      "url": "https://www.stream-link.org/stream-link.m3u",
-      "type": 0,
-      "ua": "okhttp/4.12.0",
-      "timeout": 5,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
       "name": "U6V｜中台港",
       "url": "http://u6v.cn/5MF6C7",
       "type": 0,
@@ -75,8 +66,6 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-
-
     {
       "name": "一盒｜港臺際",
       "type": 0,
@@ -459,6 +448,15 @@
       "url": "https://files.catbox.moe/fk8cnn.txt",
       //"_playerType": 2,
       "ua": "okhttp/3.15",
+      "timeout": 5,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "串流連結｜台港中日韓際(換慢)",
+      "url": "https://www.stream-link.org/stream-link.m3u",
+      "type": 0,
+      "ua": "okhttp/4.12.0",
       "timeout": 5,
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
