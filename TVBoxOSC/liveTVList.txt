@@ -3,21 +3,20 @@ parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
 三立NEWS+,https://m.youtube.com/watch?v=oZdzzvxTfUY
+三立inews, https://www.youtube.com/watch?v=CKjSm5ZeehE
 公視新聞網,https://www.youtube.com/watch?v=quwqlazU-c8
 民視新聞,http://www.youtube.com/watch?v=ylYJSBUgaMA
 民視戲劇,http://www.youtube.com/live/6CQZxYpW9q4
-
 台視新聞,http://www.youtube.com/watch?v=xL0ch83RAK8
 寰宇新聞,http://m.youtube.com/watch?v=6IquAgfvYmc
 寰宇新聞台灣台,http://m.youtube.com/live/w87VGpgd90U
 東森財經股市,https://www.youtube.com/watch?v=LbS-xQ67fos
 東森財經新聞,https://www.youtube.com/live/WHEPzbFA3hw
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
-東森財經新聞,https://tv.iill.top/youtube/57ETFN
+東森Live, https://www.youtube.com/watch?v=R2iMq5LKXco
 mnews鏡新聞,https://www.youtube.com/live/5n0y6b0Q25o 
 新唐人,https://www.youtube.com/watch?v=WIhgU_mc05A
 華視新聞,http://m.youtube.com/watch?v=wM0g8EoUZ_E
-
 中天新聞1台,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新聞2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
