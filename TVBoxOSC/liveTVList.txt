@@ -590,7 +590,7 @@ Now Golf 3,http://23.26.239.95:3599/xsj.php?id=now-golf3
 
 
 js=https://files.catbox.moe/7yy0s6.js
-臺灣 Taiwan,#genre#
+臺灣 Taiwan_5566,#genre#
 AXN, http://?id=axn_twn
 CINEMAX, http://?id=cinemax_twn
 EYE戲劇, http://?id=eyetvxiju_twn
@@ -672,7 +672,7 @@ CN卡通, http://?id=momo1_twn
 龍華洋片, http://?id=lunghuawestern_twn
 龍華經典, http://?id=lunghuajingdian_twn
 龍華電影, http://?id=xingwei_movie
-馬來西亞 Malaysia,#genre#
+馬來西亞 Malaysia_5566,#genre#
 TV1, http://?id=TV1
 TV1(備用), http://?id=TV1_backup
 TV2, http://?id=TV2
@@ -753,7 +753,7 @@ Al-Jazeera, http://?id=aljazeera_twn
 Rock Entertainment, http://?id=Rockentertain
 Showcase, http://?id=Showcase_mega
 BolaArena 2, http://?id=Bolaarena2
-新加坡 Singapore,#genre#
+新加坡 Singapore_5566,#genre#
 Channel 5, http://?id=Channel5HD
 Channel 5(備用), http://?id=Ch5_mega
 Channel 8, http://?id=Channel8HD
@@ -766,7 +766,7 @@ Vasantham, http://?id=Vasantham
 Vasantham(備用), http://?id=Vasantham_mega
 CNA, http://?id=cna
 CNA(備用), http://?id=cna_twn
-印尼 Indonesia,#genre#
+印尼 Indonesia_5566,#genre#
 TVRI National, http://?id=TVRI
 RCTI, http://?id=Rcti
 Kompass TV, http://?id=Kompass
@@ -809,7 +809,7 @@ tvN Movie, http://?id=Tvnmovie
 Celestial Movies HD, http://?id=Celestialindo
 Rock Actions, http://?id=Rockaction
 Rock Entertainment, http://?id=Rockentertain
-香港 Hongkong,#genre#
+香港 Hongkong_5566,#genre#
 J2(備用), http://?id=j2_hkdavid
 J2, http://?id=j2_twn
 RHK 31, http://?id=rhk31_twn
@@ -827,7 +827,7 @@ iNews 新聞台, http://?id=inews_twn
 鳳凰衛視, http://?id=phoenixtv_hd
 鳳凰資訊, http://?id=phoenixinfo_hd
 鳳凰香港, http://?id=hkphoenix_twn
-中國 China,#genre#
+中國 China_5566,#genre#
 CCTV-1, http://?id=cctv1
 CCTV-2, http://?id=cctv2
 CCTV-3, http://?id=cctv3
@@ -861,7 +861,7 @@ CCTV-17, http://?id=cctv17
 東方衛視, http://?id=dongfangweishi_twn
 CGTN, http://?id=CGTN
 鳳凰資訊, http://?id=phoenixinfo_hd
-體育 Sports,#genre#
+體育 Sports_5566,#genre#
 Supersports 1, http://?id=Assp1
 Supersports 1(備用), http://?id=go_assp1
 Supersportq 1(備用2), http://?id=Assp1_mega
@@ -921,7 +921,7 @@ Bein 6 Sports, http://?id=bein6_mega
 Bein 7 Sports, http://?id=bein7_mega
 Rugby Pass TV, http://?id=Rugbypasstv
 BolaArena 2, http://?id=Bolaarena2
-印度 Indian,#genre#
+印度 Indian_5566,#genre#
 Sun TV HD, http://?id=Suntv
 Star Vijay, http://?id=Starvijay
 Colors Tamil, http://?id=Colorstam_mega
@@ -959,7 +959,7 @@ Bollyone, http://?id=Bollyone
 Astro Sunmusic, http://?id=Sunmusic
 Sony Pix HD, http://?id=sonypix_mega
 Vijay Super, http://?id=vijaysuper_raj
-電影 Movie,#genre#
+電影 Movie_5566,#genre#
 AXN, http://?id=axn_twn
 Animax, http://?id=Animax
 Astrol Kplus, http://?id=Kplus
@@ -996,7 +996,7 @@ tvN Movie, http://?id=Tvnmovie
 美亞電影, http://?id=meiyamovie_twn
 龍華洋片, http://?id=lunghuawestern_twn
 龍祥时代, http://?id=lungxiangtime_twn
-紀錄 Documentary,#genre#
+紀錄 Documentary_5566,#genre#
 AFC 亞洲旅遊台, http://?id=asiatravel_twn
 Animal Planet (Eng), http://?id=AnimalPlanet
 Animal_Planet, http://?id=animalplanet_twn
@@ -1019,7 +1019,7 @@ TLC, http://?id=Tlc
 TLC Asia, http://?id=tlc_twn
 亞洲美食, http://?id=afc_twn
 美食星球, http://?id=foodplanet_twn
-新聞 News,#genre#
+新聞 News_5566,#genre#
 ABC News, http://?id=abcnews_glo
 Al-Jazeera, http://?id=aljazeera_twn
 BBC World News, http://?id=Bbcnews
@@ -1038,7 +1038,7 @@ France 24, http://?id=france24_twn
 NHK World, http://?id=nhkworld_japan
 Skynews, http://?id=skynews_antik
 東森財經新聞, http://?id=ettvcaijing_twn
-兒童 Kids,#genre#
+兒童 Kids_5566,#genre#
 Animax, http://?id=Animax
 Baby TV Eng, http://?id=Babytv
 Baby TV, http://?id=babytv_twn
@@ -1054,7 +1054,7 @@ Nick Jr, http://?id=Nickjr
 Nickelodeon, http://?id=Nickelodeon
 東森幼幼 Yoyo TV, http://?id=yoyo_twn
 靖天卡通台, http://?id=jingtiancartoon_twn
-泰國 Thailand,#genre#
+泰國 Thailand_5566,#genre#
 Amarin, http://?id=amarin_pat
 Ch 8, http://?id=ch8_pat
 Channel 3 Thailand, http://?id=ch3_pat
@@ -1074,7 +1074,7 @@ Thairath, http://?id=thairath_pat
 Tnn24, http://?id=tnn24_pat
 Workpoint, http://?id=workpoint_pat
 tpbs, http://?id=tpbs_pat
-英國 United Kingdom,#genre#
+英國 United Kingdom_5566,#genre#
 Al-Jazeera, http://?id=aljazeera_twn
 Animal Planet (Eng), http://?id=AnimalPlanet
 Axn HD, http://?id=Axn
@@ -1122,7 +1122,7 @@ Thrill, http://?id=Thrill
 Warner TV, http://?id=WarnerTV
 itv 1, http://?id=itv1_antik
 itv 2, http://?id=itv2_antik
-越南 Vietnam,#genre#
+越南 Vietnam_5566,#genre#
 ANTV, http://?id=viet_antv
 BPTV 2, http://?id=viet_bptv2
 BRT HD, http://?id=viet_brt
@@ -1135,7 +1135,7 @@ HTV 9, http://?id=viet_htv9
 PTTH 1, http://?id=viet_ptth1
 VTV 1, http://?id=viet_vtv1
 VTV 7, http://?id=viet_vtv7
-韓國 Korea,#genre#
+韓國 Korea_5566,#genre#
 All the Kpop, http://?id=allthekpop_korea
 Apps TV, http://?id=appongoogle_korea
 Arirang HD, http://?id=arirang_korea
@@ -1153,7 +1153,7 @@ YTN Korean, http://?id=ytnkorean_korea
 YTN Science, http://?id=ytnscience_korea
 YTN, http://?id=ytn_korea
 Yonhap News, http://?id=yonhapnews_korea
-日本 Japan,#genre#
+日本 Japan_5566,#genre#
 BS-TBS, http://?id=bstbs_japan
 BSジャパン 181, http://?id=bs181_japan
 BSフジ BS Fuji, http://?id=bsfuji_japan
