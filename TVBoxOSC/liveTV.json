@@ -107,15 +107,6 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "ETH(JS)｜蜂蜜影視0802版後",
-      "api": "https://tang.hz.cz/js/ethtv.js",
-      "type": 3,
-      "ua": "okhttp/4.12.0",
-      "timeout": 5,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
       "name": "傑克森0829CR",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/CR.txt",
@@ -438,9 +429,37 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+    // {
+    //   "name": "貓箱3｜蜂蜜影視0802版後", //2024-08-10
+    //   "api": "https://files.catbox.moe/4dqdzg.js",
+    //   "type": 3,
+    //   "ua": "okhttp/4.12.0",
+    //   "timeout": 5,
+    //   "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
+    // },
     {
-      "name": "貓箱3｜蜂蜜影視0802版後", //2024-08-10
-      "api": "https://files.catbox.moe/4dqdzg.js",
+      "name": "ETH(JS)｜蜂蜜影視0802版後", //2024-08-20 //404
+      "api": "https://tang.hz.cz/js/ethtv.js",
+      "type": 3,
+      "ua": "okhttp/4.12.0",
+      "timeout": 5,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "JS 測試",
+      "type": 3,
+      "ua": "okhttp/4.12.0",
+      "api": "https://files.catbox.moe/7yy0s6.js",
+      "url": "https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTVList.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ext": ""
+    },
+    {
+      "name": "貓箱3｜蜂蜜影視0802版後", 
+      "api": "https://files.catbox.moe/7yy0s6.js",
       "type": 3,
       "ua": "okhttp/4.12.0",
       "timeout": 5,
