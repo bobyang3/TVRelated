@@ -205,6 +205,19 @@ TVBS Asia,http://23.26.239.95:3599/xsj.php?id=tvbs-asia
 中視,http://23.26.239.95:3599/xsj.php?id=ctv
 中視菁采臺,http://23.26.239.95:3599/xsj.php?id=bravo
 中天亞洲,http://23.26.239.95:3599/xsj.php?id=cti-asia
+
+
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
+ELEVEN体育3,rtmp://f13h.mine.nu/sat/tv751
+
+
+
 中天綜合,http://23.26.239.95:3599/xsj.php?id=ctitv36
 華視,http://23.26.239.95:3599/xsj.php?id=cts
 LiveABC 互動英語頻道,http://23.26.239.95:3599/xsj.php?id=liveabc
