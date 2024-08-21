@@ -139,7 +139,8 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/bobyang3/TVRelated/
 --------------------------------------------------------------------
 
 ## EPG:
-1.  https://assets.livednow.com/epg.xml 2.  https://diyp.112114.xyz/?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
+1.  https://assets.livednow.com/epg.xml
+2.  https://diyp.112114.xyz/?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
 3.  https://diyp1.112114.xyz/?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
 1.  https://diyp2.112114.xyz/?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
 6.  https://epg.112114.xyz/?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
