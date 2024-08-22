@@ -7,8 +7,9 @@ Js=https://clonglii.serv00.net/user_data/youtube020.js?t=1719035247000
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 Decoder=3
-
-三立 inews,https://www.youtube.com/watch?v=CKjSm5ZeehE
+民視新聞,http://www.youtube.com/watch?v=ylYJSBUgaMA
+民視新聞,https://m.youtube.com/@FTV_News/streams/1
+三立 iNews,https://www.youtube.com/watch?v=CKjSm5ZeehE
 三立 iNews,https://m.youtube.com/@setinews/streams/1
 三立 Live,https://m.youtube.com/@setnews/live
 三立 NEWS+,https://m.youtube.com/watch?v=oZdzzvxTfUY
@@ -21,9 +22,6 @@ Decoder=3
 中天新聞2臺,https://www.youtube.com/watch?v=WPfPjbOLNfE
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 中視新聞,https://m.youtube.com/@twctvnews/streams/1
-人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8&data=normal
-佛衛慈悲台,https://btsu4k5-hisng.cdn.hinet.net/live/pool/btsLive2/hievent-hls/btsLive2.m3u8&data=normal
-倪珍(ai)24小時播新聞,https://m.youtube.com/@NOWnews-sp2di/streams/1
 全球財經台,https://m.youtube.com/@user-ro8bu3to2t/streams/1
 公視(台灣節點),https://m.youtube.com/@ptslivestream/streams/1
 公視台語台(台灣節點),https://m.youtube.com/channel/UCX6SRupi5lTDbIFJEOpReCQ/streams/1
@@ -64,9 +62,6 @@ Decoder=3
 東森財經股市,https://m.youtube.com/@57ETFN/streams/1
 正德電視台,https://m.youtube.com/@chengteTV/streams/1
 正德電視臺,https://www.youtube.com/watch?v=AfcVHGIRbP8
-民視戲劇,http://www.youtube.com/live/6CQZxYpW9q4
-民視新聞,http://www.youtube.com/watch?v=ylYJSBUgaMA
-民視新聞台,https://m.youtube.com/@FTV_News/streams/1
 淨空老法師直播台,https://m.youtube.com/@amtbhz/streams/1
 淨空老法師直播台,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8&data=normal
 清海無上師,https://m.youtube.com/@SupremeMasterTVlive/live
@@ -182,7 +177,7 @@ CBN基督教廣播網絡新聞(美國)(CBN News),https://m.youtube.com/@CBNnewso
 (日)北海道電視台(日本地方)(HTB),https://m.youtube.com/@htbnews/streams/1
 (日)名古屋電視台(日本地方)(名古屋テレビ),https://m.youtube.com/@NagoyaTVnewsCH/streams/1
 沃特曼廣播電台(美國地方)(ABC7 SWFL),https://m.youtube.com/@abc7swfl798/streams/1
-
+倪珍(ai)24小時播新聞,https://m.youtube.com/@NOWnews-sp2di/streams/1
 
 
 
@@ -206,6 +201,7 @@ Js=https://clonglii.serv00.net/user_data/youtube020.js?t=1719035247000
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 Decoder=3
+民視戲劇,http://www.youtube.com/live/6CQZxYpW9q4
 華視綜藝頻道,http://m.youtube.com/live/IfKO17h4pVE
 華視戲劇頻道,http://m.youtube.com/live/WFXI3igmwDk 
 中視亞洲臺,https://www.youtube.com/live/s2waUruqze4 
