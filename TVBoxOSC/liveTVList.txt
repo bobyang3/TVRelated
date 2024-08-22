@@ -603,8 +603,10 @@ Now Golf 3,http://23.26.239.95:3599/xsj.php?id=now-golf3
 
 
 
-臺灣 Taiwan,#genre#
+臺灣 Taiwan test,#genre#
 js=https://files.catbox.moe/7yy0s6.js
+parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 AXN, http://?id=axn_twn
 CINEMAX, http://?id=cinemax_twn
 EYE戲劇, http://?id=eyetvxiju_twn
