@@ -1,34 +1,32 @@
+Js=https://clonglii.serv00.net/user_data/youtube020.js?t=1719035247000
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Decoder=3
+
 📺YouTube 新聞,#genre#
 Js=https://clonglii.serv00.net/user_data/youtube020.js?t=1719035247000
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 Decoder=3
-三立 iNEWS,https://tv.iill.top/youtube/setinews
+
 三立 inews,https://www.youtube.com/watch?v=CKjSm5ZeehE
 三立 iNews,https://m.youtube.com/@setinews/streams/1
 三立 Live,https://m.youtube.com/@setnews/live
 三立 NEWS+,https://m.youtube.com/watch?v=oZdzzvxTfUY
 三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
-三立新聞,https://tv.iill.top/youtube/setnews
 世界電視台,https://m.youtube.com/@520wtv/streams/1
 中天亞洲台,https://m.youtube.com/@CtiAsia/streams/1
 中天新聞,https://m.youtube.com/@中天電視CtiTv/streams/1
-中天新聞1臺,https://tv.iill.top/youtube/CtiNews
 中天新聞1臺,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新聞2台,https://m.youtube.com/@ctiplusnews/streams/1
-中天新聞2臺,https://tv.iill.top/youtube/WPfPjbOLNfE
 中天新聞2臺,https://www.youtube.com/watch?v=WPfPjbOLNfE
-中視新聞,https://tv.iill.top/youtube/twctvnews
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 中視新聞,https://m.youtube.com/@twctvnews/streams/1
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8&data=normal
 佛衛慈悲台,https://btsu4k5-hisng.cdn.hinet.net/live/pool/btsLive2/hievent-hls/btsLive2.m3u8&data=normal
 倪珍(ai)24小時播新聞,https://m.youtube.com/@NOWnews-sp2di/streams/1
-倪珍24小時播新聞,https://tv.iill.top/youtube/NOWnews-sp2di
 全球財經台,https://m.youtube.com/@user-ro8bu3to2t/streams/1
 公視(台灣節點),https://m.youtube.com/@ptslivestream/streams/1
 公視台語台(台灣節點),https://m.youtube.com/channel/UCX6SRupi5lTDbIFJEOpReCQ/streams/1
-公視新聞,https://tv.iill.top/youtube/PNNPTS
 公視新聞,https://m.youtube.com/@PNNPTS/streams/1
 公視新聞網,https://www.youtube.com/watch?v=quwqlazU-c8
 創世電視,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8&data=normal
@@ -46,17 +44,14 @@ Decoder=3
 好消息,https://live.streamingfast.net/osmflivech1.m3u8&data=normal$decoder=2
 好消息2,https://dqhxk7sbp7xog.cloudfront.net/osmflivech2.m3u8&data=normal$decoder=2
 寰宇新聞,http://m.youtube.com/watch?v=6IquAgfvYmc
-寰宇新聞,https://tv.iill.top/youtube/globalnewstw
 寰宇新聞,https://m.youtube.com/@globalnewstw/streams/1
 寰宇新聞2,https://m.youtube.com/@globalnewstw/streams/3
 寰宇新聞台灣台,https://m.youtube.com/@globalnewstw/streams/2
 寰宇新聞臺灣臺,http://m.youtube.com/live/w87VGpgd90U
 寰宇財經台,https://m.youtube.com/@globlemoney/streams/1
-寰宇財經新聞,https://tv.iill.top/youtube/globlemoney
 希望電視台,https://videodelivery.net/f9fac529ef8cc8f8dc702ac06116ad1b/manifest/video.m3u8&data=normal
 新唐人,https://www.youtube.com/watch?v=WIhgU_mc05A
 新唐人亞太電視台,https://m.youtube.com/@NTDAPTV/streams/1
-新聞大白話,https://tv.iill.top/youtube/tvbstalk
 東京新宿,https://www.youtube.com/watch?v=DjdUEyjx8GM
 東森Live,https://www.youtube.com/watch?v=R2iMq5LKXco
 東森LIVE,https://m.youtube.com/watch?v=E0zhe2gkXBs
@@ -71,7 +66,6 @@ Decoder=3
 正德電視臺,https://www.youtube.com/watch?v=AfcVHGIRbP8
 民視戲劇,http://www.youtube.com/live/6CQZxYpW9q4
 民視新聞,http://www.youtube.com/watch?v=ylYJSBUgaMA
-民視新聞,https://tv.iill.top/youtube/FTV_News
 民視新聞台,https://m.youtube.com/@FTV_News/streams/1
 淨空老法師直播台,https://m.youtube.com/@amtbhz/streams/1
 淨空老法師直播台,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8&data=normal
@@ -82,13 +76,10 @@ Decoder=3
 澳洲ABCNews,https://www.youtube.com/watch?v=vOTiJkg1voo
 生命電視台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080&data=normal
 臺視新聞,http://www.youtube.com/watch?v=xL0ch83RAK8
-臺視新聞,https://tv.iill.top/youtube/TTV_NEWS
 華視新聞,http://m.youtube.com/watch?v=wM0g8EoUZ_E
-華視新聞,https://tv.iill.top/youtube/CtsTw
 華視新聞,https://m.youtube.com/@CtsTw/streams/1
 華藏,https://www.youtube.com/watch?v=ypmrwYeLAaQ
 華藏衛視,https://m.youtube.com/@hztv2212/streams/1
-鏡新聞,https://tv.iill.top/youtube/mnews-tw
 鏡新聞,https://m.youtube.com/@mnews-tw/streams/1
 非凡商業,https://www.youtube.com/watch?v=QlJJEwMYzEc
 香港佛陀教育協會,https://i.cibei.org/live/hd/playlist.m3u8&data=normal
@@ -111,56 +102,39 @@ Decoder=3
 (美)國家地理頻道野生,https://m.youtube.com/@NatGeoWild/streams/1
 (美)國家地理頻道野生2,https://m.youtube.com/@NatGeoWild/streams/2
 (美)阿里郎國際(推廣韓國)(Arirang TV),https://m.youtube.com/@KOREAarirangTV/streams/1
-8 world,https://tv.iill.top/youtube/8worldSG
 8視界(新加坡)(8world),https://m.youtube.com/@8worldSG/live
-ABC NEWS,https://tv.iill.top/youtube/ABCNews
 ABC News,https://www.youtube.com/live/-mvUkiILTqI 
-ABC NEWS (Australia),https://tv.iill.top/youtube/abcnewsaustralia
-Al Jazeera English,https://tv.iill.top/youtube/aljazeeraenglish
-AlJazeera Arabic,https://tv.iill.top/youtube/aljazeera
-ANN NEWS,https://tv.iill.top/youtube/ANNnewsCH
-BNE TV「新西蘭」,https://tv.iill.top/youtube/BNETV28
 CBTV十方法界弘法電視台,https://m.youtube.com/watch?v=77SHFx1c8Lk
 CCTV中文國際,https://www.youtube.com/watch?v=bEZYrBMYNNg
 CCTV国际,https://m.youtube.com/@LiveNow24H/streams/1
-CHANNEL33「新西蘭」,https://tv.iill.top/youtube/CHANNEL33NewZealand
-CNA,https://tv.iill.top/youtube/channelnewsasia
 CNN News,https://www.youtube.com/watch?v=78UnBnAidZ0-
 DW,https://www.youtube.com/watch?v=pqabxBKzZ6M
-DW NEWS,https://tv.iill.top/youtube/dwnews
 DW德國之聲,https://youtu.be/tZT2MCYu6Zw 
 EF運通,https://m.youtube.com/@EFTV01/streams/1
 Euronews English,https://www.youtube.com/live/pykpO5kQJ98 
 Euronews English,https://www.youtube.com/watch?v=pykpO5kQJ98
 Fox new,https://www.youtube.com/watch?v=YDfiTGGPYCk
-FRANCE 24,https://tv.iill.top/youtube/France24_en
 FRANCE 24,https://www.youtube.com/watch?v=h3MuIUNCCzI
 GB News,https:/ /www.youtube.com/live/8WX6YL9JnLw
 HTB北海道,https://www.youtube.com/live/d8CrKBU99Hg 
 KBS KOREA,https://www.youtube.com/watch?v=HnfpTMtfFk8
 KOMPASTV,https://www.youtube.com/watch?v=4rmf-lk3ito
-LiveNOW from FOX,https://tv.iill.top/youtube/livenowfox
 mnews鏡新聞,https://www.youtube.com/live/5n0y6b0Q25o 
 NASA Live,https://www.youtube.com/live/nA9UZF-SZoQ 
 NASA TV,https:/ /www.youtube.com/live/21X5lGlDOfg 
 Nat geo wild,https://www.youtube.com/watch?v=BJ3Yv572V1A
 NBC NEW,https://www.youtube.com/watch?v=7-JR7DjKF_c
-NHK WORLD,https://tv.iill.top/youtube/NHKWORLDJAPAN
 NHK WORLD,https://www.youtube.com/watch?v=f0lYkdA-Gtw
 Sky News,https://www.youtube.com/watch?v=w9uJg68CV4g
-TBS NEWS,https://tv.iill.top/youtube/tbsnewsdig
 TVBS HD,https://m.youtube.com/watch?v=YvdcZ_jpLXE
 TVBS HD,https://clonglii.serv00.net/youtube_d.php?id=YvdcZ_jpLXE&data=normal
 TVBS HD,https://clonglii.serv00.net/youtube_d.php?id=YvdcZ_jpLXE&ln=2&data=normal
-TVBS NEWS,https://tv.iill.top/youtube/TVBSNEWS01
 TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS NEWS,https://m.youtube.com/watch?v=m_dhMSvUCIc
-TVBS 選新聞,https://tv.iill.top/youtube/TVBSNEWS02
 TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 TVBS新聞台,https://m.youtube.com/watch?v=2mCSYvcfhtc
 TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&data=normal
 TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data=normal
-USA TODAY,https://tv.iill.top/youtube/USATODAY
 ABC美國廣播公司新聞(美國偏自由派)(ABC News Us),https://m.youtube.com/@ABCNews/streams/1
 NBC國家廣播公司新聞(美國偏自由派)(NBCNews),https://m.youtube.com/@NBCNews/streams/1
 CBS哥倫比亞廣播系統新聞(美國偏自由派)(CBS),https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8&data=normal
@@ -261,82 +235,6 @@ ViVa美好購物2,https://m.youtube.com/@ViVaTVtw/streams/2
 番薯電視台,http://61.216.67.119:1935/TWHG/E1/index.m3u8&data=normal
 桐瑛虎尾電視台,https://m.youtube.com/@user-de3rj3ee4y/streams/1
 三大一台,https://m.youtube.com/@SDTV55ch/streams/1
-大陸尋奇,https://tv.iill.top/youtube/ctvchinatv
-中天亞洲臺,https://tv.iill.top/youtube/CtiAsia
-大愛電視,https://tv.iill.top/youtube/DaAiVideo
-中視經典綜藝,https://tv.iill.top/youtube/ctvent_classic
-華視綜藝頻道,https://tv.iill.top/youtube/CTSSHOW
-民視戲劇館,https://tv.iill.top/youtube/FTVDRAMA
-綜藝大熱門,https://tv.iill.top/youtube/HotDoorNight
-綜藝大平臺,https://tv.iill.top/youtube/samentshow
-飢餓遊戲,https://tv.iill.top/youtube/HungerGames123
-豬哥會社,https://tv.iill.top/youtube/FTV_ZhuGeClub
-中天電視,https://tv.iill.top/youtube/CtiTv
-國家地理,https://tv.iill.top/youtube/NatGeo
-國家地理野生動物,https://tv.iill.top/youtube/NatGeoWild
-動物世界,https://tv.iill.top/youtube/SafariWonders4K
-動物世界¹,https://tv.iill.top/youtube/4krelaxing-wildanimals
-森林角落,https://tv.iill.top/youtube/loveyourself.alexander
-森林角落¹,https://tv.iill.top/youtube/relaxing-mp8701
-森林角落²,https://tv.iill.top/youtube/BirderKing
-海洋世界,https://tv.iill.top/youtube/R34ot1LETK0
-海洋世界¹,https://tv.iill.top/youtube/MontereyBayAquarium
-海洋世界²,https://tv.iill.top/youtube/healingsoul6795
-放鬆自然,https://tv.iill.top/youtube/CHRISTIAN_Piano650
-放鬆自然¹,https://tv.iill.top/youtube/animals-world
-放鬆自然²,https://tv.iill.top/youtube/timjanis
-放鬆自然³,https://tv.iill.top/youtube/OCBRelaxMusic
-風景放鬆,https://tv.iill.top/youtube/landscapefilm.4k
-風景放鬆¹,https://tv.iill.top/youtube/12KScenicRelaxation
-風景放鬆²,https://tv.iill.top/youtube/ScenicRelaxation8K
-風景放鬆³,https://tv.iill.top/youtube/juggalouno420
-風景放鬆⁴,https://tv.iill.top/youtube/HealingMelodies66
-我們的星球,https://tv.iill.top/youtube/RelaxingMelody88
-我們的星球¹,https://tv.iill.top/youtube/ourplanet4k
-我們的星球²,https://tv.iill.top/youtube/toprelaxchannel
-我們的星球³,https://tv.iill.top/youtube/8knaturefilm1620
-我們的星球⁴,https://tv.iill.top/youtube/4KScenicRelaxationFilms
-兒歌童謠,https://tv.iill.top/youtube/kafoomusic
-粵·音樂,https://tv.iill.top/youtube/Cantopopgreatesthits8090s
-粵·音樂¹,https://tv.iill.top/youtube/warnermusichk
-粵·音樂²,https://tv.iill.top/youtube/hongkongmusic8090s
-粵·音樂³,https://tv.iill.top/youtube/Hongkongclassichits
-中·音樂,https://tv.iill.top/youtube/chinesesong2023
-中·音樂¹,https://tv.iill.top/youtube/KKBOX2023
-中·音樂²,https://tv.iill.top/youtube/ChinesePopHits_KKBOX
-英·音樂,https://tv.iill.top/youtube/EnglishSongCollection
-英·音樂¹,https://tv.iill.top/youtube/TheGoodLiferadio
-日·音樂,https://tv.iill.top/youtube/lhand1
-日·音樂¹,https://tv.iill.top/youtube/jpopmusichits
-韓·音樂,https://tv.iill.top/youtube/Musicforyou_Lionmedia
-韓·音樂¹,https://tv.iill.top/youtube/luvbeekr
-貓·音樂,https://tv.iill.top/youtube/catslovemusic
-貓·音樂¹,https://tv.iill.top/youtube/SleepyCats
-狗·音樂,https://tv.iill.top/youtube/Sleepy_Dogs
-永恒鋼琴,https://tv.iill.top/youtube/BGMTotoroStudio
-永恒鋼琴¹,https://tv.iill.top/youtube/PIANOMUSIC7584
-永恒鋼琴²,https://tv.iill.top/youtube/Goodpianomusic-6886
-永恒鋼琴³,https://tv.iill.top/youtube/Ghibli-Relaxing9490
-浪漫吉他,https://tv.iill.top/youtube/OceanicGuitar6868
-浪漫吉他¹,https://tv.iill.top/youtube/romanticguitar.no1
-浪漫吉他²,https://tv.iill.top/youtube/GuitarInstrumentalMusic102
-浪漫吉他³,https://tv.iill.top/youtube/instrumentalguitar_99
-浪漫吉他⁴,https://tv.iill.top/youtube/ClassicalGuitar384
-雨與夜,https://tv.iill.top/youtube/loficityvibes95
-雨與夜¹,https://tv.iill.top/youtube/Pluviophile_Lofi
-BGM,https://tv.iill.top/youtube/j-popmusicbgmchannel
-BGM¹,https://tv.iill.top/youtube/bgmchannelbgm
-BGM²,https://tv.iill.top/youtube/cafemusicbgmchannel
-BGM³,https://tv.iill.top/youtube/lofigeek
-老古董,https://tv.iill.top/youtube/NemosDreamscapes
-海浪·聲,https://tv.iill.top/youtube/naturaleza-viva
-時裝藝術表演,https://tv.iill.top/youtube/305miamivisuals
-時裝藝術表演¹,https://tv.iill.top/youtube/NYFT
-時裝藝術表演²,https://tv.iill.top/youtube/shiftswim
-時裝藝術表演³,https://tv.iill.top/youtube/SPLASHme
-THE K-POP,https://tv.iill.top/youtube/thekpop
-SBS Running Man,https://tv.iill.top/youtube/SBSRunningMan
-綠聲·旅遊,https://tv.iill.top/youtube/GreenSoundOfficial
 吉卜力鋼琴音樂,https://m.youtube.com/@Ghibli-Relaxing9490/streams/1
 Starbucks Bossa Coffee,https://m.youtube.com/@starbucksbossacoffee6122/streams/1
 滾石現場-經典神曲,https://m.youtube.com/@rocklivelive/streams/2

@@ -493,6 +493,17 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+    {
+      "name": "RobYang Test",
+      "api": "https://clonglii.serv00.net/user_data/youtube020.js?t=1719035247000",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTVList.txt",
+      "type": 3,
+      "ua": "okhttp/4.12.0",
+      "timeout": 5,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
+    },
     // //-------------Download------------------
     // {
     //   "name": "下載: 蜂蜜影視，OK影視",
