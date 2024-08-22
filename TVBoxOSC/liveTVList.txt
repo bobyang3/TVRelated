@@ -1996,6 +1996,126 @@ A-Line Radio 網路音樂台,http://live.cooltv.top/tv/appleline.php?id=aline
 
 📺夜視嗅探,#genre#
 parse=1
+民視第一台,https://yeslivetv.com/channels/ftvone/
+民視台灣台,https://yeslivetv.com/channels/ftvhd/
+民視HD,https://yeslivetv.com/channels/ftv-hd/
+中視HD,https://yeslivetv.com/channels/ctv-hd/
+中視經典台,https://yeslivetv.com/channels/ctv-classic/
+華視,https://yeslivetv.com/channels/cts-hd/
+三立綜合台,https://yeslivetv.com/channels/set/
+客家電視台,https://yeslivetv.com/channels/hakkatv/
+八大綜合台(CH28),https://yeslivetv.com/channels/gtv-ch28/
+中視菁采台,https://yeslivetv.com/channels/ctv-bravo/
+TVBS精采台,https://yeslivetv.com/channels/tvbs-e/
+愛爾達娛樂台,https://yeslivetv.com/channels/eltatv-entertainment/
+靖天綜合台,https://yeslivetv.com/channels/goldentv-mod303/
+新唐人亞太電視台,https://yeslivetv.com/channels/ntdtv/
+中天綜合台,https://yeslivetv.com/channels/ctitv-ch36/
+鏡電視新聞台,https://yeslivetv.com/channels/mnews/
+東森新聞台,https://yeslivetv.com/channels/ebcnews/
+華視新聞台,https://yeslivetv.com/channels/cts/
+民視電視台(新聞),https://yeslivetv.com/channels/ftvnews/
+三立電視台iNEWs,https://yeslivetv.com/channels/set-inews/
+TVBS 55台,https://yeslivetv.com/channels/tvbs55/
+中視新聞台,https://yeslivetv.com/channels/ctv/
+中天電視台(新聞),https://yeslivetv.com/channels/cti/
+寰宇電視台(新聞),https://yeslivetv.com/channels/globalnews/
+TVBS 56台,https://yeslivetv.com/channels/tvbs56/
+好消息電視台(綜合台),https://yeslivetv.com/channels/goodtv-ch1/
+三立電視台(新聞),https://yeslivetv.com/channels/setnews/
+台視新聞台,https://yeslivetv.com/channels/ttv/
+中天亞洲台,https://yeslivetv.com/channels/ctiasia/
+CCTV4中文國際頻道,https://yeslivetv.com/channels/cctv4/
+公共電視台(公視),https://yeslivetv.com/channels/pts/
+TV BRICS中文台,https://yeslivetv.com/channels/tv-brics-chinese/
+Taiwan+(台灣+),https://yeslivetv.com/channels/taiwanplus/
+年代新聞台,https://yeslivetv.com/channels/era-news/
+靖天日本台,https://yeslivetv.com/channels/goldentv-japan/
+民視綜藝台,https://yeslivetv.com/channels/ftv-variety-show/
+民視旅遊台,https://yeslivetv.com/channels/ftv-travel/
+幸福空間居家台,https://yeslivetv.com/channels/gstv/
+信大電視台,https://yeslivetv.com/channels/sindatv/
+誠心電視台,https://yeslivetv.com/channels/chengsintv/
+華視綜藝頻道,https://yeslivetv.com/channels/cts-entertainment/
+公視台語台,https://yeslivetv.com/channels/pts2/
+天良電視台,https://yeslivetv.com/channels/tltv/
+信吉衛視電視台,https://yeslivetv.com/channels/sjtv/
+海豚電視台,https://yeslivetv.com/channels/dolphin-tv/
+桐瑛虎尾電視臺,https://yeslivetv.com/channels/broadcasting-media-production-company/
+雙子衛視電視台,https://yeslivetv.com/channels/tjtv/
+momo購物一台(48頻道),https://yeslivetv.com/channels/momo-ch48/
+momo購物二台(35頻道),https://yeslivetv.com/channels/momo-ch35/
+東森購物台CH34,https://yeslivetv.com/channels/ebc-ch34/
+東森購物台CH46,https://yeslivetv.com/channels/ebc-ch46/
+東森購物台CH47,https://yeslivetv.com/channels/ebc-ch47/
+東森購物台CH60,https://yeslivetv.com/channels/ebc-ch60/
+ViVa TV美好購物1台,https://yeslivetv.com/channels/viva-tv1/
+ViVa TV美好購物2台,https://yeslivetv.com/channels/viva-tv2/
+imode TV時尚頻道,https://yeslivetv.com/channels/imode-tv/
+新天地民俗台,https://yeslivetv.com/channels/stdtv-115/
+天美麗電視台,https://yeslivetv.com/channels/hocom/
+番薯衛星電視台,https://yeslivetv.com/channels/fanstv/
+大立電視台,https://yeslivetv.com/channels/dalitv/
+原住民族電視台,https://yeslivetv.com/channels/titv/
+三大一台(三大有線電視),https://yeslivetv.com/channels/sdtv/
+衛視中文台,https://yeslivetv.com/channels/star-chinese-channel/
+TVBS 42 歡樂台,https://yeslivetv.com/channels/tvbs42/
+緯來日本台,https://yeslivetv.com/channels/videoland-japan/
+緯來育樂台,https://yeslivetv.com/channels/videoland-maxtv/
+博斯高球台,https://yeslivetv.com/channels/sportcast-golf/
+博斯高球二台,https://yeslivetv.com/channels/sportcast-golf2/
+博斯運動一台,https://yeslivetv.com/channels/sportcast-mod212/
+博斯運動二台,https://yeslivetv.com/channels/sportcast-mod217/
+博斯無限台,https://yeslivetv.com/channels/sportcast-mod208/
+博斯無限二台,https://yeslivetv.com/channels/sportcast-mod209/
+博斯網球台,https://yeslivetv.com/channels/sportcast-mod206/
+博斯魅力台,https://yeslivetv.com/channels/sportcast-mod207/
+TRACE Sport Stars,https://yeslivetv.com/channels/trace-sport-stars/
+智林體育台,https://yeslivetv.com/channels/oursport/
+時尚運動X,https://yeslivetv.com/channels/sports-x/
+CCTV5體育頻道,https://yeslivetv.com/channels/cctv5/
+CCTV5+體育賽事頻道,https://yeslivetv.com/channels/cctv5-plus/
+GINX Esports TV,https://yeslivetv.com/channels/ginx-esports-tv/
+愛爾達體育1台,https://yeslivetv.com/channels/elta-tv-1/
+愛爾達體育2台,https://yeslivetv.com/channels/elta-tv-2/
+愛爾達體育3台,https://yeslivetv.com/channels/elta-tv-3/
+緯來體育台,https://yeslivetv.com/channels/videoland-sports/
+ELEVEN體育1台（DAZN 1）,https://yeslivetv.com/channels/eleven-sports-1/
+ELEVEN體育2台（DAZN 2）,https://yeslivetv.com/channels/eleven-sports-2/
+勁爆體育,https://yeslivetv.com/channels/sitv-sports/
+五星體育,https://yeslivetv.com/channels/great-sports/
+ESPN,https://yeslivetv.com/channels/espn/
+ESPN 2,https://yeslivetv.com/channels/espn2/
+飛碟電台,https://yeslivetv.com/radio/uforadio/
+中廣新聞網,https://yeslivetv.com/radio/bbc-news-radio/
+中廣流行網 FM103,https://yeslivetv.com/radio/i-like-radio-fm103/
+中廣音樂網 FM96,https://yeslivetv.com/radio/i-radio-fm96/
+中廣鄉親網 COUNTRY,https://yeslivetv.com/radio/bbc-country/
+中廣 I go AM531,https://yeslivetv.com/radio/i-go-am531/
+亞洲電台 FM92.7,https://yeslivetv.com/radio/asia-fm927/
+亞太電台 FM92.3,https://yeslivetv.com/radio/asia-fm923/
+飛揚電台(飛揚調頻)FM89.5,https://yeslivetv.com/radio/asia-fm895/
+愛樂電台 FM99.7,https://yeslivetv.com/radio/fm997/
+國立教育廣播電台(臺北總臺FM臺),https://yeslivetv.com/radio/ner-taipei-fm/
+國立教育廣播電台(臺北總臺AM臺),https://yeslivetv.com/radio/ner-taipei-am/
+國立教育廣播電台(臺中AM臺),https://yeslivetv.com/radio/ner-taichung-am/
+國立教育廣播電台(彰化分臺FM),https://yeslivetv.com/radio/ner-changhua-fm/
+國立教育廣播電台(高雄分臺),https://yeslivetv.com/radio/ner-kaohsiung/
+國立教育廣播電台(臺東分臺FM-1),https://yeslivetv.com/radio/ner-taitung-fm1029/
+國立教育廣播電台(臺東分臺FM-2),https://yeslivetv.com/radio/ner-taitung-fm1005/
+國立教育廣播電台(花蓮分臺FM-1),https://yeslivetv.com/radio/ner-hualien-fm1/
+國立教育廣播電台(花蓮分臺FM-2),https://yeslivetv.com/radio/ner-hualien-fm2/
+好事989電台,https://yeslivetv.com/radio/bestradio-fm989/
+好事935電台,https://yeslivetv.com/radio/bestradio-fm935/
+港都983電台,https://yeslivetv.com/radio/bestradio-fm983/
+好事903電台,https://yeslivetv.com/radio/bestradio-fm903/
+愛樂電台(On Air),https://yeslivetv.com/radio/e-classical-on-air/
+愛樂電台(Jazz Online),https://yeslivetv.com/radio/e-classical-jazz-online/
+愛樂電台(OBG Online),https://yeslivetv.com/radio/e-classical-obg-online/
+愛樂電台(Kids Online),https://yeslivetv.com/radio/e-classical-kids-online/
+愛樂電台(UR Classical),https://yeslivetv.com/radio/e-classical-ur-classical/
+
+
 CATCHPLAY,https://yeslivetv.com/channels/catchplay/
 i-FUN動漫,https://yeslivetv.com/channels/i-fun/
 SBN全球財經,https://yeslivetv.com/channels/sbn/
