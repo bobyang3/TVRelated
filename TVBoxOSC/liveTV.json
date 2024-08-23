@@ -1,10 +1,5 @@
 {
   //https://github.moeyy.xyz/
-  //"spider": "./jar/fan.txt;md5;70471410f8e5a1bf20eb64b6b402e5c2",
-  //"spider": "https://github.com/gaotianliuyun/gao/raw/master/jar/fan.txt",
-  //"spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar",
-  //"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714125698234/fan.txt",
-  //"spider": "https://ghproxy.net/https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/42d562dc8e29d0adf7689e4748a43d84ecdf2805/jar/custom_spider.jar",
   "logo": "http://img.fongmi.eu.org/fongmi.jpg",
   "spider": "https://mirror.ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
   "lives": [
