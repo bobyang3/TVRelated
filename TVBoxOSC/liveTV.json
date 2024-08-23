@@ -57,6 +57,15 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
+      "name": "UB｜臺港中際", 
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/ub.txt",
+      //"ua": "okhttp/4.12.0",
+      "timeout": 5,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "一盒｜港臺際",
       "type": 0,
       "url": "https://anbox118.serv00.net/mytvbplus.php",
@@ -393,14 +402,6 @@
        "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
       },
-    {
-      "name": "安博", //2024-08-10
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/z02%E5%AE%89%E5%8D%9A%E7%9B%B4%E6%92%AD%E6%BA%90.txt",
-      //"_playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
     {
       "name": "安博z1", //2024-08-10
       "type": 0,
