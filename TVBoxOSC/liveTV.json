@@ -38,6 +38,25 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
+      "name": "UPLIVE｜台港中際", 
+      "type": 0,
+      "url": "https://files.catbox.moe/g4zbng.json",
+      // "_playerType": 2,
+      "ua": "okhttp/5.2.0",
+      "timeout": 5,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Kuala_Lumpur",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+        {
+      "name": "ETH(JS)｜蜂蜜影視0802版後", 
+      "api": "https://files.catbox.moe/fpp62d.js",
+      "type": 3,
+      "ua": "okhttp/4.12.0",
+      "timeout": 5,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "貓箱noo2v｜雜中臺港日韓際",
       "type": 0,
       "url": "https://files.catbox.moe/7noo2v.txt",
