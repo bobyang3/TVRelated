@@ -55,8 +55,6 @@
 11. 18 AV https://d.kstore.space/download/7708/a18.json
     
 
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTV.json
-
 
 ## 直播接口： 
 1. Rob Yang 直播庫: https://rb.gy/cbgs6c or https://rb.gy/fnexy1 or  https://mirror.ghproxy.com/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTV.json <br>
