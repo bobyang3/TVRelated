@@ -12,8 +12,8 @@
       "name": "高天流雲 JS"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bobyang3/gao_TVRelated/master/js.json",
-      "name": "🏠高天流雲 JS, Rob"
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bobyang3/tvbox-Qist/master/js.json",
+      "name": "🏠Qist高天流雲 JS, Rob"
     },
     {
       "url": "https://rb.gy/4s4hbd",
@@ -50,7 +50,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-      "name": "Qist"
+      "name": "Qist高天 JS"
     },
     {
       "url": "https://gitlab.com/-/snippets/2343779/raw/main/snippetfile1.txt",
@@ -275,12 +275,12 @@
 
     //-------------- 18+  ------------
     {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
-      "name": "高天流雲 18+ AV 限制級"
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qist/tvbox/master/9918.json",
+      "name": "18+ Qist高天 AV 限制級"
     },
     {
       "url": "https://d.kstore.space/download/7708/a18.json",
-      "name": "18+ A限制級"
+      "name": "18+ AV限制級"
     },
     {
       "url": "https://mirror.ghproxy.com/https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/18%2B%E5%A4%A7%E5%85%A8.txt",
