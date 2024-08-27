@@ -133,6 +133,12 @@
 2.  Other link Source https://beatsingdrama.blogspot.com/p/xt-playlist-txt.html?m=1
 3.  Emotn: 331026, 796233, 202096
 4.  downloader App https://www.aftvnews.com/downloader/, 383716 to download emotn 
+5.  [WebGrab + Plus](http://www.webgrabplus.com/) 多站点增量XMLTV EPG采集器。
+6.  [IPTV Checker](https://www.npmjs.com/package/iptv-checker) — Node.js的IPTV播放列表检查器
+7.  [Streamtest](https://streamtest.in/) 免费且易于使用的基于Web的流测试器实用程序。
+8.  [M3U Edit](https://www.gtrigonakis.com/m3u-edit) 
+9.  [直播源在线监测工具](http://cha.znds.com)
+
 
 --------------------------------------------------------------------
 
@@ -152,6 +158,10 @@
 14. https://epg.0472.org/?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
 15. http://epg.51zmt.top:8000/e.xml
 16. http://epg.diyp.top/diyp/epg.php?serverTimeZone=Asia/Hong_Kong&ch={name}&date={date}
+17. [EPG for IPTV](https://www.iptv-epg.com/) - EPG服务提供商，为全球IPTV提供个性化的电子节目指南。
+18. [epg.streamstv.me](http://epg.streamstv.me/epg/) 欧亚大陆和北美频道的节目指南。
+19. [IPTVX|one](https://iptvx.one/viewtopic.php?f=12&t=4&sid=5d7f43099b396af229d5961ec746fc14) 主要用于CIS频道的节目指南。
+20. [i.mjh.nz](http://i.mjh.nz/) 来自澳大利亚，新西兰和南非的频道的节目指南。
 
 
 --------------------------------------------------------------------

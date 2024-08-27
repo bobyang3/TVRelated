@@ -342,16 +342,16 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-      "name": "18+ 合輯",
-      "type": 0,
-      "url": "https://t4.doube.eu.org/XingShiJie.txt",
-      // "_playerType": 2,
-      "ua": "okhttp/3.15",
-      "timeout": 5,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+    // {
+    //   "name": "18+ 合輯",
+    //   "type": 0,
+    //   "url": "https://t4.doube.eu.org/XingShiJie.txt",
+    //   // "_playerType": 2,
+    //   "ua": "okhttp/3.15",
+    //   "timeout": 5,
+    //   "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
+    // },
     {
       "name": "18+ 紳士台",
       "type": 0,
