@@ -27,10 +27,10 @@
       "url": "https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveVodTV.json",
       "name": "🏘️3RobYang Hub"
     },
-    {
-      "url": "https://gh.con.sh/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/vod.json",
-      "name": "🏠RobYang VOD"
-    },
+    // {
+    //   "url": "https://gh.con.sh/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/vod.json",
+    //   "name": "🏠RobYang VOD"
+    // },
     {
       "name": "",
       "ua": "okhttp/3.15",
