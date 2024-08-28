@@ -541,8 +541,8 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    	{
-      "name": "范明明IPv6｜International",
+    	{//2024-08-28  no streamming
+      "name": "范明明IPv6｜China only",
       "type": 0,
       "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u", 
       // "_playerType": 2, 
