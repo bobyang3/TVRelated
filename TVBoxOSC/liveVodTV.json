@@ -13,7 +13,7 @@
     },
     {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bobyang3/tvbox-Qist/master/jsm.json",
-      "name": "🏠Rob Yang VOD"
+      "name": "🏠Rob Yang 點播"
     },
     {
       "url": "https://rb.gy/4s4hbd",
@@ -23,10 +23,10 @@
       "url": "https://rb.gy/nr46sd",
       "name": "🏘️2RobYang"
     },
-    {
-      "url": "https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveVodTV.json",
-      "name": "🏘️3RobYang Hub"
-    },
+    // {
+    //   "url": "https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveVodTV.json",
+    //   "name": "🏘️3RobYang Hub"
+    // },
     // {
     //   "url": "https://gh.con.sh/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/vod.json",
     //   "name": "🏠RobYang VOD"
@@ -280,7 +280,7 @@
     //-------------- 18+  ------------
     {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qist/tvbox/master/9918.json",
-      "name": "18+ Qist高天 AV 限制級"
+      "name": "18+ Qist AV 限制級"
     },
     {
       "url": "https://d.kstore.space/download/7708/a18.json",
