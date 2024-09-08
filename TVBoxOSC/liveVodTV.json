@@ -32,11 +32,6 @@
     //   "name": "🏠RobYang VOD"
     // },
     {
-      "name": "",
-      "ua": "okhttp/3.15",
-      "url": ""
-    },
-    {
       "url": "https://4tvbox.ggff.net/config.json",
       "name": "唐三"
     },
@@ -49,7 +44,7 @@
       "name": "Guot55"
     },
     {
-      "url": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Fjsm.json ?ref=main",
+      "url": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Fjsm.json?ref=main",
       "name": "月光寶盒"
     },
     {
