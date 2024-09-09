@@ -6,7 +6,7 @@
     {
       "name": "蜂蜜影視｜International", //Anbox 
       "type": 0,
-      "url": "https://anbox118.serv00.net/iptv.php", //https://anbox118.serv00.net/mytvbplus.php //https://anbox118.serv00.net/p3p.m3u.txt // Anbox P3P https://anbox118.serv00.net/ubtv.php
+      "url": "https://anbox118.serv00.net/iptv.php", //亞洲直播 https://anbox118.serv00.net/mytvbplus.php //P3P https://anbox118.serv00.net/p3p.m3u.txt // Anbox P3P https://anbox118.serv00.net/ubtv.php // RobYang https://anbox118.serv00.net/livetv.php
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -391,7 +391,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "Anbox Plus｜台港中日韓際(換慢)", //2024-08-10
+      "name": "StreamLink｜台港中日韓際(換慢)", //2024-08-10
       "url": "https://www.stream-link.org/stream-link.m3u",
       "type": 0,
       "ua": "okhttp/4.12.0",
@@ -561,6 +561,11 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
+      "name": "------以下爲測試直播-------",
+      "type": 0,
+      "url": "https://rb.gy/cbgs6c"
+    },
+    {
       //2024-08-31
       "name": "RobYang test1",
       "type": 0,
@@ -616,7 +621,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      //2024-08-31
+      //2024-09-09
       "name": "RobYang test6",
       "type": 0,
       "url": "./LITV.TXT",
@@ -627,7 +632,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      //2024-08-31
+      //2024-09-09
       "name": "RobYang test7",
       "type": 0,
       "url": "./20240909-p2p.txt",
@@ -637,6 +642,27 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+    {
+      "name": "晴天",
+      "type": 0,
+      "url": "https://4026.kstore.space/tv/p2p.txt",
+      "ua": "okhttp/4.12.0",
+      "timeout": 1,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "月光寶盒",
+      "type": 0,
+      "url": "https://4026.kstore.space/tv/p2p.txt",
+      "ua": "okhttp/4.12.0",
+      "timeout": 1,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
+    //兩光直播 https://files.catbox.moe/eqxfq5.txt
+    //兩光²直播 https://files.catbox.moe/8v4bk5.txt
     {
       "group": "redirect",
       "channels": [
