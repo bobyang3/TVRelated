@@ -4,15 +4,15 @@
   "spider": "https://mirror.ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
   "lives": [
     {
-      "name": "蜂蜜影視｜International", //一盒｜International"
+      "name": "蜂蜜影視｜International", //Anbox 
       "type": 0,
-      "url": "https://anbox118.serv00.net/iptv.php", //https://anbox118.serv00.net/mytvbplus.php
+      "url": "https://anbox118.serv00.net/iptv.php", //https://anbox118.serv00.net/mytvbplus.php //https://anbox118.serv00.net/p3p.m3u.txt // Anbox P3P https://anbox118.serv00.net/ubtv.php
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "🏠RobYang https://rb.gy/cbgs6c",
+      "name": "🏠RobYang https://rb.gy/cbgs6c | Youtube",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTVList.txt",
       "ua": "okhttp/3.15",
@@ -103,7 +103,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "大视界｜雜中臺港",
+      "name": "大視界｜雜中臺港",
       "type": 0,
       "url": "http://zb.xmzb.xyz/%e5%a4%a7%e8%a7%86%e7%95%8c3.txt",
       //"_playerType": 2,
@@ -126,7 +126,7 @@
     },
     //---------------------international Only------------------
     {
-      "name": "宝盒｜Only International",
+      "name": "寶盒｜Only International",
       "type": 0,
       "url": "https://epg.pw/test_channels.m3u",
       //"_playerType": 2,
@@ -135,7 +135,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
-    //-------------CHINA------------------
+    //-------------China Only------------------
 
     {
       "name": "香蕉哥佛系｜Sport",
@@ -362,7 +362,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "JS 測試",
+      "name": "🏠RobYang Direct | Youtube",
       "type": 3,
       "ua": "okhttp/4.12.0",
       "api": "https://files.catbox.moe/7yy0s6.js",
@@ -391,7 +391,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "串流連結｜台港中日韓際(換慢)", //2024-08-10
+      "name": "Anbox Plus｜台港中日韓際(換慢)", //2024-08-10
       "url": "https://www.stream-link.org/stream-link.m3u",
       "type": 0,
       "ua": "okhttp/4.12.0",
@@ -562,7 +562,7 @@
     },
     {
       //2024-08-31
-      "name": "test1",
+      "name": "RobYang test1",
       "type": 0,
       "url": "https://guot55.serv00.net/zb.php",
       // "_playerType": 2,
@@ -573,7 +573,7 @@
     },
     {
       //2024-08-31
-      "name": "test2",
+      "name": "RobYang test2",
       "type": 0,
       "url": "https://hlspull.iptv8k.top/iptv/ubtv.php",
       // "_playerType": 2,
@@ -584,7 +584,7 @@
     },
     {
       //2024-08-31
-      "name": "test3",
+      "name": "RobYang test3",
       "type": 0,
       "url": "http://154.12.60.186/ubtv/ubtv.php",
       // "_playerType": 2,
@@ -595,7 +595,7 @@
     },
     {
       //2024-08-31
-      "name": "test4",
+      "name": "RobYang test4",
       "type": 0,
       "url": "http://z88.ubtvfans.com/live/rx1/30/c42e16b9b557b6bf5ecd8e282c711ee8/index.m3u8",
       // "_playerType": 2,
@@ -606,7 +606,7 @@
     },
     {
       //2024-08-31
-      "name": "test5",
+      "name": "RobYang test5",
       "type": 0,
       "url": "https://files.catbox.moe/c7u5el.txt",
       // "_playerType": 2,
@@ -617,7 +617,7 @@
     },
     {
       //2024-08-31
-      "name": "test6",
+      "name": "RobYang test6",
       "type": 0,
       "url": "./LITV.TXT",
       // "_playerType": 2,
@@ -626,13 +626,17 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    // //-------------Download------------------
-    // {
-    //   "name": "下載: 蜂蜜影視，OK影視",
-    //   "type": 0,
-    //   "url": "https://raw.githubusercontent.com/lystv/fmapp/app/yysd.json"
-    // },
-
+    {
+      //2024-08-31
+      "name": "RobYang test7",
+      "type": 0,
+      "url": "./20240909-p2p.txt",
+      // "_playerType": 2,
+      "ua": "okhttp/4.12.0",
+      "timeout": 1,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
     {
       "group": "redirect",
       "channels": [
