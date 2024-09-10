@@ -22,7 +22,7 @@
       "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
     },
     {
-      "name": "瑪斯特｜臺港", //2024-08-22 have list but no steamming
+      "name": "瑪斯特｜台港", //2024-08-22 have list but no steamming
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/50cb40e73f9f0995fd8cc3a66e0e54ce7b7e39a3/tv/%E7%8E%9B%E6%96%AF%E7%89%B9%20(2).txt",
       // "_playerType": 2,
@@ -51,7 +51,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "一盒｜港臺際",
+      "name": "一盒｜港台際",
       "type": 0,
       "url": "https://anbox118.serv00.net/mytvbplus.php",
       // "_playerType": 2,
@@ -61,7 +61,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "香蕉哥佛系｜雜中臺港日韓際",
+      "name": "香蕉哥佛系｜雜中台港日韓際",
       "type": 0,
       "url": "https://tv.iill.top/m3u/Gather",
       // "_playerType": 2,
@@ -71,7 +71,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "晨瑞｜雜中港澳(有臺灣)",
+      "name": "晨瑞｜雜中港澳(有台灣)",
       "type": 0,
       "url": "https://www.gitlink.org.cn/api/chenrui007/tvbox/raw/.%2A.%2A.%2A.?ref=master",
       //"_playerType": 2,
@@ -82,7 +82,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "君赢天下｜中臺港際18+ 密碼:6636",
+      "name": "君赢天下｜中台港際18+ 密碼:6636",
       "type": 0,
       "url": "https://d.kstore.space/download/5288/君赢天下.txt",
       // "_playerType": 2,
@@ -92,7 +92,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "糖意｜中臺港際18+ 密碼:cj6660",
+      "name": "糖意｜中台港際18+ 密碼:cj6660",
       "type": 0,
       "url": "https://wp.weikete.cc/down.php/c3eecc14547f5e1e468718148c9f762f.txt",
       // "_playerType": 2,
@@ -102,7 +102,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "大視界｜雜中臺港",
+      "name": "大視界｜雜中台港",
       "type": 0,
       "url": "http://zb.xmzb.xyz/%e5%a4%a7%e8%a7%86%e7%95%8c3.txt",
       //"_playerType": 2,
@@ -113,7 +113,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "456寶貝｜雜中臺港",
+      "name": "456寶貝｜雜中台港",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt",
       //"_playerType": 2,
@@ -450,7 +450,7 @@
     },
     {
       //2024-08-28 have list but no steamming
-      "name": "貓箱noo2v｜雜中臺港日韓際",
+      "name": "貓箱noo2v｜雜中台港日韓際",
       "type": 0,
       "url": "https://files.catbox.moe/7noo2v.txt",
       // "_playerType": 2,
