@@ -109,7 +109,8 @@
 9. https://raw.gitmirror.com/
 10. https://gh-proxy.com/https://raw.githubusercontent.com/ 
 11. https://a.ouhuang.onflashdrive.app/https://raw.githubusercontent.com/
-12. https://githubfd.deno.dev/ 
+12. https://githubfd.deno.dev/
+13. https://ghp.ci/https://raw.githubusercontent.com/ 
 
 --------------------------------------------------------------------
 
