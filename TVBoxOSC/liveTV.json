@@ -272,26 +272,26 @@
       "url": "https://raw.gitcode.com/mfkdxk/zb/raw/main/se.json"
     },
 
-    //-------------- 18+  ------------
+    //-------------- 🔞 ------------
     {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qist/tvbox/master/9918.json",
-      "name": "18+ Qist AV 限制級"
+      "name": "🔞Qist AV 限制級"
     },
     {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bobyang3/tvbox-Qist/own/9918.json",
-      "name": "18+ RobYang AV 限制級"
+      "name": "🔞RobYang AV 限制級"
     },
     {
       "url": "https://d.kstore.space/download/7708/a18.json",
-      "name": "18+ AV限制級"
+      "name": "🔞AV限制級"
     },
     {
       "url": "https://mirror.ghproxy.com/https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/18%2B%E5%A4%A7%E5%85%A8.txt",
-      "name": "18+ 大全"
+      "name": "🔞大全"
     },
     {
       "url": "https://mirror.ghproxy.com/https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/%E6%88%90%E4%BA%BA%E6%8E%A5%E5%8F%A3.txt",
-      "name": "18+ 成人"
+      "name": "🔞成人"
     },
 
     //-------------- Store ------------
@@ -389,7 +389,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "君赢天下｜中台港際18+ 密碼:6636",
+      "name": "君赢天下｜中台港際🔞密碼:6636",
       "type": 0,
       "url": "https://d.kstore.space/download/5288/君赢天下.txt",
       // "_playerType": 2,
@@ -399,7 +399,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "糖意｜中台港際18+ 密碼:cj6660",
+      "name": "糖意｜中台港際🔞密碼:cj6660",
       "type": 0,
       "url": "https://wp.weikete.cc/down.php/c3eecc14547f5e1e468718148c9f762f.txt",
       // "_playerType": 2,
@@ -476,7 +476,7 @@
     },
     //-------------18+------------------
     {
-      "name": "18+ 麻豆合集",
+      "name": "🔞麻豆合集",
       "type": 0,
       "url": "https://t4.doube.eu.org/madou.txt" //M3U
       //"_playerType": 2,
@@ -484,7 +484,7 @@
       //"logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "18+ tv",
+      "name": "🔞tv",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/18tv.txt",
       //"_playerType": 2,
@@ -492,7 +492,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "18+ zb",
+      "name": "🔞zb",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/18zb%E7%9B%B4%E6%92%AD%E6%BA%90%20(2).txt",
       //"_playerType": 2,
@@ -500,7 +500,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "18+ 黄色",
+      "name": "🔞黄色",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/%E9%BB%84%E8%89%B2%E7%82%B9%E6%92%AD.txt",
       //"_playerType": 2,
@@ -508,7 +508,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "18+ 香蕉哥佛系",
+      "name": "🔞香蕉哥佛系",
       "type": 0,
       "url": "https://tv.iill.top/m3u/Adult",
       //"_playerType": 2,
@@ -516,7 +516,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "18+ XXX Live",
+      "name": "🔞XXX Live",
       "type": 0,
       "url": "https://parlay12.serv00.net/xhamters/paylist.php",
       //"_playerType": 2,
@@ -524,7 +524,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "18+ 日本",
+      "name": "🔞日本",
       "type": 0,
       "url": "https://files.catbox.moe/2r4ru2.txt",
       //"_playerType": 2,
@@ -533,7 +533,7 @@
     },
 
     {
-      "name": "18+ Jie",
+      "name": "🔞Jie",
       "type": 0,
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/jie20091116/cat/main/TVBOX/18.txt",
       //"_playerType": 2,
@@ -541,7 +541,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     // {
-    //   "name": "18+ 合輯",
+    //   "name": "🔞合輯",
     //   "type": 0,
     //   "url": "https://t4.doube.eu.org/XingShiJie.txt",
     //   // "_playerType": 2,
@@ -551,7 +551,7 @@
     //   "logo": "https://epg.112114.xyz/logo/{name}.png"
     // },
     {
-      "name": "18+ 紳士台",
+      "name": "🔞紳士台",
       "type": 0,
       "url": "https://files.catbox.moe/rfybwc.txt",
       //"_playerType": 2,
