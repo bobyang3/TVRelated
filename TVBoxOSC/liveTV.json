@@ -20,14 +20,6 @@
 ,
   "lives": [
     {
-      "name": "蜂蜜影視｜International", //Anbox 
-      "type": 0,
-      "url": "https://anbox118.serv00.net/iptv.php", //亞洲直播 https://anbox118.serv00.net/mytvbplus.php //P3P https://anbox118.serv00.net/p3p.m3u.txt // Anbox P3P https://anbox118.serv00.net/ubtv.php // RobYang https://anbox118.serv00.net/livetv.php
-      "ua": "okhttp/4.12.0",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
       "name": "🏠RobYang | Youtube",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTVList.txt",
@@ -37,6 +29,15 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
     },
+{
+      "name": "蜂蜜影視｜International", //Anbox 
+      "type": 0,
+      "url": "https://anbox118.serv00.net/iptv.php", //亞洲直播 https://anbox118.serv00.net/mytvbplus.php //P3P https://anbox118.serv00.net/p3p.m3u.txt // Anbox P3P https://anbox118.serv00.net/ubtv.php // RobYang https://anbox118.serv00.net/livetv.php
+      "ua": "okhttp/4.12.0",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    
     {
       "name": "KX｜中台港日韓際",
       "type": 0,
